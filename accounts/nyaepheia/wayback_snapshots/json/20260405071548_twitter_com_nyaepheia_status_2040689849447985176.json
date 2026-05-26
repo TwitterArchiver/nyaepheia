@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2040689849447985176",
+    "created_at": "2026-04-05T07:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T08:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040689849447985176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913084413942145024",
+          "start": 3,
+          "username": "Sui_aini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040689849447985176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040668993544200612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sui_aini: 代表反叛主流亚文化的lo裙，该滚的是你们这些被社会规训的主流人吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2040689849447985176",
+        "created_at": "2026-04-05T07:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040689849447985176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913084413942145024",
+              "start": 3,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040689849447985176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040668993544200612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sui_aini: 代表反叛主流亚文化的lo裙，该滚的是你们这些被社会规训的主流人吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2040668993544200612",
+        "created_at": "2026-04-05T05:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T06:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040668993544200612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FengTangNMC/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/FengTangNMC/status/2040435167676989565",
+              "start": 33,
+              "url": "https://t.co/OFBitUHF2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040668993544200612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 316,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040435167676989565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "代表反叛主流亚文化的lo裙，该滚的是你们这些被社会规训的主流人吧 https://t.co/OFBitUHF2w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/hrt26.4.1/家长党/天残党/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2037905372414091549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 577,
+          "like_count": 7067,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 434
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 640,
+          "like_count": 4081,
+          "listed_count": 5,
+          "media_count": 458,
+          "tweet_count": 3294
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050857627379499008",
+        "3_2050857632521670656"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2050857637395472875",
+    "created_at": "2026-05-03T08:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T09:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050857637395472875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TVznO9f6IX",
+          "end": 42,
+          "expanded_url": "https://x.com/nyaepheia/status/2050857637395472875/photo/1",
+          "media_key": "3_2050857627379499008",
+          "start": 19,
+          "url": "https://t.co/TVznO9f6IX"
+        },
+        {
+          "display_url": "pic.x.com/TVznO9f6IX",
+          "end": 42,
+          "expanded_url": "https://x.com/nyaepheia/status/2050857637395472875/photo/1",
+          "media_key": "3_2050857632521670656",
+          "start": 19,
+          "url": "https://t.co/TVznO9f6IX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050857637395472875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "X 什么时候修一下这个bug，，，， https://t.co/TVznO9f6IX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 288,
+        "media_key": "3_2050857627379499008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYcJWzbAAAVorz.jpg",
+        "width": 241
+      },
+      {
+        "height": 160,
+        "media_key": "3_2050857632521670656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYcJp9aUAAUtmE.jpg",
+        "width": 151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050857627379499008",
+            "3_2050857632521670656"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2050857637395472875",
+        "created_at": "2026-05-03T08:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T09:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050857637395472875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TVznO9f6IX",
+              "end": 42,
+              "expanded_url": "https://x.com/nyaepheia/status/2050857637395472875/photo/1",
+              "media_key": "3_2050857627379499008",
+              "start": 19,
+              "url": "https://t.co/TVznO9f6IX"
+            },
+            {
+              "display_url": "pic.x.com/TVznO9f6IX",
+              "end": 42,
+              "expanded_url": "https://x.com/nyaepheia/status/2050857637395472875/photo/1",
+              "media_key": "3_2050857632521670656",
+              "start": 19,
+              "url": "https://t.co/TVznO9f6IX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050857637395472875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "X 什么时候修一下这个bug，，，， https://t.co/TVznO9f6IX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 772,
+          "like_count": 18927,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 3123
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

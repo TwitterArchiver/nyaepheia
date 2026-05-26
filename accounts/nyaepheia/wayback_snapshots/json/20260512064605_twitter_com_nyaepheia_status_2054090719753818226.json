@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2054090719753818226",
+    "created_at": "2026-05-12T06:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054090719753818226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054090719753818226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054011175302746336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 5月10日，一博主评论“在德中国留学生迷奸案”：\n德国张大鹏案对于国内女生的最大意义在于，它显示了一条在犯罪学领域早已成为公理、但很多女性仍然不知道的一个事实，即「熟人强奸这一形式占到强奸的绝大多数」。\n这不是一个正在争论中的话题而是一个…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1460,
+        "media_key": "3_2053792656229072896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICJihTXAAAB1v-.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2054090719753818226",
+        "created_at": "2026-05-12T06:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054090719753818226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054090719753818226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054011175302746336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 5月10日，一博主评论“在德中国留学生迷奸案”：\n德国张大鹏案对于国内女生的最大意义在于，它显示了一条在犯罪学领域早已成为公理、但很多女性仍然不知道的一个事实，即「熟人强奸这一形式占到强奸的绝大多数」。\n这不是一个正在争论中的话题而是一个…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053792656229072896"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2054011175302746336",
+        "created_at": "2026-05-12T01:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054011175302746336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2XRiJiGWjP",
+              "end": 152,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2054011175302746336/photo/1",
+              "media_key": "3_2053792656229072896",
+              "start": 129,
+              "url": "https://t.co/2XRiJiGWjP"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2050183461030510876",
+              "start": 153,
+              "url": "https://t.co/kmE576fKHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054011175302746336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月10日，一博主评论“在德中国留学生迷奸案”：\n德国张大鹏案对于国内女生的最大意义在于，它显示了一条在犯罪学领域早已成为公理、但很多女性仍然不知道的一个事实，即「熟人强奸这一形式占到强奸的绝大多数」。\n这不是一个正在争论中的话题而是一个已经被接受的定理。\n\n熟人强奸占总强奸的比例，我看过最高的数字是97%，这个数据来源是英国的妇女保护组织 Women and GirlsNetwork （WGN） 从“来找她们寻求心理疏导和其他帮助的性侵受害人”统计的。其他国家近年来给的数据最少也有百分之七八十，如果是受害者涉及未成年则比例更高，通常都可以达到85%以上。\n事实是，如果你问一个受害人“谁强奸的你\"，她回答“我同事”“我亲戚”“我朋友\"“我前/现伴侣”“我同学\"“我们训练队队医”“我们小区那个xxx\"“我要去看他的房\"“他要来看我的房\"“他要收我的二手”“我要收他的二手”等等等等的概率，远远远远高于她回答“我不认识他”。\n\n舆论告诫女人“君子不立危墙之下\"，以及古往今来古今中外都把强奸这一行为塑造成“黑夜里孤身一人走偏僻小路被不认识的男人侵犯\"或者“你去酒吧夜场等【好女人】不该去的地方然后被坏男人侵犯”\n—它们共同的特点是将强奸定义为【常规以外的东西】，也就是【如果你很乖，如果你按轨道运行，就不会发生在你身上的东西】。\n\n但很显然事实并非如此。\n强奸刷新在生活常轨的任何地方。强奸从来不是常轨外的意外。\n在这个意义上，劝女人别走夜路别穿着暴露“不立危墙之下\"之类的言论所产生的危害远远不止于“受害者有罪论”这么简单。\n它主要服务于把减少强奸案的义务推诿给受害人、将强奸模糊化为“例外”、无视亲密关系乃至社会结构本身的痼疾、试图转移对【真正占大头的危险来源】的关注、分析、预防和治理、无视绝大多数强奸发生在既有的社会关系之内。\n\n男人为什么可以一边自诩“有绝对力量”“成年男性可以一拳打死五个女人一脚踩死十个女人\"，一边又能够规劝女人“你要遵守规则，只要你做一个穿衣不暴露，不走夜路，不去酒吧的好女人，你就不会被强奸\"？\n—“君子不立危墙之下”之类的劝诫的本质是为父权社会制造可供享用的“好女孩”，同时将她们暴露于更大的、她们完全不知道的危险之中。而如果有一种劝诫真的是为了女性的安全考虑，那它更有可能表现为“我建议你6B4T\"。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 60406,
+          "like_count": 398,
+          "quote_count": 5,
+          "reply_count": 37,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050183461030510876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5月10日，一博主评论“在德中国留学生迷奸案”：\n德国张大鹏案对于国内女生的最大意义在于，它显示了一条在犯罪学领域早已成为公理、但很多女性仍然不知道的一个事实，即「熟人强奸这一形式占到强奸的绝大多数」。\n这不是一个正在争论中的话题而是一个已经被接受的定理。 https://t.co/2XRiJiGWjP https://t.co/kmE576fKHN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 802,
+          "like_count": 20655,
+          "listed_count": 3,
+          "media_count": 286,
+          "tweet_count": 3685
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218750,
+          "following_count": 1047,
+          "like_count": 9482,
+          "listed_count": 8718,
+          "media_count": 46577,
+          "tweet_count": 53682
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

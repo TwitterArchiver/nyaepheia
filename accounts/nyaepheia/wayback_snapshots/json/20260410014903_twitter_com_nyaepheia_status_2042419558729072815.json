@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2042419558729072815",
+    "created_at": "2026-04-10T01:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T02:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042419558729072815"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ST_Bed0721/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/ST_Bed0721/status/2042195414586458279",
+          "start": 18,
+          "url": "https://t.co/iinOjmw2Ma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042419558729072815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042195414586458279",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家快来关注可爱善良的橙子姐姐喵！ https://t.co/iinOjmw2Ma"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042195411788804096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdV6DGasAApQyf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2042419558729072815",
+        "created_at": "2026-04-10T01:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T02:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042419558729072815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ST_Bed0721/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ST_Bed0721/status/2042195414586458279",
+              "start": 18,
+              "url": "https://t.co/iinOjmw2Ma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042419558729072815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042195414586458279",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家快来关注可爱善良的橙子姐姐喵！ https://t.co/iinOjmw2Ma"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042195411788804096"
+          ]
+        },
+        "author_id": "1888562153004929024",
+        "conversation_id": "2042195414586458279",
+        "created_at": "2026-04-09T10:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042195414586458279"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "男娘"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "白丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gqvyxwLuwq",
+              "end": 46,
+              "expanded_url": "https://x.com/ST_Bed0721/status/2042195414586458279/photo/1",
+              "media_key": "3_2042195411788804096",
+              "start": 23,
+              "url": "https://t.co/gqvyxwLuwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042195414586458279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发点大家爱看的ww，来贴贴~ #男娘 #白丝 https://t.co/gqvyxwLuwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/小证含糖hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站\n已休学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2041715066337452228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 654,
+          "like_count": 10333,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1444
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-09T12:14:47.000Z",
+        "description": "可以叫我ST或者橙子酱🍊~｜渴望交朋友的小男娘｜06年 175 50kg｜快来找我聊天！｜不开心可以和我倾诉哦",
+        "id": "1888562153004929024",
+        "name": "ST_Bed",
+        "pinned_tweet_id": "2041998228351283704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041343523228889088/y0SOhB3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 65,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 158
+        },
+        "username": "ST_Bed0721",
+        "verified": false
+      }
+    ]
+  }
+}

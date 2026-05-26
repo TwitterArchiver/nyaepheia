@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048987800964681728"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2048987813329478039",
+    "created_at": "2026-04-28T04:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048987813329478039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8xim2PTGZG",
+          "end": 35,
+          "expanded_url": "https://x.com/nyaepheia/status/2048987813329478039/photo/1",
+          "media_key": "3_2048987800964681728",
+          "start": 12,
+          "url": "https://t.co/8xim2PTGZG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048987813329478039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "暨南大学就在医院旁边诶 https://t.co/8xim2PTGZG"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "暨南大学校门",
+        "height": 3075,
+        "media_key": "3_2048987800964681728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG93jImb0AAOOyH.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048987800964681728"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2048987813329478039",
+        "created_at": "2026-04-28T04:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048987813329478039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xim2PTGZG",
+              "end": 35,
+              "expanded_url": "https://x.com/nyaepheia/status/2048987813329478039/photo/1",
+              "media_key": "3_2048987800964681728",
+              "start": 12,
+              "url": "https://t.co/8xim2PTGZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048987813329478039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暨南大学就在医院旁边诶 https://t.co/8xim2PTGZG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 762,
+          "like_count": 17993,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2966
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040807572966649856"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2040807583460786515",
+    "created_at": "2026-04-05T15:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T16:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040807583460786515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aLoZNIpKVu",
+          "end": 129,
+          "expanded_url": "https://x.com/nyaepheia/status/2040807583460786515/photo/1",
+          "media_key": "3_2040807572966649856",
+          "start": 106,
+          "url": "https://t.co/aLoZNIpKVu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040807583460786515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "有人注意到我在X账号的内容许可那里（从资料页的链接进去可以找到）写了对于AI 训练适用CC0 协议嘛（？）\n\n所以如果我哪一天去二次元了，如果有人想我了可以直接拿我的帖子数据去训练一个LLM哦\n已经提前许可啦！ https://t.co/aLoZNIpKVu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2125,
+        "media_key": "3_2040807572966649856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJnrMmasAA_17U.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040807572966649856"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2040807583460786515",
+        "created_at": "2026-04-05T15:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040807583460786515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aLoZNIpKVu",
+              "end": 129,
+              "expanded_url": "https://x.com/nyaepheia/status/2040807583460786515/photo/1",
+              "media_key": "3_2040807572966649856",
+              "start": 106,
+              "url": "https://t.co/aLoZNIpKVu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040807583460786515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "有人注意到我在X账号的内容许可那里（从资料页的链接进去可以找到）写了对于AI 训练适用CC0 协议嘛（？）\n\n所以如果我哪一天去二次元了，如果有人想我了可以直接拿我的帖子数据去训练一个LLM哦\n已经提前许可啦！ https://t.co/aLoZNIpKVu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/hrt26.4.1/家长党/天残党/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2040696789003809003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 590,
+          "like_count": 7406,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 552
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

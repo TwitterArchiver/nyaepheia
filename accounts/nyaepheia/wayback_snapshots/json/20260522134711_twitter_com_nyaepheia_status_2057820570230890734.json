@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057820325216411648"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057820570230890734",
+    "created_at": "2026-05-22T13:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T14:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057820570230890734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OUHsvZnEb4",
+          "end": 39,
+          "expanded_url": "https://x.com/nyaepheia/status/2057820570230890734/photo/1",
+          "media_key": "3_2057820325216411648",
+          "start": 16,
+          "url": "https://t.co/OUHsvZnEb4"
+        },
+        {
+          "display_url": "x.com/wmy072011/stat…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/wmy072011/status/2057809931823444028",
+          "start": 40,
+          "url": "https://t.co/fDfZE16hS6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057820570230890734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057809931823444028",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "Bot: 至此，已成艺术，，， https://t.co/OUHsvZnEb4 https://t.co/fDfZE16hS6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1725,
+        "media_key": "3_2057820325216411648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7YrtgaYAAyPYb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057820325216411648"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057820570230890734",
+        "created_at": "2026-05-22T13:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057820570230890734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OUHsvZnEb4",
+              "end": 39,
+              "expanded_url": "https://x.com/nyaepheia/status/2057820570230890734/photo/1",
+              "media_key": "3_2057820325216411648",
+              "start": 16,
+              "url": "https://t.co/OUHsvZnEb4"
+            },
+            {
+              "display_url": "x.com/wmy072011/stat…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/wmy072011/status/2057809931823444028",
+              "start": 40,
+              "url": "https://t.co/fDfZE16hS6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057820570230890734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057809931823444028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "Bot: 至此，已成艺术，，， https://t.co/OUHsvZnEb4 https://t.co/fDfZE16hS6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634944403872833536",
+        "conversation_id": "2057809931823444028",
+        "created_at": "2026-05-22T13:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057809931823444028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Brenda53262378…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Brenda53262378/status/2057809753804345839",
+              "start": 17,
+              "url": "https://t.co/fXgur8WBNJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057809931823444028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057809753804345839",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你还敢在这里发。你也给我等着吧。 https://t.co/fXgur8WBNJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 828,
+          "like_count": 22963,
+          "listed_count": 3,
+          "media_count": 370,
+          "tweet_count": 4260
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "希望明天过的顺利\n宝宝：@OTxiashu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "OTxiashu"
+              }
+            ]
+          }
+        },
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 429,
+          "like_count": 47495,
+          "listed_count": 1,
+          "media_count": 1527,
+          "tweet_count": 14870
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

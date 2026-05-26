@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2051528566039511198",
+    "created_at": "2026-05-05T05:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T06:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051528566039511198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nyaepheia/stat…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/nyaepheia/status/2051355386813489193",
+          "start": 91,
+          "url": "https://t.co/hX062LJWvP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051528566039511198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051355386813489193",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2026-05-05 10:30 UTC 开奖\n还有大概5个半小时\n请关注引用推文中的链接，现在就可以打开看到倒计时\n\n这是实验性的可验证抽奖\n任何人无法指定抽奖结果，无法提前开奖 https://t.co/hX062LJWvP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 328,
+        "media_key": "3_2051354187951374336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHffw_FaAAAQ96p.png",
+        "width": 588
+      },
+      {
+        "alt_text": "0. @Ace_Purin\n1. @AGNK_553\n2. @AmazingZhan0211\n3. @AnemonesCWC\n4. @Aureliax17QwQ\n5. @Chise_wo\n6. @fhv932189957574\n7. @frankshiki73\n8. @Had_Nzx\n9. @hakanopesu\n10. @HoShino_Iroha10\n11. @kawainegi\n12. @launchpad001\n13. @lightboat111\n14. @Lilyvanillacat\n15. @LingJiaXin233\n16. @meowania_Fan\n17. @MikuLoverr_\n18. @Numiouo\n19. @RainEngine_2024\n20. @Shioocchicqwq\n21. @Sokei_ko_nya\n22. @sophhhsama\n23. @StarryNocts\n24. @wwj233355\n25. @xiaomonuya\n26. @yanxi20070721\n27. @YiJin_0v0\n28. @yuerQwQ\n29. @yxrchina",
+        "height": 980,
+        "media_key": "3_2051354665200369664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfgMw-bwAAN4gG.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2051528566039511198",
+        "created_at": "2026-05-05T05:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051528566039511198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2051355386813489193",
+              "start": 91,
+              "url": "https://t.co/hX062LJWvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051528566039511198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051355386813489193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2026-05-05 10:30 UTC 开奖\n还有大概5个半小时\n请关注引用推文中的链接，现在就可以打开看到倒计时\n\n这是实验性的可验证抽奖\n任何人无法指定抽奖结果，无法提前开奖 https://t.co/hX062LJWvP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051354187951374336",
+            "3_2051354665200369664"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051355386813489193",
+        "created_at": "2026-05-04T17:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051355386813489193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Verifiable lottery powered by drand decentralized randomness. Trustless draw system for social media giveaways.",
+              "display_url": "drand-draw.pages.dev/##/?chain=quic…",
+              "end": 103,
+              "expanded_url": "https://drand-draw.pages.dev/##/?chain=quicknet&deadline=1777977000&n=30&prizes=1%2C2%2C3",
+              "start": 80,
+              "status": 200,
+              "title": "可验证抽奖 · drand",
+              "unwound_url": "https://drand-draw.pages.dev/##/?chain=quicknet&deadline=1777977000&n=30&prizes=1%2C2%2C3",
+              "url": "https://t.co/gSwAs23c29"
+            },
+            {
+              "description": "Verifiable lottery powered by drand decentralized randomness. Trustless draw system for social media giveaways.",
+              "display_url": "drand-draw.pages.dev/#/guide",
+              "end": 173,
+              "expanded_url": "http://drand-draw.pages.dev/#/guide",
+              "start": 150,
+              "status": 200,
+              "title": "可验证抽奖 · drand",
+              "unwound_url": "https://drand-draw.pages.dev/",
+              "url": "https://t.co/N43cY9qXfp"
+            },
+            {
+              "display_url": "pic.x.com/XtkeLjTBGi",
+              "end": 197,
+              "expanded_url": "https://x.com/nyaepheia/status/2051355386813489193/photo/1",
+              "media_key": "3_2051354187951374336",
+              "start": 174,
+              "url": "https://t.co/XtkeLjTBGi"
+            },
+            {
+              "display_url": "pic.x.com/XtkeLjTBGi",
+              "end": 197,
+              "expanded_url": "https://x.com/nyaepheia/status/2051355386813489193/photo/1",
+              "media_key": "3_2051354665200369664",
+              "start": 174,
+              "url": "https://t.co/XtkeLjTBGi"
+            },
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 221,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2051317022244622730",
+              "start": 198,
+              "url": "https://t.co/CQJSN2lmpu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051355386813489193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "drand-draw.pages.dev/##/?chain=quic…",
+                "end": 103,
+                "expanded_url": "https://drand-draw.pages.dev/##/?chain=quicknet&deadline=1777977000&n=30&prizes=1%2C2%2C3",
+                "start": 80,
+                "url": "https://t.co/m7vQVkGdKq"
+              },
+              {
+                "display_url": "drand-draw.pages.dev/#/guide",
+                "end": 173,
+                "expanded_url": "http://drand-draw.pages.dev/#/guide",
+                "start": 150,
+                "url": "https://t.co/lwwtq6VUeK"
+              }
+            ]
+          },
+          "text": "大家好！本次抽奖实验进入第二阶段（注意：这只是实验，没有实际奖品）\n这是 可验证抽奖\n我或者任何人都无法伪造或指定抽奖结果，真正随机公平\n请在这个链接查看结果：https://t.co/m7vQVkGdKq\n\n开奖时间：2026-05-05 10:30 UTC\n中奖候选和编号看图2\n如果你好奇原理：https://t.co/lwwtq6VUeK"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051317022244622730",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家好！本次抽奖实验进入第二阶段（注意：这只是实验，没有实际奖品）\n这是 可验证抽奖\n我或者任何人都无法伪造或指定抽奖结果，真正随机公平\n请在这个链接查看结果：https://t.co/gSwAs23c29\n\n开奖时间：2026-05-05 10:30 UTC\n中奖候选和编号看图2\n如果你好奇原理：https://t.co/N43cY9qXfp https://t.co/XtkeLjTBGi https://t.co/CQJSN2lmpu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 780,
+          "like_count": 19386,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 3296
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

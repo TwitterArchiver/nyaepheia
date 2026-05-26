@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2054901884209799255",
+    "created_at": "2026-05-14T12:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054901884209799255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1558317849508122629",
+          "start": 3,
+          "username": "CuiMao"
+        },
+        {
+          "end": 44,
+          "id": "1605",
+          "start": 39,
+          "username": "sama"
+        },
+        {
+          "end": 70,
+          "id": "874126509245476864",
+          "start": 58,
+          "username": "DarioAmodei"
+        },
+        {
+          "end": 102,
+          "id": "61559439",
+          "start": 95,
+          "username": "nvidia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054901884209799255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054888159423672580",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuiMao: 感谢质疑，我们换个角度来说，如果我是gay，我会喜欢 @sama ，但如果我是男的，我会被 @DarioAmodei 颜控一百年，如果我是小红书顶美，我会全仓英伟达 @nvidia"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2054901884209799255",
+        "created_at": "2026-05-14T12:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054901884209799255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1558317849508122629",
+              "start": 3,
+              "username": "CuiMao"
+            },
+            {
+              "end": 44,
+              "id": "1605",
+              "start": 39,
+              "username": "sama"
+            },
+            {
+              "end": 70,
+              "id": "874126509245476864",
+              "start": 58,
+              "username": "DarioAmodei"
+            },
+            {
+              "end": 102,
+              "id": "61559439",
+              "start": 95,
+              "username": "nvidia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054901884209799255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054888159423672580",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CuiMao: 感谢质疑，我们换个角度来说，如果我是gay，我会喜欢 @sama ，但如果我是男的，我会被 @DarioAmodei 颜控一百年，如果我是小红书顶美，我会全仓英伟达 @nvidia"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558317849508122629",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2054888159423672580",
+        "created_at": "2026-05-14T11:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054888159423672580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1605",
+              "start": 27,
+              "username": "sama"
+            },
+            {
+              "end": 58,
+              "id": "874126509245476864",
+              "start": 46,
+              "username": "DarioAmodei"
+            },
+            {
+              "end": 90,
+              "id": "61559439",
+              "start": 83,
+              "username": "nvidia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yiliuai/status…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/yiliuai/status/2054731039877017799",
+              "start": 91,
+              "url": "https://t.co/InvsOhuh6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054888159423672580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4091,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054731039877017799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢质疑，我们换个角度来说，如果我是gay，我会喜欢 @sama ，但如果我是男的，我会被 @DarioAmodei 颜控一百年，如果我是小红书顶美，我会全仓英伟达 @nvidia https://t.co/InvsOhuh6b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 801,
+          "like_count": 21077,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 3810
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-13T05:01:53.000Z",
+        "description": "AI Developer   |   NVIDIA YES \n深度学习   |  不接广告\nGithub   https://t.co/CRpiUABJoL\nSuno  https://t.co/ySVC83Hl6P\n免费AI学习群  https://t.co/Ha8LFayYSN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Cuimao777",
+                "end": 78,
+                "expanded_url": "https://github.com/Cuimao777",
+                "start": 55,
+                "url": "https://t.co/CRpiUABJoL"
+              },
+              {
+                "display_url": "suno.com/@cuimao",
+                "end": 108,
+                "expanded_url": "https://suno.com/@cuimao",
+                "start": 85,
+                "url": "https://t.co/ySVC83Hl6P"
+              },
+              {
+                "display_url": "t.me/+sol4udt0WPw5M…",
+                "end": 141,
+                "expanded_url": "https://t.me/+sol4udt0WPw5MWE1",
+                "start": 118,
+                "url": "https://t.co/Ha8LFayYSN"
+              }
+            ]
+          }
+        },
+        "id": "1558317849508122629",
+        "location": "Los Angeles, CA",
+        "name": "CuiMao",
+        "pinned_tweet_id": "2051924735907504431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054899757613817857/JBO95RqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57550,
+          "following_count": 1253,
+          "like_count": 10421,
+          "listed_count": 318,
+          "media_count": 1611,
+          "tweet_count": 15086
+        },
+        "username": "CuiMao",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4817934,
+          "following_count": 1013,
+          "like_count": 1020,
+          "listed_count": 28900,
+          "media_count": 392,
+          "tweet_count": 7742
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-12T04:49:35.000Z",
+        "description": "Anthropic CEO. https://t.co/qXHIf42jTl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "darioamodei.com",
+                "end": 38,
+                "expanded_url": "http://darioamodei.com",
+                "start": 15,
+                "url": "https://t.co/qXHIf42jTl"
+              }
+            ]
+          }
+        },
+        "id": "874126509245476864",
+        "name": "Dario Amodei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015835742577012736/uOwdzrEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336355,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 3559,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "DarioAmodei",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-30T18:25:14.000Z",
+        "description": "The official handle for NVIDIA. Blog: https://t.co/JAn5eKOTBT Support: https://t.co/6ln5FVnA2o All our social media: https://t.co/Uc56dL57Dh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blogs.nvidia.com",
+                "end": 61,
+                "expanded_url": "https://blogs.nvidia.com",
+                "start": 38,
+                "url": "https://t.co/JAn5eKOTBT"
+              },
+              {
+                "display_url": "nvda.ws/2ei5pio",
+                "end": 94,
+                "expanded_url": "http://nvda.ws/2ei5pio",
+                "start": 71,
+                "url": "https://t.co/6ln5FVnA2o"
+              },
+              {
+                "display_url": "nvda.ws/2wmlfGB",
+                "end": 140,
+                "expanded_url": "http://nvda.ws/2wmlfGB",
+                "start": 117,
+                "url": "https://t.co/Uc56dL57Dh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nvidia.com",
+                "end": 23,
+                "expanded_url": "https://www.nvidia.com",
+                "start": 0,
+                "url": "https://t.co/d1gaHqtMJD"
+              }
+            ]
+          }
+        },
+        "id": "61559439",
+        "location": "Santa Clara, CA",
+        "name": "NVIDIA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828904711124078593/SRvCZSfQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2498022,
+          "following_count": 48,
+          "like_count": 4995,
+          "listed_count": 9547,
+          "media_count": 3239,
+          "tweet_count": 14016
+        },
+        "url": "https://t.co/d1gaHqtMJD",
+        "username": "nvidia",
+        "verified": true
+      }
+    ]
+  }
+}

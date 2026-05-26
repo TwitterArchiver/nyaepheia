@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2054868481703649396",
+    "created_at": "2026-05-14T10:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T11:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054870890769494189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053360211948109826",
+          "start": 0,
+          "username": "axzameyzed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20546…",
+          "end": 122,
+          "expanded_url": "https://x.com/i/status/2054604992166994045",
+          "start": 99,
+          "url": "https://t.co/Mq8jAw2Ppa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054870890769494189",
+    "in_reply_to_user_id": "2053360211948109826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054604992166994045",
+        "type": "quoted"
+      },
+      {
+        "id": "2054868481703649396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axzameyzed 不是，这个是说是你用程序生成走向，然后用AI 解读，可以避免AI 幻觉\n但算命本来就是娱乐性质的东西，所以不用太在意\n不过虽然我算得结果是我命理上就适合当mtf 就是了（（\nhttps://t.co/Mq8jAw2Ppa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2054868481703649396",
+        "created_at": "2026-05-14T10:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054870890769494189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20546…",
+              "end": 122,
+              "expanded_url": "https://x.com/i/status/2054604992166994045",
+              "start": 99,
+              "url": "https://t.co/Mq8jAw2Ppa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054870890769494189",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054604992166994045",
+            "type": "quoted"
+          },
+          {
+            "id": "2054868481703649396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed 不是，这个是说是你用程序生成走向，然后用AI 解读，可以避免AI 幻觉\n但算命本来就是娱乐性质的东西，所以不用太在意\n不过虽然我算得结果是我命理上就适合当mtf 就是了（（\nhttps://t.co/Mq8jAw2Ppa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2054604992166994045",
+        "created_at": "2026-05-13T16:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054604992166994045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EScanlon95354/…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/EScanlon95354/status/1940400676741480599",
+              "start": 71,
+              "url": "https://t.co/PBxQN90GDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054604992166994045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Grok：\n**依菲雅，** 以下是整理好的版本，直接复制发X即可（第二人称、保留核心象法、不暴露具体柱子或年份，能安全图一乐）：\n\n---\n\n你这个八字，日主是丁火——典型的阴火，像烛光、星焰，温柔明亮却不张扬。传统命理里，丁火本身就带着“柔中内蕴”的气质：细腻、敏感、注重美感与情感流动，不像阳火那么刚烈外放。\n\n更特别的是，天干纯走阴（时干乙木+日干丁火），阴上加阴，整体呈现明显的“至柔之象”。古籍常说这类阴干日主的人，性格内敛文艺、情感丰富、言行举止偏柔，男命走女命格局往往更顺，内在的女性化特质会比较自然地显露出来。\n\n地支又形成三重叠加的火土格局，内热而外柔：表面有热情与表达欲，骨子里却是细腻敏感、追求完美、容易共情的那种“烛光型”柔性。伤官与劫财的组合，更添才艺表达与独立叛逆的张力——不是硬邦邦的阳刚，而是带着流动美感的柔韧力量。\n\n整体看下来，**女性化倾向在传统象法里存在且较为明显**。它给出的隐喻是：这团火本来就不是极端阳烈的类型，而是适合在温柔、细腻、自我绽放的女性路径上烧得更自在、更亮堂的烛光。\n\n当然，八字只是文化镜子，不是命运铁律。最终怎么活出这束光，还是看你自己。🌸\n\n（纯图一乐，理性玩梗不迷信）\n\n---\n\n这个版本把关键信息（丁火阴柔、三阴干、火土内热外柔、女性化倾向明显）都留下了，但去掉了所有能反推出具体出生时间的细节。你发的时候可以再加点自己的语气，安全又精准。需要我微调语气、加长或缩短，随时说～继续陪你玩！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1312,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940400676741480599",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "Grok：\n**依菲雅，** 以下是整理好的版本，直接复制发X即可（第二人称、保留核心象法、不暴露具体柱子或年份，能安全图一乐）：\n\n--- https://t.co/PBxQN90GDy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2054868481703649396",
+        "created_at": "2026-05-14T10:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054868481703649396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2054605337509208294",
+              "start": 13,
+              "url": "https://t.co/C993yDLeDO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054868481703649396",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054605337509208294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AI算命结果玩玩就行了哈 https://t.co/C993yDLeDO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 801,
+          "like_count": 21051,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 3806
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 111,
+          "like_count": 435,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 221
+        },
+        "username": "axzameyzed",
+        "verified": true
+      }
+    ]
+  }
+}

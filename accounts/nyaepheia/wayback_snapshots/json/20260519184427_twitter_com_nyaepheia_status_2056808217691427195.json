@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2055966568157212748",
+    "created_at": "2026-05-19T18:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T19:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056808217691427195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "102162231",
+          "start": 0,
+          "username": "AllahGreatQuran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056808217691427195",
+    "in_reply_to_user_id": "102162231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055966568157212748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AllahGreatQuran 大家点一下「申请社群附注」呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 385,
+        "media_key": "3_2055043764834709504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIT7aoDasAABz6j.jpg",
+        "width": 486
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2055966568157212748",
+        "created_at": "2026-05-19T18:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056808217691427195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "102162231",
+              "start": 0,
+              "username": "AllahGreatQuran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056808217691427195",
+        "in_reply_to_user_id": "102162231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055966568157212748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AllahGreatQuran 大家点一下「申请社群附注」呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055043764834709504"
+          ]
+        },
+        "author_id": "102162231",
+        "conversation_id": "2055966568157212748",
+        "created_at": "2026-05-17T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055966568157212748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/17eu1OTyuM",
+              "end": 68,
+              "expanded_url": "https://x.com/AllahGreatQuran/status/2055966568157212748/photo/1",
+              "media_key": "3_2055043764834709504",
+              "start": 45,
+              "url": "https://t.co/17eu1OTyuM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055966568157212748",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 2587341,
+          "like_count": 1533,
+          "quote_count": 229,
+          "reply_count": 314,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "Teach your children from the very beginning. https://t.co/17eu1OTyuM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 828,
+          "like_count": 22323,
+          "listed_count": 3,
+          "media_count": 343,
+          "tweet_count": 4077
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-05T20:54:38.000Z",
+        "description": "May Allah make this account benefit for everyone of us! Daily Islamic Quiz. This account run by admin",
+        "id": "102162231",
+        "name": "Allah Islam Quran",
+        "pinned_tweet_id": "2056656895893754281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/968428907870543872/mxBpyybJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717512,
+          "following_count": 0,
+          "like_count": 274,
+          "listed_count": 1294,
+          "media_count": 994,
+          "tweet_count": 1760
+        },
+        "username": "AllahGreatQuran",
+        "verified": true
+      }
+    ]
+  }
+}

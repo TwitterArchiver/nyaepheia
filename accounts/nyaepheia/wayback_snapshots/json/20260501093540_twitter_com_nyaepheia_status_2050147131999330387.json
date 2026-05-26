@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050145045710540800"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2050147128476094548",
+    "created_at": "2026-05-01T09:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T10:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050147131999330387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n5i4ZYgMBq",
+          "end": 149,
+          "expanded_url": "https://x.com/nyaepheia/status/2050147131999330387/photo/1",
+          "media_key": "3_2050145045710540800",
+          "start": 126,
+          "url": "https://t.co/n5i4ZYgMBq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050147131999330387",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050147128476094548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "⚡ 双界面，但只有一套代码\n\n终端版 (TUI)：给喜欢键盘流和在命令行里摸鱼的开发者。\n\n网页版 (PWA)：可安装的现代 Web 应用，支持离线使用。\n两者共享同一套核心逻辑，功能完全一致：时间线、通知、发帖带图、书签……该有的都有。\n（2/5） https://t.co/n5i4ZYgMBq"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "TUI timeline",
+        "height": 1079,
+        "media_key": "3_2050145045710540800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOUDpOakAAgdSG.jpg",
+        "width": 1919
+      },
+      {
+        "alt_text": "请分析 @watakushi.desuwa.org 的主页，概括他们的近期动态并与我互动。\n\n💭 Thinking: 用户让我分析 @watakushi.desuwa.org 的主页，这是一个 Bluesky 账号。我需要先解析这个 handle，获取他们的信息。\n\n让我先解析这个 handle。\n好的！我来先找到这个用户，然后看看他们的主页动态。\n\n🔧 resolve_handle\n⮡ {\"did\":\"did:plc:an4suwg7t7yvfnahdze73ngd\"}\n💭 Thinking: 好的，这个 handle 解析到了 DID: did:plc:an4suwg7t7yvfnahdze73ngd。现在让我获取这个用户的 profile 和他们的帖子。\n好的，DID 已解析。现在获取他们的个人资料和近期帖子。\n\n🔧 get_profile\n⮡ 用户: @watakushi.desuwa.org (依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂)\n🔧 get_author_feed\n⮡ {\"feed\":[{\"uri\":\"at://did:plc:an4suwg7t7yvfnahdze73ngd/app.bsky.feed.post/3mkrs3fkma52c\",\"text\":\"test\\n@watakushi.desuwa.org\",\"likeCount\":0,\"repostCount\":0},{\"uri\":\"at://did:plc:an4suwg7t7yvfnahdze73n\n💭 Thinking: 现在我有了这个用户的详细信息。让我来整理一下分析结果。\n\n**用户信息：**\n- 显示名：依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂\n- 用户名：@watakushi.desuwa.org\n- 简介：求关注喵，同类互关。二次元百合厨 / LGBTQ+全友好 / Transfeminine Non-binary / she/they / HRT 26.4.1 / 家长党/天残党 / SocDem / 不键政 / 文科生 / Vibe coding / 搭网站\n- 关注数：91，粉丝数：59，帖子数：216\n\n**近期动态分析：**\n\n1. **Vibe Coding 与 AI 开发** — 她正在构建一个 Bluesky AI TUI（终端界面）客户端，通过 vibe co",
+        "height": 1038,
+        "media_key": "3_2050144360713621504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOTbxabEAA48Vt.jpg",
+        "width": 1919
+      },
+      {
+        "alt_text": "好的，我已经获取了 @watakushi.desuwa.org（依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂）的完整主页信息，来给你详细分析一下！\n\n📋 用户档案速览\n项目\t内容\n显示名\t依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂\n简介\t二次元百合厨 / 🏳️‍🌈🏳️‍⚧️ LGBTQ+全友好 / Transfeminine Non-binary / she/they / HRT 26.4.1 / 家长党/天残党 / SocDem / vibe coding / 搭网站\n粉丝\t59\n🔍 近期动态分析\n1️⃣ 🤖 Vibe Coding + 自建 Bluesky AI 客户端\n这是近期最核心的活动！她正在用 vibe coding 的方式构建一个 Bluesky AI TUI（终端界面）客户端，并且让 AI Agent 在这个账号上发帖测试。可以看到有一系列 test / TRST（typo 记录）等测试帖，还有明确标注：\n\n\"来自 bluesky AI TUI 的发帖。这是我 vibe coding 的作品。\"\n\n以及设置了自动化标签，因为账号内容从 X/Twitter 同步过来。\n\n2️⃣ 🏳️‍⚧️ LGBTQ+ 与跨性别议题\n作为 transfeminine 身份认同者，她转发了关于 跨性别不应成为男权/女权斗争工具、跨性别者应有自己的酷儿主义的观点，也批评了不了解中国情况的外国人以及对LGBTQ不友好的声音。\n\n3️⃣ 🗣️ 社会文化评论\n有一条长帖讨论了 中国动漫/二次元圈的历史变迁——从胡温时代看盗版字幕组资源、「黑市般的自由」，到B站买版权正规化，再到如今一些当年动漫爱好者变成\"粉红\"的讽刺现象。这个帖子引起了关注。\n\n4️⃣ 📚 二次元内容\n分享了一部作品 《ブラッディ・メアリは支配する》（Bloody Mary） —— 讲述被「制造」出来的边境伯之女玛丽与心醉于她的女性们的故事（获得 3 ❤️ 1 🔁）。还有 #上伊那ぼたん 的图片转发。\n\n5️⃣ 💻 技术吐槽\n发帖吐槽 coding agent 把硬编码凭证提交并推送了，还调侃1984里的「真理部」刚好适合干这个——帮你清理git历史、修改提交记录，让大家确信从没泄漏过 🤣\n\n6️⃣ 🧪 测试帖清理\n有帖子记录了删除了 Agent 发的一些测试推文，说明她正在调试这个AI发帖系统。",
+        "height": 1036,
+        "media_key": "3_2050144629044166656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOTrZBaQAAuKsh.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050145045710540800"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2050147128476094548",
+        "created_at": "2026-05-01T09:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050147131999330387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5i4ZYgMBq",
+              "end": 149,
+              "expanded_url": "https://x.com/nyaepheia/status/2050147131999330387/photo/1",
+              "media_key": "3_2050145045710540800",
+              "start": 126,
+              "url": "https://t.co/n5i4ZYgMBq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050147131999330387",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050147128476094548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "⚡ 双界面，但只有一套代码\n\n终端版 (TUI)：给喜欢键盘流和在命令行里摸鱼的开发者。\n\n网页版 (PWA)：可安装的现代 Web 应用，支持离线使用。\n两者共享同一套核心逻辑，功能完全一致：时间线、通知、发帖带图、书签……该有的都有。\n（2/5） https://t.co/n5i4ZYgMBq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050144360713621504",
+            "3_2050144629044166656"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1651716815452504066",
+              "name": "Bluesky"
+            }
+          }
+        ],
+        "conversation_id": "2050147128476094548",
+        "created_at": "2026-05-01T09:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050147128476094548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q4i9F63T5I",
+              "end": 160,
+              "expanded_url": "https://x.com/nyaepheia/status/2050147128476094548/photo/1",
+              "media_key": "3_2050144360713621504",
+              "start": 137,
+              "url": "https://t.co/Q4i9F63T5I"
+            },
+            {
+              "display_url": "pic.x.com/Q4i9F63T5I",
+              "end": 160,
+              "expanded_url": "https://x.com/nyaepheia/status/2050147128476094548/photo/1",
+              "media_key": "3_2050144629044166656",
+              "start": 137,
+              "url": "https://t.co/Q4i9F63T5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050147128476094548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "给大家介绍我正在开发的新玩具：Bsky (bsky[.]app 的替代客户端) 🦋\n\n这不是简单的网页套壳，它是一个拥有 双形态界面（TUI终端 + PWA网页） 且 深度集成 AI 的 Bluesky 客户端。目前还在开发阶段，邀请大家来玩儿并反馈 bug！\n（1/5） https://t.co/Q4i9F63T5I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 765,
+          "like_count": 18506,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 3034
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

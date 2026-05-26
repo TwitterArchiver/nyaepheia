@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2058038825126072380",
+    "created_at": "2026-05-23T04:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058038825126072380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1622066090074607616",
+          "start": 3,
+          "username": "hoshinofujivy"
+        },
+        {
+          "end": 45,
+          "id": "17243030",
+          "start": 40,
+          "username": "shun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/yHmRN",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/yHmRN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058038825126072380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057950560129794338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinofujivy: 图二其实是艺术毕业设计\n\n作者是小红书博主@shun（ID：594167653）\n\n这位作者与小藤一样,出生成长于石家庄，经历过衡水模式的教育，随后她考入北京的中央美术学院\n\n以下为作者对作品的介绍：… https://t.co/yHmRN…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2057950553158897664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9PH-Za0AAyE-z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2058038825126072380",
+        "created_at": "2026-05-23T04:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058038825126072380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1622066090074607616",
+              "start": 3,
+              "username": "hoshinofujivy"
+            },
+            {
+              "end": 45,
+              "id": "17243030",
+              "start": 40,
+              "username": "shun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/yHmRN",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/yHmRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058038825126072380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057950560129794338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinofujivy: 图二其实是艺术毕业设计\n\n作者是小红书博主@shun（ID：594167653）\n\n这位作者与小藤一样,出生成长于石家庄，经历过衡水模式的教育，随后她考入北京的中央美术学院\n\n以下为作者对作品的介绍：… https://t.co/yHmRN…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057950553158897664"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2057950560129794338",
+        "created_at": "2026-05-22T22:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T23:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057950560129794338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "17243030",
+              "start": 21,
+              "username": "shun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yHmRNRKGYg",
+              "end": 124,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2057950560129794338/photo/1",
+              "media_key": "3_2057950553158897664",
+              "start": 101,
+              "url": "https://t.co/yHmRNRKGYg"
+            },
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/2057816680362074112",
+              "start": 125,
+              "url": "https://t.co/gvlNIdSqY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057950560129794338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 26,
+                "id": "17243030",
+                "start": 21,
+                "username": "shun"
+              }
+            ]
+          },
+          "text": "图二其实是艺术毕业设计\n\n作者是小红书博主@shun（ID：594167653）\n\n这位作者与小藤一样,出生成长于石家庄，经历过衡水模式的教育，随后她考入北京的中央美术学院\n\n以下为作者对作品的介绍：\n\n每个寄宿学校的校园各有不同，而在电话亭这个地点却惊人的相似，寄宿学校的电话亭里面普遍都有很多刻痕，几乎都提及了回家，所以我以这个最会引发共鸣的共性符号作为切入点进行创作。\n\n在这件装置作品中，声音和交互行为构成了最核心的叙事媒介。在学校里的电话墙让我联想到位于耶路撒冷的哭墙 ，人们对着墙哀哭祈祷，诉说流亡之苦，所以我设计了让观众把耳朵贴在墙上听的互动方式，里面的发声装置是振动墙面发声的，所以站在墙前只能听到模糊的声音，贴在墙上通过骨传导才能听到确切的对话，这样观众并非是站在一个旁观的角度去建议和劝说这些学生，而是通过默默地倾听和抚摸这些“伤痕”来感受，里面的录音是我征集的学生和家长的通话。当人们走进美术馆，听到这个作品的时候，学生的倾诉与祈祷就会被听见，而我们的观众来自各行各业，或许为人父母，拥有能够倾听和改变的上帝视角。\n\n而装置的背面，则是作为对立面存在的家庭“荣誉墙”。为了保护具体的学校和个人，我根据自身的所见所感，提炼并虚构了一个从初一到高三就读于同一所重点寄宿中学的、品学兼优的女孩形象。墙面密密麻麻地贴着她从初一到2026年5月当下所获得的所有奖状，她是家庭绝对的骄傲，在这些勋章的下方，还留有一些只写了未来日期、内容却完全空白的奖状，隐喻着那些可以预见的、被提前规划好的未来荣誉。正面是创伤与倾诉的“哭墙”，背面是勋章与规训的“荣誉墙”，通过这两面墙建立起的时间与空间的残酷对比，我希望能激发一种深刻的反思：在这样不可逆的精神创伤之下，这一切被量化的名誉和期待，真的值得吗？\n\n这件作品无意于在宏观上立刻颠覆或改变某种根深蒂固的教育模式，在来来往往的人群中，也许会有一位家长在美术馆的这面墙前长久驻足，从而在现实中做出一丝小小的改变，哪怕仅仅是允许自己的孩子走读，那么对于我而言，那些被长久压抑的祈祷，就在现实世界里找到了它真正的回响。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 11172,
+          "like_count": 137,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057816680362074112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "图二其实是艺术毕业设计\n\n作者是小红书博主@shun（ID：594167653）\n\n这位作者与小藤一样,出生成长于石家庄，经历过衡水模式的教育，随后她考入北京的中央美术学院\n\n以下为作者对作品的介绍： https://t.co/yHmRNRKGYg https://t.co/gvlNIdSqY7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 823,
+          "like_count": 23092,
+          "listed_count": 3,
+          "media_count": 377,
+          "tweet_count": 4296
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11187,
+          "following_count": 4315,
+          "like_count": 46432,
+          "listed_count": 36,
+          "media_count": 2386,
+          "tweet_count": 14398
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2008-11-08T01:46:39.000Z",
+        "description": "Not a Ph.D, not a founder and got nothing important or original to say. I even borrowed the profile image from the interwebz.",
+        "id": "17243030",
+        "name": "Shun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1021779074857881600/pjcwxBzt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 884,
+          "like_count": 743,
+          "listed_count": 41,
+          "media_count": 386,
+          "tweet_count": 7019
+        },
+        "username": "shun",
+        "verified": false
+      }
+    ]
+  }
+}

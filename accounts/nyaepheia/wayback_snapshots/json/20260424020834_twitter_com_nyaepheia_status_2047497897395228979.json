@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2047497897395228979",
+    "created_at": "2026-04-24T02:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T03:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047497897395228979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1430973520452800515",
+          "start": 3,
+          "username": "XmeowwoemX_017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047497897395228979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047307235840438743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XmeowwoemX_017: 听闻近来墙内中小学愈发流行“xxx的是gay”的烂梗，我就在想 到了十三四岁已经有一定比例的性少数明确了自己的取向，会不会有的确是gay 并且性子很刚直的孩子逢班上有人玩此梗时说出“是的，我就是 你们想怎样？”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2047497897395228979",
+        "created_at": "2026-04-24T02:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047497897395228979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1430973520452800515",
+              "start": 3,
+              "username": "XmeowwoemX_017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047497897395228979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047307235840438743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XmeowwoemX_017: 听闻近来墙内中小学愈发流行“xxx的是gay”的烂梗，我就在想 到了十三四岁已经有一定比例的性少数明确了自己的取向，会不会有的确是gay 并且性子很刚直的孩子逢班上有人玩此梗时说出“是的，我就是 你们想怎样？”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430973520452800515",
+        "conversation_id": "2047307235840438743",
+        "created_at": "2026-04-23T13:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047307235840438743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047307235840438743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8622,
+          "like_count": 209,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "听闻近来墙内中小学愈发流行“xxx的是gay”的烂梗，我就在想 到了十三四岁已经有一定比例的性少数明确了自己的取向，会不会有的确是gay 并且性子很刚直的孩子逢班上有人玩此梗时说出“是的，我就是 你们想怎样？”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 751,
+          "like_count": 16891,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2780
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-26T19:22:14.000Z",
+        "description": "关于当下和过去的碎碎念 🏳️‍⚧️(not quite binary) transfem HRT since: Feb 2025 (CPA) / Jun 2025 (E2) 很孤单请和我抱抱",
+        "id": "1430973520452800515",
+        "location": "Auckland, NZ / Beijing ",
+        "name": "💜（猫病第iii期",
+        "pinned_tweet_id": "2042914526400778452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680217398081880065/thsuWemZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 404,
+          "like_count": 37364,
+          "listed_count": 6,
+          "media_count": 707,
+          "tweet_count": 4780
+        },
+        "username": "XmeowwoemX_017",
+        "verified": false
+      }
+    ]
+  }
+}

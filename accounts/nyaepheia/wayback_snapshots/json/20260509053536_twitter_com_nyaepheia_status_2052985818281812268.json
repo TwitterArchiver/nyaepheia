@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052985084450660352"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052985809209549106",
+    "created_at": "2026-05-09T05:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052985818281812268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S3hbgypsCL",
+          "end": 41,
+          "expanded_url": "https://x.com/nyaepheia/status/2052985818281812268/photo/1",
+          "media_key": "3_2052985084450660352",
+          "start": 18,
+          "url": "https://t.co/S3hbgypsCL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052985818281812268",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052985814003704264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自定义AI 提示词功能\n（3/4） https://t.co/S3hbgypsCL"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "自定义AI 提示词功能",
+        "height": 1005,
+        "media_key": "3_2052985084450660352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2rDp_bYAAaqaH.jpg",
+        "width": 1919
+      },
+      {
+        "alt_text": "时间线",
+        "height": 999,
+        "media_key": "3_2052984122105286656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2qLo-aUAAGm4Y.jpg",
+        "width": 1917
+      },
+      {
+        "alt_text": "推文详情页",
+        "height": 1000,
+        "media_key": "3_2052984853566758912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2q2N4aoAA5nVa.jpg",
+        "width": 1916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052985084450660352"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052985809209549106",
+        "created_at": "2026-05-09T05:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052985818281812268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S3hbgypsCL",
+              "end": 41,
+              "expanded_url": "https://x.com/nyaepheia/status/2052985818281812268/photo/1",
+              "media_key": "3_2052985084450660352",
+              "start": 18,
+              "url": "https://t.co/S3hbgypsCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052985818281812268",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052985814003704264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自定义AI 提示词功能\n（3/4） https://t.co/S3hbgypsCL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052984122105286656",
+            "3_2052984853566758912"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2052985809209549106",
+        "created_at": "2026-05-09T05:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052985814003704264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WmrFGuGKXY",
+              "end": 68,
+              "expanded_url": "https://x.com/nyaepheia/status/2052985814003704264/photo/1",
+              "media_key": "3_2052984122105286656",
+              "start": 45,
+              "url": "https://t.co/WmrFGuGKXY"
+            },
+            {
+              "display_url": "pic.x.com/WmrFGuGKXY",
+              "end": 68,
+              "expanded_url": "https://x.com/nyaepheia/status/2052985814003704264/photo/1",
+              "media_key": "3_2052984853566758912",
+              "start": 45,
+              "url": "https://t.co/WmrFGuGKXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052985814003704264",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052985809209549106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更现代化的帖子UI！\n更新了时间线，资料页，搜索页，推文详情页各种地方的UI\n（2/4） https://t.co/WmrFGuGKXY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 799,
+          "like_count": 20175,
+          "listed_count": 3,
+          "media_count": 256,
+          "tweet_count": 3484
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

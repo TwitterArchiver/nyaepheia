@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2055551890486865982",
+    "created_at": "2026-05-16T07:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T08:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055551890486865982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055551890486865982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055516380284510636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 摆拍我也支持，很厉害\n​她那视频我不知道谁设计的，真设计的太好了，它的精妙之处在于把平时静止在盲道上的路障电动车变成了动起来撞向盲人的电动车，而对盲人来说这两者是没有区别的。她通过这种方式告诉我们，停在盲道上的电动车，对于盲人来说与迎面…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1831,
+        "media_key": "3_2055516361703727104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIapPYlaoAAK0qF.jpg",
+        "width": 1071
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055516361913438208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIapPZXakAAU3Fb.jpg",
+        "width": 1124
+      },
+      {
+        "height": 1658,
+        "media_key": "3_2055516361913475072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIapPZXbIAA8u7C.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1870,
+        "media_key": "3_2055516361938604032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIapPZdakAAfnav.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2055551890486865982",
+        "created_at": "2026-05-16T07:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055551890486865982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055551890486865982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055516380284510636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 摆拍我也支持，很厉害\n​她那视频我不知道谁设计的，真设计的太好了，它的精妙之处在于把平时静止在盲道上的路障电动车变成了动起来撞向盲人的电动车，而对盲人来说这两者是没有区别的。她通过这种方式告诉我们，停在盲道上的电动车，对于盲人来说与迎面…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055516361703727104",
+            "3_2055516361913438208",
+            "3_2055516361913475072",
+            "3_2055516361938604032"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2055516380284510636",
+        "created_at": "2026-05-16T05:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055516380284510636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5WeBYbPhYU",
+              "end": 165,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2055516380284510636/photo/1",
+              "media_key": "3_2055516361703727104",
+              "start": 142,
+              "url": "https://t.co/5WeBYbPhYU"
+            },
+            {
+              "display_url": "pic.x.com/5WeBYbPhYU",
+              "end": 165,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2055516380284510636/photo/1",
+              "media_key": "3_2055516361913438208",
+              "start": 142,
+              "url": "https://t.co/5WeBYbPhYU"
+            },
+            {
+              "display_url": "pic.x.com/5WeBYbPhYU",
+              "end": 165,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2055516380284510636/photo/1",
+              "media_key": "3_2055516361913475072",
+              "start": 142,
+              "url": "https://t.co/5WeBYbPhYU"
+            },
+            {
+              "display_url": "pic.x.com/5WeBYbPhYU",
+              "end": 165,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2055516380284510636/photo/1",
+              "media_key": "3_2055516361938604032",
+              "start": 142,
+              "url": "https://t.co/5WeBYbPhYU"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2052984409096081839",
+              "start": 166,
+              "url": "https://t.co/off5WtfqQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055516380284510636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 613,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052984409096081839",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "摆拍我也支持，很厉害\n​她那视频我不知道谁设计的，真设计的太好了，它的精妙之处在于把平时静止在盲道上的路障电动车变成了动起来撞向盲人的电动车，而对盲人来说这两者是没有区别的。她通过这种方式告诉我们，停在盲道上的电动车，对于盲人来说与迎面撞过来的电动车无异！我认为她这个视频应该拿奖！ https://t.co/5WeBYbPhYU https://t.co/off5WtfqQQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 808,
+          "like_count": 21337,
+          "listed_count": 3,
+          "media_count": 317,
+          "tweet_count": 3890
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2055520955645268179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1357,
+          "following_count": 3816,
+          "like_count": 36683,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 9864
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2038914036889534742",
+    "created_at": "2026-03-31T09:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038914036889534742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2001598933169315840",
+          "start": 3,
+          "username": "XldscX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038914036889534742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038905721560211756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XldscX: 死者生前什么性别认同，那么最好墓志铭就写什么性别认同。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2038914036889534742",
+        "created_at": "2026-03-31T09:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038914036889534742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2001598933169315840",
+              "start": 3,
+              "username": "XldscX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038914036889534742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038905721560211756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XldscX: 死者生前什么性别认同，那么最好墓志铭就写什么性别认同。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001598933169315840",
+        "conversation_id": "2038905721560211756",
+        "created_at": "2026-03-31T09:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038905721560211756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038905721560211756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "死者生前什么性别认同，那么最好墓志铭就写什么性别认同。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/trans/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/SocDem/不键政/文科生/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/(半个)家长党/天残党/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2037905372414091549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 515,
+          "like_count": 5908,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "17y.o./xy/友跨顺男/hrt24.4.20/181cm 59kg/成功学校三楼跳楼/平淡而没有任何特长/喜欢Apex,CS,mai&Arcaea和睡觉/🀄️🍃\n\n我是翎\n可以蹭蓝标互关，7000fo小号@AzureV1xen \n\n好厚米🇲🇴@letana358121\n对象♥️@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "AzureV1xen"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "username": "letana358121"
+              },
+              {
+                "end": 152,
+                "start": 142,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/llenium1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/llenium1",
+                "start": 0,
+                "url": "https://t.co/mE8Cawnpdp"
+              }
+            ]
+          }
+        },
+        "id": "2001598933169315840",
+        "location": "🇹🇼中華民國戰時陪都重慶市",
+        "name": "Re: Yu1kaX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038196472232267776/XkfzpOwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 516,
+          "like_count": 14003,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 5020
+        },
+        "url": "https://t.co/mE8Cawnpdp",
+        "username": "XldscX",
+        "verified": true
+      }
+    ]
+  }
+}

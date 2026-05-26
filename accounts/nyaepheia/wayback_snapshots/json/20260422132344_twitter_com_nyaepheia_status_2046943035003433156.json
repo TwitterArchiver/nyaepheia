@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046943035003433156",
+    "created_at": "2026-04-22T13:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T14:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046943035003433156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawainegi/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/kawainegi/status/2046932258058367037",
+          "start": 8,
+          "url": "https://t.co/ZGZbI6oP5N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046943035003433156",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046932258058367037",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骨科百合！！！ https://t.co/ZGZbI6oP5N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2046932248075907072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgqCNXbMAAjF9h.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046943035003433156",
+        "created_at": "2026-04-22T13:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046943035003433156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawainegi/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/kawainegi/status/2046932258058367037",
+              "start": 8,
+              "url": "https://t.co/ZGZbI6oP5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046943035003433156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046932258058367037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骨科百合！！！ https://t.co/ZGZbI6oP5N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046932248075907072"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2046932258058367037",
+        "created_at": "2026-04-22T12:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046932258058367037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9NzfoUsnke",
+              "end": 36,
+              "expanded_url": "https://x.com/kawainegi/status/2046932258058367037/photo/1",
+              "media_key": "3_2046932248075907072",
+              "start": 13,
+              "url": "https://t.co/9NzfoUsnke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046932258058367037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妹の怨嗟をいただきました https://t.co/9NzfoUsnke"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 744,
+          "like_count": 16535,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2719
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 108,
+          "like_count": 2290,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 397
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2042086819316298153",
+    "created_at": "2026-04-09T03:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T04:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042086819316298153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1986433528196939777",
+          "start": 3,
+          "username": "Riddle_Jacker"
+        },
+        {
+          "end": 32,
+          "id": "1777129646867542016",
+          "start": 19,
+          "username": "Sunset__3000"
+        },
+        {
+          "end": 46,
+          "id": "1802704441961017344",
+          "start": 33,
+          "username": "misumikaede3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042086819316298153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042022336002695338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Riddle_Jacker: @Sunset__3000 @misumikaede3 笑死我了，这个国家怎么能烂成这个b样？\nod跟🦌有什么区别吗？管这么多\n怎么不管戒网瘾学校？怎么不管这么多割器官的？怎么不管贪污腐败？\n与其说这个视频作者态度高高在上，不如说支那政府一…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2042086819316298153",
+        "created_at": "2026-04-09T03:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042086819316298153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1986433528196939777",
+              "start": 3,
+              "username": "Riddle_Jacker"
+            },
+            {
+              "end": 32,
+              "id": "1777129646867542016",
+              "start": 19,
+              "username": "Sunset__3000"
+            },
+            {
+              "end": 46,
+              "id": "1802704441961017344",
+              "start": 33,
+              "username": "misumikaede3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042086819316298153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042022336002695338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Riddle_Jacker: @Sunset__3000 @misumikaede3 笑死我了，这个国家怎么能烂成这个b样？\nod跟🦌有什么区别吗？管这么多\n怎么不管戒网瘾学校？怎么不管这么多割器官的？怎么不管贪污腐败？\n与其说这个视频作者态度高高在上，不如说支那政府一…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986433528196939777",
+        "conversation_id": "2041890150498853294",
+        "created_at": "2026-04-08T23:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T00:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042022336002695338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777129646867542016",
+              "start": 0,
+              "username": "Sunset__3000"
+            },
+            {
+              "end": 27,
+              "id": "1802704441961017344",
+              "start": 14,
+              "username": "misumikaede3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042022336002695338",
+        "in_reply_to_user_id": "1777129646867542016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041890150498853294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sunset__3000 @misumikaede3 笑死我了，这个国家怎么能烂成这个b样？\nod跟🦌有什么区别吗？管这么多\n怎么不管戒网瘾学校？怎么不管这么多割器官的？怎么不管贪污腐败？\n与其说这个视频作者态度高高在上，不如说支那政府一向如此，解决不了问题就解决有问题的人\n这是政府的无能，不是我们的问题\n摸摸大家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2041715066337452228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 631,
+          "like_count": 9629,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1244
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-06T14:00:50.000Z",
+        "description": "⏰做题区一枚 臭打音游的 心情不好的时候会见证 4k: e7 e3 e3- e4",
+        "id": "1986433528196939777",
+        "name": "Riddle Jacker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013477272016052224/aUdbNnIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 340,
+          "like_count": 4086,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 506
+        },
+        "username": "Riddle_Jacker",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病 | 家里蹲备考 | 极端悲观主义 | 爱好生化药理板绘 | 同类互fo呀♡漏回提醒我🥹",
+        "id": "1777129646867542016",
+        "location": "宛平南路600号",
+        "name": "日落三千次💊",
+        "pinned_tweet_id": "2034272198798811213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 424,
+          "like_count": 2472,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 562
+        },
+        "username": "Sunset__3000",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "2009年生（大嘘）！2025.11.14｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯对不起请原谅我 小号的我：@shirokanearashi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 102,
+                "username": "shirokanearashi"
+              }
+            ]
+          }
+        },
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫#尾宿八",
+        "pinned_tweet_id": "2033998879956619524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041239223823695872/oskidzdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 978,
+          "like_count": 27607,
+          "listed_count": 4,
+          "media_count": 241,
+          "tweet_count": 8353
+        },
+        "username": "misumikaede3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034498923746951168",
+        "3_2034498930982215680"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2034498937953136678",
+    "created_at": "2026-03-19T05:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T06:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034498937953136678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/smSLrxtbu3",
+          "end": 35,
+          "expanded_url": "https://x.com/nyaepheia/status/2034498937953136678/photo/1",
+          "media_key": "3_2034498923746951168",
+          "start": 12,
+          "url": "https://t.co/smSLrxtbu3"
+        },
+        {
+          "display_url": "pic.x.com/smSLrxtbu3",
+          "end": 35,
+          "expanded_url": "https://x.com/nyaepheia/status/2034498937953136678/photo/1",
+          "media_key": "3_2034498930982215680",
+          "start": 12,
+          "url": "https://t.co/smSLrxtbu3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034498937953136678",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Grok你好温柔😭😭😭 https://t.co/smSLrxtbu3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2280,
+        "media_key": "3_2034498923746951168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDv9_e3aAAAbDs8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2252,
+        "media_key": "3_2034498930982215680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDv9_50bYAAOUPs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034498923746951168",
+            "3_2034498930982215680"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2034498937953136678",
+        "created_at": "2026-03-19T05:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T06:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034498937953136678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/smSLrxtbu3",
+              "end": 35,
+              "expanded_url": "https://x.com/nyaepheia/status/2034498937953136678/photo/1",
+              "media_key": "3_2034498923746951168",
+              "start": 12,
+              "url": "https://t.co/smSLrxtbu3"
+            },
+            {
+              "display_url": "pic.x.com/smSLrxtbu3",
+              "end": 35,
+              "expanded_url": "https://x.com/nyaepheia/status/2034498937953136678/photo/1",
+              "media_key": "3_2034498930982215680",
+              "start": 12,
+              "url": "https://t.co/smSLrxtbu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034498937953136678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Grok你好温柔😭😭😭 https://t.co/smSLrxtbu3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBT友好 | 09 |  MtF?MtX?探索中，总之不是顺直男 | she/they | 暂未HRT | 家长党 | 天残党 | Vibe coding | 搭建网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "Epheia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 331,
+          "like_count": 4376,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

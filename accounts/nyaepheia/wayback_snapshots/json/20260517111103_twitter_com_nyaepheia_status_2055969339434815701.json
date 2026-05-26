@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2055905662744625217",
+    "created_at": "2026-05-17T11:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055969339434815701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055969339434815701",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055905662744625217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonogamiRinneTS 认同"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39936,
+        "height": 1280,
+        "media_key": "13_2055905590778662912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055905590778662912/img/CZ7Cf2UeFwOfMME6.jpg",
+        "public_metrics": {
+          "view_count": 770
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055905590778662912/vid/avc1/320x568/0JbKAiM10po9co4T.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055905590778662912/vid/avc1/480x852/jraP8rzp1md2KT-0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055905590778662912/vid/avc1/720x1280/XEkACpppB7hIHYnA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055905590778662912/pl/Go011nVPoSv3H9m_.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2055905662744625217",
+        "created_at": "2026-05-17T11:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055969339434815701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055969339434815701",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055905662744625217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS 认同"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055905590778662912"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "2055905662744625217",
+        "created_at": "2026-05-17T06:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055905662744625217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/teRf2hLwou",
+              "end": 172,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2055905662744625217/video/1",
+              "media_key": "13_2055905590778662912",
+              "start": 149,
+              "url": "https://t.co/teRf2hLwou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055905662744625217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看了一下英国驻华大使馆今天发的这个，我发现一个问题。一方面国内在2016年就逐渐开始限制性少数群体相关舆论和曝光，但与此同时仍然在2017和2022两次降低性别变更门槛和2019年承认世卫组织关于跨性别去病化的新诊断标准。所以我猜测国内不同部门（舆论舆情监管部门，医疗卫生部门等）对于处理性少数群体相关的问题并没有互相协商统一行动，而是各搞各的\n\n由此进一步推测，比起最高层直接下令加强对LGBT的限制，更可能的是最高层下的指令是解决影响出生率的因素之类的相对宽泛的文件，然后下面的舆情部门负责人为了迎合上面，想当然的去打压性少数群体的发声，并以此作为自己的“政绩”。而医疗部门把解决出生率的重点放在降低医疗成本，提高产科医疗水平上，而不是去限制能为自身带来经济效益的性别过渡医疗方面\n\n不知大家怎么看？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1765,
+          "like_count": 57,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看了一下英国驻华大使馆今天发的这个，我发现一个问题。一方面国内在2016年就逐渐开始限制性少数群体相关舆论和曝光，但与此同时仍然在2017和2022两次降低性别变更门槛和2019年承认世卫组织关于跨性别去病化的新诊断标准。所以我猜测国内不同部门（舆论舆情监管部门，医疗卫生部门等）对于处理性少数群 https://t.co/teRf2hLwou"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 818,
+          "like_count": 21646,
+          "listed_count": 3,
+          "media_count": 332,
+          "tweet_count": 3965
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4480,
+          "following_count": 3407,
+          "like_count": 1316,
+          "listed_count": 16,
+          "media_count": 247,
+          "tweet_count": 1689
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

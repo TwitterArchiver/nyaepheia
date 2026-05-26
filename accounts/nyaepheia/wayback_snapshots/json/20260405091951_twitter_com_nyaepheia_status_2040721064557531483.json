@@ -1,0 +1,493 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Candidate for Governor of Wisconsin, Tony Evers",
+          "id": "1037017234462334976",
+          "name": "Tony Evers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Candidate for Governor of Wisconsin, Tony Evers",
+          "id": "1037017234462334976",
+          "name": "Tony Evers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Candidate for Governor of Wisconsin, Tony Evers",
+          "id": "1037017234462334976",
+          "name": "Tony Evers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Wisconsin",
+          "id": "1016387791591096320",
+          "name": "Wisconsin"
+        }
+      }
+    ],
+    "conversation_id": "2040721064557531483",
+    "created_at": "2026-04-05T09:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T10:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040721064557531483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "234896532",
+          "start": 3,
+          "username": "GovEvers"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040721064557531483",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 165
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040605199094485247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GovEvers: I declared 2026 the Year of the Neighbor in Wisconsin—we can all do more to treat other with kindness, respect, and empathy.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Trans Flag with text “Be a Good Neighbor”",
+        "height": 1171,
+        "media_key": "3_2040605194036334592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGvnMVaUAA9-vq.jpg",
+        "width": 2048
+      },
+      {
+        "alt_text": "Progress pride flag with the text “Stand with Trans Kids”",
+        "height": 1171,
+        "media_key": "3_2040605193876733953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGvnLvXAAEWpg3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Candidate for Governor of Wisconsin, Tony Evers",
+              "id": "1037017234462334976",
+              "name": "Tony Evers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Candidate for Governor of Wisconsin, Tony Evers",
+              "id": "1037017234462334976",
+              "name": "Tony Evers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Candidate for Governor of Wisconsin, Tony Evers",
+              "id": "1037017234462334976",
+              "name": "Tony Evers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Wisconsin",
+              "id": "1016387791591096320",
+              "name": "Wisconsin"
+            }
+          }
+        ],
+        "conversation_id": "2040721064557531483",
+        "created_at": "2026-04-05T09:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040721064557531483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "234896532",
+              "start": 3,
+              "username": "GovEvers"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040721064557531483",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040605199094485247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GovEvers: I declared 2026 the Year of the Neighbor in Wisconsin—we can all do more to treat other with kindness, respect, and empathy.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040605194036334592",
+            "3_2040605193876733953"
+          ]
+        },
+        "author_id": "234896532",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Candidate for Governor of Wisconsin, Tony Evers",
+              "id": "1037017234462334976",
+              "name": "Tony Evers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Candidate for Governor of Wisconsin, Tony Evers",
+              "id": "1037017234462334976",
+              "name": "Tony Evers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Candidate for Governor of Wisconsin, Tony Evers",
+              "id": "1037017234462334976",
+              "name": "Tony Evers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1254904651348013056",
+              "name": "Wisconsin"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Wisconsin",
+              "id": "1016387791591096320",
+              "name": "Wisconsin"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1254904651348013056",
+              "name": "Wisconsin"
+            }
+          }
+        ],
+        "conversation_id": "2040605199094485247",
+        "created_at": "2026-04-05T01:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T02:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040605199094485247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/641TgAzdRd",
+              "end": 306,
+              "expanded_url": "https://x.com/GovEvers/status/2040605199094485247/photo/1",
+              "media_key": "3_2040605194036334592",
+              "start": 283,
+              "url": "https://t.co/641TgAzdRd"
+            },
+            {
+              "display_url": "pic.x.com/641TgAzdRd",
+              "end": 306,
+              "expanded_url": "https://x.com/GovEvers/status/2040605199094485247/photo/1",
+              "media_key": "3_2040605193876733953",
+              "start": 283,
+              "url": "https://t.co/641TgAzdRd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040605199094485247",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 35646,
+          "like_count": 1413,
+          "quote_count": 27,
+          "reply_count": 311,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "I declared 2026 the Year of the Neighbor in Wisconsin—we can all do more to treat other with kindness, respect, and empathy.\n\nI proudly vetoed five bills this week that targeted our trans and gender nonconforming kids and LGBTQ neighbors. It's about being a good neighbor. 🏳️‍🌈🏳️‍⚧️ https://t.co/641TgAzdRd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/hrt26.4.1/家长党/天残党/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2040696789003809003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 581,
+          "like_count": 7183,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 451
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2011-01-06T21:05:10.000Z",
+        "description": "Husband to Kathy, lifelong educator, Euchre and bobblehead enthusiast, and 46th Governor of the State of Wisconsin.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "evers.wi.gov",
+                "end": 23,
+                "expanded_url": "https://evers.wi.gov/",
+                "start": 0,
+                "url": "https://t.co/JyH2JWfeyt"
+              }
+            ]
+          }
+        },
+        "id": "234896532",
+        "location": "Madison, Wisconsin",
+        "name": "Governor Tony Evers",
+        "pinned_tweet_id": "2005716076345324013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1361681110955098113/4O5J0V8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122550,
+          "following_count": 235,
+          "like_count": 154,
+          "listed_count": 1170,
+          "media_count": 3927,
+          "tweet_count": 13320
+        },
+        "url": "https://t.co/JyH2JWfeyt",
+        "username": "GovEvers",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048450823467008000"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2048450829959749732",
+    "created_at": "2026-04-26T17:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T18:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048450829959749732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JyhcixbbMu",
+          "end": 25,
+          "expanded_url": "https://x.com/nyaepheia/status/2048450829959749732/photo/1",
+          "media_key": "3_2048450823467008000",
+          "start": 2,
+          "url": "https://t.co/JyhcixbbMu"
+        },
+        {
+          "display_url": "x.com/deepseek_ai/st…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/deepseek_ai/status/2048440764368347611",
+          "start": 26,
+          "url": "https://t.co/glF0Sf4duV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048450829959749732",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048440764368347611",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😨 https://t.co/JyhcixbbMu https://t.co/glF0Sf4duV"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "模型细节\n模型\tdeepseek-v4-flash(1)\tdeepseek-v4-pro\nBASE URL (OpenAI 格式)\thttps://api.deepseek.com\nBASE URL (Anthropic 格式)\thttps://api.deepseek.com/anthropic\n模型版本\tDeepSeek-V4-Flash\tDeepSeek-V4-Pro\n思考模式\t支持非思考与思考模式（默认）\n切换方式详见思考模式\n上下文长度\t1M\n输出长度\t最大 384K\n功能\tJson Output\t支持\t支持\nTool Calls\t支持\t支持\n对话前缀续写（Beta）\t支持\t支持\nFIM 补全（Beta）\t仅非思考模式支持\t仅非思考模式支持\n价格\t百万tokens输入（缓存命中）(2)\t0.02元\t0.025元（限时2.5折(3)）0.1元\n百万tokens输入（缓存未命中）\t1元\t3元（限时2.5折(3)）12元\n百万tokens输出\t2元\t6元（限时2.5折(3)）24元",
+        "height": 1238,
+        "media_key": "3_2048450823467008000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2PK7ibgAAlUfl.jpg",
+        "width": 1080
+      },
+      {
+        "height": 900,
+        "media_key": "3_2048440525569871872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2Fzg4bUAAXN5S.jpg",
+        "width": 1632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048450823467008000"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2048450829959749732",
+        "created_at": "2026-04-26T17:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048450829959749732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JyhcixbbMu",
+              "end": 25,
+              "expanded_url": "https://x.com/nyaepheia/status/2048450829959749732/photo/1",
+              "media_key": "3_2048450823467008000",
+              "start": 2,
+              "url": "https://t.co/JyhcixbbMu"
+            },
+            {
+              "display_url": "x.com/deepseek_ai/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/deepseek_ai/status/2048440764368347611",
+              "start": 26,
+              "url": "https://t.co/glF0Sf4duV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048450829959749732",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048440764368347611",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😨 https://t.co/JyhcixbbMu https://t.co/glF0Sf4duV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048440525569871872"
+          ]
+        },
+        "author_id": "1714580962569588736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1884286926779191296",
+              "name": "DeepSeek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2048440764368347611",
+        "created_at": "2026-04-26T16:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048440764368347611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/glpUSyzqKy",
+              "end": 298,
+              "expanded_url": "https://x.com/deepseek_ai/status/2048440764368347611/photo/1",
+              "media_key": "3_2048440525569871872",
+              "start": 275,
+              "url": "https://t.co/glpUSyzqKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048440764368347611",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "🔥DeepSeek Input Cache Price Drop!\n\nEffective immediately, the price for input cache hits across the ENTIRE DeepSeek API series is reduced to just 1/10th of the original price! Build more efficiently for less.\n\n📌Reminder: The DeepSeek-V4-Pro 75% OFF promotion is still active until May 5th, 2026, 15:59 (UTC Time)."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 39241,
+          "like_count": 1046,
+          "quote_count": 47,
+          "reply_count": 81,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "🔥DeepSeek Input Cache Price Drop!\n\nEffective immediately, the price for input cache hits across the ENTIRE DeepSeek API series is reduced to just 1/10th of the original price! Build more efficiently for less.\n\n📌Reminder: The DeepSeek-V4-Pro 75% OFF promotion is still active https://t.co/glpUSyzqKy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 765,
+          "like_count": 17666,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 2920
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-18T09:55:45.000Z",
+        "description": "Unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "deepseek.com",
+                "end": 23,
+                "expanded_url": "https://www.deepseek.com/",
+                "start": 0,
+                "url": "https://t.co/Un4k2rqn4o"
+              }
+            ]
+          }
+        },
+        "id": "1714580962569588736",
+        "name": "DeepSeek",
+        "pinned_tweet_id": "2048440764368347611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012583,
+          "following_count": 0,
+          "like_count": 32,
+          "listed_count": 4465,
+          "media_count": 104,
+          "tweet_count": 166
+        },
+        "url": "https://t.co/Un4k2rqn4o",
+        "username": "deepseek_ai",
+        "verified": true
+      }
+    ]
+  }
+}

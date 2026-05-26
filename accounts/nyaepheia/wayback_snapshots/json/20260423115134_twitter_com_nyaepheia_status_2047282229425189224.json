@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2047282229425189224",
+    "created_at": "2026-04-23T11:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047282229425189224"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 83,
+          "start": 78,
+          "tag": "顺直TV"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/GeBiubiu/statu…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/GeBiubiu/status/2046781713607782872",
+          "start": 84,
+          "url": "https://t.co/hGzNP715Fj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047282229425189224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046781713607782872",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这真的很恐怖\n不管是思想还是实际\n所以是怎么推导出「孩子多的家庭应该会很欢乐」的？\n并且把他们孩子多的原因（封建的重男轻女思想）避而不谈，包装成某种炫耀\n\n#顺直TV https://t.co/hGzNP715Fj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16966,
+        "height": 1920,
+        "media_key": "13_2046781526688555008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046781526688555008/img/oAQYIncB7qBO46yp.jpg",
+        "public_metrics": {
+          "view_count": 18533
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046781526688555008/vid/avc1/320x568/SqK5F4YQdjxGvFP-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046781526688555008/vid/avc1/480x852/6y_OUOzTqrGgmj9o.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046781526688555008/vid/avc1/720x1280/8aoeqKtWLoWMOhTs.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046781526688555008/pl/v0xfjhLHDUR-Rg9o.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2047282229425189224",
+        "created_at": "2026-04-23T11:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047282229425189224"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "顺直TV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/GeBiubiu/statu…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/GeBiubiu/status/2046781713607782872",
+              "start": 84,
+              "url": "https://t.co/hGzNP715Fj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047282229425189224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046781713607782872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这真的很恐怖\n不管是思想还是实际\n所以是怎么推导出「孩子多的家庭应该会很欢乐」的？\n并且把他们孩子多的原因（封建的重男轻女思想）避而不谈，包装成某种炫耀\n\n#顺直TV https://t.co/hGzNP715Fj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046781526688555008"
+          ]
+        },
+        "author_id": "1734188803747962880",
+        "conversation_id": "2046781713607782872",
+        "created_at": "2026-04-22T02:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046781713607782872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qkv4nSNIFU",
+              "end": 37,
+              "expanded_url": "https://x.com/GeBiubiu/status/2046781713607782872/video/1",
+              "media_key": "13_2046781526688555008",
+              "start": 14,
+              "url": "https://t.co/Qkv4nSNIFU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046781713607782872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 36930,
+          "like_count": 79,
+          "quote_count": 5,
+          "reply_count": 134,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "孩子多的家庭\n应该会很欢乐 https://t.co/Qkv4nSNIFU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 749,
+          "like_count": 16791,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 2767
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-11T12:30:30.000Z",
+        "description": "🇨🇳 钢筋直男 分享 美好\n      \n（视频图片源自网络 如有侵权请联系删除～）",
+        "id": "1734188803747962880",
+        "location": "Jiangxi China",
+        "name": "是Biubiu_Ge",
+        "pinned_tweet_id": "2028390436583485865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011019340095897601/M3EAib_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11277,
+          "following_count": 6005,
+          "like_count": 374696,
+          "listed_count": 35,
+          "media_count": 1019,
+          "tweet_count": 17914
+        },
+        "username": "GeBiubiu",
+        "verified": false
+      }
+    ]
+  }
+}

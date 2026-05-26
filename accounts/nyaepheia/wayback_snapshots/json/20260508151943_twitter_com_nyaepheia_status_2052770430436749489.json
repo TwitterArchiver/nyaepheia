@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052768573995859968",
+        "3_2052768839704961025"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      }
+    ],
+    "conversation_id": "2052770430436749489",
+    "created_at": "2026-05-08T15:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052770430436749489"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 133,
+          "start": 125,
+          "tag": "ai_bsky"
+        },
+        {
+          "end": 138,
+          "start": 134,
+          "tag": "Dev"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kd6QETBaMt",
+          "end": 168,
+          "expanded_url": "https://x.com/nyaepheia/status/2052770430436749489/photo/1",
+          "media_key": "3_2052768573995859968",
+          "start": 145,
+          "url": "https://t.co/Kd6QETBaMt"
+        },
+        {
+          "display_url": "pic.x.com/Kd6QETBaMt",
+          "end": 168,
+          "expanded_url": "https://x.com/nyaepheia/status/2052770430436749489/photo/1",
+          "media_key": "3_2052768839704961025",
+          "start": 145,
+          "url": "https://t.co/Kd6QETBaMt"
+        },
+        {
+          "display_url": "x.com/nyaepheia/stat…",
+          "end": 192,
+          "expanded_url": "https://twitter.com/nyaepheia/status/2052360124736708942",
+          "start": 169,
+          "url": "https://t.co/gR4XKRiLfp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052770430436749489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 133,
+            "start": 125,
+            "tag": "ai_bsky"
+          },
+          {
+            "end": 138,
+            "start": 134,
+            "tag": "Dev"
+          }
+        ]
+      },
+      "text": "【2026年5月8日 v0.6.0】\nai-bsky 今天更新了什么？\n是列表功能！我们实现了AT 协议列表的绝大多数功能，您可以在这里直接管理您的列表。并且，既然AI 是我们的特色，那当然，AI 也可以进行列表操作！\n\n还有更多👇（社交圈功能）\n\n#ai_bsky #Dev\n（1/3）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052360124736708942",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "【2026年5月8日 v0.6.0】\nai-bsky 今天更新了什么？\n是列表功能！我们实现了AT 协议列表的绝大多数功能，您可以在这里直接管理您的列表。并且，既然AI 是我们的特色，那当然，AI 也可以进行列表操作！\n\n还有更多👇（社交圈功能）\n\n#ai_bsky #Dev\n（1/3） https://t.co/Kd6QETBaMt https://t.co/gR4XKRiLfp"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "列表界面",
+        "height": 1002,
+        "media_key": "3_2052768573995859968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzmJFsbwAAfo8b.jpg",
+        "width": 1917
+      },
+      {
+        "alt_text": "测试：帮我把我的测试列表的epheia.moe 移除\n\n思考\n用户想要从他们的测试列表中移除 epheia.moe。我需要先找到用户的测试列表，然后找到 epheia.moe 的 DID，最后将其从列表中移除。\n好的，我来帮你操作！首先，我需要查找你的列表信息和 epheia.moe 的 DID。\n\n\n工具调用\nget_lists\n▸\n1 个列表\n工具调用\nresolve_handle\n▸\n思考\n找到了：\n找到了！你的测试列表中有 epheia.moe（DID: did:plc:5vfxagg63vxs3mh4a3cjmntd）。现在我将其从列表中移除。\n\n\n工具调用\nremove_from_list\n▸\n已从列表移除\n思考\n已成功移除。它说移除了2条记录，可能是因为之前被添加了多次。操作完成。\n已成功将 epheia.moe 从你的「测试」列表中移除 ✅（共移除了 2 条关联记录）。\n\n现在你的测试列表应该是空的了。还有其他需要帮忙的吗？",
+        "height": 939,
+        "media_key": "3_2052768839704961025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzmYjia4AEqd42.png",
+        "width": 604
+      },
+      {
+        "alt_text": "<currently_viewing>用户当前正在浏览: 帖子: at://did:plc:s3wre6cj4v7vczwopx5ygacp/app.bsky.feed.post/3ml6lstuk432p。这个信息可能有帮助，但如果用户没有要求你使用，请不要提及。</currently_viewing>\n查看这个帖子\n\n思考\nThe user is asking me to look at a post. Let me get the context for this post to understand what it's about.\n好的，让我查看这个帖子的内容。\n\n\n工具调用\nget_post_context\n▸\n这种现象是有名字的，叫“冒风险的尊严”，大意是神经典型的人（非自闭症、非注意力障碍、非精神障碍的人群）和身心健全的人被允许做一些“坏”的决定，他们可以熬夜、喝醉、等等等等，哪怕这些事会有负面影响。但不属于这些群体的人却被认为要剥夺所有做“不够好/不够健康”的决定的权利。我想说的不止这些，但我马上要去上工了，所以只能暂时讲到这里为止。 source\n思考\nLet me understand this post. It's from \"twittertranslate.bsky.social\" (推特翻译 - which appears to be a translation account). The post is in Chinese and discusses a concept called \"冒风险的尊严\" (which translates to something like \"dignity of risk\").\n让我也看看帖子附带的图片，以获取完整信息。\n\n\n工具调用\nextract_images_from_post\n▸\n2 images\n思考\nThere are two images. Let me view them to see the full content.\n工具调用\nview_image\n▸\nImage (image/jpeg)\n工具调用\nview_image\n▸\nImage (image/jpeg)",
+        "height": 950,
+        "media_key": "3_2052357899964600320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtwottbUAAGce3.png",
+        "width": 602
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052768573995859968",
+            "3_2052768839704961025"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2052770430436749489",
+        "created_at": "2026-05-08T15:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052770430436749489"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 125,
+              "tag": "ai_bsky"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "Dev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kd6QETBaMt",
+              "end": 168,
+              "expanded_url": "https://x.com/nyaepheia/status/2052770430436749489/photo/1",
+              "media_key": "3_2052768573995859968",
+              "start": 145,
+              "url": "https://t.co/Kd6QETBaMt"
+            },
+            {
+              "display_url": "pic.x.com/Kd6QETBaMt",
+              "end": 168,
+              "expanded_url": "https://x.com/nyaepheia/status/2052770430436749489/photo/1",
+              "media_key": "3_2052768839704961025",
+              "start": 145,
+              "url": "https://t.co/Kd6QETBaMt"
+            },
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2052360124736708942",
+              "start": 169,
+              "url": "https://t.co/gR4XKRiLfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052770430436749489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 133,
+                "start": 125,
+                "tag": "ai_bsky"
+              },
+              {
+                "end": 138,
+                "start": 134,
+                "tag": "Dev"
+              }
+            ]
+          },
+          "text": "【2026年5月8日 v0.6.0】\nai-bsky 今天更新了什么？\n是列表功能！我们实现了AT 协议列表的绝大多数功能，您可以在这里直接管理您的列表。并且，既然AI 是我们的特色，那当然，AI 也可以进行列表操作！\n\n还有更多👇（社交圈功能）\n\n#ai_bsky #Dev\n（1/3）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052360124736708942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【2026年5月8日 v0.6.0】\nai-bsky 今天更新了什么？\n是列表功能！我们实现了AT 协议列表的绝大多数功能，您可以在这里直接管理您的列表。并且，既然AI 是我们的特色，那当然，AI 也可以进行列表操作！\n\n还有更多👇（社交圈功能）\n\n#ai_bsky #Dev\n（1/3） https://t.co/Kd6QETBaMt https://t.co/gR4XKRiLfp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052357899964600320"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052360124736708942",
+        "created_at": "2026-05-07T12:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052360124736708942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fEDBBAcY4C",
+              "end": 86,
+              "expanded_url": "https://x.com/nyaepheia/status/2052360124736708942/photo/1",
+              "media_key": "3_2052357899964600320",
+              "start": 63,
+              "url": "https://t.co/fEDBBAcY4C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052360124736708942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "【2026年5月7日 v0.5.2】\nai-bsky 今天更新了什么？\n是更美观的AI 聊天页面！\n\n还有更多👇\n（1/3） https://t.co/fEDBBAcY4C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 796,
+          "like_count": 20143,
+          "listed_count": 3,
+          "media_count": 252,
+          "tweet_count": 3468
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

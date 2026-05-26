@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2051186632913776944",
+    "created_at": "2026-05-05T14:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051669353159082247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "147178617",
+          "start": 0,
+          "username": "KawaiRina_"
+        },
+        {
+          "end": 28,
+          "id": "1565981667746914304",
+          "start": 12,
+          "username": "Kagura_Yukikaze"
+        },
+        {
+          "end": 44,
+          "id": "1438165482373193728",
+          "start": 29,
+          "username": "Coconutmilkqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051669353159082247",
+    "in_reply_to_user_id": "147178617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051662222942785786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiRina_ @Kagura_Yukikaze @Coconutmilkqwq 抱抱...添加了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2051186632913776944",
+        "created_at": "2026-05-05T14:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051669353159082247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "147178617",
+              "start": 0,
+              "username": "KawaiRina_"
+            },
+            {
+              "end": 28,
+              "id": "1565981667746914304",
+              "start": 12,
+              "username": "Kagura_Yukikaze"
+            },
+            {
+              "end": 44,
+              "id": "1438165482373193728",
+              "start": 29,
+              "username": "Coconutmilkqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051669353159082247",
+        "in_reply_to_user_id": "147178617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051662222942785786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiRina_ @Kagura_Yukikaze @Coconutmilkqwq 抱抱...添加了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "147178617",
+        "conversation_id": "2051186632913776944",
+        "created_at": "2026-05-05T13:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051662222942785786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 27,
+              "id": "1565981667746914304",
+              "start": 11,
+              "username": "Kagura_Yukikaze"
+            },
+            {
+              "end": 56,
+              "id": "1438165482373193728",
+              "start": 41,
+              "username": "Coconutmilkqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051662222942785786",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051186632913776944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @Kagura_Yukikaze 补充一个！我姐姐！qwq\n@Coconutmilkqwq  2023年7月10日凌晨走掉的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 787,
+          "like_count": 19553,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 3335
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-23T12:19:18.000Z",
+        "description": "C++与Unreal Engine糕手！\n努力做全栈！还在学构图和C#~ | 是17岁的老东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rina.resonera.cn",
+                "end": 23,
+                "expanded_url": "http://rina.resonera.cn",
+                "start": 0,
+                "url": "https://t.co/vm72v5LOJR"
+              }
+            ]
+          }
+        },
+        "id": "147178617",
+        "name": "KawaiRina🍥",
+        "pinned_tweet_id": "2039657542880804973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025472366592360450/h3M_pJO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 59,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 107
+        },
+        "url": "https://t.co/vm72v5LOJR",
+        "username": "KawaiRina_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3010,
+          "following_count": 2901,
+          "like_count": 104602,
+          "listed_count": 8,
+          "media_count": 780,
+          "tweet_count": 12735
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-15T15:39:24.000Z",
+        "description": "愿每个人都可以被温柔以待～",
+        "id": "1438165482373193728",
+        "location": "喵喵星",
+        "name": "樱花味奶糖喵～（枍瑶）",
+        "pinned_tweet_id": "1639828720503623681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677143500566188032/s5F3HK9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2807,
+          "following_count": 741,
+          "like_count": 8515,
+          "listed_count": 14,
+          "media_count": 308,
+          "tweet_count": 1422
+        },
+        "username": "Coconutmilkqwq",
+        "verified": false
+      }
+    ]
+  }
+}

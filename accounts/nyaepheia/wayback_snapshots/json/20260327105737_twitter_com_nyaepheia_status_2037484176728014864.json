@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2037484176728014864",
+    "created_at": "2026-03-27T10:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T11:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037484176728014864"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 20,
+          "tag": "联合国教科文组织"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "303806284",
+          "start": 3,
+          "username": "UNESCO_chinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037484176728014864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037385120542294251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UNESCO_chinese: #联合国教科文组织 发布最新分析显示，全球已有114个国家和地区的教育系统实施手机禁令或限制措施📵，是2023年的2倍多。\n\n如何兼顾保护学习环境与培养学生必要的数字技能和批判性思维能力？\n我们倡导：按照以人为本、以权利为基础的方式在教育…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2037238646865301504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEW5wW0akAAsHBZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2037484176728014864",
+        "created_at": "2026-03-27T10:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037484176728014864"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "联合国教科文组织"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "303806284",
+              "start": 3,
+              "username": "UNESCO_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037484176728014864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037385120542294251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UNESCO_chinese: #联合国教科文组织 发布最新分析显示，全球已有114个国家和地区的教育系统实施手机禁令或限制措施📵，是2023年的2倍多。\n\n如何兼顾保护学习环境与培养学生必要的数字技能和批判性思维能力？\n我们倡导：按照以人为本、以权利为基础的方式在教育…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037238646865301504"
+          ]
+        },
+        "author_id": "303806284",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2037385120542294251",
+        "created_at": "2026-03-27T04:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T05:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037385120542294251"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "联合国教科文组织"
+            },
+            {
+              "end": 143,
+              "start": 138,
+              "tag": "优质教育"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1N4dEiG1R",
+              "end": 167,
+              "expanded_url": "https://x.com/UNESCO_chinese/status/2037385120542294251/photo/1",
+              "media_key": "3_2037238646865301504",
+              "start": 144,
+              "url": "https://t.co/O1N4dEiG1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037385120542294251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#联合国教科文组织 发布最新分析显示，全球已有114个国家和地区的教育系统实施手机禁令或限制措施📵，是2023年的2倍多。\n\n如何兼顾保护学习环境与培养学生必要的数字技能和批判性思维能力？\n我们倡导：按照以人为本、以权利为基础的方式在教育中运用数字技术，使所有学习者受益。\n\n#优质教育 https://t.co/O1N4dEiG1R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+全友好 | 09 | 文科生 | MtF/MtX? | she/they | 无糖 | (半个)家长党 | 天残党 | Vibe coding | 搭网站 | 成分不明的可能会直接ban\nhttps://t.co/pke4ezHBE3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "desuwa.org/about/me/x",
+                "end": 141,
+                "expanded_url": "http://desuwa.org/about/me/x",
+                "start": 118,
+                "url": "https://t.co/pke4ezHBE3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 459,
+          "like_count": 5106,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-23T13:10:38.000Z",
+        "description": "战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障。\n#教育 #科学 #文化 #传播 #信息",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "教育"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "科学"
+              },
+              {
+                "end": 41,
+                "start": 38,
+                "tag": "文化"
+              },
+              {
+                "end": 45,
+                "start": 42,
+                "tag": "传播"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "信息"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "unesco.org/zh",
+                "end": 23,
+                "expanded_url": "https://www.unesco.org/zh",
+                "start": 0,
+                "url": "https://t.co/udyfiQ0Rz2"
+              }
+            ]
+          }
+        },
+        "id": "303806284",
+        "location": "联合国教科文组织总部 法国•巴黎",
+        "name": "联合国教科文组织",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1193847119481835527/6sD9IUQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36669,
+          "following_count": 41,
+          "like_count": 487,
+          "listed_count": 119,
+          "media_count": 10684,
+          "tweet_count": 11221
+        },
+        "url": "https://t.co/udyfiQ0Rz2",
+        "username": "UNESCO_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

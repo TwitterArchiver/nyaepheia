@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2047170561160433835",
+    "created_at": "2026-04-24T11:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T12:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047632170035056663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546121412842098688",
+          "start": 0,
+          "username": "heyaoping"
+        },
+        {
+          "end": 22,
+          "id": "1757616332240224256",
+          "start": 11,
+          "username": "B_cat38324"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "zh.wikipedia.org/wiki/%E8%B7%A8…",
+          "end": 50,
+          "expanded_url": "https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7",
+          "images": [
+            {
+              "height": 1440,
+              "url": "https://pbs.twimg.com/news_img/2047632175898779648/fQnYRs86?format=jpg&name=orig",
+              "width": 960
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2047632175898779648/fQnYRs86?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 27,
+          "status": 200,
+          "title": "跨性別女性 - 维基百科，自由的百科全书",
+          "unwound_url": "https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7",
+          "url": "https://t.co/vA4EACrAEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047632170035056663",
+    "in_reply_to_user_id": "1546121412842098688",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047362553681211549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heyaoping @B_cat38324 FYI:https://t.co/vA4EACrAEX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2047170561160433835",
+        "created_at": "2026-04-24T11:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047632170035056663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546121412842098688",
+              "start": 0,
+              "username": "heyaoping"
+            },
+            {
+              "end": 22,
+              "id": "1757616332240224256",
+              "start": 11,
+              "username": "B_cat38324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "zh.wikipedia.org/wiki/%E8%B7%A8…",
+              "end": 50,
+              "expanded_url": "https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7",
+              "images": [
+                {
+                  "height": 1440,
+                  "url": "https://pbs.twimg.com/news_img/2047632175898779648/fQnYRs86?format=jpg&name=orig",
+                  "width": 960
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2047632175898779648/fQnYRs86?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 27,
+              "status": 200,
+              "title": "跨性別女性 - 维基百科，自由的百科全书",
+              "unwound_url": "https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7",
+              "url": "https://t.co/vA4EACrAEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047632170035056663",
+        "in_reply_to_user_id": "1546121412842098688",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047362553681211549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heyaoping @B_cat38324 FYI:https://t.co/vA4EACrAEX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546121412842098688",
+        "conversation_id": "2047170561160433835",
+        "created_at": "2026-04-23T17:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047362553681211549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047362553681211549",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11215,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047170561160433835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 不是活这么久了，这个跨性别女性又是什么东西？666上网还真能学到东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 752,
+          "like_count": 17038,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 2794
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-10T13:17:37.000Z",
+        "description": "",
+        "id": "1546121412842098688",
+        "name": "苦瓜大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975509488561225728/mVNKHKBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 23,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "heyaoping",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21921,
+          "following_count": 198,
+          "like_count": 709,
+          "listed_count": 67,
+          "media_count": 103,
+          "tweet_count": 23166
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

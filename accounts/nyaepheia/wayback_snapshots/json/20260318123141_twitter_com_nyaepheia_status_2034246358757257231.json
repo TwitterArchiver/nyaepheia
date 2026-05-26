@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2034246358757257231",
+    "created_at": "2026-03-18T12:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T13:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034246358757257231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1679567295348187136",
+          "start": 3,
+          "username": "libra_emgel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034246358757257231",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3206
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034058005805724065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @libra_emgel: já foi liberdade de opinião dizer que negros são biologicamente inferiores que brancos."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2034246358757257231",
+        "created_at": "2026-03-18T12:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T13:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034246358757257231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1679567295348187136",
+              "start": 3,
+              "username": "libra_emgel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034246358757257231",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3206
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034058005805724065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @libra_emgel: já foi liberdade de opinião dizer que negros são biologicamente inferiores que brancos."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679567295348187136",
+        "conversation_id": "2034058005805724065",
+        "created_at": "2026-03-18T00:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T01:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034058005805724065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/trackchartt/st…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/trackchartt/status/2033993214181392755",
+              "start": 88,
+              "url": "https://t.co/VJBYPjKKMM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034058005805724065",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 341,
+          "impression_count": 301818,
+          "like_count": 26639,
+          "quote_count": 37,
+          "reply_count": 256,
+          "retweet_count": 3206
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033993214181392755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "já foi liberdade de opinião dizer que negros são biologicamente inferiores que brancos. https://t.co/VJBYPjKKMM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBT友好 | 09 |  MtF?MtX?探索中，总之不是顺直男 | she/they | 暂未HRT | 家长党 | 天残党 | Vibe coding | 搭建网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "Epheia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 326,
+          "like_count": 4340,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 76
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-13T19:04:03.000Z",
+        "description": "summa vitae: ars gratia artis, ars imitatur vitam, ars est initium omnium rerum",
+        "id": "1679567295348187136",
+        "location": "Istambul ",
+        "name": "picolé de estrogênio",
+        "pinned_tweet_id": "1972765522359181720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965606767728930816/vTIajTzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7769,
+          "following_count": 507,
+          "like_count": 18165,
+          "listed_count": 5,
+          "media_count": 913,
+          "tweet_count": 10697
+        },
+        "username": "libra_emgel",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057177940295913472"
+      ],
+      "media_source_tweet_id": [
+        "2057177943261229556"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057325461735407793",
+    "created_at": "2026-05-21T04:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057325461735407793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1643517192955207680",
+          "start": 3,
+          "username": "GlassFoxowo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yvKU38SzXh",
+          "end": 107,
+          "expanded_url": "https://x.com/GlassFoxowo/status/2057177943261229556/photo/1",
+          "media_key": "3_2057177940295913472",
+          "start": 84,
+          "url": "https://t.co/yvKU38SzXh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057325461735407793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057177943261229556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GlassFoxowo: 我平时很少谈论政治，但沉默久了我会感觉自己像是共谋，此条帖文若是进入了某些不喜欢政治讨论的朋友的时间线而使你感受到不快，我很抱歉。… https://t.co/yvKU38SzXh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 604,
+        "media_key": "3_2057177940295913472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIyQb_MbkAAKAX6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057177940295913472"
+          ],
+          "media_source_tweet_id": [
+            "2057177943261229556"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057325461735407793",
+        "created_at": "2026-05-21T04:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057325461735407793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1643517192955207680",
+              "start": 3,
+              "username": "GlassFoxowo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yvKU38SzXh",
+              "end": 107,
+              "expanded_url": "https://x.com/GlassFoxowo/status/2057177943261229556/photo/1",
+              "media_key": "3_2057177940295913472",
+              "start": 84,
+              "url": "https://t.co/yvKU38SzXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057325461735407793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057177943261229556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GlassFoxowo: 我平时很少谈论政治，但沉默久了我会感觉自己像是共谋，此条帖文若是进入了某些不喜欢政治讨论的朋友的时间线而使你感受到不快，我很抱歉。… https://t.co/yvKU38SzXh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057177940295913472"
+          ]
+        },
+        "author_id": "1643517192955207680",
+        "conversation_id": "2057177943261229556",
+        "created_at": "2026-05-20T19:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T20:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057177943261229556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yvKU38SzXh",
+              "end": 89,
+              "expanded_url": "https://x.com/GlassFoxowo/status/2057177943261229556/photo/1",
+              "media_key": "3_2057177940295913472",
+              "start": 66,
+              "url": "https://t.co/yvKU38SzXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057177943261229556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我平时很少谈论政治，但沉默久了我会感觉自己像是共谋，此条帖文若是进入了某些不喜欢政治讨论的朋友的时间线而使你感受到不快，我很抱歉。\n\n近来，有同仁因最高法下属部门一则措辞温和的答复而大为振奋，我理解这种情绪：在长期压抑之后，任何一点善意的光，都会被无限放大，我也并不否认其中有限的积极意义。\n\n但如果因此判断政策风向正在发生实质转变，恐怕仍然过于乐观。\n\n我想结合自己对政治运作的理解与这些年的观察，梳理一些基本概念和我的个人观点，并提醒某些同仁：不要把低层级、个案式的积极信号误读为制度层面的转向。\n\n一、最高法信访办的表态，能代表什么？\n\n答案是什么都代表不了。\n\n首先，我国的政治体制，呈现出一种尖塔式、向上负责的中央集权官僚结构，各部门代理人在服从上级命令这一点上高度一致，但在具体事务中的风格、判断与风险偏好，可能相去甚远。\n\n这套体制在对外形象层面形成了「一荣俱荣、一损俱损」的捆绑，任何一个部门的态度都可能被外界解读为整个政府的意志，但在实际运作层面，不同部门完全可以说着不同的话，做着不同的事。\n\n这并不矛盾。\n\n最高法信访回信表示支持性少数群体人权，宣传与文化主管部门同时持续清理相关内容，这两件事可以同时为真，而且彼此并不构成约束。\n\n二、信访答复是什么？\n\n信访制度从设计上就不是正式的政策宣示渠道，它更接近于情绪疏导与矛盾缓冲：让不满有个出口，让诉求有个去处，但并不承担改变制度的责任。\n\n因此，信访办的答复，无论措辞多么积极，既不能推翻上位法，也无法约束其他部门的行政行为。它的法律效力几乎为零。\n\n更值得注意的是，在向上负责的体制逻辑下，一个部门的开明表态，往往发生在缺乏明确上级指令的灰色地带，正因为没有指令，才有了临时的弹性；也正因为只是临时的弹性，它随时可能被收回、纠正，甚至引发连锁性的追责。\n以一些不那么善意的揣测来看，这一回复如此大规模、广泛地传播，恐怕已经对参与回复的那位信访办工作人员产生了某种程度的影响。\n\n三、判断风向，应当看什么？\n\n真正有意义的指标，首先是立法动向。\n\n法律的修订、新增与删除，是统治阶级意志最明确、也最稳定的表达。性少数议题在中国大陆至今未进入任何实质性的立法程序，长期处于一种被刻意无视的状态，这本身就已经说明了很多事情。\n\n其次，是中央媒体的定性框架。\n\n《人民日报》《新华社》等中央媒体的叙事口径，往往先于政策而动。近年来，从对所谓「娘炮」的批判，到对「彩虹经济」的警惕，再到平台对性少数内容的反复清理，这些都有迹可循，其信号强度远超一则信访答复，再往下，才是部委政策与地方试点，至于个案答复与窗口部门回应，只能算弱信号，其外推性极为有限。\n综合以上，结论其实毫无悬念：目前不存在任何指向系统性政策开明化的实质信号，一个都没有。\n\n四、我们处在何种状态当中？\n\n我们处在一种被默许的灰色地带当中。\n\n在默许的灰色地带里，你可以存在，但你的存在没有制度背书；你可以低调生活，但一旦你的可见度、组织性或议题化倾向超过当局愿意容忍的阈值，打击随时都会到来。\n\n这些年，同志社群、高校 LGBT 社团、公益组织的相继消失，并不是因为它们触犯了哪条明确的成文规定，而是因为它们变得太「可见」了。\n\n灰色地带的边界，会随政治气候而收缩或扩张，但只要没有制度性保障，它的本质就不会改变：\n\n活在别人的容忍里，而不是自己的权利上。\n\n五、我的悲观，及其依据\n\n说完以上这些，我要直接表明：我对性少数群体在中国大陆的处境，持相当悲观的态度。\n\n其一，性少数议题正在被有意地、系统性地与「西化」「境外势力」「文化渗透」等意识形态叙事相连接，而我们对此几乎束手无策，一旦进入这一框架，任何法律论证与权利倡议，都会被优先解读为政治威胁，每一次民族主义情绪的抬头，都将直接挤压少数群体的生存空间，历史已经无数次验证过这样的规律。\n\n其二，性少数群体在数量上本就处于弱势，组织性力量又被系统性压制，发声渠道日渐式微。没有稳定的组织网络，没有可公开运作的倡导机制，也没有能够进入立法程序的游说渠道。这意味着，在政治层面，性少数群体几乎没有任何谈判资本。\n\n其三，这套体制决定了，涉及文化、法律与制度的实质性变革，如果没有自上而下的推动，自下而上几乎不可能实现。而高层迄今为止，在任何正式场合都从未以正面语境提及这一议题。议题不进入政治议程，权利与立法保护就无从谈起。\n\n其四，意识形态的高压已经持续多年，且在可预见的未来看不到逆转迹象，秉承宁可错杀不可放过的原则层层加码，公民社会空间被系统性压缩，自下而上的倡导路径几近断绝，在这样的条件下，期待以社会运动推动政策变革，在现阶段几乎是不现实的。\n我不认为这一处境永远不会改变。历史从来不是单向的，但真正的改变只能来自整个政治生态的结构性松动，而这在可见的将来依然希望渺茫。\n\n在此之前，我能说的只有这些：\n\n请在现有灰色地带内尽可能保全自己。\n\n请对自身处境保持清醒。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 6849,
+          "like_count": 154,
+          "quote_count": 7,
+          "reply_count": 7,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "我平时很少谈论政治，但沉默久了我会感觉自己像是共谋，此条帖文若是进入了某些不喜欢政治讨论的朋友的时间线而使你感受到不快，我很抱歉。 https://t.co/yvKU38SzXh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 829,
+          "like_count": 22517,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 4137
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-05T07:33:48.000Z",
+        "description": "🏳️‍🌈 Gay | 22 | Furry | ✝ |\n🎵音乐日推Bot #玻狸日推歌单 | 🌏Base 重庆 |\n💻半吊子DevOps 前端运维网络什么都会一点 |\n❤️ 爱人 @realShellWen |\n©️允许转载，注明出处即可",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 37,
+                "tag": "玻狸日推歌单"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 90,
+                "username": "realShellWen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.glassfoxowo.com",
+                "end": 23,
+                "expanded_url": "https://note.glassfoxowo.com",
+                "start": 0,
+                "url": "https://t.co/g02SwVlQdr"
+              }
+            ]
+          }
+        },
+        "id": "1643517192955207680",
+        "location": "南通福瑞有限公司",
+        "name": "玻狸",
+        "pinned_tweet_id": "2041198899093004607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026080688454414336/S_dPrHrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4561,
+          "following_count": 373,
+          "like_count": 8220,
+          "listed_count": 1,
+          "media_count": 1163,
+          "tweet_count": 4886
+        },
+        "url": "https://t.co/g02SwVlQdr",
+        "username": "GlassFoxowo",
+        "verified": false
+      }
+    ]
+  }
+}

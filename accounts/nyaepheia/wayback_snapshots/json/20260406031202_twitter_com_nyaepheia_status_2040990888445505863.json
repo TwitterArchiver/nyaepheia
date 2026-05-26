@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2040985402702745974",
+    "created_at": "2026-04-06T03:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T04:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040990888445505863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596405792315691008",
+          "start": 0,
+          "username": "0502railgun1949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040990888445505863",
+    "in_reply_to_user_id": "1596405792315691008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040985402702745974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0502railgun1949 那「评论区的烟民」都是一堆顺直男，看着就味大，好恶心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040985352492740608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMJXU8a8AAcRBa.jpg",
+        "width": 983
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2040985402702745974",
+        "created_at": "2026-04-06T03:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040990888445505863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040990888445505863",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040985402702745974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 那「评论区的烟民」都是一堆顺直男，看着就味大，好恶心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040985352492740608"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2040985402702745974",
+        "created_at": "2026-04-06T02:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040985402702745974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0tXfRsWLGW",
+              "end": 100,
+              "expanded_url": "https://x.com/0502railgun1949/status/2040985402702745974/photo/1",
+              "media_key": "3_2040985352492740608",
+              "start": 77,
+              "url": "https://t.co/0tXfRsWLGW"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2040950111308804220",
+              "start": 101,
+              "url": "https://t.co/aMZSsDrlWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040985402702745974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040950111308804220",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "深圳经济特区控烟管理条例\n明确将使用電子煙納入吸煙的範疇，并增加規定了煙草制品和電子煙的定義\n室内工作場所、室内公共場所和公共交通工具内禁止吸煙。\n下详 https://t.co/0tXfRsWLGW https://t.co/aMZSsDrlWc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/hrt26.4.1/家长党/天残党/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2040696789003809003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 589,
+          "like_count": 7437,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 559
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 656,
+          "like_count": 12245,
+          "listed_count": 3,
+          "media_count": 1293,
+          "tweet_count": 9685
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

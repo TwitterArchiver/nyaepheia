@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2044074081876881735",
+    "created_at": "2026-04-14T15:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044074081876881735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Shioochicqwq/s…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Shioochicqwq/status/2044073675243303073",
+          "start": 22,
+          "url": "https://t.co/09W75HClG4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044074081876881735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044073675243303073",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "传下去，amber 被老保上锁 12 小时 https://t.co/09W75HClG4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2044074081876881735",
+        "created_at": "2026-04-14T15:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044074081876881735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shioochicqwq/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Shioochicqwq/status/2044073675243303073",
+              "start": 22,
+              "url": "https://t.co/09W75HClG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044074081876881735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044073675243303073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "传下去，amber 被老保上锁 12 小时 https://t.co/09W75HClG4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033160782687731712",
+        "conversation_id": "2044073675243303073",
+        "created_at": "2026-04-14T15:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044073675243303073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kagura_Yukikaz…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Kagura_Yukikaze/status/2044071976059506691",
+              "start": 22,
+              "url": "https://t.co/vT6vIjZ58s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044073675243303073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044071976059506691",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "传下去，amber 被老保上锁 12 小时 https://t.co/vT6vIjZ58s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary? Queer? MtF/X transles?\n✨she/they\n小证含糖hrt26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\nVibe coding/搭网站\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 150,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 683,
+          "like_count": 13386,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1993
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜choose life?！",
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 353,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 601
+        },
+        "username": "Shioochicqwq",
+        "verified": false
+      }
+    ]
+  }
+}

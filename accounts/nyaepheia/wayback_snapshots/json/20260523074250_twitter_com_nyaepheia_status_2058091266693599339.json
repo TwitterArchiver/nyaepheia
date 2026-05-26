@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2058091265473105920"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2058091266693599339",
+    "created_at": "2026-05-23T07:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T08:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058091266693599339"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058091266693599339",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "I would like to conduct a survey.\n\nWhat is the primary language my followers use in their daily lives?\nI hope you will answer seriously.\nPlease participate in the poll below:\nA. Chinese\nB. English\nC. Japanese\nD. Other — please comment below."
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 2880,
+        "end_datetime": "2026-05-25T07:42:49.000Z",
+        "id": "2058091265473105920",
+        "options": [
+          {
+            "label": "A. 中文",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "B. English",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "C.日本語",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "D. Other",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2058091265473105920"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2058091266693599339",
+        "created_at": "2026-05-23T07:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058091266693599339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058091266693599339",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "I would like to conduct a survey.\n\nWhat is the primary language my followers use in their daily lives?\nI hope you will answer seriously.\nPlease participate in the poll below:\nA. Chinese\nB. English\nC. Japanese\nD. Other — please comment below."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 825,
+          "like_count": 23162,
+          "listed_count": 3,
+          "media_count": 377,
+          "tweet_count": 4321
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

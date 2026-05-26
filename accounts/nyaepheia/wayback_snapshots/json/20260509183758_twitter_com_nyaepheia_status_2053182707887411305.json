@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053182700547399680"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2053182707887411305",
+    "created_at": "2026-05-09T18:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T19:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053182707887411305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DC5gO6RcOx",
+          "end": 46,
+          "expanded_url": "https://x.com/nyaepheia/status/2053182707887411305/photo/1",
+          "media_key": "3_2053182700547399680",
+          "start": 23,
+          "url": "https://t.co/DC5gO6RcOx"
+        },
+        {
+          "display_url": "x.com/noname2095_/st…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/noname2095_/status/2053102745436184587",
+          "start": 47,
+          "url": "https://t.co/wth80bjyMG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053182707887411305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053102745436184587",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已更新v0.10.1\n新增调试信息和输入净化 https://t.co/DC5gO6RcOx https://t.co/wth80bjyMG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2105,
+        "media_key": "3_2053182700547399680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5eybUa4AAOMRY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053182700547399680"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2053182707887411305",
+        "created_at": "2026-05-09T18:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T19:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053182707887411305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DC5gO6RcOx",
+              "end": 46,
+              "expanded_url": "https://x.com/nyaepheia/status/2053182707887411305/photo/1",
+              "media_key": "3_2053182700547399680",
+              "start": 23,
+              "url": "https://t.co/DC5gO6RcOx"
+            },
+            {
+              "display_url": "x.com/noname2095_/st…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/noname2095_/status/2053102745436184587",
+              "start": 47,
+              "url": "https://t.co/wth80bjyMG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053182707887411305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053102745436184587",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已更新v0.10.1\n新增调试信息和输入净化 https://t.co/DC5gO6RcOx https://t.co/wth80bjyMG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736265610911428608",
+        "conversation_id": "2052799107874558237",
+        "created_at": "2026-05-09T13:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053102745436184587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "xxx.bsky.social",
+              "end": 44,
+              "expanded_url": "http://xxx.bsky.social",
+              "start": 21,
+              "status": 200,
+              "title": "Bluesky",
+              "unwound_url": "https://bsky.app/profile/xxx.bsky.social",
+              "url": "https://t.co/TfKR9gVNsv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053102745436184587",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053101850346529274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 填的是直接复制上去的https://t.co/TfKR9gVNsv和直接复制粘贴上去的app密码，并且已经试过多次，还多次试过新创建app密码"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 803,
+          "like_count": 20309,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 3533
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\nhttps://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 69,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 46,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2322,
+          "following_count": 350,
+          "like_count": 4163,
+          "listed_count": 7,
+          "media_count": 303,
+          "tweet_count": 10706
+        },
+        "username": "noname2095_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2051507277522481562",
+    "created_at": "2026-05-05T04:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T05:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051513084662202582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1520999626006228992",
+          "start": 0,
+          "username": "MallocZero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051513084662202582",
+    "in_reply_to_user_id": "1520999626006228992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051507277522481562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MallocZero 跨性别者的互助显然远大于互害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2051507277522481562",
+        "created_at": "2026-05-05T04:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051513084662202582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520999626006228992",
+              "start": 0,
+              "username": "MallocZero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051513084662202582",
+        "in_reply_to_user_id": "1520999626006228992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051507277522481562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MallocZero 跨性别者的互助显然远大于互害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520999626006228992",
+        "conversation_id": "2051507277522481562",
+        "created_at": "2026-05-05T03:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T04:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051507277522481562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2051290294835093966",
+              "start": 75,
+              "url": "https://t.co/GlSE5eAGJR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051507277522481562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051290294835093966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "霸凌跨子的：跨子\n开盒跨子的：跨子\n强行出柜跨子的：跨子\n带跨子入圈OD的：跨子\n给跨子介绍黑切的：跨子\n\n跨子的最大迫害者：正常人\n只能表示支持🤗 https://t.co/GlSE5eAGJR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 778,
+          "like_count": 19352,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 3281
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-02T05:32:37.000Z",
+        "description": "我跟你妈一起上过爱泼斯坦岛🤗",
+        "id": "1520999626006228992",
+        "location": "In bed w ur sis",
+        "name": "Transracial Rooftop Chinchon",
+        "pinned_tweet_id": "2031634443451179515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016157143666462720/g939UX1q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 78,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1794
+        },
+        "username": "MallocZero",
+        "verified": false
+      }
+    ]
+  }
+}

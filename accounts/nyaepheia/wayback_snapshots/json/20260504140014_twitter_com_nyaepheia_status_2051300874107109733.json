@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2051012419502374928",
+    "created_at": "2026-05-04T14:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T15:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051300874107109733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692511487531909120",
+          "start": 0,
+          "username": "CicadaSeventeen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051300874107109733",
+    "in_reply_to_user_id": "1692511487531909120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051299802412192214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CicadaSeventeen 什么意思（？）\n是说转帖吗？转帖会让列表外的人的帖子出现在列表，\n如果你不喜欢某个人的转帖，可以在他们的资料页点击「关闭转帖」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2051012419502374928",
+        "created_at": "2026-05-04T14:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051300874107109733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692511487531909120",
+              "start": 0,
+              "username": "CicadaSeventeen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051300874107109733",
+        "in_reply_to_user_id": "1692511487531909120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051299802412192214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CicadaSeventeen 什么意思（？）\n是说转帖吗？转帖会让列表外的人的帖子出现在列表，\n如果你不喜欢某个人的转帖，可以在他们的资料页点击「关闭转帖」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692511487531909120",
+        "conversation_id": "2051012419502374928",
+        "created_at": "2026-05-04T13:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051299802412192214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051299802412192214",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051012419502374928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 我怎么觉得随便一刷都有好几百个呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 777,
+          "like_count": 19284,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 3250
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-18T12:19:29.000Z",
+        "description": "名誉mtf（？）已经搬到深圳\n不用Tg了，请推特私信或微信\n在北京能提供紧急避险或熟人借住。",
+        "id": "1692511487531909120",
+        "location": "北京",
+        "name": "🌈 Cic17",
+        "pinned_tweet_id": "1967264197257154633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027023455598899200/imFQgBaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 181,
+          "like_count": 988,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 2612
+        },
+        "username": "CicadaSeventeen",
+        "verified": false
+      }
+    ]
+  }
+}

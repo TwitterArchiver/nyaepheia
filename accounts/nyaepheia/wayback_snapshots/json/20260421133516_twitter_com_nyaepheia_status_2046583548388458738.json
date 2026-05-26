@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046583548388458738",
+    "created_at": "2026-04-21T13:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T14:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046583548388458738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1608637128132685825",
+          "start": 3,
+          "username": "nyaepheia"
+        },
+        {
+          "end": 26,
+          "id": "1491630608832876547",
+          "start": 15,
+          "username": "hakanopesu"
+        },
+        {
+          "end": 38,
+          "id": "2039504366755790848",
+          "start": 27,
+          "username": "AsumiBloom"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Northwestern scientists propose interventions to limit the spread of misinformation and improve user experience",
+          "display_url": "news.northwestern.edu/stories/2023/0…",
+          "end": 117,
+          "expanded_url": "https://news.northwestern.edu/stories/2023/08/social-media-algorithms-exploit-how-humans-learn-from-their-peers",
+          "start": 94,
+          "status": 200,
+          "title": "Social media algorithms exploit how we learn from our peers",
+          "unwound_url": "https://news.northwestern.edu/stories/2023/08/social-media-algorithms-exploit-how-humans-learn-from-their-peers",
+          "url": "https://t.co/o2FJG9Ro3N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046583548388458738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046581953701495237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyaepheia: @hakanopesu @AsumiBloom 觉得「高度重合」，很大程度上是因为「幸存者偏差」和「社交算法」的共同作用。[算法放大极端内容制造可见性偏差](https://t.co/o2FJG9Ro3N)。  \n1. **声量不等于数量：**…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046583548388458738",
+        "created_at": "2026-04-21T13:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046583548388458738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1608637128132685825",
+              "start": 3,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 26,
+              "id": "1491630608832876547",
+              "start": 15,
+              "username": "hakanopesu"
+            },
+            {
+              "end": 38,
+              "id": "2039504366755790848",
+              "start": 27,
+              "username": "AsumiBloom"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Northwestern scientists propose interventions to limit the spread of misinformation and improve user experience",
+              "display_url": "news.northwestern.edu/stories/2023/0…",
+              "end": 117,
+              "expanded_url": "https://news.northwestern.edu/stories/2023/08/social-media-algorithms-exploit-how-humans-learn-from-their-peers",
+              "start": 94,
+              "status": 200,
+              "title": "Social media algorithms exploit how we learn from our peers",
+              "unwound_url": "https://news.northwestern.edu/stories/2023/08/social-media-algorithms-exploit-how-humans-learn-from-their-peers",
+              "url": "https://t.co/o2FJG9Ro3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046583548388458738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046581953701495237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyaepheia: @hakanopesu @AsumiBloom 觉得「高度重合」，很大程度上是因为「幸存者偏差」和「社交算法」的共同作用。[算法放大极端内容制造可见性偏差](https://t.co/o2FJG9Ro3N)。  \n1. **声量不等于数量：**…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046526682820190372",
+        "created_at": "2026-04-21T13:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046581953701495237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1491630608832876547",
+              "start": 0,
+              "username": "hakanopesu"
+            },
+            {
+              "end": 23,
+              "id": "2039504366755790848",
+              "start": 12,
+              "username": "AsumiBloom"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Northwestern scientists propose interventions to limit the spread of misinformation and improve user experience",
+              "display_url": "news.northwestern.edu/stories/2023/0…",
+              "end": 102,
+              "expanded_url": "https://news.northwestern.edu/stories/2023/08/social-media-algorithms-exploit-how-humans-learn-from-their-peers",
+              "start": 79,
+              "status": 200,
+              "title": "Social media algorithms exploit how we learn from our peers",
+              "unwound_url": "https://news.northwestern.edu/stories/2023/08/social-media-algorithms-exploit-how-humans-learn-from-their-peers",
+              "url": "https://t.co/o2FJG9Ro3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046581953701495237",
+        "in_reply_to_user_id": "1491630608832876547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "news.northwestern.edu/stories/2023/0…",
+                "end": 78,
+                "expanded_url": "https://news.northwestern.edu/stories/2023/08/social-media-algorithms-exploit-how-humans-learn-from-their-peers",
+                "start": 55,
+                "url": "https://t.co/acH6JwgGAb"
+              },
+              {
+                "display_url": "ustranssurvey.org/report/health/",
+                "end": 221,
+                "expanded_url": "https://ustranssurvey.org/report/health/",
+                "start": 198,
+                "url": "https://t.co/6SIs9XC9xe"
+              },
+              {
+                "display_url": "sciencedirect.com/science/articl…",
+                "end": 363,
+                "expanded_url": "https://www.sciencedirect.com/science/article/pii/S0963868725000198",
+                "start": 340,
+                "url": "https://t.co/GpQRApt5me"
+              },
+              {
+                "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC11…",
+                "end": 487,
+                "expanded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11937787/",
+                "start": 464,
+                "url": "https://t.co/BGyAZBz1mN"
+              },
+              {
+                "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC48…",
+                "end": 601,
+                "expanded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4809047/",
+                "start": 578,
+                "url": "https://t.co/HLNdsaiL9V"
+              },
+              {
+                "display_url": "news.northwestern.edu/stories/2023/0…",
+                "end": 826,
+                "expanded_url": "https://news.northwestern.edu/stories/2023/08/social-media-algorithms-exploit-how-humans-learn-from-their-peers",
+                "start": 803,
+                "url": "https://t.co/acH6JwgGAb"
+              },
+              {
+                "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC11…",
+                "end": 964,
+                "expanded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/",
+                "start": 941,
+                "url": "https://t.co/PpAn8d1hbD"
+              },
+              {
+                "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC48…",
+                "end": 1156,
+                "expanded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4809047/",
+                "start": 1133,
+                "url": "https://t.co/HLNdsaiL9V"
+              },
+              {
+                "display_url": "sciencedirect.com/science/articl…",
+                "end": 1318,
+                "expanded_url": "https://www.sciencedirect.com/science/article/pii/S0963868725000198",
+                "start": 1295,
+                "url": "https://t.co/GpQRApt5me"
+              },
+              {
+                "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC11…",
+                "end": 1568,
+                "expanded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11937787/",
+                "start": 1545,
+                "url": "https://t.co/BGyAZBz1mN"
+              },
+              {
+                "display_url": "pubmed.ncbi.nlm.nih.gov/33453501/",
+                "end": 1759,
+                "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/33453501/",
+                "start": 1736,
+                "url": "https://t.co/EZo81NeMtT"
+              },
+              {
+                "display_url": "ustranssurvey.org/report/health/",
+                "end": 1975,
+                "expanded_url": "https://ustranssurvey.org/report/health/",
+                "start": 1952,
+                "url": "https://t.co/6SIs9XC9xe"
+              },
+              {
+                "display_url": "transequality.org/sites/default/…",
+                "end": 2122,
+                "expanded_url": "https://transequality.org/sites/default/files/2025-06/USTS_2022Health%26WellbeingReport_WEB.pdf",
+                "start": 2099,
+                "url": "https://t.co/DIVjmM1h90"
+              }
+            ]
+          },
+          "text": "觉得「高度重合」，很大程度上是因为「幸存者偏差」和「社交算法」的共同作用。[算法放大极端内容制造可见性偏差](https://t.co/acH6JwgGAb)。  \n1. **声量不等于数量：** 生活平稳、不尝试危险行为的跨性别者通常是沉默的，他们不会发动态说‘我今天很健康’；而处于危机中的人更需要通过网络宣泄，导致这类内容在首页出镜率极高。[USTS数据显示多数跨性别者过着日常稳定生活](https://t.co/6SIs9XC9xe)。  \n2. **圈层并非全貌：** 跨性别群体里有程序员、医生、学生、体力劳动者，绝大多数人与这种亚文化毫无交集。如果你的首页全是这类内容，那说明你的社交圈层被算法‘茧房’化了，而非这个群体真的如此。[信息茧房限制了群体多样性感知](https://t.co/GpQRApt5me)。  \n3. **拒绝病态绑定：** 把外部压迫导致的心理创伤（od）当成群体标签，是对那些努力健康生活的跨性别的否定，也是在合理化这种伤害行为。[少数群体压力元分析证实：药物滥用源于歧视而非身份](https://t.co/BGyAZBz1mN)。”\n\n一句话总结：\n不要因为看了一百个发帖的人，就忽略了背后一万个在安静生活的人。把行为亚文化和身份政治强行挂钩，本身就是一种偏见。[跨性别群体生活多样性远超社交媒体可见部分](https://t.co/HLNdsaiL9V)。\n\n---\n\n### 1. 幸存者偏差与“声量”错觉\n**核心论点：行为极端的人往往拥有更大的社交媒体声量，而沉默的大多数是不可见的。**  \n* **可见性偏差：** 在社交平台上，一个生活稳定、按时服药、努力工作的跨性别者通常不会每天发帖说“我今天也没 od”。相反，处于精神危机中、通过 od 寻求宣泄的人更有动力通过发帖寻找共鸣。[社交媒体算法倾向于放大极端、情绪化内容，导致用户感知偏差](https://t.co/acH6JwgGAb)。  \n* **算法推流：** 算法倾向于推送具有冲击力、情绪化的内容。这导致用户刷到的动态中，od 相关内容比例远高于现实比例，从而产生“遍地都是”的错觉。[算法通过利用人类从同伴学习偏差，系统性放大极端内容，形成信息茧房](https://t.co/PpAn8d1hbD)。\n\n### 2. 社交圈层的“同温层效应”\n**核心论点：所谓的“高度重合”往往只是特定小圈子的局部现象，而非群体全貌。**  \n* **圈子隔离：** 跨性别群体内部非常多元。学生圈、职场圈、技术圈、家长圈……很多圈层与“亚文化/药圈”几乎没有交集。[跨性别群体在就业、年龄和生活阶段上呈现显著多样性，大多数人过着日常稳定的生活](https://t.co/HLNdsaiL9V)。  \n* **社交网络结构：** 如果一个人的关注列表里大部分是处于情绪极度不稳定的用户，那么他感知到的“世界”就是高度重合的。正如 Haskina 所说，这很大程度上是**社交圈子的抽样误差**。[信息茧房和回音室效应在社交媒体中系统性限制信息多样性，导致局部感知偏差](https://t.co/GpQRApt5me)。\n\n### 3. 因果倒置：是“压迫”而非“身份”\n**核心论点：od 是心理健康受损的表现，而心理受损源于外部环境，并非跨性别身份的自带属性。**  \n* **共病性不等于同一性：** 跨性别者因为社会歧视、家庭压力容易产生抑郁和焦虑，进而可能导致药物滥用。但这属于**“少数群体压力”**导致的次生结果，而不是跨性别身份本身的一部分。[2025年元分析证实：远端少数群体压力（歧视、排斥）与跨性别者的药物使用频率和问题显著正相关，而非身份本身](https://t.co/BGyAZBz1mN)。  \n* **横向对比：** 在其他高压群体（如面临极端学业压力的学生、某些高压行业的从业者）中也存在类似的药物滥用现象。我们不会说“学生和 od 圈高度重合”，为什么要把这个标签贴在跨性别者身上？[少数群体压力模型（Minority Stress Model）解释了跨性别者药物滥用主要源于歧视而非身份，适用于LGBTQ+群体](https://t.co/EZo81NeMtT)。\n\n### 4. 统计学意义上的广度\n**核心论点：跨性别者的基数远超社交媒体活跃用户，大部分人生活在“圈子”之外。**  \n* **现身说法：** 现实中绝大多数跨性别者都在为了生存、学业、手术费用而奔波，他们对身体健康的重视程度往往极高（因为需要健康的身体来支撑过渡）。[2022美国跨性别调查（USTS）显示，大多数受访者有工作或在求学，尽管面临歧视，但多数人追求稳定生活](https://t.co/6SIs9XC9xe)。  \n* **年龄与阶段：** “od 圈”往往集中在特定的青少年/低龄网民群体中，随着年龄增长和生活状态的改变，绝大多数人会脱离这种亚文化。[大型调查显示跨性别成年人在就业和日常生活中的多样性远高于社交媒体可见部分，多数人已脱离危机亚文化](https://t.co/DIVjmM1h90)。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046579954092302693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hakanopesu @AsumiBloom 觉得「高度重合」，很大程度上是因为「幸存者偏差」和「社交算法」的共同作用。[算法放大极端内容制造可见性偏差](https://t.co/o2FJG9Ro3N)。  \n1. **声量不等于数量：**"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 739,
+          "like_count": 16084,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2512
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-10T04:30:46.000Z",
+        "description": "想成为男娘 | 不学无术 | 并非Developer | HRT since 24.02.23 | 含糖顺男",
+        "id": "1491630608832876547",
+        "name": "Haskina🍥",
+        "pinned_tweet_id": "1790356918353158650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770327321951793152/et0NXeqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 265,
+          "like_count": 2040,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1088
+        },
+        "username": "hakanopesu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T00:45:24.000Z",
+        "description": "MTF粉毛小公主澄花在线营业中丨现役转生中～喜欢可爱的东西和可爱的人丨求互fo丨INFP/ISFP丨26.4.8螺+凝胶丨中度社恐丨重度失眠丨长期内不会紫砂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/asumibloom",
+                "end": 23,
+                "expanded_url": "https://ngl.link/asumibloom",
+                "start": 0,
+                "url": "https://t.co/I4tM6i6R7O"
+              }
+            ]
+          }
+        },
+        "id": "2039504366755790848",
+        "name": "澄花🍥",
+        "pinned_tweet_id": "2039916482445124085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039732354839871489/pX1wI3ao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 120,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 309
+        },
+        "url": "https://t.co/I4tM6i6R7O",
+        "username": "AsumiBloom",
+        "verified": false
+      }
+    ]
+  }
+}

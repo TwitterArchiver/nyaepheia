@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2050036022017490944"
+      ],
+      "media_source_tweet_id": [
+        "2050036100803219758"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050089024417923411",
+    "created_at": "2026-05-01T05:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T06:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050089024417923411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        },
+        {
+          "end": 52,
+          "id": "1822200301345980416",
+          "start": 40,
+          "username": "shiyaoshiwo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/agz4ixK6KB",
+          "end": 125,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2050036100803219758/video/1",
+          "media_key": "7_2050036022017490944",
+          "start": 102,
+          "url": "https://t.co/agz4ixK6KB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050089024417923411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050036100803219758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 信息简报:2026/4/07\n受害者:@shiyaoshiwo \n被山东省车牌号为鲁AV72K6的车强制带走下附电梯中被绑架视频\n本人仅提供信息有能力者自行救援 https://t.co/agz4ixK6KB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43345,
+        "height": 1280,
+        "media_key": "7_2050036022017490944",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050036022017490944/pu/img/K511glGqiIPJzSUx.jpg",
+        "public_metrics": {
+          "view_count": 948
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050036022017490944/pu/vid/avc1/320x568/q8yDPsxC34mcvq4W.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050036022017490944/pu/vid/avc1/480x852/Zdxrgp0JD_AX6cc4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050036022017490944/pu/vid/avc1/720x1280/YHiMKIzIoZ4iPlH4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050036022017490944/pu/pl/5P1gFmzhu1W2ojTC.m3u8?tag=12&v=15a"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050036022017490944"
+          ],
+          "media_source_tweet_id": [
+            "2050036100803219758"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050089024417923411",
+        "created_at": "2026-05-01T05:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050089024417923411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 52,
+              "id": "1822200301345980416",
+              "start": 40,
+              "username": "shiyaoshiwo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/agz4ixK6KB",
+              "end": 125,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2050036100803219758/video/1",
+              "media_key": "7_2050036022017490944",
+              "start": 102,
+              "url": "https://t.co/agz4ixK6KB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050089024417923411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050036100803219758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 信息简报:2026/4/07\n受害者:@shiyaoshiwo \n被山东省车牌号为鲁AV72K6的车强制带走下附电梯中被绑架视频\n本人仅提供信息有能力者自行救援 https://t.co/agz4ixK6KB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050036022017490944"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2050036100803219758",
+        "created_at": "2026-05-01T02:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T03:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050036100803219758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1822200301345980416",
+              "start": 19,
+              "username": "shiyaoshiwo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/agz4ixK6KB",
+              "end": 104,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2050036100803219758/video/1",
+              "media_key": "7_2050036022017490944",
+              "start": 81,
+              "url": "https://t.co/agz4ixK6KB"
+            },
+            {
+              "display_url": "x.com/PaulDrizzyvlni…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/PaulDrizzyvlni/status/2049609142625857748",
+              "start": 105,
+              "url": "https://t.co/9lJFaHNtcl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050036100803219758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3066,
+          "like_count": 77,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049609142625857748",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "信息简报:2026/4/07\n受害者:@shiyaoshiwo \n被山东省车牌号为鲁AV72K6的车强制带走下附电梯中被绑架视频\n本人仅提供信息有能力者自行救援 https://t.co/agz4ixK6KB https://t.co/9lJFaHNtcl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 764,
+          "like_count": 18438,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 3024
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4833,
+          "following_count": 2658,
+          "like_count": 2639,
+          "listed_count": 18,
+          "media_count": 400,
+          "tweet_count": 2668
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T09:16:52.000Z",
+        "description": "emmm，只会宅家打游戏的傻小孩吗，等等好像是我……可以随便被拿捏的屑……大大一只小女孩但是很无力…信息:180/130 /已出柜/爱哭鬼/生日是五月五号！/我爱吃甜品/好想吃汉堡呜呜/不喜欢播音的播音生/我想吃蛋挞X﹏X为什么不放假/我想要安安全全的（持续堆积中的简介）",
+        "id": "1822200301345980416",
+        "location": "桥洞下",
+        "name": "詩瑤🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004450408807485440/Ev5UOKh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 262,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1431
+        },
+        "username": "shiyaoshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

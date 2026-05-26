@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2053411972314751436",
+    "created_at": "2026-05-10T11:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053430154027061574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2019293013114253313",
+          "start": 0,
+          "username": "seeyouinthe2999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053430154027061574",
+    "in_reply_to_user_id": "2019293013114253313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053411972314751436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seeyouinthe2999 一个半月前我才发第一条推文（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2053411972314751436",
+        "created_at": "2026-05-10T11:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053430154027061574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019293013114253313",
+              "start": 0,
+              "username": "seeyouinthe2999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053430154027061574",
+        "in_reply_to_user_id": "2019293013114253313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053411972314751436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeyouinthe2999 一个半月前我才发第一条推文（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2053411972314751436",
+        "created_at": "2026-05-10T09:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053411972314751436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053411972314751436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "差不多三个月前的今天我第一次登上了推特，而现在我已经将近600fo了过得真快呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 801,
+          "like_count": 20368,
+          "listed_count": 3,
+          "media_count": 269,
+          "tweet_count": 3547
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "15岁高中生 oder💊 mtf 抑郁/焦虑/c-ptsd\n喜欢听摇滚  割🔪  重返未来1999 偶尔发一些意识流诗文\n只要有手机耳机我就在听歌睡觉也在\n被pr80空腹逼疯的胃病患者\n同类来互fo捏\n@seeinMillennium 备用号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "seeinMillennium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seeyouinthe2999",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seeyouinthe2999",
+                "start": 0,
+                "url": "https://t.co/FSmPgqNygM"
+              }
+            ]
+          }
+        },
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥马库斯爱吃蛋糕💊​🏳️‍⚧️",
+        "pinned_tweet_id": "2051915709974974926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 644,
+          "like_count": 2590,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 1184
+        },
+        "url": "https://t.co/FSmPgqNygM",
+        "username": "seeyouinthe2999",
+        "verified": false
+      }
+    ]
+  }
+}

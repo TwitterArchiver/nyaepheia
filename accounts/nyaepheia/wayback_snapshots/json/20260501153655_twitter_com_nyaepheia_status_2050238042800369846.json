@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2050238042800369846",
+    "created_at": "2026-05-01T15:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T16:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050238042800369846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1608637128132685825",
+          "start": 3,
+          "username": "nyaepheia"
+        },
+        {
+          "end": 28,
+          "id": "1466992710846406659",
+          "start": 15,
+          "username": "elonmusk8964"
+        },
+        {
+          "end": 41,
+          "id": "1662723831533027329",
+          "start": 29,
+          "username": "loong001116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050238042800369846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050157749368229951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyaepheia: @elonmusk8964 @loong001116 可以的，对顺直不支持不反对，就像他们现在对LGBTQ+ 的态度那样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2050238042800369846",
+        "created_at": "2026-05-01T15:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050238042800369846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1608637128132685825",
+              "start": 3,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 28,
+              "id": "1466992710846406659",
+              "start": 15,
+              "username": "elonmusk8964"
+            },
+            {
+              "end": 41,
+              "id": "1662723831533027329",
+              "start": 29,
+              "username": "loong001116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050238042800369846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050157749368229951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyaepheia: @elonmusk8964 @loong001116 可以的，对顺直不支持不反对，就像他们现在对LGBTQ+ 的态度那样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2050117116737605934",
+        "created_at": "2026-05-01T10:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050157749368229951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1466992710846406659",
+              "start": 0,
+              "username": "elonmusk8964"
+            },
+            {
+              "end": 26,
+              "id": "1662723831533027329",
+              "start": 14,
+              "username": "loong001116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050157749368229951",
+        "in_reply_to_user_id": "1466992710846406659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050142620538814798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elonmusk8964 @loong001116 可以的，对顺直不支持不反对，就像他们现在对LGBTQ+ 的态度那样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 769,
+          "like_count": 18628,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 3056
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-04T04:48:31.000Z",
+        "description": "An idiot and a Wanderer",
+        "id": "1466992710846406659",
+        "location": "New York",
+        "name": "Ethan Van",
+        "pinned_tweet_id": "2006396564361929033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993855232451989506/j7d6dNYI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 320,
+          "like_count": 10615,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 893
+        },
+        "username": "elonmusk8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T07:33:54.000Z",
+        "description": "Queer\n人称代词：他(中性)/ta\n所有观点皆来自本人，思考能力不需要绑定AI\nLGBTQ+互关",
+        "id": "1662723831533027329",
+        "location": "Satan's Dick",
+        "name": "劳荣枝(乙女激女顺直男转推即死)",
+        "pinned_tweet_id": "2016232346962305171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017461086367223808/CwfFSNvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 1800,
+          "like_count": 5836,
+          "listed_count": 4,
+          "media_count": 190,
+          "tweet_count": 4893
+        },
+        "username": "loong001116",
+        "verified": false
+      }
+    ]
+  }
+}

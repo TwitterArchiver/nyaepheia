@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055216002968006656"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      }
+    ],
+    "conversation_id": "2055216337757384832",
+    "created_at": "2026-05-15T09:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T10:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055216337757384832"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "dev"
+        },
+        {
+          "end": 45,
+          "start": 37,
+          "tag": "ai_bsky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gPuGmUplka",
+          "end": 69,
+          "expanded_url": "https://x.com/nyaepheia/status/2055216337757384832/photo/1",
+          "media_key": "3_2055216002968006656",
+          "start": 46,
+          "url": "https://t.co/gPuGmUplka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055216337757384832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新的引导页面即将上线！\n代词选择，更好的i18n，授权披露等\n\n#dev #ai_bsky https://t.co/gPuGmUplka"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "现状总结\n现有引导流程\n1. 登录页 → AIGuidance.tsx（底部显示 llm.txt/README/CHANGELOG/GitHub 链接，面向 AI agent）\n2. 首次登录后 → WelcomeCard.tsx 弹窗（仅 zh.ts 完整，en.ts/ja.ts 缺失）\n   - 隐私说明\n   - 非 AI 功能列表\n   - AI 提供商设置引导（DeepSeek/Mistral）\n   - 跳过 / 去设置\n3. AI 使用前 → 无额外引导，直接进入聊天界面\n缺失项\n需求\t现状\n授权披露 — AI 会代表用户做什么\t❌ 系统提示第52-60条有硬编码中文规则，但 UI 无显式披露\n代词设定 — 避免 misgender\t❌ 完全不存在。userDisplayName 参数虽在 buildSystemPrompt 中，但 UI 层从未传入\n引导体验\t⚠️ 现有 WelcomeCard 跳过太快，无分步引导\ni18n 完整性\t⚠️ en.ts/ja.ts 大量缺失 (login.* 表单键、welcome.*、ai.* 30+ 键)\n建议方案\nPhase 1 — 授权披露 + 代词设定（核心）\n① AppConfig 新增 userPronouns\n// useAppConfig.ts\nuserPronouns?: string; // 开放式文本，如 \"they/them\"\n② 设定入口：Settings → Account 新增代词输入框\n- 开放式文本输入（符合包容性原则，拒绝二元选择）\n- placeholder: they/them, she/her, he/him, ze/zir\n③ 系统提示注入 {{userPronouns}}\n- 在 prompts.ts 的 MAIN_TEMPLATE 第5条规则后添加，形如：\n  > 用户的指定代词是 {{userPronouns}}。回复时请使用该代词指代用户，例如用\"ta\"、\"they/them\"等。（未指定则用中性表述）\n- buildSystemPrompt 新增参数，UI 层（AIChatPage/AIChatWidget/TUI）传入\n④ WelcomeCard 增强\n- 增加授权披露区（卡片形式）：\n  > AI 将有权：读取你的时间线、搜索帖子、查看资料\n  > 仅在你确认",
+        "height": 1077,
+        "media_key": "3_2055216002968006656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWYENGbMAAw_-h.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055216002968006656"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2055216337757384832",
+        "created_at": "2026-05-15T09:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055216337757384832"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "dev"
+            },
+            {
+              "end": 45,
+              "start": 37,
+              "tag": "ai_bsky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gPuGmUplka",
+              "end": 69,
+              "expanded_url": "https://x.com/nyaepheia/status/2055216337757384832/photo/1",
+              "media_key": "3_2055216002968006656",
+              "start": 46,
+              "url": "https://t.co/gPuGmUplka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055216337757384832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的引导页面即将上线！\n代词选择，更好的i18n，授权披露等\n\n#dev #ai_bsky https://t.co/gPuGmUplka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 806,
+          "like_count": 21228,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 3855
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045827315180204032"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2045827496080441440",
+    "created_at": "2026-04-19T11:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:30:18.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045827323812049318",
+      "2045827496080441440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zdEZCRfApD",
+          "end": 170,
+          "expanded_url": "https://x.com/nyaepheia/status/2045827496080441440/photo/1",
+          "media_key": "3_2045827315180204032",
+          "start": 147,
+          "url": "https://t.co/zdEZCRfApD"
+        },
+        {
+          "display_url": "x.com/YesterdayBigca…",
+          "end": 194,
+          "expanded_url": "https://twitter.com/YesterdayBigcat/status/2045804325491077238",
+          "start": 171,
+          "url": "https://t.co/J78ofwXzdQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045827496080441440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "［可能涉及政治相关，请注意］\n\n这个帖子给出了一个有趣的猜想，认为对跨性别相关审查（与其它方面的审查与监管）的加强与战争有关\n\n但作为补充，似乎Polymarket 上对于战争在近期爆发预测的概率并不高，从各个平台的信息来看大家也普遍并不认为近期会发生战争。所以我个人倾向认为两者没有什么关联\n\n但这样应该如何解释近期加强对包括但不限于LGBTQ+ 相关话题，                                   社会问题的审查并加强对VPN 的监管（？）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045804325491077238",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "［可能涉及政治相关，请注意］\n\n这个帖子给出了一个有趣的猜想，认为对跨性别相关审查（与其它方面的审查与监管）的加强与战争有关\n\n但作为补充，似乎Polymarket 上对于战争在近期爆发预测的概率并不高，从各个平台的信息来看大家也普遍并不认为近期会发生战争。所以我个人倾向认为两者没有什么关联 https://t.co/zdEZCRfApD https://t.co/J78ofwXzdQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2045827315180204032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQ9GpkbcAAQkvk.jpg",
+        "width": 646
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045827315180204032"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2045827323812049318",
+        "created_at": "2026-04-19T11:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:30:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045827323812049318",
+          "2045827496080441440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGdmEbWg7U",
+              "end": 154,
+              "expanded_url": "https://x.com/nyaepheia/status/2045827323812049318/photo/1",
+              "media_key": "3_2045827315180204032",
+              "start": 131,
+              "url": "https://t.co/gGdmEbWg7U"
+            },
+            {
+              "display_url": "x.com/YesterdayBigca…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/YesterdayBigcat/status/2045804325491077238",
+              "start": 155,
+              "url": "https://t.co/J78ofwXzdQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045827323812049318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这个帖子给出了一个有趣的猜想，认为对跨性别相关审查（与其它方面的审查与监管）的加强与战争有关\n\n但作为补充，似乎Polymarket 上对于战争在近期爆发预测的概率并不高，从各个平台的信息来看大家也普遍并不认为近期会发生战争。所以我个人倾向认为两者没有什么关联\n\n但这样应该如何解释近期加强对包括但不限于LGBTQ+ 相关话题，                                   社会问题的审查并加强对VPN 的监管（？）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045804325491077238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个帖子给出了一个有趣的猜想，认为对跨性别相关审查（与其它方面的审查与监管）的加强与战争有关\n\n但作为补充，似乎Polymarket 上对于战争在近期爆发预测的概率并不高，从各个平台的信息来看大家也普遍并不认为近期会发生战争。所以我个人倾向认为两者没有什么关联 https://t.co/gGdmEbWg7U https://t.co/J78ofwXzdQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045827315180204032"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2045827496080441440",
+        "created_at": "2026-04-19T11:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:30:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045827323812049318",
+          "2045827496080441440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zdEZCRfApD",
+              "end": 170,
+              "expanded_url": "https://x.com/nyaepheia/status/2045827496080441440/photo/1",
+              "media_key": "3_2045827315180204032",
+              "start": 147,
+              "url": "https://t.co/zdEZCRfApD"
+            },
+            {
+              "display_url": "x.com/YesterdayBigca…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/YesterdayBigcat/status/2045804325491077238",
+              "start": 171,
+              "url": "https://t.co/J78ofwXzdQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045827496080441440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "［可能涉及政治相关，请注意］\n\n这个帖子给出了一个有趣的猜想，认为对跨性别相关审查（与其它方面的审查与监管）的加强与战争有关\n\n但作为补充，似乎Polymarket 上对于战争在近期爆发预测的概率并不高，从各个平台的信息来看大家也普遍并不认为近期会发生战争。所以我个人倾向认为两者没有什么关联\n\n但这样应该如何解释近期加强对包括但不限于LGBTQ+ 相关话题，                                   社会问题的审查并加强对VPN 的监管（？）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045804325491077238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "［可能涉及政治相关，请注意］\n\n这个帖子给出了一个有趣的猜想，认为对跨性别相关审查（与其它方面的审查与监管）的加强与战争有关\n\n但作为补充，似乎Polymarket 上对于战争在近期爆发预测的概率并不高，从各个平台的信息来看大家也普遍并不认为近期会发生战争。所以我个人倾向认为两者没有什么关联 https://t.co/zdEZCRfApD https://t.co/J78ofwXzdQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714100357582770176",
+        "conversation_id": "2045804325491077238",
+        "created_at": "2026-04-19T09:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045804325491077238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdaybigca…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/yesterdaybigcat/status/2045756269114573230",
+              "start": 27,
+              "url": "https://t.co/EdZH3JQ29P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045804325491077238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6651,
+          "like_count": 59,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045756269114573230",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "网友补充：封禁跨性别微信群、清洗网盘资源、限制无人机 https://t.co/EdZH3JQ29P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 713,
+          "like_count": 15239,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2280
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-17T02:06:12.000Z",
+        "description": "中国集体抗争事件记录网：https://t.co/sjVzTO6fYM\n投稿邮箱：bigorangecat2023@gmail.com\nYoutube：YesterdayBigcat\nIns：yesterdaybigorangecat\nTikTok：yesterdaybigcat",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yesterdayprotests.com",
+                "end": 35,
+                "expanded_url": "https://yesterdayprotests.com",
+                "start": 12,
+                "url": "https://t.co/sjVzTO6fYM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yesterdayprotests.com",
+                "end": 23,
+                "expanded_url": "https://yesterdayprotests.com",
+                "start": 0,
+                "url": "https://t.co/sjVzTO6fYM"
+              }
+            ]
+          }
+        },
+        "id": "1714100357582770176",
+        "location": "火星",
+        "name": "昨天",
+        "pinned_tweet_id": "2008435957826207815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714101429500268544/Ga5TlrzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138514,
+          "following_count": 514,
+          "like_count": 1414,
+          "listed_count": 626,
+          "media_count": 3300,
+          "tweet_count": 4758
+        },
+        "url": "https://t.co/sjVzTO6fYM",
+        "username": "YesterdayBigcat",
+        "verified": true
+      }
+    ]
+  }
+}

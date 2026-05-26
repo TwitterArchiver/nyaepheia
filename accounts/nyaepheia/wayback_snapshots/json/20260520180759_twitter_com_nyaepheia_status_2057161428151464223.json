@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057004418621652993",
+    "created_at": "2026-05-20T18:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T19:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057161428151464223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894704119891611648",
+          "start": 0,
+          "username": "Desolvover"
+        },
+        {
+          "end": 20,
+          "id": "1512976991976402949",
+          "start": 12,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057161428151464223",
+    "in_reply_to_user_id": "1894704119891611648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057004418621652993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Desolvover @bghtnya 平等自由友善平等文明和谐法制平等文明和谐法制富强民主自由公正富强民主自由敬业富强民主友善自由富强民主敬业法制富强民主法制富强民主富强民主法制诚信爱国友善诚信爱国公正爱国法制爱国公正诚信公正公正"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1042,
+        "media_key": "3_2057004413047418880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvynX0aMAAsZPO.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057004418621652993",
+        "created_at": "2026-05-20T18:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T19:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057161428151464223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894704119891611648",
+              "start": 0,
+              "username": "Desolvover"
+            },
+            {
+              "end": 20,
+              "id": "1512976991976402949",
+              "start": 12,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057161428151464223",
+        "in_reply_to_user_id": "1894704119891611648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057004418621652993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Desolvover @bghtnya 平等自由友善平等文明和谐法制平等文明和谐法制富强民主自由公正富强民主自由敬业富强民主友善自由富强民主敬业法制富强民主法制富强民主富强民主法制诚信爱国友善诚信爱国公正爱国法制爱国公正诚信公正公正"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057004413047418880"
+          ]
+        },
+        "author_id": "1894704119891611648",
+        "conversation_id": "2057004418621652993",
+        "created_at": "2026-05-20T07:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057004418621652993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 80,
+              "id": "1512976991976402949",
+              "start": 72,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "cownow.fun/china/",
+              "end": 58,
+              "expanded_url": "https://cownow.fun/china/",
+              "start": 35,
+              "status": 200,
+              "title": "正能量加密器",
+              "unwound_url": "https://cownow.fun/china/",
+              "url": "https://t.co/Dt04TdgAtW"
+            },
+            {
+              "display_url": "pic.x.com/HoiXgBiKEg",
+              "end": 104,
+              "expanded_url": "https://x.com/Desolvover/status/2057004418621652993/photo/1",
+              "media_key": "3_2057004413047418880",
+              "start": 81,
+              "url": "https://t.co/HoiXgBiKEg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057004418621652993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 4424,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "弄了个核心价值观加密器网页，可以把任意内容加密为社会主义核心价值观😁\nhttps://t.co/Dt04TdgAtW\n100年内无法破译\n原作者@bghtnya https://t.co/HoiXgBiKEg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 829,
+          "like_count": 22483,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 4127
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-26T11:02:56.000Z",
+        "description": "请输入文本",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cownow.fun",
+                "end": 23,
+                "expanded_url": "https://cownow.fun",
+                "start": 0,
+                "url": "https://t.co/xVLe3WYS91"
+              }
+            ]
+          }
+        },
+        "id": "1894704119891611648",
+        "location": "在你心里",
+        "name": "姓名不能为空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984744422920372224/JZnF3hlX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 103,
+          "like_count": 938,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 958
+        },
+        "url": "https://t.co/xVLe3WYS91",
+        "username": "Desolvover",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9942,
+          "following_count": 2354,
+          "like_count": 179239,
+          "listed_count": 21,
+          "media_count": 3967,
+          "tweet_count": 48261
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      }
+    ]
+  }
+}

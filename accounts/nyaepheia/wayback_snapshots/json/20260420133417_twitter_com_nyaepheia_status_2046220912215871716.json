@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046198805994082542",
+    "created_at": "2026-04-20T13:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T14:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046220912215871716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1850017112087199744",
+          "start": 0,
+          "username": "HatsuneMafuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046220912215871716",
+    "in_reply_to_user_id": "1850017112087199744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我捍卫你说话的权利，也捍卫你使用AI的权利，但如果使用了AI，我希望你标注出来。如果是我误解了，我道歉。\n\n我理解你的意思，但我希望表达之所以存在oder 本身就是社会的问题，政策制定者应该考虑和反思如何改善这一情况，而不是仅仅是网络禁售。他们完全可以做得更好，我不相信他们只能做到这些。\n或许你期望这样能禁止od，但或许结果并非如此，这样更可能让更多的生命离去。\n我不希望看到别人离开，哪怕是慢性自杀，至少要比直接自杀要好。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046216430048403961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HatsuneMafuyu 我捍卫你说话的权利，也捍卫你使用AI的权利，但如果使用了AI，我希望你标注出来。如果是我误解了，我道歉。\n\n我理解你的意思，但我希望表达之所以存在oder 本身就是社会的问题，政策制定者应该考虑和反思如何改善这一情况，而不是仅仅是网络禁售。他们完全可以做得更好，我不相信他们只能做到这些。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046198805994082542",
+        "created_at": "2026-04-20T13:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046220912215871716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1850017112087199744",
+              "start": 0,
+              "username": "HatsuneMafuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046220912215871716",
+        "in_reply_to_user_id": "1850017112087199744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我捍卫你说话的权利，也捍卫你使用AI的权利，但如果使用了AI，我希望你标注出来。如果是我误解了，我道歉。\n\n我理解你的意思，但我希望表达之所以存在oder 本身就是社会的问题，政策制定者应该考虑和反思如何改善这一情况，而不是仅仅是网络禁售。他们完全可以做得更好，我不相信他们只能做到这些。\n或许你期望这样能禁止od，但或许结果并非如此，这样更可能让更多的生命离去。\n我不希望看到别人离开，哪怕是慢性自杀，至少要比直接自杀要好。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046216430048403961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HatsuneMafuyu 我捍卫你说话的权利，也捍卫你使用AI的权利，但如果使用了AI，我希望你标注出来。如果是我误解了，我道歉。\n\n我理解你的意思，但我希望表达之所以存在oder 本身就是社会的问题，政策制定者应该考虑和反思如何改善这一情况，而不是仅仅是网络禁售。他们完全可以做得更好，我不相信他们只能做到这些。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850017112087199744",
+        "conversation_id": "2046198805994082542",
+        "created_at": "2026-04-20T13:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046216430048403961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046216430048403961",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046198805994082542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 别发黄脸表情了。有没有可能，连那个黄脸表情都在替你这种如何提高自杀率的建议感到智力上的羞耻？ 把慢性自杀当技巧，把药物致幻当反抗。这种逻辑，弗洛伊德看了都要感叹他拱的地还是不够深，没能把你这种深埋在文明底下的虚无巨婴给拱出来，只剩下了性压抑的世界文明的一头肥猪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 721,
+          "like_count": 15540,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2346
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-26T03:31:05.000Z",
+        "description": "表演完了，沒人回應，又沒勁了，幹，不好玩啦，僅此而已。\n我的笑话太干了www，明明我觉得好笑无比啊，为什么一落地文字就索然无味了...",
+        "id": "1850017112087199744",
+        "name": "葉月仙台",
+        "pinned_tweet_id": "2043170564853129431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042938407480102916/nduDYjd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 409,
+          "like_count": 1191,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 667
+        },
+        "username": "HatsuneMafuyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2049193329041281514",
+    "created_at": "2026-04-28T18:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T19:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049193329041281514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1123287954284273669",
+          "start": 3,
+          "username": "KeshavRamji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049193329041281514",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048743883580817620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KeshavRamji: What if your language model could reason efficiently in an entirely new language?\n\nWe introduce Abstract Chain-of-Thought,…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2048742595094786048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6YiRjWMAAPfYQ.jpg",
+        "width": 1464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2049193329041281514",
+        "created_at": "2026-04-28T18:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T19:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049193329041281514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1123287954284273669",
+              "start": 3,
+              "username": "KeshavRamji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049193329041281514",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048743883580817620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KeshavRamji: What if your language model could reason efficiently in an entirely new language?\n\nWe introduce Abstract Chain-of-Thought,…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048742595094786048"
+          ]
+        },
+        "author_id": "1123287954284273669",
+        "conversation_id": "2048743883580817620",
+        "created_at": "2026-04-27T12:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048743883580817620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zDXaP2iY24",
+              "end": 297,
+              "expanded_url": "https://x.com/KeshavRamji/status/2048743883580817620/photo/1",
+              "media_key": "3_2048742595094786048",
+              "start": 274,
+              "url": "https://t.co/zDXaP2iY24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048743883580817620",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "What if your language model could reason efficiently in an entirely new language?\n\nWe introduce Abstract Chain-of-Thought, a new mechanism which allows language models to reason through a short sequence of reserved \"abstract\" tokens through reinforcement learning. It is as performant as verbalized CoT at a fraction of the cost, achieving major gains in inference-time efficiency."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 593,
+          "impression_count": 698466,
+          "like_count": 705,
+          "quote_count": 21,
+          "reply_count": 34,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "What if your language model could reason efficiently in an entirely new language?\n\nWe introduce Abstract Chain-of-Thought, a new mechanism which allows language models to reason through a short sequence of reserved \"abstract\" tokens through reinforcement learning. It is as https://t.co/zDXaP2iY24"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 763,
+          "like_count": 18063,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2985
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-30T18:08:12.000Z",
+        "description": "working towards continually self-improving AI, reasoning and alignment @ IBM Research AI, prev @CIS_Penn, @Wharton, founded @pennmlr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 95,
+                "username": "CIS_Penn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "Wharton"
+              },
+              {
+                "end": 132,
+                "start": 124,
+                "username": "pennmlr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "keshavramji.com",
+                "end": 23,
+                "expanded_url": "https://www.keshavramji.com",
+                "start": 0,
+                "url": "https://t.co/vl6NwjOlcf"
+              }
+            ]
+          }
+        },
+        "id": "1123287954284273669",
+        "name": "Keshav Ramji ✈️ ICLR'26",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653963307693350913/k20LOY9-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 1071,
+          "like_count": 2453,
+          "listed_count": 6,
+          "media_count": 17,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/vl6NwjOlcf",
+        "username": "KeshavRamji",
+        "verified": true
+      }
+    ]
+  }
+}

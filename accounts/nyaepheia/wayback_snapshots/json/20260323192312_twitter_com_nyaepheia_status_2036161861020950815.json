@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2036161861020950815",
+    "created_at": "2026-03-23T19:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T20:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036161861020950815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798770460752297984",
+          "start": 3,
+          "username": "AtlasLGBT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036161861020950815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036036344065978802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AtlasLGBT: 连续看到两起很沉重的消息。\n小言，被家人送去扭转治疗机构，抑郁离开了这个世界。她留下的最后一句话是：\"希望世上再无扭转机构，希望坏人得到应有的惩罚，下个世界会好的。\"\n彭天逊，广州麒麟中学的学生，因为\"同性恋\"的谣言在校园里传播，长期被孤立、辱骂、…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2036033387379699712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFxlBWaMAAn-cN.jpg",
+        "width": 673
+      },
+      {
+        "height": 183,
+        "media_key": "3_2036033387396534272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFxlBabEAAYDHn.jpg",
+        "width": 742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2036161861020950815",
+        "created_at": "2026-03-23T19:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T20:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036161861020950815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798770460752297984",
+              "start": 3,
+              "username": "AtlasLGBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036161861020950815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036036344065978802",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AtlasLGBT: 连续看到两起很沉重的消息。\n小言，被家人送去扭转治疗机构，抑郁离开了这个世界。她留下的最后一句话是：\"希望世上再无扭转机构，希望坏人得到应有的惩罚，下个世界会好的。\"\n彭天逊，广州麒麟中学的学生，因为\"同性恋\"的谣言在校园里传播，长期被孤立、辱骂、…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036033387379699712",
+            "3_2036033387396534272"
+          ]
+        },
+        "author_id": "1798770460752297984",
+        "conversation_id": "2036036344065978802",
+        "created_at": "2026-03-23T11:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T12:02:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036035935532392753",
+          "2036036344065978802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xvM5zj3MH",
+              "end": 159,
+              "expanded_url": "https://x.com/AtlasLGBT/status/2036036344065978802/photo/1",
+              "media_key": "3_2036033387379699712",
+              "start": 136,
+              "url": "https://t.co/3xvM5zj3MH"
+            },
+            {
+              "display_url": "pic.x.com/3xvM5zj3MH",
+              "end": 159,
+              "expanded_url": "https://x.com/AtlasLGBT/status/2036036344065978802/photo/1",
+              "media_key": "3_2036033387396534272",
+              "start": 136,
+              "url": "https://t.co/3xvM5zj3MH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036036344065978802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "连续看到两起很沉重的消息。\n小言，被家人送去扭转治疗机构，抑郁离开了这个世界。她留下的最后一句话是：\"希望世上再无扭转机构，希望坏人得到应有的惩罚，下个世界会好的。\"\n彭天逊，广州麒麟中学的学生，因为\"同性恋\"的谣言在校园里传播，长期被孤立、辱骂、霸凌，选择了结束生命。\n这不是意外，而是霸凌社会的系统性的谋杀。整个社会告诉所有人，做LGBT是羞耻的，是需要被惩罚的。事件里的家人，老师，同学，都是这个残酷社会被洗脑的恶魔爪牙。所以性少数们只能在这样的社会里苦苦挣扎。\n如果你也在挣扎，希望你知道你不孤单。不要在年纪很小的时候结束生命，你的存在本身就有价值。\n摆脱掉有毒的社会环境，去寻找合适自己的栖息地。当你不在黑暗里了，你的经历也许可以照亮更多人的道路，那会是你最美丽的人生意义。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 13994,
+          "like_count": 168,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "连续看到两起很沉重的消息。\n小言，被家人送去扭转治疗机构，抑郁离开了这个世界。她留下的最后一句话是：\"希望世上再无扭转机构，希望坏人得到应有的惩罚，下个世界会好的。\"\n彭天逊，广州麒麟中学的学生，因为\"同性恋\"的谣言在校园里传播，长期被孤立、辱骂、霸凌，选择了结束生命。 https://t.co/3xvM5zj3MH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+友好 | 09 | 文科生 | MtF/MtX? | she/they | 暂未HRT | (半个)家长党 | 天残党 | Vibe coding | 搭网站 | 成分不明的可能会直接ban",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 408,
+          "like_count": 4781,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 118
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-06T17:34:52.000Z",
+        "description": "不断发声，声音才不会被淹没。\nDocumenting clowns in their natural habitat .🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "the-cure-for-bigotry.edu",
+                "end": 23,
+                "expanded_url": "http://the-cure-for-bigotry.edu",
+                "start": 0,
+                "url": "https://t.co/GY2dDeMlwZ"
+              }
+            ]
+          }
+        },
+        "id": "1798770460752297984",
+        "location": "A Sick World",
+        "name": "Atlas",
+        "pinned_tweet_id": "2030297613489102916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013196101730312192/4ayc920J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2254,
+          "following_count": 574,
+          "like_count": 2765,
+          "listed_count": 14,
+          "media_count": 89,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/GY2dDeMlwZ",
+        "username": "AtlasLGBT",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      }
+    ],
+    "conversation_id": "2054839271455076822",
+    "created_at": "2026-05-14T08:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T09:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054839271455076822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nyaepheia/stat…",
+          "end": 185,
+          "expanded_url": "https://twitter.com/nyaepheia/status/2054452372727062585",
+          "start": 162,
+          "url": "https://t.co/KZDB3tvf7F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054839271455076822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 361,
+            "start": 353,
+            "tag": "ai_bsky"
+          },
+          {
+            "end": 366,
+            "start": 362,
+            "tag": "dev"
+          }
+        ]
+      },
+      "text": "【2026年5月14日 v0.13.2】AI bsky 更新日志 🎉\n发帖页全面重构：\n• 输入框自动增高，不再固定高度\n• 300 字限制改为红色标记（不截断，像 X 那样）\n• 淡化输入框风格，更清爽\n• 帖子串内每个帖子可独立引用不同帖子（官方app 都不支持这个功能）\n• 回复时显示被回复帖（讨论源卡片样式）\n• 引用卡片改为 PostCard 样式\n• 新增上传进度弹窗，发帖不再盲目等待\n新增单图显示模式：\n• 设置可切换「填满」/「原始比例」\n• 原始比例模式限制 1:2~2:1，左对齐，容器适形\n修复：浏览器重开后 session 不丢失（JWT 刷新后 token 正确持久化），重新打开后无需重新登录。\n重构：ImageGrid 独立组件，extractEmbeds 共享工具库\n\n#ai_bsky #dev"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054452372727062585",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "【2026年5月14日 v0.13.2】AI bsky 更新日志 🎉\n发帖页全面重构：\n• 输入框自动增高，不再固定高度\n• 300 字限制改为红色标记（不截断，像 X 那样）\n• 淡化输入框风格，更清爽\n• 帖子串内每个帖子可独立引用不同帖子（官方app 都不支持这个功能）\n• 回复时显示被回复帖（讨论源卡片样式）\n• https://t.co/KZDB3tvf7F"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "www.npmjs.com/package/@epheiamoe/bsky-mcp",
+        "height": 992,
+        "media_key": "3_2054452246574968832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILhbu0asAA5hyg.jpg",
+        "width": 1895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2054839271455076822",
+        "created_at": "2026-05-14T08:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054839271455076822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2054452372727062585",
+              "start": 162,
+              "url": "https://t.co/KZDB3tvf7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054839271455076822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 361,
+                "start": 353,
+                "tag": "ai_bsky"
+              },
+              {
+                "end": 366,
+                "start": 362,
+                "tag": "dev"
+              }
+            ]
+          },
+          "text": "【2026年5月14日 v0.13.2】AI bsky 更新日志 🎉\n发帖页全面重构：\n• 输入框自动增高，不再固定高度\n• 300 字限制改为红色标记（不截断，像 X 那样）\n• 淡化输入框风格，更清爽\n• 帖子串内每个帖子可独立引用不同帖子（官方app 都不支持这个功能）\n• 回复时显示被回复帖（讨论源卡片样式）\n• 引用卡片改为 PostCard 样式\n• 新增上传进度弹窗，发帖不再盲目等待\n新增单图显示模式：\n• 设置可切换「填满」/「原始比例」\n• 原始比例模式限制 1:2~2:1，左对齐，容器适形\n修复：浏览器重开后 session 不丢失（JWT 刷新后 token 正确持久化），重新打开后无需重新登录。\n重构：ImageGrid 独立组件，extractEmbeds 共享工具库\n\n#ai_bsky #dev"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054452372727062585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "【2026年5月14日 v0.13.2】AI bsky 更新日志 🎉\n发帖页全面重构：\n• 输入框自动增高，不再固定高度\n• 300 字限制改为红色标记（不截断，像 X 那样）\n• 淡化输入框风格，更清爽\n• 帖子串内每个帖子可独立引用不同帖子（官方app 都不支持这个功能）\n• 回复时显示被回复帖（讨论源卡片样式）\n• https://t.co/KZDB3tvf7F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054452246574968832"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2054452372727062585",
+        "created_at": "2026-05-13T06:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054452372727062585"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 75,
+              "tag": "ai_bsky"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "dev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kVxyxjxV7",
+              "end": 112,
+              "expanded_url": "https://x.com/nyaepheia/status/2054452372727062585/photo/1",
+              "media_key": "3_2054452246574968832",
+              "start": 89,
+              "url": "https://t.co/1kVxyxjxV7"
+            },
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2054189308953973026",
+              "start": 113,
+              "url": "https://t.co/ZLO2V8TBxM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054452372727062585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054189308953973026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【2026年5月13日 v0.13.0】ai-bsky\n\n我们已经推出了单独的MCP！在NPM @epheiamoe/bsky-mcp 已经可用。\n\n#ai_bsky #dev https://t.co/1kVxyxjxV7 https://t.co/ZLO2V8TBxM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 800,
+          "like_count": 21015,
+          "listed_count": 3,
+          "media_count": 304,
+          "tweet_count": 3796
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

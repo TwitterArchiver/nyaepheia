@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2035994032309231809",
+    "created_at": "2026-03-23T08:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T09:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035994032309231809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "961832160377282560",
+          "start": 3,
+          "username": "iMoeAya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035994032309231809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035595892053741772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iMoeAya: 男乘客醉酒排便：列车长乘警及时清理，为周围乘客更换全套寝具，男乘客致歉\n女乘客买不到卫生用品弄脏床单：冷水洗床单，赔钱，媒体网爆围攻\n“他喝醉了”这句话可以同时成为为男性开脱和加害女性的理由。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2035994032309231809",
+        "created_at": "2026-03-23T08:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035994032309231809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "961832160377282560",
+              "start": 3,
+              "username": "iMoeAya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035994032309231809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035595892053741772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iMoeAya: 男乘客醉酒排便：列车长乘警及时清理，为周围乘客更换全套寝具，男乘客致歉\n女乘客买不到卫生用品弄脏床单：冷水洗床单，赔钱，媒体网爆围攻\n“他喝醉了”这句话可以同时成为为男性开脱和加害女性的理由。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "961832160377282560",
+        "conversation_id": "2035595892053741772",
+        "created_at": "2026-03-22T05:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035595892053741772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wodanggangqian…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/wodanggangqiang/status/2035278559523361173",
+              "start": 97,
+              "url": "https://t.co/oDyQqDdoGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035595892053741772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 19964,
+          "like_count": 623,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035278559523361173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男乘客醉酒排便：列车长乘警及时清理，为周围乘客更换全套寝具，男乘客致歉\n女乘客买不到卫生用品弄脏床单：冷水洗床单，赔钱，媒体网爆围攻\n“他喝醉了”这句话可以同时成为为男性开脱和加害女性的理由。 https://t.co/oDyQqDdoGQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+友好 | 09 | 文科生 | MtF/MtX? | she/they | 暂未HRT | (半个)家长党 | 天残党 | Vibe coding | 搭网站 | 成分不明的可能会直接ban",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 388,
+          "like_count": 4719,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974770448509595648/kkt3Z048_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41163,
+          "following_count": 4819,
+          "like_count": 179952,
+          "listed_count": 153,
+          "media_count": 1168,
+          "tweet_count": 35750
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      }
+    ]
+  }
+}

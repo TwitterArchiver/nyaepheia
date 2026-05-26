@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057162443756023964",
+    "created_at": "2026-05-20T18:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T19:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057162443756023964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1986828541930119168",
+          "start": 3,
+          "username": "shigure07288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057162443756023964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056981831766118883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigure07288: 我建议你们保守主义者最好先认清什么叫身份政治，在中华人民共和国宪法规定的言论自由、集会自由、结社自由、出版自由等权利中，进行基于身份的区别对待，也是一种身份政治，你不能只在身份政治对你不利的时候才反对身份政治。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057162443756023964",
+        "created_at": "2026-05-20T18:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T19:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057162443756023964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1986828541930119168",
+              "start": 3,
+              "username": "shigure07288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057162443756023964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056981831766118883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shigure07288: 我建议你们保守主义者最好先认清什么叫身份政治，在中华人民共和国宪法规定的言论自由、集会自由、结社自由、出版自由等权利中，进行基于身份的区别对待，也是一种身份政治，你不能只在身份政治对你不利的时候才反对身份政治。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986828541930119168",
+        "conversation_id": "2056981831766118883",
+        "created_at": "2026-05-20T06:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056981831766118883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shor_Co/status…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/Shor_Co/status/2056970519262707769",
+              "start": 106,
+              "url": "https://t.co/9x1VCDpVr1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056981831766118883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 407,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056970519262707769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我建议你们保守主义者最好先认清什么叫身份政治，在中华人民共和国宪法规定的言论自由、集会自由、结社自由、出版自由等权利中，进行基于身份的区别对待，也是一种身份政治，你不能只在身份政治对你不利的时候才反对身份政治。 https://t.co/9x1VCDpVr1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 829,
+          "like_count": 22491,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 4129
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“马克思主义或列宁主义”\n📕🌈|INTP-A|自发毛主义|左翼共产主义|自由意志社会主义|民主社会主义|左翼平民主义|反资本主义|反帝国主义|反修正主义|平权主义|友lgbt",
+        "id": "1986828541930119168",
+        "location": "中华公社",
+        "name": "時雨☭𝕷𝖊𝖋𝖙𝖈𝖔𝖒🚩🏴‍☠️🇵🇸🇺🇦🏳️‍🌈",
+        "pinned_tweet_id": "2056211247075578047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037543089099915264/LekdR7Q1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 628,
+          "like_count": 5665,
+          "listed_count": 7,
+          "media_count": 536,
+          "tweet_count": 7009
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

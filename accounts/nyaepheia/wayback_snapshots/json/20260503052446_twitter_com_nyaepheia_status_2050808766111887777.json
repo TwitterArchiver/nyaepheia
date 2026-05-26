@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2047704910322631037",
+    "created_at": "2026-05-03T05:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T06:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050808766111887777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1831350388861345793",
+          "start": 0,
+          "username": "Hiime0"
+        },
+        {
+          "end": 16,
+          "id": "1864277562991706112",
+          "start": 8,
+          "username": "xynnnwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050808766111887777",
+    "in_reply_to_user_id": "1831350388861345793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047883001909096540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiime0 @xynnnwa 在社会停止歧视跨性别 停止让跨性别被迫选择自杀之前诉诸于HRT 对于身体的影响意义不大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2047704910322631037",
+        "created_at": "2026-05-03T05:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050808766111887777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1831350388861345793",
+              "start": 0,
+              "username": "Hiime0"
+            },
+            {
+              "end": 16,
+              "id": "1864277562991706112",
+              "start": 8,
+              "username": "xynnnwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050808766111887777",
+        "in_reply_to_user_id": "1831350388861345793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047883001909096540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiime0 @xynnnwa 在社会停止歧视跨性别 停止让跨性别被迫选择自杀之前诉诸于HRT 对于身体的影响意义不大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831350388861345793",
+        "conversation_id": "2047704910322631037",
+        "created_at": "2026-04-25T03:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047883001909096540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1864277562991706112",
+              "start": 0,
+              "username": "xynnnwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047883001909096540",
+        "in_reply_to_user_id": "1864277562991706112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5071,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047852497583370713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynnnwa 统计学上看肯定是不吃糖的活的久嘛\n但吃糖的活不长的原因不是因为吃糖😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 145,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 122,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 770,
+          "like_count": 18867,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 3099
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T15:15:42.000Z",
+        "description": "ワカバ 緋イ芽 ｜07｜171/52  75/66/84｜希望能交到好朋友喵 !｜欢迎私信｜🏳️‍⚧️Transbian｜现实极度阴暗内向｜前途未卜の在沪生徒｜💊精品神药享受者｜自伤odの预备役｜想要死...｜愿望FFS/平切...いいの?｜深柜｜🍥GAHT 26.03.26｜人間になりたい",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hiime0",
+                "end": 23,
+                "expanded_url": "http://t.me/Hiime0",
+                "start": 0,
+                "url": "https://t.co/nKdFGtLRKc"
+              }
+            ]
+          }
+        },
+        "id": "1831350388861345793",
+        "location": "東京湾",
+        "name": "𝓗𝓲𝓲𝓂𝓮🍡🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046174460609503232/mDQ1pUpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 224,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 430
+        },
+        "url": "https://t.co/nKdFGtLRKc",
+        "username": "Hiime0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-04T11:56:39.000Z",
+        "description": "很懒",
+        "id": "1864277562991706112",
+        "location": "北京",
+        "name": "王欣煜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045271368212869120/zuzL65_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 86
+        },
+        "username": "xynnnwa",
+        "verified": false
+      }
+    ]
+  }
+}

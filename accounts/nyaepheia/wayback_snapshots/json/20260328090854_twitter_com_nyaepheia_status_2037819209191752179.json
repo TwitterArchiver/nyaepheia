@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037819198030893056"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2037819209191752179",
+    "created_at": "2026-03-28T09:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T10:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037819209191752179"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1x2zUn9brR",
+          "end": 48,
+          "expanded_url": "https://x.com/nyaepheia/status/2037819209191752179/photo/1",
+          "media_key": "3_2037819198030893056",
+          "start": 25,
+          "url": "https://t.co/1x2zUn9brR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037819209191752179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好诡异，我是怎么在玩病娇百合视觉小说的时候想到的 https://t.co/1x2zUn9brR"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "和Gemini 的对话\nUser:你有没有想过把1984爆改百合病娇小说？（不是）",
+        "height": 1097,
+        "media_key": "3_2037819198030893056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfJw4caUAA_Naf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037819198030893056"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2037819209191752179",
+        "created_at": "2026-03-28T09:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037819209191752179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1x2zUn9brR",
+              "end": 48,
+              "expanded_url": "https://x.com/nyaepheia/status/2037819209191752179/photo/1",
+              "media_key": "3_2037819198030893056",
+              "start": 25,
+              "url": "https://t.co/1x2zUn9brR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037819209191752179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好诡异，我是怎么在玩病娇百合视觉小说的时候想到的 https://t.co/1x2zUn9brR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+全友好 | 政治倾向：社民 | 不键政 | 文科生 | MtF/MtX? | she/they | 无糖 | (半个)家长党 | 天残党 | Vibe coding | 搭网站 | 成分不明的可能会直接ban\nhttps://t.co/pke4ezHBE3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "desuwa.org/about/me/x",
+                "end": 152,
+                "expanded_url": "http://desuwa.org/about/me/x",
+                "start": 129,
+                "url": "https://t.co/pke4ezHBE3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 471,
+          "like_count": 5223,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 176
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

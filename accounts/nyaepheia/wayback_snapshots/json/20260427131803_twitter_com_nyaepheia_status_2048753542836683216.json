@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048705714697441281"
+      ],
+      "media_source_tweet_id": [
+        "2048705825443623411"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2048753542836683216",
+    "created_at": "2026-04-27T13:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048753542836683216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893167873209856000",
+          "start": 3,
+          "username": "mxyzcdb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fCSGRZKY3j",
+          "end": 40,
+          "expanded_url": "https://x.com/mxyzcdb/status/2048705825443623411/video/1",
+          "media_key": "13_2048705714697441281",
+          "start": 17,
+          "url": "https://t.co/fCSGRZKY3j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048753542836683216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048705825443623411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mxyzcdb: 何意味 https://t.co/fCSGRZKY3j"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35283,
+        "height": 1066,
+        "media_key": "13_2048705714697441281",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048705714697441281/img/NZORGttKW3EC7gKp.jpg",
+        "public_metrics": {
+          "view_count": 185
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048705714697441281/vid/avc1/320x454/0JPFvTn0C-fExVKo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048705714697441281/vid/avc1/480x682/xtV4MZyI1BAJ8qMT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048705714697441281/vid/avc1/750x1066/H383kt30XY9xEeGr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048705714697441281/pl/BoMTW66xS2kEMAUq.m3u8"
+          }
+        ],
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048705714697441281"
+          ],
+          "media_source_tweet_id": [
+            "2048705825443623411"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2048753542836683216",
+        "created_at": "2026-04-27T13:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048753542836683216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893167873209856000",
+              "start": 3,
+              "username": "mxyzcdb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCSGRZKY3j",
+              "end": 40,
+              "expanded_url": "https://x.com/mxyzcdb/status/2048705825443623411/video/1",
+              "media_key": "13_2048705714697441281",
+              "start": 17,
+              "url": "https://t.co/fCSGRZKY3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048753542836683216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048705825443623411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mxyzcdb: 何意味 https://t.co/fCSGRZKY3j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048705714697441281"
+          ]
+        },
+        "author_id": "1893167873209856000",
+        "conversation_id": "2048705825443623411",
+        "created_at": "2026-04-27T10:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048705825443623411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCSGRZKY3j",
+              "end": 27,
+              "expanded_url": "https://x.com/mxyzcdb/status/2048705825443623411/video/1",
+              "media_key": "13_2048705714697441281",
+              "start": 4,
+              "url": "https://t.co/fCSGRZKY3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048705825443623411",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 479,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/fCSGRZKY3j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 762,
+          "like_count": 17873,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2950
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-22T05:16:27.000Z",
+        "description": "高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1893167873209856000",
+        "name": "翅翅膀喵喵喵",
+        "pinned_tweet_id": "2046964072264909222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032366819802300422/sVzhVvEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 352,
+          "like_count": 4242,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2133
+        },
+        "username": "mxyzcdb",
+        "verified": true
+      }
+    ]
+  }
+}

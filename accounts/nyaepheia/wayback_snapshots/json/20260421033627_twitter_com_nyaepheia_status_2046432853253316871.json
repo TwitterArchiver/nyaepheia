@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046432853253316871",
+    "created_at": "2026-04-21T03:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T04:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046432853253316871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010844027625881601",
+          "start": 3,
+          "username": "zzz_nemuz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046432853253316871",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046222714126647308",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zzz_nemuz: 正直性別なんかない世界がよかったと思う"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046432853253316871",
+        "created_at": "2026-04-21T03:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046432853253316871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010844027625881601",
+              "start": 3,
+              "username": "zzz_nemuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046432853253316871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046222714126647308",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zzz_nemuz: 正直性別なんかない世界がよかったと思う"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010844027625881601",
+        "conversation_id": "2046222714126647308",
+        "created_at": "2026-04-20T13:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046222714126647308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046222714126647308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2224,
+          "like_count": 121,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "正直性別なんかない世界がよかったと思う"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 730,
+          "like_count": 15731,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 2407
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-12T22:40:12.000Z",
+        "description": "🧡💫💭 @tp_xe0s \n\n🍡@mot1nya ￤ 𓆟@m1co2nn\n\n🗝 @7_22z",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "tp_xe0s"
+              },
+              {
+                "end": 24,
+                "start": 16,
+                "username": "mot1nya"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "m1co2nn"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "username": "7_22z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/gah2p35ix789dr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/gah2p35ix789dr5?t=4MdLSu&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/7UpyAW4U6C"
+              }
+            ]
+          }
+        },
+        "id": "2010844027625881601",
+        "location": "💤",
+        "name": "ぜっと",
+        "pinned_tweet_id": "2025898184271392837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045116559845412864/i4Mhyqp2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 143,
+          "like_count": 18756,
+          "listed_count": 14,
+          "media_count": 57,
+          "tweet_count": 4598
+        },
+        "url": "https://t.co/7UpyAW4U6C",
+        "username": "zzz_nemuz",
+        "verified": false
+      }
+    ]
+  }
+}

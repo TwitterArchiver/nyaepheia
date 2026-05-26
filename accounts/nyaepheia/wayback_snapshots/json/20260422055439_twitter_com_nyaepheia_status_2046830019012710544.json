@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046573135663710263",
+    "created_at": "2026-04-22T05:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T06:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046830019012710544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1740708998524141568",
+          "start": 0,
+          "username": "gaga860166912"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046830019012710544",
+    "in_reply_to_user_id": "1740708998524141568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046829156735041939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaga860166912 我不表达对于恋兽癖的态度。但您这样宣称「世界第一個人類跟老虎結合生子」当然没问题，这是言论自由。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_2046828905668173824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfMC45aYAA3yCO.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046573135663710263",
+        "created_at": "2026-04-22T05:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046830019012710544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1740708998524141568",
+              "start": 0,
+              "username": "gaga860166912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046830019012710544",
+        "in_reply_to_user_id": "1740708998524141568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046829156735041939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaga860166912 我不表达对于恋兽癖的态度。但您这样宣称「世界第一個人類跟老虎結合生子」当然没问题，这是言论自由。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046828905668173824"
+          ]
+        },
+        "author_id": "1740708998524141568",
+        "conversation_id": "2046573135663710263",
+        "created_at": "2026-04-22T05:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046829156735041939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YhHqhXNsU5",
+              "end": 133,
+              "expanded_url": "https://x.com/gaga860166912/status/2046829156735041939/photo/1",
+              "media_key": "3_2046828905668173824",
+              "start": 110,
+              "url": "https://t.co/YhHqhXNsU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046829156735041939",
+        "in_reply_to_user_id": "1740708998524141568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046827763630497926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 再延伸　\n性癖是無限！\n假如某人自我認同是　老虎！\n穿著打扮像動物老虎\n那會變成人獸戀嗎？\n\n這樣生下來孩子可以宣稱　世界第一個人類跟老虎結合生子！\n母親是小孩　那就是世界第一產下人類小孩的老虎！ https://t.co/YhHqhXNsU5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 739,
+          "like_count": 16275,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2641
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-29T12:19:14.000Z",
+        "description": "",
+        "id": "1740708998524141568",
+        "name": "gaga",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740709058074779648/ROSy_bLV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 11,
+          "like_count": 19,
+          "listed_count": 1,
+          "media_count": 438,
+          "tweet_count": 5250
+        },
+        "username": "gaga860166912",
+        "verified": false
+      }
+    ]
+  }
+}

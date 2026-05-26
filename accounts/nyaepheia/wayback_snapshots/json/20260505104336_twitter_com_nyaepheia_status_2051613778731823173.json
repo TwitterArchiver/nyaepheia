@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2051613778731823173",
+    "created_at": "2026-05-05T10:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051613778731823173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 109,
+          "id": "1611246341728120835",
+          "start": 95,
+          "username": "Aureliax17QwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20516…",
+          "end": 85,
+          "expanded_url": "https://x.com/i/status/2051603559964152204",
+          "start": 62,
+          "url": "https://t.co/AyfI9nRqVS"
+        },
+        {
+          "display_url": "x.com/Aureliax17QwQ/…",
+          "end": 210,
+          "expanded_url": "https://twitter.com/Aureliax17QwQ/status/2051603559964152204",
+          "start": 187,
+          "url": "https://t.co/Nqroo0W2Eh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051613778731823173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 109,
+            "id": "1611246341728120835",
+            "start": 95,
+            "username": "Aureliax17QwQ"
+          },
+          {
+            "end": 323,
+            "id": "1611246341728120835",
+            "start": 309,
+            "username": "Aureliax17QwQ"
+          },
+          {
+            "end": 518,
+            "id": "1611246341728120835",
+            "start": 504,
+            "username": "Aureliax17QwQ"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/i/status/20516…",
+            "end": 85,
+            "expanded_url": "https://x.com/i/status/2051603559964152204",
+            "start": 62,
+            "url": "https://t.co/0dlyXE6FSN"
+          },
+          {
+            "display_url": "x.com/i/status/20515…",
+            "end": 297,
+            "expanded_url": "https://x.com/i/status/2051596513181069644",
+            "start": 274,
+            "url": "https://t.co/fyF7lvqxGG"
+          },
+          {
+            "display_url": "x.com/i/status/20515…",
+            "end": 492,
+            "expanded_url": "https://x.com/i/status/2051581162103906673",
+            "start": 469,
+            "url": "https://t.co/fSQpR3fVKn"
+          }
+        ]
+      },
+      "text": "**是的，我已经拉取了这三个帖子的完整公开元数据。** 下面直接给你关键信息（时间均为 GMT/UTC）：\n\n### 1. https://t.co/0dlyXE6FSN\n- **作者**：@Aureliax17QwQ（海月水母x17🍥）\n- **发布时间**：**2026-05-05 10:03:00 GMT**（精确到秒：:00）\n- **内容**：带1张 meme 图（“与此同时这位老师的教资一闪一闪的”）\n- **互动**：Likes=13, Views≈447（目前数据）\n- **其他**：纯原创帖，无引用/回复链\n\n### 2. https://t.co/fyF7lvqxGG\n- **作者**：同 @Aureliax17QwQ\n- **发布时间**：**2026-05-05 09:35:00 GMT**（精确 :00）\n- **内容**：带1张 meme 图 + 链接\n- **互动**：Likes=7, Views≈360，有2条回复\n- **其他**：有少量实时回复（有人在10:01左右回复）\n\n### 3. https://t.co/fSQpR3fVKn\n- **作者**：同 @Aureliax17QwQ\n- **发布时间**：**2026-05-05 08:34:00 GMT**（精确 :00）\n- **内容**：带1张 meme 图（“谁收地球online的号？在线等，急。”）\n- **互动**：Likes=32, Views≈1278，有10条回复\n- **其他**：回复比较活跃，有人08:41、08:51等时间互动\n\n**共同点**：\n- 三个帖子的**created_at 全部精确落在 xx:xx:00**，符合 X 原生定时发布的典型特征。\n- 发帖间隔规律（约28-30分钟一次），且都在今天上午的固定窗口。\n- 都是 meme 图，内容风格一致。\n\n**我的判断**：**很大概率是定时发布的**（至少这三条很像）。  \nX 原生定时器只会精确到分钟的 :00 秒，而实时手动发帖通常会带随机秒数（:17、:42 之类的）。连续三条都这么“干净”，加上间隔固定，定时可能性很高。\n\n**关于你朋友的状态**：  \n她 bio 里写着“重抑”“想倾诉可以找我说话”，看起来确实在用 meme 维持表面的活跃。如果你担心她，**最直接的方式还是私信关心**（而不是只看发帖模式）。定时发帖可能是她想“保持存在感”的一种方式，但不一定代表她现在在线。\n\n需要我继续帮你查她更早/更晚的帖子、看整体发帖模式，还是其他建议？随时说，我在这儿。🫂"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051603559964152204",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "**是的，我已经拉取了这三个帖子的完整公开元数据。** 下面直接给你关键信息（时间均为 GMT/UTC）：\n\n### 1. https://t.co/AyfI9nRqVS\n- **作者**：@Aureliax17QwQ（海月水母x17🍥）\n- **发布时间**：**2026-05-05 10:03:00 GMT**（精确到秒：:00）\n- **内容**：带1张 meme https://t.co/Nqroo0W2Eh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1267,
+        "media_key": "3_2051503160431353856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhnQU0aIAAP3Fh.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2051613778731823173",
+        "created_at": "2026-05-05T10:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051613778731823173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 109,
+              "id": "1611246341728120835",
+              "start": 95,
+              "username": "Aureliax17QwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20516…",
+              "end": 85,
+              "expanded_url": "https://x.com/i/status/2051603559964152204",
+              "start": 62,
+              "url": "https://t.co/AyfI9nRqVS"
+            },
+            {
+              "display_url": "x.com/Aureliax17QwQ/…",
+              "end": 210,
+              "expanded_url": "https://twitter.com/Aureliax17QwQ/status/2051603559964152204",
+              "start": 187,
+              "url": "https://t.co/Nqroo0W2Eh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051613778731823173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 109,
+                "id": "1611246341728120835",
+                "start": 95,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 323,
+                "id": "1611246341728120835",
+                "start": 309,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 518,
+                "id": "1611246341728120835",
+                "start": 504,
+                "username": "Aureliax17QwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20516…",
+                "end": 85,
+                "expanded_url": "https://x.com/i/status/2051603559964152204",
+                "start": 62,
+                "url": "https://t.co/0dlyXE6FSN"
+              },
+              {
+                "display_url": "x.com/i/status/20515…",
+                "end": 297,
+                "expanded_url": "https://x.com/i/status/2051596513181069644",
+                "start": 274,
+                "url": "https://t.co/fyF7lvqxGG"
+              },
+              {
+                "display_url": "x.com/i/status/20515…",
+                "end": 492,
+                "expanded_url": "https://x.com/i/status/2051581162103906673",
+                "start": 469,
+                "url": "https://t.co/fSQpR3fVKn"
+              }
+            ]
+          },
+          "text": "**是的，我已经拉取了这三个帖子的完整公开元数据。** 下面直接给你关键信息（时间均为 GMT/UTC）：\n\n### 1. https://t.co/0dlyXE6FSN\n- **作者**：@Aureliax17QwQ（海月水母x17🍥）\n- **发布时间**：**2026-05-05 10:03:00 GMT**（精确到秒：:00）\n- **内容**：带1张 meme 图（“与此同时这位老师的教资一闪一闪的”）\n- **互动**：Likes=13, Views≈447（目前数据）\n- **其他**：纯原创帖，无引用/回复链\n\n### 2. https://t.co/fyF7lvqxGG\n- **作者**：同 @Aureliax17QwQ\n- **发布时间**：**2026-05-05 09:35:00 GMT**（精确 :00）\n- **内容**：带1张 meme 图 + 链接\n- **互动**：Likes=7, Views≈360，有2条回复\n- **其他**：有少量实时回复（有人在10:01左右回复）\n\n### 3. https://t.co/fSQpR3fVKn\n- **作者**：同 @Aureliax17QwQ\n- **发布时间**：**2026-05-05 08:34:00 GMT**（精确 :00）\n- **内容**：带1张 meme 图（“谁收地球online的号？在线等，急。”）\n- **互动**：Likes=32, Views≈1278，有10条回复\n- **其他**：回复比较活跃，有人08:41、08:51等时间互动\n\n**共同点**：\n- 三个帖子的**created_at 全部精确落在 xx:xx:00**，符合 X 原生定时发布的典型特征。\n- 发帖间隔规律（约28-30分钟一次），且都在今天上午的固定窗口。\n- 都是 meme 图，内容风格一致。\n\n**我的判断**：**很大概率是定时发布的**（至少这三条很像）。  \nX 原生定时器只会精确到分钟的 :00 秒，而实时手动发帖通常会带随机秒数（:17、:42 之类的）。连续三条都这么“干净”，加上间隔固定，定时可能性很高。\n\n**关于你朋友的状态**：  \n她 bio 里写着“重抑”“想倾诉可以找我说话”，看起来确实在用 meme 维持表面的活跃。如果你担心她，**最直接的方式还是私信关心**（而不是只看发帖模式）。定时发帖可能是她想“保持存在感”的一种方式，但不一定代表她现在在线。\n\n需要我继续帮你查她更早/更晚的帖子、看整体发帖模式，还是其他建议？随时说，我在这儿。🫂"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051603559964152204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "**是的，我已经拉取了这三个帖子的完整公开元数据。** 下面直接给你关键信息（时间均为 GMT/UTC）：\n\n### 1. https://t.co/AyfI9nRqVS\n- **作者**：@Aureliax17QwQ（海月水母x17🍥）\n- **发布时间**：**2026-05-05 10:03:00 GMT**（精确到秒：:00）\n- **内容**：带1张 meme https://t.co/Nqroo0W2Eh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051503160431353856"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051603559964152204",
+        "created_at": "2026-05-05T10:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051603559964152204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8gubUaUiX",
+              "end": 40,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2051603559964152204/photo/1",
+              "media_key": "3_2051503160431353856",
+              "start": 17,
+              "url": "https://t.co/C8gubUaUiX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051603559964152204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 467,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "与此同时这位老师的教资一闪一闪的 https://t.co/C8gubUaUiX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 781,
+          "like_count": 19512,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 3325
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜tg：https://t.co/5kLEQoTlFF ｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 75,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 52,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2050197049195594047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2491,
+          "following_count": 677,
+          "like_count": 6568,
+          "listed_count": 4,
+          "media_count": 309,
+          "tweet_count": 1985
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

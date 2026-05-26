@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2056441901323362462",
+    "created_at": "2026-05-18T18:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T19:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056441901323362462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1851166889655091202",
+          "start": 3,
+          "username": "DEERJU2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056441901323362462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056352410759753758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DEERJU2024: 对于民族主义的忠诚，女性就应该将性爱、身体给与本民族的男性，而不是给与外人。对于某些人来说，这些女人不是人，而是属于本民族“男性”的性资源，人其实是“我们”男性，女人只是物。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2056441901323362462",
+        "created_at": "2026-05-18T18:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056441901323362462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1851166889655091202",
+              "start": 3,
+              "username": "DEERJU2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056441901323362462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056352410759753758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DEERJU2024: 对于民族主义的忠诚，女性就应该将性爱、身体给与本民族的男性，而不是给与外人。对于某些人来说，这些女人不是人，而是属于本民族“男性”的性资源，人其实是“我们”男性，女人只是物。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851166889655091202",
+        "conversation_id": "2056350843209998622",
+        "created_at": "2026-05-18T12:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056352410759753758"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056352410759753758",
+        "in_reply_to_user_id": "1851166889655091202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 325,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056351957795938755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对于民族主义的忠诚，女性就应该将性爱、身体给与本民族的男性，而不是给与外人。对于某些人来说，这些女人不是人，而是属于本民族“男性”的性资源，人其实是“我们”男性，女人只是物。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 825,
+          "like_count": 22065,
+          "listed_count": 3,
+          "media_count": 338,
+          "tweet_count": 4034
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-29T07:39:32.000Z",
+        "description": "辩证法是实在世界中一切运动、一切生命、一切事业之推动的原则/\n我在他中直观到作为自我的我自己，然而在他中又直观到一个直接现存着的、作为自我而与我对立的、绝对独立的另一个客体。——黑格尔\n\n/要么是列宁主义，要么不是马克思主义。/Carry the revolution through the end.",
+        "id": "1851166889655091202",
+        "name": "Durkey德耳击（哈基米主义）",
+        "pinned_tweet_id": "2005364586413998209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050459393192525824/O21ijSHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 61,
+          "like_count": 698,
+          "listed_count": 14,
+          "media_count": 613,
+          "tweet_count": 9170
+        },
+        "username": "DEERJU2024",
+        "verified": false
+      }
+    ]
+  }
+}

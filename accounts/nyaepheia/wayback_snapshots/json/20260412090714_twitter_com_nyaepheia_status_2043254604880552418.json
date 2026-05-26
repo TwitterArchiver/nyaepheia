@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2043245625899356649",
+    "created_at": "2026-04-12T09:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T10:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043254604880552418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1548619992001785859",
+          "start": 0,
+          "username": "frank7829"
+        },
+        {
+          "end": 21,
+          "id": "1942218528100134912",
+          "start": 11,
+          "username": "basibatuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043254604880552418",
+    "in_reply_to_user_id": "1548619992001785859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043254324852085019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frank7829 @basibatuo 懒，反正就几块钱\n等它到货吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2043245625899356649",
+        "created_at": "2026-04-12T09:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043254604880552418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1548619992001785859",
+              "start": 0,
+              "username": "frank7829"
+            },
+            {
+              "end": 21,
+              "id": "1942218528100134912",
+              "start": 11,
+              "username": "basibatuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043254604880552418",
+        "in_reply_to_user_id": "1548619992001785859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043254324852085019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frank7829 @basibatuo 懒，反正就几块钱\n等它到货吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548619992001785859",
+        "conversation_id": "2043245625899356649",
+        "created_at": "2026-04-12T09:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043254324852085019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 21,
+              "id": "1942218528100134912",
+              "start": 11,
+              "username": "basibatuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043254324852085019",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043253790103802349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @basibatuo 别搞 赶紧申请退款"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/小证含糖hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站\n已休学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2041715066337452228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 668,
+          "like_count": 11932,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1757
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-17T10:46:02.000Z",
+        "description": "INFP Web / Game / Anime / 🚇🚌🚄🧳💻🧋🍥",
+        "id": "1548619992001785859",
+        "location": "Earth",
+        "name": "frank_782🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018390699918651392/hjysl7-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 118,
+          "like_count": 1112,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 653
+        },
+        "username": "frank7829",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:46:08.000Z",
+        "description": "oder & 退役oier || hrt：26.3.30 || 生产日期：12.2.22 || 互 fo || 双重人格enfp&infp || 为什么别人声音那么好听但我声音那么难听啊啊啊啊啊啊啊啊啊啊啊啊 || 瓦、apex、mc重度依赖症 || 也许是好学生：（（（ || 长沙某雅系初中在读",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.basibatuo.fun:51145",
+                "end": 23,
+                "expanded_url": "http://blog.basibatuo.fun:51145",
+                "start": 0,
+                "url": "https://t.co/CjcQPk3Uc8"
+              }
+            ]
+          }
+        },
+        "id": "1942218528100134912",
+        "location": "天堂",
+        "name": "basibatuo🍥",
+        "pinned_tweet_id": "2042852644176498995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022914453998891008/mwmzVtyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 476,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/CjcQPk3Uc8",
+        "username": "basibatuo",
+        "verified": true
+      }
+    ]
+  }
+}

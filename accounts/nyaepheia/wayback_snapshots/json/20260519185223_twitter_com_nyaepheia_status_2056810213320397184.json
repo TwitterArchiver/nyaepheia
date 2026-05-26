@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Join the Google I/O livestream beginning May 19 at 10 am PT to watch as Google announces our biggest news, updates, and innovations for the year ahead.",
+          "id": "2053241348807864323",
+          "name": "Google I/O 2026"
+        }
+      }
+    ],
+    "conversation_id": "2056810213320397184",
+    "created_at": "2026-05-19T18:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T19:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056810213320397184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1720665183188922368",
+          "start": 12,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/AiBattle_/stat…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/AiBattle_/status/2056704577823514805",
+          "start": 63,
+          "url": "https://t.co/Mu18KtitN2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056810213320397184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056704577823514805",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "这价格最好是flash\n@grok Gemini 3.5 flash 的价格是DeepSeek V4 flash 的多少倍？ https://t.co/Mu18KtitN2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Join the Google I/O livestream beginning May 19 at 10 am PT to watch as Google announces our biggest news, updates, and innovations for the year ahead.",
+              "id": "2053241348807864323",
+              "name": "Google I/O 2026"
+            }
+          }
+        ],
+        "conversation_id": "2056810213320397184",
+        "created_at": "2026-05-19T18:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056810213320397184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1720665183188922368",
+              "start": 12,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/AiBattle_/stat…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/AiBattle_/status/2056704577823514805",
+              "start": 63,
+              "url": "https://t.co/Mu18KtitN2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056810213320397184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056704577823514805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "这价格最好是flash\n@grok Gemini 3.5 flash 的价格是DeepSeek V4 flash 的多少倍？ https://t.co/Mu18KtitN2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1367154052409212928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Join the Google I/O livestream beginning May 19 at 10 am PT to watch as Google announces our biggest news, updates, and innovations for the year ahead.",
+              "id": "2053241348807864323",
+              "name": "Google I/O 2026"
+            }
+          }
+        ],
+        "conversation_id": "2056700354826235963",
+        "created_at": "2026-05-19T11:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056704577823514805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cheatyyyy/stat…",
+              "end": 244,
+              "expanded_url": "https://x.com/cheatyyyy/status/2056701480460255731?s=20",
+              "start": 221,
+              "url": "https://t.co/gh0Nx64Hu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056704577823514805",
+        "in_reply_to_user_id": "1367154052409212928",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 20861,
+          "like_count": 62,
+          "quote_count": 13,
+          "reply_count": 7,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056701480460255731",
+            "type": "quoted"
+          },
+          {
+            "id": "2056700354826235963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Gemini 3.5 Flash is 3 times as expensive as Gemini 3 Flash\n\nInput per million tokens:\n\nGemini 3.5 Flash - $1.50\nGemini 3 Flash     - $0.50\n\nOutput per million tokens:\n\nGemini 3.5 Flash - $9.00\nGemini 3 Flash     - $3.00\n\nhttps://t.co/gh0Nx64Hu0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 828,
+          "like_count": 22327,
+          "listed_count": 3,
+          "media_count": 343,
+          "tweet_count": 4078
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052556247870865408/oGdJ7sXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8753141,
+          "following_count": 4,
+          "like_count": 95,
+          "listed_count": 6868,
+          "media_count": 8948893,
+          "tweet_count": 126314963
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-03T16:45:27.000Z",
+        "description": "Artificial Intelligence",
+        "id": "1367154052409212928",
+        "name": "AiBattle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904171726260654080/xeXraCCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6085,
+          "following_count": 499,
+          "like_count": 37919,
+          "listed_count": 123,
+          "media_count": 657,
+          "tweet_count": 877
+        },
+        "username": "AiBattle_",
+        "verified": true
+      }
+    ]
+  }
+}

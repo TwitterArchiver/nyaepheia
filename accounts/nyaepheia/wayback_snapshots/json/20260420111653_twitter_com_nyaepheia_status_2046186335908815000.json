@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046063828052713472"
+      ],
+      "media_source_tweet_id": [
+        "2046063836298645881"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046186335908815000",
+    "created_at": "2026-04-20T11:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T12:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046186335908815000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lAM4Od8fe6",
+          "end": 108,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2046063836298645881/photo/1",
+          "media_key": "3_2046063828052713472",
+          "start": 85,
+          "url": "https://t.co/lAM4Od8fe6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046186335908815000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046063836298645881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 然而实际上，许多人生孩子都是指望着孩子长大了能有出息，以实现阶级的跃升。\n如果是抱着这样的目的的话，那么生孩子就是「得不偿失」的 https://t.co/lAM4Od8fe6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 781,
+        "media_key": "3_2046063828052713472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUUNgrboAApwdv.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046063828052713472"
+          ],
+          "media_source_tweet_id": [
+            "2046063836298645881"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046186335908815000",
+        "created_at": "2026-04-20T11:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046186335908815000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lAM4Od8fe6",
+              "end": 108,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2046063836298645881/photo/1",
+              "media_key": "3_2046063828052713472",
+              "start": 85,
+              "url": "https://t.co/lAM4Od8fe6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046186335908815000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046063836298645881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 然而实际上，许多人生孩子都是指望着孩子长大了能有出息，以实现阶级的跃升。\n如果是抱着这样的目的的话，那么生孩子就是「得不偿失」的 https://t.co/lAM4Od8fe6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046063828052713472"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2046063836298645881",
+        "created_at": "2026-04-20T03:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046063836298645881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lAM4Od8fe6",
+              "end": 88,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2046063836298645881/photo/1",
+              "media_key": "3_2046063828052713472",
+              "start": 65,
+              "url": "https://t.co/lAM4Od8fe6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046063836298645881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 882,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "然而实际上，许多人生孩子都是指望着孩子长大了能有出息，以实现阶级的跃升。\n如果是抱着这样的目的的话，那么生孩子就是「得不偿失」的 https://t.co/lAM4Od8fe6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 719,
+          "like_count": 15502,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2328
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@CyberRazuberii 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "CyberRazuberii"
+              },
+              {
+                "end": 164,
+                "start": 150,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 116,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 93,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 146,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 123,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2045857921553297748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 543,
+          "like_count": 14250,
+          "listed_count": 5,
+          "media_count": 881,
+          "tweet_count": 4639
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

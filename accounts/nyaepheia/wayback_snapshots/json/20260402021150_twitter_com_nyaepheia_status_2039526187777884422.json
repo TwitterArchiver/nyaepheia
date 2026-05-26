@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2039526187777884422",
+    "created_at": "2026-04-02T02:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T03:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039526187777884422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "281045155",
+          "start": 3,
+          "username": "_vicwong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039526187777884422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039455067275706658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_vicwong: 为什么女性好过男性？\n\n女性整体特质，在“现代民主国家总统角色”中，更具有结构性优势。\n\n简单总结一下：\n\n如果总统的核心任务是避免灾难、整合社会、维持长期稳定 ——\n那么从群体特征看，女性确实更接近这个岗位的“理想模型”。\n\n另外，让对话机器人(…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1471,
+        "media_key": "3_2039455061567303680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE2ZkrAXcAAMSYZ.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2039455061743378432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE2ZkrqWIAAkPCP.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1386,
+        "media_key": "3_2039455061470785536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE2ZkqpWsAArIKj.jpg",
+        "width": 1276
+      },
+      {
+        "height": 1327,
+        "media_key": "3_2039455061462396928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE2ZkqnWsAA6cnu.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2039526187777884422",
+        "created_at": "2026-04-02T02:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039526187777884422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "281045155",
+              "start": 3,
+              "username": "_vicwong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039526187777884422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039455067275706658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_vicwong: 为什么女性好过男性？\n\n女性整体特质，在“现代民主国家总统角色”中，更具有结构性优势。\n\n简单总结一下：\n\n如果总统的核心任务是避免灾难、整合社会、维持长期稳定 ——\n那么从群体特征看，女性确实更接近这个岗位的“理想模型”。\n\n另外，让对话机器人(…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039455061567303680",
+            "3_2039455061743378432",
+            "3_2039455061470785536",
+            "3_2039455061462396928"
+          ]
+        },
+        "author_id": "281045155",
+        "conversation_id": "2039455067275706658",
+        "created_at": "2026-04-01T21:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T22:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039455067275706658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VStqC7U2BC",
+              "end": 163,
+              "expanded_url": "https://x.com/_vicwong/status/2039455067275706658/photo/1",
+              "media_key": "3_2039455061567303680",
+              "start": 140,
+              "url": "https://t.co/VStqC7U2BC"
+            },
+            {
+              "display_url": "pic.x.com/VStqC7U2BC",
+              "end": 163,
+              "expanded_url": "https://x.com/_vicwong/status/2039455067275706658/photo/1",
+              "media_key": "3_2039455061743378432",
+              "start": 140,
+              "url": "https://t.co/VStqC7U2BC"
+            },
+            {
+              "display_url": "pic.x.com/VStqC7U2BC",
+              "end": 163,
+              "expanded_url": "https://x.com/_vicwong/status/2039455067275706658/photo/1",
+              "media_key": "3_2039455061470785536",
+              "start": 140,
+              "url": "https://t.co/VStqC7U2BC"
+            },
+            {
+              "display_url": "pic.x.com/VStqC7U2BC",
+              "end": 163,
+              "expanded_url": "https://x.com/_vicwong/status/2039455067275706658/photo/1",
+              "media_key": "3_2039455061462396928",
+              "start": 140,
+              "url": "https://t.co/VStqC7U2BC"
+            },
+            {
+              "display_url": "x.com/_vicwong/statu…",
+              "end": 187,
+              "expanded_url": "https://twitter.com/_vicwong/status/2039080613693538353",
+              "start": 164,
+              "url": "https://t.co/K6pDLr4CG6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039455067275706658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么女性好过男性？\n\n女性整体特质，在“现代民主国家总统角色”中，更具有结构性优势。\n\n简单总结一下：\n\n如果总统的核心任务是避免灾难、整合社会、维持长期稳定 ——\n那么从群体特征看，女性确实更接近这个岗位的“理想模型”。\n\n另外，让对话机器人( AI) 提出四个论点(见图)  ，它举了三个女性的例子，英国首相、德国新西兰总理。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1041,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039080613693538353",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么女性好过男性？\n\n女性整体特质，在“现代民主国家总统角色”中，更具有结构性优势。\n\n简单总结一下：\n\n如果总统的核心任务是避免灾难、整合社会、维持长期稳定 ——\n那么从群体特征看，女性确实更接近这个岗位的“理想模型”。\n\n另外，让对话机器人( AI) 提出四个论点(见图) https://t.co/VStqC7U2BC https://t.co/K6pDLr4CG6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/hrt26.4.1/家长党/天残党/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂🍥",
+        "pinned_tweet_id": "2037905372414091549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 546,
+          "like_count": 6269,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2011-04-12T14:27:54.000Z",
+        "description": "加拿大多伦多人；移民二十九年，非信徒；崇尚“赛先生”和“德先生”； 享受退休生活，喜欢房车音乐。 上推的目的：用以往生活工作经验，帮推友借助科技学习英语，了解西方社会，享受现代生活。 欢迎任何评论，提出你的论点，不接受任何脏话，没时间私信通讯，感谢推友关注。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vicwong.com",
+                "end": 23,
+                "expanded_url": "http://www.vicwong.com",
+                "start": 0,
+                "url": "https://t.co/k96TOcRpuE"
+              }
+            ]
+          }
+        },
+        "id": "281045155",
+        "location": "Toronto, Ontario",
+        "name": "Vic Wong 黄维克",
+        "pinned_tweet_id": "2038822038081507574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562231842530549760/gakJS4XE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57594,
+          "following_count": 411,
+          "like_count": 67963,
+          "listed_count": 243,
+          "media_count": 10903,
+          "tweet_count": 64963
+        },
+        "url": "https://t.co/k96TOcRpuE",
+        "username": "_vicwong",
+        "verified": true
+      }
+    ]
+  }
+}

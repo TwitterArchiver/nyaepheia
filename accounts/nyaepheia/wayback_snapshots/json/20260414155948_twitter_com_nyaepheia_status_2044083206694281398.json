@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2044082954637545962",
+    "created_at": "2026-04-14T15:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044083206694281398"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044083206694281398",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044082954637545962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就是那种很想让别人关注又害怕社交的人。\n好奇怪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2102,
+        "media_key": "3_2044082946899079168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4KnDVacAADxwD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2044082954637545962",
+        "created_at": "2026-04-14T15:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044083206694281398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044083206694281398",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044082954637545962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就是那种很想让别人关注又害怕社交的人。\n好奇怪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044082946899079168"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2044082954637545962",
+        "created_at": "2026-04-14T15:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044082954637545962"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 20,
+              "tag": "nyaepheia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PKOd7v0bQq",
+              "end": 54,
+              "expanded_url": "https://x.com/nyaepheia/status/2044082954637545962/photo/1",
+              "media_key": "3_2044082946899079168",
+              "start": 31,
+              "url": "https://t.co/PKOd7v0bQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044082954637545962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "确实无人在意我\n\n而且我确实太炒作了\n\n#nyaepheia https://t.co/PKOd7v0bQq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary? Queer? MtF/X transles?\n✨she/they\n小证含糖hrt26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\nVibe coding/搭网站\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 150,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 683,
+          "like_count": 13413,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1997
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

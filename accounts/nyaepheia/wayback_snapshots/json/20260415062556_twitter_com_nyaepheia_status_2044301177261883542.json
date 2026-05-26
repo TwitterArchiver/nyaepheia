@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044288032413757440",
+        "3_2044288039388872704"
+      ],
+      "media_source_tweet_id": [
+        "2044288048666693728",
+        "2044288048666693728"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2044301177261883542",
+    "created_at": "2026-04-15T06:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T07:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044301177261883542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1928705633135767600",
+          "start": 3,
+          "username": "Coxe_Pica"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dmTmCJcgBJ",
+          "end": 75,
+          "expanded_url": "https://x.com/Coxe_Pica/status/2044288048666693728/photo/1",
+          "media_key": "3_2044288032413757440",
+          "start": 52,
+          "url": "https://t.co/dmTmCJcgBJ"
+        },
+        {
+          "display_url": "pic.x.com/dmTmCJcgBJ",
+          "end": 75,
+          "expanded_url": "https://x.com/Coxe_Pica/status/2044288048666693728/photo/1",
+          "media_key": "3_2044288039388872704",
+          "start": 52,
+          "url": "https://t.co/dmTmCJcgBJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044301177261883542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044288048666693728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Coxe_Pica: 苹果的人文关怀是不可怀疑的，对LGBTQ+的支持也十分领先🏳️‍⚧️🍥 https://t.co/dmTmCJcgBJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1403,
+        "media_key": "3_2044288032413757440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7FImaasAAC-mF.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1673,
+        "media_key": "3_2044288039388872704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7FJAZagAAcgAM.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044288032413757440",
+            "3_2044288039388872704"
+          ],
+          "media_source_tweet_id": [
+            "2044288048666693728",
+            "2044288048666693728"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2044301177261883542",
+        "created_at": "2026-04-15T06:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044301177261883542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1928705633135767600",
+              "start": 3,
+              "username": "Coxe_Pica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dmTmCJcgBJ",
+              "end": 75,
+              "expanded_url": "https://x.com/Coxe_Pica/status/2044288048666693728/photo/1",
+              "media_key": "3_2044288032413757440",
+              "start": 52,
+              "url": "https://t.co/dmTmCJcgBJ"
+            },
+            {
+              "display_url": "pic.x.com/dmTmCJcgBJ",
+              "end": 75,
+              "expanded_url": "https://x.com/Coxe_Pica/status/2044288048666693728/photo/1",
+              "media_key": "3_2044288039388872704",
+              "start": 52,
+              "url": "https://t.co/dmTmCJcgBJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044301177261883542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044288048666693728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Coxe_Pica: 苹果的人文关怀是不可怀疑的，对LGBTQ+的支持也十分领先🏳️‍⚧️🍥 https://t.co/dmTmCJcgBJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044288032413757440",
+            "3_2044288039388872704"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2044288048666693728",
+        "created_at": "2026-04-15T05:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044288048666693728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dmTmCJcgBJ",
+              "end": 60,
+              "expanded_url": "https://x.com/Coxe_Pica/status/2044288048666693728/photo/1",
+              "media_key": "3_2044288032413757440",
+              "start": 37,
+              "url": "https://t.co/dmTmCJcgBJ"
+            },
+            {
+              "display_url": "pic.x.com/dmTmCJcgBJ",
+              "end": 60,
+              "expanded_url": "https://x.com/Coxe_Pica/status/2044288048666693728/photo/1",
+              "media_key": "3_2044288039388872704",
+              "start": 37,
+              "url": "https://t.co/dmTmCJcgBJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044288048666693728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 95,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "苹果的人文关怀是不可怀疑的，对LGBTQ+的支持也十分领先🏳️‍⚧️🍥 https://t.co/dmTmCJcgBJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary? Queer? MtF/X transles?\n✨she/they\n小证含糖hrt26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\nVibe coding/搭网站\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 150,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 682,
+          "like_count": 13752,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2032
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13初中生7年级\nMtf/女孩子啦年龄党/无证含糖🍥🏳️‍⚧️\n常驻湖北在湖北上学\n无心理问题/苹果粉\n分享我的日常生活和技术\n感谢你的关注和喜欢ó\n\n\"When tomorrow comes.....\"🎉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/TBhidJAcQE",
+                "end": 23,
+                "expanded_url": "http://qm.qq.com/q/TBhidJAcQE",
+                "start": 0,
+                "url": "https://t.co/oMMUoETmUT"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "亚细亚洲-CN潜江City",
+        "name": "Coxe_Pica 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041475934608380289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042574562454614016/vmVviffD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 16,
+          "like_count": 479,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 236
+        },
+        "url": "https://t.co/oMMUoETmUT",
+        "username": "Coxe_Pica",
+        "verified": true
+      }
+    ]
+  }
+}

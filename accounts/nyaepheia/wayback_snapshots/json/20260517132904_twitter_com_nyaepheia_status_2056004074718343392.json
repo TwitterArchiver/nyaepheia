@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2056004074718343392",
+    "created_at": "2026-05-17T13:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056004074718343392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1328666264449867777",
+          "start": 3,
+          "username": "0xKevin00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056004074718343392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055900120768500143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0xKevin00: 笑不活了，这校长被忽悠瘸了吧。不认识token，只知道20亿这个数字很大🤣\n\n事情是这样，三位00后向母校捐赠20亿token\n\n20亿按照ds4 1亿5块钱计算，相当于给母校捐款100块钱\n\n搞半天20亿token都不如手上拿着那张捐赠证书值钱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 646,
+        "media_key": "3_2055888319888904192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf7iMzaUAAeLnt.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2056004074718343392",
+        "created_at": "2026-05-17T13:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056004074718343392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1328666264449867777",
+              "start": 3,
+              "username": "0xKevin00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056004074718343392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055900120768500143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0xKevin00: 笑不活了，这校长被忽悠瘸了吧。不认识token，只知道20亿这个数字很大🤣\n\n事情是这样，三位00后向母校捐赠20亿token\n\n20亿按照ds4 1亿5块钱计算，相当于给母校捐款100块钱\n\n搞半天20亿token都不如手上拿着那张捐赠证书值钱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055888319888904192"
+          ]
+        },
+        "author_id": "1328666264449867777",
+        "conversation_id": "2055900120768500143",
+        "created_at": "2026-05-17T06:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055900120768500143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CzGDhCt85G",
+              "end": 147,
+              "expanded_url": "https://x.com/0xKevin00/status/2055900120768500143/photo/1",
+              "media_key": "3_2055888319888904192",
+              "start": 124,
+              "url": "https://t.co/CzGDhCt85G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055900120768500143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 564186,
+          "like_count": 1408,
+          "quote_count": 18,
+          "reply_count": 404,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "笑不活了，这校长被忽悠瘸了吧。不认识token，只知道20亿这个数字很大🤣\n\n事情是这样，三位00后向母校捐赠20亿token\n\n20亿按照ds4 1亿5块钱计算，相当于给母校捐款100块钱\n\n搞半天20亿token都不如手上拿着那张捐赠证书值钱 https://t.co/CzGDhCt85G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 818,
+          "like_count": 21713,
+          "listed_count": 3,
+          "media_count": 333,
+          "tweet_count": 3983
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-17T11:48:39.000Z",
+        "description": "𝐊𝐞𝐯𝐢𝐧 の撸毛日记｜Airdrop thread｜TG: Kevin00btc｜#OKX WEB3钱包减免手续费链接：https://t.co/yFYN0GOofW 邀请码：0xkvein00",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 42,
+                "tag": "OKX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.okx.com/ul/joindex?ref…",
+                "end": 84,
+                "expanded_url": "https://web3.okx.com/ul/joindex?ref=0XKEVIN00",
+                "start": 61,
+                "url": "https://t.co/yFYN0GOofW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mirror.xyz/0xC6D545FA2a97…",
+                "end": 23,
+                "expanded_url": "https://mirror.xyz/0xC6D545FA2a9738933e7Fb40ac7024FbD951bAe0A",
+                "start": 0,
+                "url": "https://t.co/eq9oGiqUce"
+              }
+            ]
+          }
+        },
+        "id": "1328666264449867777",
+        "location": "🟦🟦🟦🟦🟦⬜️⬜️",
+        "name": "0xkevin (🖤 , 💙)",
+        "pinned_tweet_id": "1651182588273516544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004463309861670912/1yGoOsT0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60696,
+          "following_count": 5560,
+          "like_count": 8347,
+          "listed_count": 1047,
+          "media_count": 1886,
+          "tweet_count": 23856
+        },
+        "url": "https://t.co/eq9oGiqUce",
+        "username": "0xKevin00",
+        "verified": true
+      }
+    ]
+  }
+}

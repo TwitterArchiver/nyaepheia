@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2055587381668106285",
+    "created_at": "2026-05-16T09:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055587549113094245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Bluesky social client with AI integration",
+          "display_url": "bsky.epheia.dev",
+          "end": 31,
+          "expanded_url": "http://bsky.epheia.dev",
+          "start": 8,
+          "status": 200,
+          "title": "Bluesky Client",
+          "unwound_url": "https://bsky.epheia.dev/",
+          "url": "https://t.co/rP0ZR92qcp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055587549113094245",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055587381668106285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "立即使用PWA：https://t.co/rP0ZR92qcp"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "欢迎页面AI 设置",
+        "height": 868,
+        "media_key": "3_2055586593285734400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbpHZnaAAANoqP.png",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2055587381668106285",
+        "created_at": "2026-05-16T09:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055587549113094245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Bluesky social client with AI integration",
+              "display_url": "bsky.epheia.dev",
+              "end": 31,
+              "expanded_url": "http://bsky.epheia.dev",
+              "start": 8,
+              "status": 200,
+              "title": "Bluesky Client",
+              "unwound_url": "https://bsky.epheia.dev/",
+              "url": "https://t.co/rP0ZR92qcp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055587549113094245",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055587381668106285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "立即使用PWA：https://t.co/rP0ZR92qcp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055586593285734400"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2055587381668106285",
+        "created_at": "2026-05-16T09:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055587381668106285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Z1y4ZAmmo",
+              "end": 215,
+              "expanded_url": "https://x.com/nyaepheia/status/2055587381668106285/photo/1",
+              "media_key": "3_2055586593285734400",
+              "start": 192,
+              "url": "https://t.co/5Z1y4ZAmmo"
+            },
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 239,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2055266741115380079",
+              "start": 216,
+              "url": "https://t.co/wzyKYmuOgH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055587381668106285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【2026年5月16日 v0.13.9】AI bsky 更新日志 🎉\n\n对底层进行了抽象，现已支持Response API！🎉\n目前默认对xAI 和OpenAI 提供商使用Response API\n\n此外，这次适配了更多AI 提供商！\n```diff\n  DeepSeek\n+ OpenAI\n+ xAI Grok\n   Mistral\n+ OpenRouter\n+ Kimi\n```"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055266741115380079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【2026年5月16日 v0.13.9】AI bsky 更新日志 🎉\n\n对底层进行了抽象，现已支持Response API！🎉\n目前默认对xAI 和OpenAI 提供商使用Response API\n\n此外，这次适配了更多AI 提供商！\n```diff\n  DeepSeek\n+ OpenAI\n+ xAI Grok\n   Mistral\n+ OpenRouter\n+ Kimi\n``` https://t.co/5Z1y4ZAmmo https://t.co/wzyKYmuOgH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 809,
+          "like_count": 21377,
+          "listed_count": 3,
+          "media_count": 320,
+          "tweet_count": 3905
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

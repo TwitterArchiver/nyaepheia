@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2043885816116850828",
+    "created_at": "2026-04-14T02:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043885816116850828"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 98,
+          "tag": "校园暴力"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "303806284",
+          "start": 3,
+          "username": "UNESCO_chinese"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/6I",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/6I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043885816116850828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043843929418715360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UNESCO_chinese: 全球每年有约2.46亿儿童和青少年在校园内外遭遇暴力；\n每3个学童中就有1人曾在校园内或周围经历过欺凌。\n然而，仅32个国家制定了有力的法律措施。\n\n拒绝 #校园暴力 ，一起为孩子们撑起更安全的成长空间！➡️https://t.co/6I…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2043742318050545664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzUz1_WEAAAWWt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2043885816116850828",
+        "created_at": "2026-04-14T02:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043885816116850828"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "校园暴力"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "303806284",
+              "start": 3,
+              "username": "UNESCO_chinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/6I",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043885816116850828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043843929418715360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UNESCO_chinese: 全球每年有约2.46亿儿童和青少年在校园内外遭遇暴力；\n每3个学童中就有1人曾在校园内或周围经历过欺凌。\n然而，仅32个国家制定了有力的法律措施。\n\n拒绝 #校园暴力 ，一起为孩子们撑起更安全的成长空间！➡️https://t.co/6I…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043742318050545664"
+          ]
+        },
+        "author_id": "303806284",
+        "conversation_id": "2043843929418715360",
+        "created_at": "2026-04-14T00:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T01:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043843929418715360"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "校园暴力"
+            }
+          ],
+          "urls": [
+            {
+              "description": "肢体暴力，是指由同龄人、教师或学校工作人员实施的任何形式的、带伤害意图的肢体攻击。 心理暴力，即语言和情感上的虐待，包括任何形式的孤立、排挤、忽视、侮辱、散布谣言、编造谎言、起外号、嘲笑、羞辱和威胁以及心理惩罚。 性暴力，包括性恐吓、性骚扰、违背意愿的触摸、性胁迫和强奸等，实施者为教师、学校工作人员或校友、同学。 欺凌是一种重复的行为模式，而不是单个的孤立事件，可被定义为反复发生的针对某位受害者的故意和攻击性行为。它可以有各种形式： 肢体欺凌，包括踢、打和损毁财物； 心理欺凌，如戏弄、侮辱和威胁；或关系欺凌，包括散布谣言和抱团孤立；以及 性欺凌，例如使用与性相关的笑话、评论或手势取笑受害者，这在一些国家可能被定义为性“骚扰”。 所有儿童都可能被欺负，但有证据表明，被认为在任一方面“与众不同”的儿童更容易受到欺负。主要因素包括外貌、种族、语言或文化背景、性别（包括不符合性别规范和刻板印象）；社会地位和残疾。 图片来源：Eakachai Leesin/Shutterstock.com",
+              "display_url": "unesco.org/zh/articles/gu…",
+              "end": 127,
+              "expanded_url": "https://www.unesco.org/zh/articles/guanyuxiaoyuanbaoliheqilingnixuyaozhidaozhexieshi",
+              "start": 104,
+              "status": 200,
+              "title": "关于校园暴力和欺凌，你需要知道这些事",
+              "unwound_url": "https://www.unesco.org/zh/articles/guanyuxiaoyuanbaoliheqilingnixuyaozhidaozhexieshi",
+              "url": "https://t.co/6IUfuZVJvG"
+            },
+            {
+              "display_url": "pic.x.com/WXm6e0KcPS",
+              "end": 151,
+              "expanded_url": "https://x.com/UNESCO_chinese/status/2043843929418715360/photo/1",
+              "media_key": "3_2043742318050545664",
+              "start": 128,
+              "url": "https://t.co/WXm6e0KcPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043843929418715360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "全球每年有约2.46亿儿童和青少年在校园内外遭遇暴力；\n每3个学童中就有1人曾在校园内或周围经历过欺凌。\n然而，仅32个国家制定了有力的法律措施。\n\n拒绝 #校园暴力 ，一起为孩子们撑起更安全的成长空间！➡️https://t.co/6IUfuZVJvG https://t.co/WXm6e0KcPS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary? Queer? MtF/X transles?\n✨she/they\n小证含糖hrt26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\nVibe coding/搭网站\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 150,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 678,
+          "like_count": 12883,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1909
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-23T13:10:38.000Z",
+        "description": "战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障。\n#教育 #科学 #文化 #传播 #信息",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "教育"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "科学"
+              },
+              {
+                "end": 41,
+                "start": 38,
+                "tag": "文化"
+              },
+              {
+                "end": 45,
+                "start": 42,
+                "tag": "传播"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "信息"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "unesco.org/zh",
+                "end": 23,
+                "expanded_url": "https://www.unesco.org/zh",
+                "start": 0,
+                "url": "https://t.co/udyfiQ0Rz2"
+              }
+            ]
+          }
+        },
+        "id": "303806284",
+        "location": "联合国教科文组织总部 法国•巴黎",
+        "name": "联合国教科文组织",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1193847119481835527/6sD9IUQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36852,
+          "following_count": 41,
+          "like_count": 487,
+          "listed_count": 120,
+          "media_count": 10735,
+          "tweet_count": 11272
+        },
+        "url": "https://t.co/udyfiQ0Rz2",
+        "username": "UNESCO_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

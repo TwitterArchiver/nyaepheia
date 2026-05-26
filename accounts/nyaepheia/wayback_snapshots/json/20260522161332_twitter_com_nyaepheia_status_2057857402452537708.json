@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057857394231664880",
+    "created_at": "2026-05-22T16:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057857402452537708"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057857402452537708",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057857399856243082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "三平台统一架构：\n- PWA (浏览器): Pyodide WASM + Web Worker\n- TUI (终端): 本地 Python child_process\n- MCP (Claude/Cursor): 同上，供外部 AI 客户端使用\n所有 handler 逻辑只在 @bsky/core 写一次，三平台共享。零重复代码。\n安全方面：AST 预分析检测写操作，执行前必须用户确认。\n\n🧵 3/4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 869,
+        "media_key": "3_2057856348017012736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI75cg5WMAAIUfQ.png",
+        "width": 503
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057857394231664880",
+        "created_at": "2026-05-22T16:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057857402452537708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057857402452537708",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057857399856243082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "三平台统一架构：\n- PWA (浏览器): Pyodide WASM + Web Worker\n- TUI (终端): 本地 Python child_process\n- MCP (Claude/Cursor): 同上，供外部 AI 客户端使用\n所有 handler 逻辑只在 @bsky/core 写一次，三平台共享。零重复代码。\n安全方面：AST 预分析检测写操作，执行前必须用户确认。\n\n🧵 3/4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057856348017012736"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057857394231664880",
+        "created_at": "2026-05-22T16:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057857399856243082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hqeV2Z3NaI",
+              "end": 231,
+              "expanded_url": "https://x.com/nyaepheia/status/2057857399856243082/photo/1",
+              "media_key": "3_2057856348017012736",
+              "start": 208,
+              "url": "https://t.co/hqeV2Z3NaI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057857399856243082",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "更重磅的是 bsky_tools Python 库。\n33 个 Bluesky API 方法现在可以从 Python 批量调用：\n- 搜索帖子 → 数据分析 → 生成图表，一气呵成\n- 批量获取粉丝列表、分析互动模式\n- 用 10 行 Python 替代 30 次单独工具调用\n\n代码示例：\n```py\nposts = bsky_tools.search_posts(q=\"AI\", limit=100)\ndf = pd.DataFrame([p['text'] for p in posts['posts']])\n# 分析、绘图、导出 CSV\n```\n🧵 2/4"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057857394231664880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "更重磅的是 bsky_tools Python 库。\n33 个 Bluesky API 方法现在可以从 Python 批量调用：\n- 搜索帖子 → 数据分析 → 生成图表，一气呵成\n- 批量获取粉丝列表、分析互动模式\n- 用 10 行 Python 替代 30 次单独工具调用\n\n代码示例：\n```py\nposts = bsky_tools.search_posts(q=\"AI\", limit=100)\ndf = https://t.co/hqeV2Z3NaI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 825,
+          "like_count": 23015,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 4273
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

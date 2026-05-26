@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046496680280006966",
+    "created_at": "2026-04-21T08:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T09:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046504339444060346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1784185682442780672",
+          "start": 0,
+          "username": "teng66351946709"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20464…",
+          "end": 50,
+          "expanded_url": "https://x.com/i/status/2046488402581917715",
+          "start": 27,
+          "url": "https://t.co/zqUtt50RUA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046504339444060346",
+    "in_reply_to_user_id": "1784185682442780672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046488402581917715",
+        "type": "quoted"
+      },
+      {
+        "id": "2046500266405777438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teng66351946709 可能和这个帖子有关：https://t.co/zqUtt50RUA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046496680280006966",
+        "created_at": "2026-04-21T08:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046504339444060346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1784185682442780672",
+              "start": 0,
+              "username": "teng66351946709"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20464…",
+              "end": 50,
+              "expanded_url": "https://x.com/i/status/2046488402581917715",
+              "start": 27,
+              "url": "https://t.co/zqUtt50RUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046504339444060346",
+        "in_reply_to_user_id": "1784185682442780672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046488402581917715",
+            "type": "quoted"
+          },
+          {
+            "id": "2046500266405777438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teng66351946709 可能和这个帖子有关：https://t.co/zqUtt50RUA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759983760152637440",
+        "conversation_id": "2046488402581917715",
+        "created_at": "2026-04-21T07:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046488402581917715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046488402581917715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两板奥氮平，两板帕罗西汀，半碗亚硝酸钠，一瓶阿普唑仑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784185682442780672",
+        "conversation_id": "2046496680280006966",
+        "created_at": "2026-04-21T08:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046500266405777438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046500266405777438",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046496680280006966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 他吃的这是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 733,
+          "like_count": 15880,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2453
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-27T11:39:59.000Z",
+        "description": "因缘聚，缘尽离。",
+        "id": "1784185682442780672",
+        "location": "钢铁丛林",
+        "name": "teng",
+        "pinned_tweet_id": "1833157367124386161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990655796997156864/ET6rXGMQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 0,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1048
+        },
+        "username": "teng66351946709",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T16:50:15.000Z",
+        "description": "酗酒，割手样样俱全（求求互fo🥺",
+        "id": "1759983760152637440",
+        "location": "mars",
+        "name": "kaikaixin🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759984206468222976/03bgRFtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 390,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 223
+        },
+        "username": "kaixinua",
+        "verified": false
+      }
+    ]
+  }
+}

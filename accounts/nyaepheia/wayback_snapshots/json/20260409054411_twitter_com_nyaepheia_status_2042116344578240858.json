@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2042041576659292418",
+    "created_at": "2026-04-09T05:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T06:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042116344578240858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1282010191748186117",
+          "start": 0,
+          "username": "mengqing5208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042116344578240858",
+    "in_reply_to_user_id": "1282010191748186117",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042041576659292418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengqing5208 不是的，跨女也是女孩子啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2042041576659292418",
+        "created_at": "2026-04-09T05:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042116344578240858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1282010191748186117",
+              "start": 0,
+              "username": "mengqing5208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042116344578240858",
+        "in_reply_to_user_id": "1282010191748186117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042041576659292418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengqing5208 不是的，跨女也是女孩子啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1282010191748186117",
+        "conversation_id": "2042041576659292418",
+        "created_at": "2026-04-09T00:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042041576659292418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042041576659292418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉infp的女孩子都是天使…都特别善良特别好呀……\n我也是infp，但是我是例外啦…\n毕竟跨女不能算是女孩子吧…🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2041715066337452228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 634,
+          "like_count": 9767,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1288
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-11T17:53:51.000Z",
+        "description": "14岁/sub/含糖跨女（建议你们尽量不要吃糖）/我会尽力对大家友好的😿希望得到大家的喜爱或者至少不讨厌捏……/不涉黄，尽量不涉政/政治中立学术派/社会民主主义/中英双语/好朋友：@freequan2025   @vicoOci_Olvidar    @SujitGund\n🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 90,
+                "username": "freequan2025"
+              },
+              {
+                "end": 122,
+                "start": 106,
+                "username": "vicoOci_Olvidar"
+              },
+              {
+                "end": 136,
+                "start": 126,
+                "username": "SujitGund"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/B3FHIhpHrJ"
+              }
+            ]
+          }
+        },
+        "id": "1282010191748186117",
+        "location": "Japan",
+        "name": "梦情🏳️‍⚧️",
+        "pinned_tweet_id": "1386698578932899843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021455778482470912/bLsOSTw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 189,
+          "like_count": 2404,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 695
+        },
+        "url": "https://t.co/B3FHIhpHrJ",
+        "username": "mengqing5208",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2038845633965293580",
+    "created_at": "2026-03-31T05:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T06:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038846015412023746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "MtF.wiki",
+          "end": 27,
+          "expanded_url": "http://MtF.wiki",
+          "start": 4,
+          "status": 200,
+          "title": "MtF.wiki",
+          "unwound_url": "https://mtf.wiki/",
+          "url": "https://t.co/CZB1UAgvTY"
+        },
+        {
+          "description": "Your browser is outdated and may not display this website correctly. Please use a newer version of your browser or operating system. 询问完成后医生会对每一个病人建立一份档案，上面有详细说明青春期阻断和激素治疗的所有信息（档案内包含问卷，一般会询问出生时性别以及期望的性别），需要在档案后面填写自己的联系方式和进行签名，如果有家长则家长也需要填写（家长需要另外填写身份证号）。未成年人一般开皮下针剂注射的 GnRH 类似物 药物（价格在903～2500人民币一针左右，处方当天有效，需要当天在妇科门诊处缴费或在一号楼一楼的缴费中心缴费，不可使用医保报销）。医生会再三提醒未成年患者的家长家长仔细阅读其治疗的作用和风险， 一般会详细解释青春期阻断，解释方式如：“我们并未开始激素治疗，青春期阻断只是给孩子的生长发育按了暂停键，他现在就是不会那么快朝着男生的方向发育，但也不会朝着女生的方向发育，懂了吗？”（高绿芬医生原话）。青春期阻断剂药物是28天注射一针，注射地点在抽血中心旁边（即医院一楼",
+          "display_url": "mtf.wiki/zh-cn/docs/hrt…",
+          "end": 83,
+          "expanded_url": "https://mtf.wiki/zh-cn/docs/hrt/jnuh1",
+          "start": 60,
+          "status": 200,
+          "title": "广州暨南一院｜高绿芬",
+          "unwound_url": "https://mtf.wiki/zh-cn/docs/hrt/jnuh1",
+          "url": "https://t.co/GBoVeCisdE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038846015412023746",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038845633965293580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小插曲：https://t.co/CZB1UAgvTY上写着「这个条目曾经被条目人物巡回过。」但高医生说她没注意（？） https://t.co/GBoVeCisdE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2038845633965293580",
+        "created_at": "2026-03-31T05:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T06:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038846015412023746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "MtF.wiki",
+              "end": 27,
+              "expanded_url": "http://MtF.wiki",
+              "start": 4,
+              "status": 200,
+              "title": "MtF.wiki",
+              "unwound_url": "https://mtf.wiki/",
+              "url": "https://t.co/CZB1UAgvTY"
+            },
+            {
+              "description": "Your browser is outdated and may not display this website correctly. Please use a newer version of your browser or operating system. 询问完成后医生会对每一个病人建立一份档案，上面有详细说明青春期阻断和激素治疗的所有信息（档案内包含问卷，一般会询问出生时性别以及期望的性别），需要在档案后面填写自己的联系方式和进行签名，如果有家长则家长也需要填写（家长需要另外填写身份证号）。未成年人一般开皮下针剂注射的 GnRH 类似物 药物（价格在903～2500人民币一针左右，处方当天有效，需要当天在妇科门诊处缴费或在一号楼一楼的缴费中心缴费，不可使用医保报销）。医生会再三提醒未成年患者的家长家长仔细阅读其治疗的作用和风险， 一般会详细解释青春期阻断，解释方式如：“我们并未开始激素治疗，青春期阻断只是给孩子的生长发育按了暂停键，他现在就是不会那么快朝着男生的方向发育，但也不会朝着女生的方向发育，懂了吗？”（高绿芬医生原话）。青春期阻断剂药物是28天注射一针，注射地点在抽血中心旁边（即医院一楼",
+              "display_url": "mtf.wiki/zh-cn/docs/hrt…",
+              "end": 83,
+              "expanded_url": "https://mtf.wiki/zh-cn/docs/hrt/jnuh1",
+              "start": 60,
+              "status": 200,
+              "title": "广州暨南一院｜高绿芬",
+              "unwound_url": "https://mtf.wiki/zh-cn/docs/hrt/jnuh1",
+              "url": "https://t.co/GBoVeCisdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038846015412023746",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038845633965293580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小插曲：https://t.co/CZB1UAgvTY上写着「这个条目曾经被条目人物巡回过。」但高医生说她没注意（？） https://t.co/GBoVeCisdE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2038845633965293580",
+        "created_at": "2026-03-31T05:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T06:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038845633965293580"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038845633965293580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高医生真的太好了❗\n非常好说话\n而且很友善诶\n都是好人！\n\n现在先去吃饭啦，下午去做检查🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/SocDem/不键政/文科生/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/无糖/(半个)家长党/天残党/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2037905372414091549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 511,
+          "like_count": 5794,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 242
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

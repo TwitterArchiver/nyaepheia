@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2045317719130861764",
+    "created_at": "2026-04-18T04:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T05:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045356005723443321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2036340584844337152",
+          "start": 0,
+          "username": "siryrkagisago21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045356005723443321",
+    "in_reply_to_user_id": "2036340584844337152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045355431120568455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siryrkagisago21 但打开首页发现千篇一律一模一样的简介应该就发现了吧（？）\n\n我倾向于牠们不是在诈骗，而只是为了搞差中推的环境..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2045317719130861764",
+        "created_at": "2026-04-18T04:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045356005723443321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2036340584844337152",
+              "start": 0,
+              "username": "siryrkagisago21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045356005723443321",
+        "in_reply_to_user_id": "2036340584844337152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045355431120568455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siryrkagisago21 但打开首页发现千篇一律一模一样的简介应该就发现了吧（？）\n\n我倾向于牠们不是在诈骗，而只是为了搞差中推的环境..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036340584844337152",
+        "conversation_id": "2045317719130861764",
+        "created_at": "2026-04-18T04:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045355431120568455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045355431120568455",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045352521070510568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 可能是因为诈骗组织发现，如果用真人色情头像或者AI，绝大多数人看得不看就会知道那是诈骗帐户。伪装成二次元头像反而会有人看两眼，至少不会一眼就觉得这个账户是诈骗机器人，我一开始没有看他们的留言，我甚至觉得是真人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 706,
+          "like_count": 14866,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2207
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-24T07:17:24.000Z",
+        "description": "中国人｜可以叫我小夕｜民主社会主义🚩｜顺直友LGBTQ+🏳️‍🌈｜被诊断强迫症｜目前喜欢听凯尔特民谣☘️🪈🪉｜想尝试社交但比较胆怯孤僻🥺",
+        "id": "2036340584844337152",
+        "name": "sirsys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040986255287328768/brQseJMP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 68,
+          "like_count": 890,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 467
+        },
+        "username": "siryrkagisago21",
+        "verified": false
+      }
+    ]
+  }
+}

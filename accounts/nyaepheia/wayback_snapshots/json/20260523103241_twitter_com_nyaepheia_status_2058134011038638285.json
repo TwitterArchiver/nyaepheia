@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057862422463967416",
+    "created_at": "2026-05-23T10:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058134011038638285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1571581096931823617",
+          "start": 0,
+          "username": "lesley52092506"
+        },
+        {
+          "end": 30,
+          "id": "3024298539",
+          "start": 16,
+          "username": "Real_Dystopia"
+        },
+        {
+          "end": 41,
+          "id": "102499715",
+          "start": 31,
+          "username": "Heccles94"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058134011038638285",
+    "in_reply_to_user_id": "1571581096931823617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058133465627836501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lesley52092506 @Real_Dystopia @Heccles94 不，我保证我不会举报你，而且事实上，X 本来就是右翼平台，你会担心我的举报？\n我只是觉得你太可笑了，希望让别人来看看你的愚蠢而已。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2058133462347812864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_1esOWEAAcIY2.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057862422463967416",
+        "created_at": "2026-05-23T10:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058134011038638285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1571581096931823617",
+              "start": 0,
+              "username": "lesley52092506"
+            },
+            {
+              "end": 30,
+              "id": "3024298539",
+              "start": 16,
+              "username": "Real_Dystopia"
+            },
+            {
+              "end": 41,
+              "id": "102499715",
+              "start": 31,
+              "username": "Heccles94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058134011038638285",
+        "in_reply_to_user_id": "1571581096931823617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058133465627836501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lesley52092506 @Real_Dystopia @Heccles94 不，我保证我不会举报你，而且事实上，X 本来就是右翼平台，你会担心我的举报？\n我只是觉得你太可笑了，希望让别人来看看你的愚蠢而已。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058133462347812864"
+          ]
+        },
+        "author_id": "1571581096931823617",
+        "conversation_id": "2057862422463967416",
+        "created_at": "2026-05-23T10:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058133465627836501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 25,
+              "id": "3024298539",
+              "start": 11,
+              "username": "Real_Dystopia"
+            },
+            {
+              "end": 36,
+              "id": "102499715",
+              "start": 26,
+              "username": "Heccles94"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UpRelOkeME",
+              "end": 200,
+              "expanded_url": "https://x.com/lesley52092506/status/2058133465627836501/photo/1",
+              "media_key": "3_2058133462347812864",
+              "start": 177,
+              "url": "https://t.co/UpRelOkeME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058133465627836501",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058131543286321550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @Real_Dystopia @Heccles94 Look here folks an angry man calling his deluded followers to pile on... whats next report me for annoying an irritating little man...🙄🙄😂😂😂 https://t.co/UpRelOkeME"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 828,
+          "like_count": 23219,
+          "listed_count": 4,
+          "media_count": 380,
+          "tweet_count": 4340
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-18T19:25:22.000Z",
+        "description": "",
+        "id": "1571581096931823617",
+        "name": "lesley Browne",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026058540167639040/avTHENyM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 102,
+          "like_count": 3182,
+          "listed_count": 8,
+          "media_count": 2441,
+          "tweet_count": 13288
+        },
+        "username": "lesley52092506",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-08T02:32:50.000Z",
+        "description": "No battle is too small to fight with ferocity. Patriarchy is evil. Women come first always. Sex segregated spaces r a human right. ♱ God obeyed his mother.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "coffeeanddystopia.substack.com",
+                "end": 23,
+                "expanded_url": "https://coffeeanddystopia.substack.com/",
+                "start": 0,
+                "url": "https://t.co/uF2BtOLiCB"
+              }
+            ]
+          }
+        },
+        "id": "3024298539",
+        "location": "USA, Spherical Earth",
+        "name": "Alethea Dystopia - Shield matron",
+        "pinned_tweet_id": "2054941318556574025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979327011274256384/msE3Nhlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2554,
+          "following_count": 2089,
+          "like_count": 149067,
+          "listed_count": 1,
+          "media_count": 2987,
+          "tweet_count": 47742
+        },
+        "url": "https://t.co/uF2BtOLiCB",
+        "username": "Real_Dystopia",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-06T22:31:18.000Z",
+        "description": "Nurse, Trade Unionist, Socialist. Green 💚 Tweeting in a personal capacity. \nhttps://t.co/KJ2uNTdCmV\nhttps://t.co/I56f3S4MXe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "open.substack.com/pub/harryeccle…",
+                "end": 99,
+                "expanded_url": "https://open.substack.com/pub/harryeccles94",
+                "start": 76,
+                "url": "https://t.co/KJ2uNTdCmV"
+              },
+              {
+                "display_url": "buymeacoffee.com/HarryEccles",
+                "end": 123,
+                "expanded_url": "http://buymeacoffee.com/HarryEccles",
+                "start": 100,
+                "url": "https://t.co/I56f3S4MXe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@harryeccles94…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@harryeccles94?si=FKhjt3zfa6zqn2Ka",
+                "start": 0,
+                "url": "https://t.co/RcfdzLy1GJ"
+              }
+            ]
+          }
+        },
+        "id": "102499715",
+        "name": "Harry Eccles",
+        "pinned_tweet_id": "2057528728620498973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797218212414648320/aCXt715a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72258,
+          "following_count": 7709,
+          "like_count": 50982,
+          "listed_count": 1097,
+          "media_count": 6371,
+          "tweet_count": 63830
+        },
+        "url": "https://t.co/RcfdzLy1GJ",
+        "username": "Heccles94",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2043582936390512943",
+    "created_at": "2026-04-13T06:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043583851281383854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1010322251269300224",
+          "start": 0,
+          "username": "tkcmta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043583851281383854",
+    "in_reply_to_user_id": "1010322251269300224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043582936390512943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tkcmta 微信什么emoji 似乎都不让用..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2043582929344102400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxD2MybgAAAUie.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2043582936390512943",
+        "created_at": "2026-04-13T06:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043583851281383854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1010322251269300224",
+              "start": 0,
+              "username": "tkcmta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043583851281383854",
+        "in_reply_to_user_id": "1010322251269300224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043582936390512943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tkcmta 微信什么emoji 似乎都不让用..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043582929344102400"
+          ]
+        },
+        "author_id": "1010322251269300224",
+        "conversation_id": "2043582936390512943",
+        "created_at": "2026-04-13T06:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043582936390512943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IK4F2VTEW3",
+              "end": 36,
+              "expanded_url": "https://x.com/tkcmta/status/2043582936390512943/photo/1",
+              "media_key": "3_2043582929344102400",
+              "start": 13,
+              "url": "https://t.co/IK4F2VTEW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043582936390512943",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wx不让打跨旗是何意味👿 https://t.co/IK4F2VTEW3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/小证含糖hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站\n已休学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2041715066337452228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 671,
+          "like_count": 12502,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1835
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-23T00:42:50.000Z",
+        "description": "05MtF / INFJ-T / 持证HRT22.01.27 / 欢迎互fo喵 / Wolfx Project / #防災 / #EEW / #地震観測 / #プロセカ / ZH、EN、JA / 平时主要玩PJSK喵 / 😈🥰 @realcodestudio",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 58,
+                "tag": "防災"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "EEW"
+              },
+              {
+                "end": 76,
+                "start": 71,
+                "tag": "地震観測"
+              },
+              {
+                "end": 84,
+                "start": 79,
+                "tag": "プロセカ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 129,
+                "start": 114,
+                "username": "realcodestudio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wolfx.jp",
+                "end": 23,
+                "expanded_url": "https://wolfx.jp",
+                "start": 0,
+                "url": "https://t.co/Etun1cXcZX"
+              }
+            ]
+          }
+        },
+        "id": "1010322251269300224",
+        "location": "Inazuma",
+        "name": "TenkyuChimata🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617528974112083969/kjfqMLFD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 767,
+          "like_count": 39603,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/Etun1cXcZX",
+        "username": "tkcmta",
+        "verified": false
+      }
+    ]
+  }
+}

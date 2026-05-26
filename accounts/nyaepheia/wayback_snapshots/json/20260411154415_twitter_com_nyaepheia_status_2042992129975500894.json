@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2042992129975500894",
+    "created_at": "2026-04-11T15:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T16:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042992129975500894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1555961306913689600",
+          "start": 3,
+          "username": "3C3AHuangYou"
+        },
+        {
+          "end": 31,
+          "id": "1671916340956000258",
+          "start": 18,
+          "username": "Sunan_Wang_0"
+        },
+        {
+          "end": 47,
+          "id": "1868562193484251136",
+          "start": 32,
+          "username": "LengChamSayBye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042992129975500894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042883048207708345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3C3AHuangYou: @Sunan_Wang_0 @LengChamSayBye 只要还有男的女的在草逼，跨性别，男同，女同，唐氏儿，先天畸形，ADHD，ASD小孩就会一刻不停的生出来然后直到十几年后的某一天那些小孩开始在推特上哭个不停因为这个世界上只有想草逼和自…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2042992129975500894",
+        "created_at": "2026-04-11T15:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042992129975500894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1555961306913689600",
+              "start": 3,
+              "username": "3C3AHuangYou"
+            },
+            {
+              "end": 31,
+              "id": "1671916340956000258",
+              "start": 18,
+              "username": "Sunan_Wang_0"
+            },
+            {
+              "end": 47,
+              "id": "1868562193484251136",
+              "start": 32,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042992129975500894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042883048207708345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3C3AHuangYou: @Sunan_Wang_0 @LengChamSayBye 只要还有男的女的在草逼，跨性别，男同，女同，唐氏儿，先天畸形，ADHD，ASD小孩就会一刻不停的生出来然后直到十几年后的某一天那些小孩开始在推特上哭个不停因为这个世界上只有想草逼和自…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555961306913689600",
+        "conversation_id": "2042429454249836687",
+        "created_at": "2026-04-11T08:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042883048207708345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1671916340956000258",
+              "start": 0,
+              "username": "Sunan_Wang_0"
+            },
+            {
+              "end": 29,
+              "id": "1868562193484251136",
+              "start": 14,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042883048207708345",
+        "in_reply_to_user_id": "1671916340956000258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 900,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042509354805698598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sunan_Wang_0 @LengChamSayBye 只要还有男的女的在草逼，跨性别，男同，女同，唐氏儿，先天畸形，ADHD，ASD小孩就会一刻不停的生出来然后直到十几年后的某一天那些小孩开始在推特上哭个不停因为这个世界上只有想草逼和自认为自己才是最正常的顺性别男女不停的霸凌着无辜被生出来的小孩们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/小证含糖hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站\n已休学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2041715066337452228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 667,
+          "like_count": 11548,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1699
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-06T16:57:47.000Z",
+        "description": "我常怀悲缅 而苦难绵延大地  如风吹过林间  赓继如缕 累续无绝；我燃尽的灰  @ButterInnerSide",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "ButterInnerSide"
+              }
+            ]
+          }
+        },
+        "id": "1555961306913689600",
+        "location": "微笑的尸山",
+        "name": "人造黄油➡️no where",
+        "pinned_tweet_id": "1923079056955687153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921217447677644800/MuCe2H0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6803,
+          "following_count": 2816,
+          "like_count": 155559,
+          "listed_count": 11,
+          "media_count": 1794,
+          "tweet_count": 26993
+        },
+        "username": "3C3AHuangYou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T16:21:54.000Z",
+        "description": "啊是的是的是的，啊不是不是不是。",
+        "id": "1671916340956000258",
+        "location": "中国苏南",
+        "name": "王苏南",
+        "pinned_tweet_id": "1904027698030395613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989346743541288960/qhGKxlGZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 84,
+          "like_count": 20864,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 603
+        },
+        "username": "Sunan_Wang_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |清水推 |日常 #霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              },
+              {
+                "end": 82,
+                "start": 79,
+                "tag": "霉粉"
+              },
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 100,
+                "start": 95,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 114,
+                "start": 109,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 131,
+                "start": 126,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 148,
+                "start": 144,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035811546161692672/jAg9br50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 208,
+          "like_count": 5521,
+          "listed_count": 2,
+          "media_count": 780,
+          "tweet_count": 4198
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

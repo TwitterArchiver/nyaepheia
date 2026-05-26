@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046183105409782047",
+    "created_at": "2026-04-20T11:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T12:03:55.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046183071490408734",
+      "2046183105409782047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiuyouforwhite…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/jiuyouforwhite/status/2046180597434032188",
+          "start": 12,
+          "url": "https://t.co/Nkg16B7g36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046183105409782047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046180597434032188",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢这个420礼物吗（ https://t.co/Nkg16B7g36"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 763,
+        "media_key": "3_2046180594816868352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGV-aOxbYAAbYMm.jpg",
+        "width": 1235
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046183071490408734",
+        "created_at": "2026-04-20T11:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:03:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046183071490408734",
+          "2046183105409782047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/jiuyouforwhite/status/2046180597434032188",
+              "start": 18,
+              "url": "https://t.co/Nkg16B7g36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046183071490408734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046180597434032188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢这个420礼物吗（\n\n#420 https://t.co/Nkg16B7g36"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046183105409782047",
+        "created_at": "2026-04-20T11:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:03:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046183071490408734",
+          "2046183105409782047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/jiuyouforwhite/status/2046180597434032188",
+              "start": 12,
+              "url": "https://t.co/Nkg16B7g36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046183105409782047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046180597434032188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢这个420礼物吗（ https://t.co/Nkg16B7g36"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046180594816868352"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2046180597434032188",
+        "created_at": "2026-04-20T10:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046180597434032188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/FKOl_QJBgGDg",
+              "end": 81,
+              "expanded_url": "http://mp.weixin.qq.com/s/FKOl_QJBgGDg",
+              "start": 58,
+              "status": 501,
+              "unwound_url": "http://mp.weixin.qq.com/s/FKOl_QJBgGDg",
+              "url": "https://t.co/jH9d2vNxEH"
+            },
+            {
+              "display_url": "pic.x.com/0tLrxjaXvq",
+              "end": 124,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2046180597434032188/photo/1",
+              "media_key": "3_2046180594816868352",
+              "start": 101,
+              "url": "https://t.co/0tLrxjaXvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046180597434032188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 16,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "在4月20日(国际大麻日)官方发布了关于普瑞巴林和愈美片网络禁售的相关通知 公告是在半小时内刚发出来的\n具体如下 \nhttps://t.co/jH9d2vNxEH\n\n……\n普瑞巴林RIP\n愈美片RIP https://t.co/0tLrxjaXvq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 718,
+          "like_count": 15499,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2325
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/全部回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "虚空",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2042113707577409571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 1237,
+          "like_count": 3386,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 1770
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

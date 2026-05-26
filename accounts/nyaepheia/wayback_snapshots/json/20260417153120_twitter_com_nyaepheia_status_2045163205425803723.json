@@ -1,0 +1,555 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045163188690599936"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045163205425803723",
+    "created_at": "2026-04-17T15:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T16:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045163205425803723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20451…",
+          "end": 129,
+          "expanded_url": "https://x.com/i/status/2045162469669388489",
+          "start": 106,
+          "url": "https://t.co/JDFzHCnBrU"
+        },
+        {
+          "display_url": "pic.x.com/W5WCZT6GoP",
+          "end": 187,
+          "expanded_url": "https://x.com/nyaepheia/status/2045163205425803723/photo/1",
+          "media_key": "3_2045163188690599936",
+          "start": 164,
+          "url": "https://t.co/W5WCZT6GoP"
+        },
+        {
+          "display_url": "x.com/nyaepheia/stat…",
+          "end": 211,
+          "expanded_url": "https://twitter.com/nyaepheia/status/2043683739763651005",
+          "start": 188,
+          "url": "https://t.co/PxL32xmUBx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045163205425803723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 269,
+            "start": 259,
+            "tag": "nyaepheia"
+          },
+          {
+            "end": 287,
+            "start": 275,
+            "tag": "EpheiaToday"
+          },
+          {
+            "end": 313,
+            "start": 300,
+            "tag": "EpheiaStatus"
+          },
+          {
+            "end": 345,
+            "start": 332,
+            "tag": "EpheiaTought"
+          },
+          {
+            "end": 389,
+            "start": 379,
+            "tag": "EpheiaHRT"
+          },
+          {
+            "end": 407,
+            "start": 397,
+            "tag": "EpheiaDev"
+          },
+          {
+            "end": 424,
+            "start": 413,
+            "tag": "EpheiaYuri"
+          },
+          {
+            "end": 443,
+            "start": 430,
+            "tag": "EpheiaReview"
+          },
+          {
+            "end": 463,
+            "start": 449,
+            "tag": "EpheiaArchive"
+          },
+          {
+            "end": 477,
+            "start": 467,
+            "tag": "AskEpheia"
+          },
+          {
+            "end": 622,
+            "start": 612,
+            "tag": "nyaepheia"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/i/status/20451…",
+            "end": 129,
+            "expanded_url": "https://x.com/i/status/2045162469669388489",
+            "start": 106,
+            "url": "https://t.co/Cih281cHFl"
+          },
+          {
+            "display_url": "bsky.app/profile/wataku",
+            "end": 187,
+            "expanded_url": "http://bsky.app/profile/wataku",
+            "start": 164,
+            "url": "https://t.co/y0dMewi2hH"
+          }
+        ]
+      },
+      "text": "［社交圈功能说明］\n为了应对机器人诈骗账号问题，Epheia 近期的帖子都会开启社交圈回复限制。当然，我并不希望这个功能阻止友善的人们的互动。\n所以，如果你不在Epheia 的社交圈且希望参与互动，请在这里申请：https://t.co/Cih281cHFl\n\n［Bluesky］\n可以关注一下咱的bluesky 哦！谢谢喵！\nhttps://t.co/y0dMewi2hH…\nbluesky 是一个对性少数更友好的社区~\n\n［Epheia 使用的标签］\nEpheia 会使用下面这些标签来标注推文，它们有特定的含义\n#nyaepheia 账号相关\n#EpheiaToday 今天发生的比较大的事情\n#EpheiaStatus 状态，日记，随笔，通常记录生活琐事\n#EpheiaTought 一些对社群或社会的想法，可能包括暴论，不成熟的想法等，请注意辨别\n#EpheiaHRT HRT 相关\n#EpheiaDev 开发相关\n#EpheiaYuri 百合相关\n#EpheiaReview 事件评论\n#EpheiaArchive 归档\n#AskEpheia 互动环节~\n... 待补充\n\n［近况］\n然后最近不登校了... 大部分时间在线（具体请参考最后一次回帖的时间，可能作息不规律）欢迎互关或mtf/mtx同类回帖或私信聊天，但我完全不可能让你的心情变好的（\n\n［修订记录］\n第2版 2026/4/13\n引用内容是第1版\n\n#nyaepheia"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043683739763651005",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "［社交圈功能说明］\n为了应对机器人诈骗账号问题，Epheia 近期的帖子都会开启社交圈回复限制。当然，我并不希望这个功能阻止友善的人们的互动。\n所以，如果你不在Epheia 的社交圈且希望参与互动，请在这里申请：https://t.co/JDFzHCnBrU\n\n［Bluesky］\n可以关注一下咱的bluesky 哦！谢谢喵！ https://t.co/W5WCZT6GoP https://t.co/PxL32xmUBx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1169,
+        "media_key": "3_2045163188690599936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHhFZmbwAAp-Jr.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "https://bsky.app/profile/watakushi.desuwa.org",
+        "height": 1213,
+        "media_key": "3_2043683727348465664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyfhanaAAARa87.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045163188690599936"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045163205425803723",
+        "created_at": "2026-04-17T15:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045163205425803723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20451…",
+              "end": 129,
+              "expanded_url": "https://x.com/i/status/2045162469669388489",
+              "start": 106,
+              "url": "https://t.co/JDFzHCnBrU"
+            },
+            {
+              "display_url": "pic.x.com/W5WCZT6GoP",
+              "end": 187,
+              "expanded_url": "https://x.com/nyaepheia/status/2045163205425803723/photo/1",
+              "media_key": "3_2045163188690599936",
+              "start": 164,
+              "url": "https://t.co/W5WCZT6GoP"
+            },
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 211,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2043683739763651005",
+              "start": 188,
+              "url": "https://t.co/PxL32xmUBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045163205425803723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 269,
+                "start": 259,
+                "tag": "nyaepheia"
+              },
+              {
+                "end": 287,
+                "start": 275,
+                "tag": "EpheiaToday"
+              },
+              {
+                "end": 313,
+                "start": 300,
+                "tag": "EpheiaStatus"
+              },
+              {
+                "end": 345,
+                "start": 332,
+                "tag": "EpheiaTought"
+              },
+              {
+                "end": 389,
+                "start": 379,
+                "tag": "EpheiaHRT"
+              },
+              {
+                "end": 407,
+                "start": 397,
+                "tag": "EpheiaDev"
+              },
+              {
+                "end": 424,
+                "start": 413,
+                "tag": "EpheiaYuri"
+              },
+              {
+                "end": 443,
+                "start": 430,
+                "tag": "EpheiaReview"
+              },
+              {
+                "end": 463,
+                "start": 449,
+                "tag": "EpheiaArchive"
+              },
+              {
+                "end": 477,
+                "start": 467,
+                "tag": "AskEpheia"
+              },
+              {
+                "end": 622,
+                "start": 612,
+                "tag": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20451…",
+                "end": 129,
+                "expanded_url": "https://x.com/i/status/2045162469669388489",
+                "start": 106,
+                "url": "https://t.co/Cih281cHFl"
+              },
+              {
+                "display_url": "bsky.app/profile/wataku",
+                "end": 187,
+                "expanded_url": "http://bsky.app/profile/wataku",
+                "start": 164,
+                "url": "https://t.co/y0dMewi2hH"
+              }
+            ]
+          },
+          "text": "［社交圈功能说明］\n为了应对机器人诈骗账号问题，Epheia 近期的帖子都会开启社交圈回复限制。当然，我并不希望这个功能阻止友善的人们的互动。\n所以，如果你不在Epheia 的社交圈且希望参与互动，请在这里申请：https://t.co/Cih281cHFl\n\n［Bluesky］\n可以关注一下咱的bluesky 哦！谢谢喵！\nhttps://t.co/y0dMewi2hH…\nbluesky 是一个对性少数更友好的社区~\n\n［Epheia 使用的标签］\nEpheia 会使用下面这些标签来标注推文，它们有特定的含义\n#nyaepheia 账号相关\n#EpheiaToday 今天发生的比较大的事情\n#EpheiaStatus 状态，日记，随笔，通常记录生活琐事\n#EpheiaTought 一些对社群或社会的想法，可能包括暴论，不成熟的想法等，请注意辨别\n#EpheiaHRT HRT 相关\n#EpheiaDev 开发相关\n#EpheiaYuri 百合相关\n#EpheiaReview 事件评论\n#EpheiaArchive 归档\n#AskEpheia 互动环节~\n... 待补充\n\n［近况］\n然后最近不登校了... 大部分时间在线（具体请参考最后一次回帖的时间，可能作息不规律）欢迎互关或mtf/mtx同类回帖或私信聊天，但我完全不可能让你的心情变好的（\n\n［修订记录］\n第2版 2026/4/13\n引用内容是第1版\n\n#nyaepheia"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043683739763651005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "［社交圈功能说明］\n为了应对机器人诈骗账号问题，Epheia 近期的帖子都会开启社交圈回复限制。当然，我并不希望这个功能阻止友善的人们的互动。\n所以，如果你不在Epheia 的社交圈且希望参与互动，请在这里申请：https://t.co/JDFzHCnBrU\n\n［Bluesky］\n可以关注一下咱的bluesky 哦！谢谢喵！ https://t.co/W5WCZT6GoP https://t.co/PxL32xmUBx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043683727348465664"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043683739763651005",
+        "created_at": "2026-04-13T13:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043683739763651005"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 127,
+              "tag": "nyaepheia"
+            },
+            {
+              "end": 155,
+              "start": 143,
+              "tag": "EpheiaToday"
+            },
+            {
+              "end": 181,
+              "start": 168,
+              "tag": "EpheiaStatus"
+            }
+          ],
+          "urls": [
+            {
+              "description": "求关注喵，同类互关 /ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/hrt26.4.1/家长党/天残党/SocDem/不键政/文科生/Vibe coding/搭网站 X:x.com/nyaepheia",
+              "display_url": "bsky.app/profile/wataku…",
+              "end": 56,
+              "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+              "start": 33,
+              "status": 200,
+              "title": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂 (@watakushi.desuwa.org)",
+              "unwound_url": "https://bsky.app/profile/watakushi.desuwa.org",
+              "url": "https://t.co/TKCnjHhbIV"
+            },
+            {
+              "display_url": "pic.x.com/mF5lZjVZDc",
+              "end": 205,
+              "expanded_url": "https://x.com/nyaepheia/status/2043683739763651005/photo/1",
+              "media_key": "3_2043683727348465664",
+              "start": 182,
+              "url": "https://t.co/mF5lZjVZDc"
+            },
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 229,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2041715066337452228",
+              "start": 206,
+              "url": "https://t.co/Sj1YvsLsBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043683739763651005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 137,
+                "start": 127,
+                "tag": "nyaepheia"
+              },
+              {
+                "end": 155,
+                "start": 143,
+                "tag": "EpheiaToday"
+              },
+              {
+                "end": 181,
+                "start": 168,
+                "tag": "EpheiaStatus"
+              },
+              {
+                "end": 213,
+                "start": 200,
+                "tag": "EpheiaTought"
+              },
+              {
+                "end": 257,
+                "start": 247,
+                "tag": "EpheiaHRT"
+              },
+              {
+                "end": 275,
+                "start": 265,
+                "tag": "EpheiaDev"
+              },
+              {
+                "end": 292,
+                "start": 281,
+                "tag": "EpheiaYuri"
+              },
+              {
+                "end": 312,
+                "start": 299,
+                "tag": "EpheiaReview"
+              },
+              {
+                "end": 333,
+                "start": 319,
+                "tag": "EpheiaArchive"
+              },
+              {
+                "end": 348,
+                "start": 338,
+                "tag": "AskEpheia"
+              },
+              {
+                "end": 493,
+                "start": 483,
+                "tag": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 56,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 33,
+                "url": "https://t.co/22rDIeendE"
+              }
+            ]
+          },
+          "text": "［Bluesky］\n可以关注一下咱的bluesky 哦！谢谢喵！\nhttps://t.co/22rDIeendE\nbluesky 是一个对性少数更友好的社区~\n\n［Epheia 使用的标签］\nEpheia 会使用下面这些标签来标注推文，它们有特定的含义\n#nyaepheia 账号相关\n#EpheiaToday 今天发生的比较大的事情\n#EpheiaStatus 状态，日记，随笔，通常记录生活琐事\n#EpheiaTought 一些对社群或社会的想法，可能包括暴论，不成熟的想法等，请注意辨别\n#EpheiaHRT HRT 相关\n#EpheiaDev 开发相关\n#EpheiaYuri 百合相关\n​#EpheiaReview 事件评论\n​#EpheiaArchive 归档\n​#AskEpheia 互动环节~\n... 待补充\n\n［近况］\n然后最近不登校了... 大部分时间在线（具体请参考最后一次回帖的时间，可能作息不规律）欢迎互关或mtf/mtx同类回帖或私信聊天，但我完全不可能让你的心情变好的（\n\n［修订记录］\n第2版 2026/4/13\n引用内容是第1版\n\n#nyaepheia"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1095,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041715066337452228",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "［Bluesky］\n可以关注一下咱的bluesky 哦！谢谢喵！\nhttps://t.co/TKCnjHhbIV\nbluesky 是一个对性少数更友好的社区~\n\n［Epheia 使用的标签］\nEpheia 会使用下面这些标签来标注推文，它们有特定的含义\n#nyaepheia 账号相关\n#EpheiaToday 今天发生的比较大的事情\n#EpheiaStatus https://t.co/mF5lZjVZDc https://t.co/Sj1YvsLsBX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 700,
+          "like_count": 14745,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2183
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

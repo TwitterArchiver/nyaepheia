@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2053444581690339746",
+    "created_at": "2026-05-10T12:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T13:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053445875566096709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882873467340832768",
+          "start": 0,
+          "username": "1896dddd71391"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/dzt76570/statu…",
+          "end": 38,
+          "expanded_url": "https://x.com/dzt76570/status/2053442031863931360?s=20",
+          "start": 15,
+          "url": "https://t.co/OOYppapqze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053445875566096709",
+    "in_reply_to_user_id": "1882873467340832768",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053442031863931360",
+        "type": "quoted"
+      },
+      {
+        "id": "2053445398073880986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1896dddd71391 https://t.co/OOYppapqze"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2053444581690339746",
+        "created_at": "2026-05-10T12:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053445875566096709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882873467340832768",
+              "start": 0,
+              "username": "1896dddd71391"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/dzt76570/statu…",
+              "end": 38,
+              "expanded_url": "https://x.com/dzt76570/status/2053442031863931360?s=20",
+              "start": 15,
+              "url": "https://t.co/OOYppapqze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053445875566096709",
+        "in_reply_to_user_id": "1882873467340832768",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053442031863931360",
+            "type": "quoted"
+          },
+          {
+            "id": "2053445398073880986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1896dddd71391 https://t.co/OOYppapqze"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825192601634668544",
+        "conversation_id": "2053381757144277105",
+        "created_at": "2026-05-10T11:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053442031863931360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 22,
+              "id": "2040113248544931841",
+              "start": 11,
+              "username": "zjq1262143"
+            },
+            {
+              "end": 38,
+              "id": "1845454917236031495",
+              "start": 23,
+              "username": "Dontbesadforit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053442031863931360",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053423423703916830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @zjq1262143 @Dontbesadforit 再怎么提异性恋也没说抵制lgbtq啊，只是民间感到有点不适，再说了人类要繁衍传承不只有异性恋吗，异性恋才是最正常的，其他的同性恋啥的纯个人性癖，还倒反天罡反异性恋？直接反人类得了呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882873467340832768",
+        "conversation_id": "2053444581690339746",
+        "created_at": "2026-05-10T12:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053445398073880986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053445398073880986",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053444581690339746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 谁发什么暴论了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 801,
+          "like_count": 20382,
+          "listed_count": 3,
+          "media_count": 269,
+          "tweet_count": 3554
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T19:30:04.000Z",
+        "description": "",
+        "id": "1882873467340832768",
+        "name": "1896dddd",
+        "pinned_tweet_id": "2046546814661546264",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 29,
+          "like_count": 1256,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 396
+        },
+        "username": "1896dddd71391",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T15:27:05.000Z",
+        "description": "",
+        "id": "1825192601634668544",
+        "name": "rano_723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783504253411328/dw61GY_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 5,
+          "like_count": 99,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 303
+        },
+        "username": "dzt76570",
+        "verified": false
+      }
+    ]
+  }
+}

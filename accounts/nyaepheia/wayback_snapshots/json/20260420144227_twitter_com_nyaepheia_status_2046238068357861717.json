@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046238068357861717",
+    "created_at": "2026-04-20T14:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T15:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046238068357861717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1720425128125947904",
+          "start": 3,
+          "username": "xxz10110116791"
+        },
+        {
+          "end": 30,
+          "id": "1608637128132685825",
+          "start": 20,
+          "username": "nyaepheia"
+        },
+        {
+          "end": 41,
+          "id": "1887391023976038400",
+          "start": 31,
+          "username": "xiey57828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046238068357861717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046237868910362648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxz10110116791: @nyaepheia @xiey57828 oder或许也只是想要一份属于自己的宁静"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046238068357861717",
+        "created_at": "2026-04-20T14:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046238068357861717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1720425128125947904",
+              "start": 3,
+              "username": "xxz10110116791"
+            },
+            {
+              "end": 30,
+              "id": "1608637128132685825",
+              "start": 20,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 41,
+              "id": "1887391023976038400",
+              "start": 31,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046238068357861717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046237868910362648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxz10110116791: @nyaepheia @xiey57828 oder或许也只是想要一份属于自己的宁静"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720425128125947904",
+        "conversation_id": "2046222744246001914",
+        "created_at": "2026-04-20T14:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046237868910362648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 21,
+              "id": "1887391023976038400",
+              "start": 11,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046237868910362648",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046222744246001914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @xiey57828 oder或许也只是想要一份属于自己的宁静"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 722,
+          "like_count": 15596,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2375
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-03T12:58:18.000Z",
+        "description": "Mtf🏳️‍⚧️|地球ol注册日期2010.7.26| 现读高一 | 不经常建政| 技术宅(?│喜欢编程💻,数码,AI,vocaloid | INFP\n│曾经也是信竞生（│\nOD💊|无证含糖🍥2026.3.27",
+        "id": "1720425128125947904",
+        "name": "xnfvotyierslol🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026281829343657984/QQiFEm47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 162,
+          "like_count": 5102,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 284
+        },
+        "username": "xxz10110116791",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "怀所以之本心，沐幽而行，浴桃源一梦。精神状态差。想攻击人....宝宝@xyu1182202 和我聊天加微信或者tg：https://t.co/ukTVcAQw7k已转跨畜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "xyu1182202"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiey57828",
+                "end": 81,
+                "expanded_url": "https://t.me/xiey57828",
+                "start": 58,
+                "url": "https://t.co/ukTVcAQw7k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "阎王殿",
+        "name": "沐桃",
+        "pinned_tweet_id": "2045996071500067179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 269,
+          "like_count": 3341,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1364
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

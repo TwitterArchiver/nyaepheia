@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2039575531935678547",
+    "created_at": "2026-04-02T06:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T07:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039585642351641078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "193648759",
+          "start": 0,
+          "username": "ripo0079"
+        }
+      ],
+      "urls": [
+        {
+          "description": "LGBT Rights in United States: homosexuality, gay marriage, gay adoption, serving in the military, sexual orientation discrimination protection, changing legal gender, donating blood, age of consent, and more.",
+          "display_url": "equaldex.com/region/united-…",
+          "end": 47,
+          "expanded_url": "https://www.equaldex.com/region/united-states",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2039585644599779328/-MaQOVd9?format=png&name=orig",
+              "width": 600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2039585644599779328/-MaQOVd9?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 24,
+          "status": 200,
+          "title": "LGBT Rights in United States | Equaldex",
+          "unwound_url": "https://www.equaldex.com/region/united-states",
+          "url": "https://t.co/Yn0i7lMrjB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039585642351641078",
+    "in_reply_to_user_id": "193648759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039575531935678547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ripo0079 可以看看equaldex？🤔https://t.co/Yn0i7lMrjB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2039575531935678547",
+        "created_at": "2026-04-02T06:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T07:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039585642351641078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ],
+          "urls": [
+            {
+              "description": "LGBT Rights in United States: homosexuality, gay marriage, gay adoption, serving in the military, sexual orientation discrimination protection, changing legal gender, donating blood, age of consent, and more.",
+              "display_url": "equaldex.com/region/united-…",
+              "end": 47,
+              "expanded_url": "https://www.equaldex.com/region/united-states",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2039585644599779328/-MaQOVd9?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2039585644599779328/-MaQOVd9?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "LGBT Rights in United States | Equaldex",
+              "unwound_url": "https://www.equaldex.com/region/united-states",
+              "url": "https://t.co/Yn0i7lMrjB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039585642351641078",
+        "in_reply_to_user_id": "193648759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039575531935678547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 可以看看equaldex？🤔https://t.co/Yn0i7lMrjB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "193648759",
+        "conversation_id": "2039575531935678547",
+        "created_at": "2026-04-02T05:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T06:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039575531935678547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039575531935678547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "说实话，由于美国的独裁统治，现在很难判断哪些国家对跨性别者友好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/hrt26.4.1/家长党/天残党/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2037905372414091549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 548,
+          "like_count": 6313,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 301
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 21-NNT。国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7929,
+          "following_count": 1380,
+          "like_count": 70123,
+          "listed_count": 122,
+          "media_count": 4275,
+          "tweet_count": 53642
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

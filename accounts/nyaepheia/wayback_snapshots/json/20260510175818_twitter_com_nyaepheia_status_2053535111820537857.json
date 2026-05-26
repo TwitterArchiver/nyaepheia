@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2053535111820537857",
+    "created_at": "2026-05-10T17:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T18:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053535111820537857"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hydrogen0E7/st…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Hydrogen0E7/status/2053425521837641858",
+          "start": 19,
+          "url": "https://t.co/yLKHhrZuEr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053535111820537857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053425521837641858",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来你们说的AI 能赚钱是指买书啊（ https://t.co/yLKHhrZuEr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2053425510856982528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH87n2NbAAAi5o6.jpg",
+        "width": 1707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2053535111820537857",
+        "created_at": "2026-05-10T17:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T18:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053535111820537857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hydrogen0E7/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Hydrogen0E7/status/2053425521837641858",
+              "start": 19,
+              "url": "https://t.co/yLKHhrZuEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053535111820537857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053425521837641858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来你们说的AI 能赚钱是指买书啊（ https://t.co/yLKHhrZuEr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053425510856982528"
+          ]
+        },
+        "author_id": "1529525092442865664",
+        "conversation_id": "2053425521837641858",
+        "created_at": "2026-05-10T10:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053425521837641858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sSyaeexVCA",
+              "end": 23,
+              "expanded_url": "https://x.com/Hydrogen0E7/status/2053425521837641858/photo/1",
+              "media_key": "3_2053425510856982528",
+              "start": 0,
+              "url": "https://t.co/sSyaeexVCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053425521837641858",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3809,
+          "like_count": 53,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sSyaeexVCA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 801,
+          "like_count": 20454,
+          "listed_count": 3,
+          "media_count": 277,
+          "tweet_count": 3587
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-25T18:09:54.000Z",
+        "description": "Full-Stack Security Developer | CTFer in @r3kapig | ACMer | Shotacon | Avatar from @iamuu_n | Enchanting dream, frozen time, unrealized potential.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "r3kapig"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "iamuu_n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0e7.cn",
+                "end": 23,
+                "expanded_url": "https://0e7.cn",
+                "start": 0,
+                "url": "https://t.co/e4iGNtYvNY"
+              }
+            ]
+          }
+        },
+        "id": "1529525092442865664",
+        "location": "ShangHai",
+        "name": "HydrogenE7",
+        "pinned_tweet_id": "2043498699196895731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006503584154910720/X_JNpuoV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3571,
+          "following_count": 944,
+          "like_count": 8209,
+          "listed_count": 25,
+          "media_count": 690,
+          "tweet_count": 3455
+        },
+        "url": "https://t.co/e4iGNtYvNY",
+        "username": "Hydrogen0E7",
+        "verified": true
+      }
+    ]
+  }
+}

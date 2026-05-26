@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2042086860852490426",
+    "created_at": "2026-04-09T03:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T04:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042086860852490426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1777129646867542016",
+          "start": 3,
+          "username": "Sunset__3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042086860852490426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041890150498853294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sunset__3000: 对，就是在所谓的“病态圈子”里找共鸣和认同，我管你对的错的危害大不大呢，我只知道我绝望想死的时候这些“正常人”没一个听我说话，没一个愿意接纳我，只有割手的嗑药的会安慰我。人不是一出生就会伤害自己，谁不是被逼的？高高在上说教的样子真令人作呕。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041890147814535170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZARWLa8AIqJeJ.jpg",
+        "width": 1018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2042086860852490426",
+        "created_at": "2026-04-09T03:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042086860852490426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1777129646867542016",
+              "start": 3,
+              "username": "Sunset__3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042086860852490426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041890150498853294",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sunset__3000: 对，就是在所谓的“病态圈子”里找共鸣和认同，我管你对的错的危害大不大呢，我只知道我绝望想死的时候这些“正常人”没一个听我说话，没一个愿意接纳我，只有割手的嗑药的会安慰我。人不是一出生就会伤害自己，谁不是被逼的？高高在上说教的样子真令人作呕。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041890147814535170"
+          ]
+        },
+        "author_id": "1777129646867542016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041890150498853294",
+        "created_at": "2026-04-08T14:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041890150498853294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BDRIfS5AaT",
+              "end": 144,
+              "expanded_url": "https://x.com/Sunset__3000/status/2041890150498853294/photo/1",
+              "media_key": "3_2041890147814535170",
+              "start": 121,
+              "url": "https://t.co/BDRIfS5AaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041890150498853294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4553,
+          "like_count": 214,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "对，就是在所谓的“病态圈子”里找共鸣和认同，我管你对的错的危害大不大呢，我只知道我绝望想死的时候这些“正常人”没一个听我说话，没一个愿意接纳我，只有割手的嗑药的会安慰我。人不是一出生就会伤害自己，谁不是被逼的？高高在上说教的样子真令人作呕。 https://t.co/BDRIfS5AaT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2041715066337452228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 631,
+          "like_count": 9629,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1245
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病 | 家里蹲备考 | 极端悲观主义 | 爱好生化药理板绘 | 同类互fo呀♡漏回提醒我🥹",
+        "id": "1777129646867542016",
+        "location": "宛平南路600号",
+        "name": "日落三千次💊",
+        "pinned_tweet_id": "2034272198798811213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 424,
+          "like_count": 2472,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 562
+        },
+        "username": "Sunset__3000",
+        "verified": false
+      }
+    ]
+  }
+}

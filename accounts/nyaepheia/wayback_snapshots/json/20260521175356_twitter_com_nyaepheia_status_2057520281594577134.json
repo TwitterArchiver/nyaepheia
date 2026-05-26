@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057038569131155773",
+    "created_at": "2026-05-21T17:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T18:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057520281594577134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1646281249361739777",
+          "start": 0,
+          "username": "lzx_li78058"
+        },
+        {
+          "end": 25,
+          "id": "1686670087800111104",
+          "start": 13,
+          "username": "Ivan1985530"
+        },
+        {
+          "end": 42,
+          "id": "2037909112055300096",
+          "start": 26,
+          "username": "QueerLawWatchCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057520281594577134",
+    "in_reply_to_user_id": "1646281249361739777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "是的，我同意「没了秩序待遇更差」，我也不赞同任何形式的暴力革命。\n但我可能误解了您的意思：我认为您开始的表达是在说性少数应该维护当前的秩序。我认为这不对。\n请搞清楚：这两个秩序并不一样。你提到的「没了秩序待遇更差」的秩序是概念的，抽象的，而现实的秩序是具体的，客观的，这个现实的秩序并没有对性少数好。所以性少数没有理由因为自己的性少数身份维护它。\n（我依然保持我的观点。你可以维护秩序，但一定要是治安好或者其他合理的理由，而不是什么秩序保障性少数这种完全不成立的理由）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057517993316270353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzx_li78058 @Ivan1985530 @QueerLawWatchCN 是的，我同意「没了秩序待遇更差」，我也不赞同任何形式的暴力革命。\n但我可能误解了您的意思：我认为您开始的表达是在说性少数应该维护当前的秩序。我认为这不对。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057038569131155773",
+        "created_at": "2026-05-21T17:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057520281594577134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646281249361739777",
+              "start": 0,
+              "username": "lzx_li78058"
+            },
+            {
+              "end": 25,
+              "id": "1686670087800111104",
+              "start": 13,
+              "username": "Ivan1985530"
+            },
+            {
+              "end": 42,
+              "id": "2037909112055300096",
+              "start": 26,
+              "username": "QueerLawWatchCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057520281594577134",
+        "in_reply_to_user_id": "1646281249361739777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "是的，我同意「没了秩序待遇更差」，我也不赞同任何形式的暴力革命。\n但我可能误解了您的意思：我认为您开始的表达是在说性少数应该维护当前的秩序。我认为这不对。\n请搞清楚：这两个秩序并不一样。你提到的「没了秩序待遇更差」的秩序是概念的，抽象的，而现实的秩序是具体的，客观的，这个现实的秩序并没有对性少数好。所以性少数没有理由因为自己的性少数身份维护它。\n（我依然保持我的观点。你可以维护秩序，但一定要是治安好或者其他合理的理由，而不是什么秩序保障性少数这种完全不成立的理由）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057517993316270353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzx_li78058 @Ivan1985530 @QueerLawWatchCN 是的，我同意「没了秩序待遇更差」，我也不赞同任何形式的暴力革命。\n但我可能误解了您的意思：我认为您开始的表达是在说性少数应该维护当前的秩序。我认为这不对。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646281249361739777",
+        "conversation_id": "2057038569131155773",
+        "created_at": "2026-05-21T17:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057517993316270353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 23,
+              "id": "1686670087800111104",
+              "start": 11,
+              "username": "Ivan1985530"
+            },
+            {
+              "end": 40,
+              "id": "2037909112055300096",
+              "start": 24,
+              "username": "QueerLawWatchCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057517993316270353",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057510585026457828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @Ivan1985530 @QueerLawWatchCN 首先 我最早的评论就不是专指性少数而是所有少数人群，而这个秩序不需要他本身特意保护这些少数人群的利益 少数群体和所有人一样 都享有基本人身安全和财产安全的保障 没有法律秩序 别说现在工作，结婚受到歧视 大街上生命都没有任何保障。 而且我也没说”为了性少数人要维持秩序”只是没了秩序待遇更差"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 831,
+          "like_count": 22727,
+          "listed_count": 3,
+          "media_count": 359,
+          "tweet_count": 4192
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-12T22:37:07.000Z",
+        "description": "",
+        "id": "1646281249361739777",
+        "name": "Lzx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947758751861379072/6WH6aFhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 218,
+          "like_count": 26567,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 3394
+        },
+        "username": "lzx_li78058",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-02T09:29:56.000Z",
+        "description": "Democracy, Freedom, Rule of law.  Love and equality.\n\n民主，自由，法治。\n\n爱和平等。",
+        "id": "1686670087800111104",
+        "name": "Ivan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870430778410299392/APgwsex4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 18,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1291
+        },
+        "username": "Ivan1985530",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T15:08:39.000Z",
+        "description": "阿冬的环球酷儿法律观察\n关注全球LGBTQ运动经验和法律实践🏳️‍🌈🏳️‍⚧️，为中国的LGBTQ运动提供他山之玉。\ntracking queer law & policy globally | personal, not institutional",
+        "id": "2037909112055300096",
+        "name": "阿冬的酷儿法律观察",
+        "pinned_tweet_id": "2056409627969876339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047360437906182144/TuWas3GX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 528,
+          "like_count": 364,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 128
+        },
+        "username": "QueerLawWatchCN",
+        "verified": true
+      }
+    ]
+  }
+}

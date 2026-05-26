@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057622758146871297"
+      ],
+      "media_source_tweet_id": [
+        "2057622770079731939"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057767666077815084",
+    "created_at": "2026-05-22T10:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057767666077815084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1295388079159738374",
+          "start": 3,
+          "username": "iF_OuO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1CeTd13bnN",
+          "end": 53,
+          "expanded_url": "https://x.com/iF_OuO/status/2057622770079731939/photo/1",
+          "media_key": "3_2057622758146871297",
+          "start": 30,
+          "url": "https://t.co/1CeTd13bnN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057767666077815084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057622770079731939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iF_OuO: 今日新闻之反诈平台被用于帮助诈骗犯 https://t.co/1CeTd13bnN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1316,
+        "media_key": "3_2057622758146871297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4k_y0akAE42dK.jpg",
+        "width": 862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057622758146871297"
+          ],
+          "media_source_tweet_id": [
+            "2057622770079731939"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057767666077815084",
+        "created_at": "2026-05-22T10:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057767666077815084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1295388079159738374",
+              "start": 3,
+              "username": "iF_OuO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1CeTd13bnN",
+              "end": 53,
+              "expanded_url": "https://x.com/iF_OuO/status/2057622770079731939/photo/1",
+              "media_key": "3_2057622758146871297",
+              "start": 30,
+              "url": "https://t.co/1CeTd13bnN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057767666077815084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057622770079731939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iF_OuO: 今日新闻之反诈平台被用于帮助诈骗犯 https://t.co/1CeTd13bnN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057622758146871297"
+          ]
+        },
+        "author_id": "1295388079159738374",
+        "conversation_id": "2057622770079731939",
+        "created_at": "2026-05-22T00:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057622770079731939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1CeTd13bnN",
+              "end": 41,
+              "expanded_url": "https://x.com/iF_OuO/status/2057622770079731939/photo/1",
+              "media_key": "3_2057622758146871297",
+              "start": 18,
+              "url": "https://t.co/1CeTd13bnN"
+            },
+            {
+              "display_url": "x.com/ifououo/status…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/ifououo/status/1882622515832672724",
+              "start": 42,
+              "url": "https://t.co/UTgl5oB6Ea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057622770079731939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882622515832672724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今日新闻之反诈平台被用于帮助诈骗犯 https://t.co/1CeTd13bnN https://t.co/UTgl5oB6Ea"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 828,
+          "like_count": 22875,
+          "listed_count": 3,
+          "media_count": 364,
+          "tweet_count": 4239
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-17T15:53:24.000Z",
+        "description": "INTJ / 宝可梦训练家扩列 / 偶尔写影评 / 消费电子观察 / 小米和霸王茶姬的非精神股东 / 投资分享不保准 / 努力拥有人鱼线中 / 但不影响我探店 / 不键政（尽量？）\n小红书：iF_OuO，\n抖音：iFOuO，\nB站：朝霧葉留香，\n碎碎念小号～：@iFOuOuO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 130,
+                "username": "iFOuOuO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/iFOuO",
+                "end": 23,
+                "expanded_url": "http://t.me/iFOuO",
+                "start": 0,
+                "url": "https://t.co/mzHBCQQ9ta"
+              }
+            ]
+          }
+        },
+        "id": "1295388079159738374",
+        "location": "在你的心上",
+        "name": "橙留香",
+        "pinned_tweet_id": "2013985977765953788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012875041935933440/ub4SlEXb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 460,
+          "like_count": 7454,
+          "listed_count": 5,
+          "media_count": 477,
+          "tweet_count": 3746
+        },
+        "url": "https://t.co/mzHBCQQ9ta",
+        "username": "iF_OuO",
+        "verified": false
+      }
+    ]
+  }
+}

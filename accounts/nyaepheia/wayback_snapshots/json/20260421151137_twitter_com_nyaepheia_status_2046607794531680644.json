@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046607794531680644",
+    "created_at": "2026-04-21T15:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046607794531680644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20462…",
+          "end": 55,
+          "expanded_url": "https://x.com/i/status/2046255262546444732",
+          "start": 32,
+          "url": "https://t.co/pYuwt26nct"
+        },
+        {
+          "display_url": "x.com/nyaepheia/stat…",
+          "end": 87,
+          "expanded_url": "https://x.com/nyaepheia/status/2046465196655530274",
+          "start": 64,
+          "url": "https://t.co/IuSnqtIM1j"
+        },
+        {
+          "display_url": "x.com/nyaepheia/stat…",
+          "end": 134,
+          "expanded_url": "https://x.com/nyaepheia/status/2046571534496698427",
+          "start": 111,
+          "url": "https://t.co/ADOubtknjs"
+        },
+        {
+          "display_url": "x.com/i/status/20465…",
+          "end": 194,
+          "expanded_url": "https://x.com/i/status/2046574508438679624",
+          "start": 171,
+          "url": "https://t.co/5zQ5ICiabX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046607794531680644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 260,
+            "start": 245,
+            "tag": "EpheiaOverview"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/i/status/20462…",
+            "end": 55,
+            "expanded_url": "https://x.com/i/status/2046255262546444732",
+            "start": 32,
+            "url": "https://t.co/34paeV8S7l"
+          },
+          {
+            "display_url": "x.com/nyaepheia/stat…",
+            "end": 87,
+            "expanded_url": "https://x.com/nyaepheia/status/2046465196655530274",
+            "start": 64,
+            "url": "https://t.co/aCz7Dh4srl"
+          },
+          {
+            "display_url": "x.com/nyaepheia/stat…",
+            "end": 134,
+            "expanded_url": "https://x.com/nyaepheia/status/2046571534496698427",
+            "start": 111,
+            "url": "https://t.co/Q5TApClzDg"
+          },
+          {
+            "display_url": "x.com/i/status/20465…",
+            "end": 194,
+            "expanded_url": "https://x.com/i/status/2046574508438679624",
+            "start": 171,
+            "url": "https://t.co/3QRQNGtC2h"
+          },
+          {
+            "display_url": "x.com/i/status/20465…",
+            "end": 243,
+            "expanded_url": "https://x.com/i/status/2046581953701495237",
+            "start": 220,
+            "url": "https://t.co/C9ZEXYgh3t"
+          }
+        ]
+      },
+      "text": "关于今天的讨论，我的成分和主要观点如下：\n首先是我的个人成分： https://t.co/34paeV8S7l\n雌二醇并非OD https://t.co/aCz7Dh4srl\ntransgender 不支持od 的可能性 https://t.co/Q5TApClzDg\nTransgender 为什么和LGBTQ 抱团但没有义务和od 捆绑 https://t.co/3QRQNGtC2h\nTransgender 并非和oder 高度重合 https://t.co/C9ZEXYgh3t\n\n#EpheiaOverview"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046574508438679624",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关于今天的讨论，我的成分和主要观点如下：\n首先是我的个人成分： https://t.co/pYuwt26nct\n雌二醇并非OD https://t.co/IuSnqtIM1j\ntransgender 不支持od 的可能性 https://t.co/ADOubtknjs\nTransgender 为什么和LGBTQ 抱团但没有义务和od 捆绑 https://t.co/5zQ5ICiabX\nTransgender 并非和oder"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046607794531680644",
+        "created_at": "2026-04-21T15:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046607794531680644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20462…",
+              "end": 55,
+              "expanded_url": "https://x.com/i/status/2046255262546444732",
+              "start": 32,
+              "url": "https://t.co/pYuwt26nct"
+            },
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 87,
+              "expanded_url": "https://x.com/nyaepheia/status/2046465196655530274",
+              "start": 64,
+              "url": "https://t.co/IuSnqtIM1j"
+            },
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 134,
+              "expanded_url": "https://x.com/nyaepheia/status/2046571534496698427",
+              "start": 111,
+              "url": "https://t.co/ADOubtknjs"
+            },
+            {
+              "display_url": "x.com/i/status/20465…",
+              "end": 194,
+              "expanded_url": "https://x.com/i/status/2046574508438679624",
+              "start": 171,
+              "url": "https://t.co/5zQ5ICiabX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046607794531680644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 260,
+                "start": 245,
+                "tag": "EpheiaOverview"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20462…",
+                "end": 55,
+                "expanded_url": "https://x.com/i/status/2046255262546444732",
+                "start": 32,
+                "url": "https://t.co/34paeV8S7l"
+              },
+              {
+                "display_url": "x.com/nyaepheia/stat…",
+                "end": 87,
+                "expanded_url": "https://x.com/nyaepheia/status/2046465196655530274",
+                "start": 64,
+                "url": "https://t.co/aCz7Dh4srl"
+              },
+              {
+                "display_url": "x.com/nyaepheia/stat…",
+                "end": 134,
+                "expanded_url": "https://x.com/nyaepheia/status/2046571534496698427",
+                "start": 111,
+                "url": "https://t.co/Q5TApClzDg"
+              },
+              {
+                "display_url": "x.com/i/status/20465…",
+                "end": 194,
+                "expanded_url": "https://x.com/i/status/2046574508438679624",
+                "start": 171,
+                "url": "https://t.co/3QRQNGtC2h"
+              },
+              {
+                "display_url": "x.com/i/status/20465…",
+                "end": 243,
+                "expanded_url": "https://x.com/i/status/2046581953701495237",
+                "start": 220,
+                "url": "https://t.co/C9ZEXYgh3t"
+              }
+            ]
+          },
+          "text": "关于今天的讨论，我的成分和主要观点如下：\n首先是我的个人成分： https://t.co/34paeV8S7l\n雌二醇并非OD https://t.co/aCz7Dh4srl\ntransgender 不支持od 的可能性 https://t.co/Q5TApClzDg\nTransgender 为什么和LGBTQ 抱团但没有义务和od 捆绑 https://t.co/3QRQNGtC2h\nTransgender 并非和oder 高度重合 https://t.co/C9ZEXYgh3t\n\n#EpheiaOverview"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046574508438679624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于今天的讨论，我的成分和主要观点如下：\n首先是我的个人成分： https://t.co/pYuwt26nct\n雌二醇并非OD https://t.co/IuSnqtIM1j\ntransgender 不支持od 的可能性 https://t.co/ADOubtknjs\nTransgender 为什么和LGBTQ 抱团但没有义务和od 捆绑 https://t.co/5zQ5ICiabX\nTransgender 并非和oder"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046573135663710263",
+        "created_at": "2026-04-21T12:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046574508438679624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046574508438679624",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我认为transgender 之所以和同性恋和酷儿抱团取暖为LGBTQ+是因为都在性别上是少数。但transgender 和oder 到底有什么理由抱团甚至捆绑呢（？）仅仅是统计学上的重叠吗？但实际上如果考虑所有transgender ，和oder 重叠率也很低...\n虽然有人说是因为同为追求药品不受管控，但我认为跨性别应该追求HRT 资源的更合理获取，而绝对不是oder 要求的无条件获取。因为transgender 只希望让真正需要的人HRT ，也不希望任何人后悔，对吧？所以在这一点上和oder 的诉求也不重叠。\n所以transgender 应该追求更多的跨性别正规医疗资源来解决自己的痛苦，这完全不是娱乐需求。\n（2/2）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 242,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046573135663710263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我认为transgender 之所以和同性恋和酷儿抱团取暖为LGBTQ+是因为都在性别上是少数。但transgender 和oder 到底有什么理由抱团甚至捆绑呢（？）仅仅是统计学上的重叠吗？但实际上如果考虑所有transgender ，和oder 重叠率也很低...\n虽然有人说是因为同为追求药品不受管控，但我认为跨性别应该追求HRT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 739,
+          "like_count": 16165,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2550
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2052841902438056003",
+    "created_at": "2026-05-09T12:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053083159882043788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811265295849598976",
+          "start": 0,
+          "username": "KiraMyao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20530…",
+          "end": 33,
+          "expanded_url": "https://x.com/i/status/2053074658451411295",
+          "start": 10,
+          "url": "https://t.co/Lj7dQxuejS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053083159882043788",
+    "in_reply_to_user_id": "1811265295849598976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053074658451411295",
+        "type": "quoted"
+      },
+      {
+        "id": "2052841902438056003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiraMyao https://t.co/Lj7dQxuejS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 393,
+        "media_key": "3_2052841891725717504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0o0vhaMAAMa9b.png",
+        "width": 481
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2052841902438056003",
+        "created_at": "2026-05-09T12:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053083159882043788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811265295849598976",
+              "start": 0,
+              "username": "KiraMyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20530…",
+              "end": 33,
+              "expanded_url": "https://x.com/i/status/2053074658451411295",
+              "start": 10,
+              "url": "https://t.co/Lj7dQxuejS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053083159882043788",
+        "in_reply_to_user_id": "1811265295849598976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053074658451411295",
+            "type": "quoted"
+          },
+          {
+            "id": "2052841902438056003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraMyao https://t.co/Lj7dQxuejS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2053074658451411295",
+        "created_at": "2026-05-09T11:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053074658451411295"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 153,
+              "start": 141,
+              "tag": "Transcircle"
+            },
+            {
+              "end": 173,
+              "start": 154,
+              "tag": "TranscircleProject"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "transcircle.pages.dev",
+              "end": 139,
+              "expanded_url": "http://transcircle.pages.dev",
+              "start": 116,
+              "status": 200,
+              "title": "TransCircleProject",
+              "unwound_url": "https://transcircle.pages.dev/",
+              "url": "https://t.co/dXI26iyIRR"
+            },
+            {
+              "display_url": "x.com/wuyuandev/stat…",
+              "end": 197,
+              "expanded_url": "https://twitter.com/wuyuandev/status/2053054695527309663",
+              "start": 174,
+              "url": "https://t.co/wXukzV1anv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053074658451411295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053054695527309663",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我将fork 这个计划，为了版权合规，我们会分为两个阶段进行：\n第一阶段只显示 @用户名 + 可点击跳转 X 主页（完全零版权风险）\n\n之后第二阶段会逐个询问本人同意，再逐步加上本地缓存的头像 + 「经授权」标注\n\n我们的项目网址是https://t.co/dXI26iyIRR\n\n#Transcircle #TranscircleProject https://t.co/wXukzV1anv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052841891725717504"
+          ]
+        },
+        "author_id": "1811265295849598976",
+        "conversation_id": "2052841902438056003",
+        "created_at": "2026-05-08T20:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T21:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052841902438056003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H7vbINWaNG",
+              "end": 153,
+              "expanded_url": "https://x.com/KiraMyao/status/2052841902438056003/photo/1",
+              "media_key": "3_2052841891725717504",
+              "start": 130,
+              "url": "https://t.co/H7vbINWaNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052841902438056003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "由于版权保护要求，我们现已暂停\n“跨圈大家庭”头像贴贴活动。\n原因说明：\n1️⃣版权合规风险： 我们近期收到了一项 DMCA 侵权警告(◍•﹏•)\n2️⃣归属难以确认： 社区头像涉及大量原创或授权作品，我们目前无法有效核实每一份版权归属，存在较大的侵权隐患。\n\n我们会在后续发布推特头像拼图工具，就不发布图片了，谢谢各位的支持(◦˙▽˙◦)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5397,
+          "like_count": 67,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "由于版权保护要求，我们现已暂停\n“跨圈大家庭”头像贴贴活动。\n原因说明：\n1️⃣版权合规风险： 我们近期收到了一项 DMCA 侵权警告(◍•﹏•)\n2️⃣归属难以确认： 社区头像涉及大量原创或授权作品，我们目前无法有效核实每一份版权归属，存在较大的侵权隐患。 https://t.co/H7vbINWaNG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 801,
+          "like_count": 20219,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 3499
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️\n\nUnderstand risk. Move through it.😡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "equal.kiramayo.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://equal.kiramayo.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/HY2O2A4Kqa"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 355,
+          "like_count": 9582,
+          "listed_count": 3,
+          "media_count": 372,
+          "tweet_count": 1494
+        },
+        "url": "https://t.co/HY2O2A4Kqa",
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

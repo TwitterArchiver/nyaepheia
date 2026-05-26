@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      }
+    ],
+    "conversation_id": "2056807832830570883",
+    "created_at": "2026-05-19T18:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T19:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056807832830570883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/daniellismore/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/daniellismore/status/2056298486220357970",
+          "start": 35,
+          "url": "https://t.co/Y7Z7qj6hHg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056807832830570883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056298486220357970",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "JK 罗琳 应该承认自己是恐跨主义者，而非把自己宣传为所谓女权主义者 https://t.co/Y7Z7qj6hHg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2056298480897781760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlwktoWcAA8po1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2056807832830570883",
+        "created_at": "2026-05-19T18:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056807832830570883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/daniellismore/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/daniellismore/status/2056298486220357970",
+              "start": 35,
+              "url": "https://t.co/Y7Z7qj6hHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056807832830570883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056298486220357970",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "JK 罗琳 应该承认自己是恐跨主义者，而非把自己宣传为所谓女权主义者 https://t.co/Y7Z7qj6hHg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056298480897781760"
+          ]
+        },
+        "author_id": "21632185",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2056298486220357970",
+        "created_at": "2026-05-18T08:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056298486220357970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bl7KZkktqO",
+              "end": 302,
+              "expanded_url": "https://x.com/daniellismore/status/2056298486220357970/photo/1",
+              "media_key": "3_2056298480897781760",
+              "start": 279,
+              "url": "https://t.co/Bl7KZkktqO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056298486220357970",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "JK Rowling has built a public identity around protecting women. She talks about women constantly. Women’s spaces. Women’s rights. Women’s safety. Women’s sport. Women’s everything.\nSo where is she on Reform UK’s behind the scenes campaign against abortion rights?\nSilence.\nWhere is she on Reform’s position on removing the United Kingdom from the European Convention on Human Rights, the legal framework that protects women from domestic violence, forced marriage, honour crimes and state discrimination?\nSilence.\nWhere is she on the broader rollback of women’s rights being driven by the exact political forces she has chosen to align herself with?\nComplete silence.\nThis is a woman with over thirteen million followers, a billion dollar franchise, a personal legal fund and the ear of Supreme Court justices. She is not short of a platform. She is not afraid of controversy. She has demonstrated repeatedly that she will say difficult things loudly when she wants to.\nShe just does not want to say these things.\nThe pattern is not subtle. Every campaign she has funded, every legal case she has backed, every public statement she has made has had one subject. Not women broadly. Specifically and only transgender people. When the conversation moves to abortion she is absent. When it moves to the ECHR she is absent. When it moves to Reform UK’s social conservatism, which would take the rights of women backwards by decades, she is absent.\nThe European Convention on Human Rights is not an abstract legal document. It is the framework that has delivered concrete protections for women in this country. It underpins the right not to be subjected to domestic violence without state protection. It underpins reproductive rights cases. It underpins protections against forced marriage and trafficking. It underpins the right to private life, to bodily autonomy, to equal treatment under law.\nReform UK wants to remove the United Kingdom from it.\nIt also protects transgender people. That appears to be the problem.\nBecause the only coherent explanation for Rowling’s silence on every other women’s rights issue while spending her fortune on this one is that her campaign was never really about women. It was always about transgender people. Women were the framing. Trans exclusion was the goal.\nA person who genuinely cared about women’s rights in 2025 would be screaming about Reform. They would be funding legal challenges to abortion restrictions. They would be speaking loudly about the ECHR. They would understand that you cannot claim to defend women’s rights while staying silent as the political movement you have empowered works to dismantle the legal architecture that protects women from the state and from violence.\nUnless the rights you actually care about are not women’s rights in general.\nUnless they are specifically the right to exclude transgender people from public life.\nIn which case the silence makes perfect sense.\nFollow the silence. It tells you everything the statements do not.​​​​​​​​​​​​​​​​\n\nShe wonders why she lost friends. I’ve spoken to 3 of her old friends in person. And they had the worst possible for us to say about her. \n\nSo she may be your hero but it seems to me that she’s not a very nice person."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 78388,
+          "like_count": 1117,
+          "quote_count": 19,
+          "reply_count": 143,
+          "retweet_count": 256
+        },
+        "reply_settings": "everyone",
+        "text": "JK Rowling has built a public identity around protecting women. She talks about women constantly. Women’s spaces. Women’s rights. Women’s safety. Women’s sport. Women’s everything.\nSo where is she on Reform UK’s behind the scenes campaign against abortion rights?\nSilence.\nWhere https://t.co/Bl7KZkktqO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 828,
+          "like_count": 22321,
+          "listed_count": 3,
+          "media_count": 343,
+          "tweet_count": 4076
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-23T04:52:59.000Z",
+        "description": "Artist. https://t.co/qbHJnDLNOT Go watch my @tedtalks 🏳️‍🌈🏳️‍⚧️🌈🛸🖖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "tedtalks"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/daniellismore",
+                "end": 31,
+                "expanded_url": "http://www.instagram.com/daniellismore",
+                "start": 8,
+                "url": "https://t.co/qbHJnDLNOT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "daniellismore.com",
+                "end": 23,
+                "expanded_url": "https://www.daniellismore.com",
+                "start": 0,
+                "url": "https://t.co/ohtcouQ7vR"
+              }
+            ]
+          }
+        },
+        "id": "21632185",
+        "location": "London, England",
+        "name": "Daniel Lismore",
+        "pinned_tweet_id": "2020827467284668848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1430029068209168386/wTo9a61A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22230,
+          "following_count": 3274,
+          "like_count": 82213,
+          "listed_count": 396,
+          "media_count": 17523,
+          "tweet_count": 111252
+        },
+        "url": "https://t.co/ohtcouQ7vR",
+        "username": "daniellismore",
+        "verified": true
+      }
+    ]
+  }
+}

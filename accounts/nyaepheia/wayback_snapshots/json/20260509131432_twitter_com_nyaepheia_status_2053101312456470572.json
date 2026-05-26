@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2053082712504734036",
+    "created_at": "2026-05-09T13:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053101312456470572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2909931697",
+          "start": 0,
+          "username": "baobao1270"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053101312456470572",
+    "in_reply_to_user_id": "2909931697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053099779178319982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baobao1270 Google 政策明确它们不主张所有权，所以我有权利授权\n而且这个图片没有使用任何参考图，所以没有侵权\n\n这里没有主张版权，只是授予使用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2053082712504734036",
+        "created_at": "2026-05-09T13:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053101312456470572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2909931697",
+              "start": 0,
+              "username": "baobao1270"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053101312456470572",
+        "in_reply_to_user_id": "2909931697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053099779178319982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baobao1270 Google 政策明确它们不主张所有权，所以我有权利授权\n而且这个图片没有使用任何参考图，所以没有侵权\n\n这里没有主张版权，只是授予使用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2909931697",
+        "conversation_id": "2053082712504734036",
+        "created_at": "2026-05-09T13:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053099779178319982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053099779178319982",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053082712504734036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 异色瞳oc可爱\n\n不过我觉得这份声明的有效性有限\n1. AI生成内容是否具有版权还有待商榷，不同法律体系之间也没有共识\n2. AI训练过程中其提供者是否存在侵权行为，以及相关侵权责任是否会传导到使用者，目前也没有定论\n\nPS: 法律文本中oc应该写成「原创角色」更加正式一点吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 802,
+          "like_count": 20231,
+          "listed_count": 3,
+          "media_count": 263,
+          "tweet_count": 3513
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2014-11-25T10:56:02.000Z",
+        "description": "「生如逆旅 · 一苇以航」| Naïve Vocaloid Producer - 天依粉 / 南北一生推 | Full Stack Developer - Python / TypeScript / C# / Linux / Docker | BGP Player | FCC T Class HAM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "josephcz.xyz",
+                "end": 23,
+                "expanded_url": "https://josephcz.xyz/",
+                "start": 0,
+                "url": "https://t.co/zAct5bSovf"
+              }
+            ]
+          }
+        },
+        "id": "2909931697",
+        "location": "California",
+        "name": "Joseph Chris",
+        "pinned_tweet_id": "1727791349729309049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/861241603763036160/fEbbOWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1782,
+          "following_count": 358,
+          "like_count": 1261,
+          "listed_count": 18,
+          "media_count": 531,
+          "tweet_count": 4949
+        },
+        "url": "https://t.co/zAct5bSovf",
+        "username": "baobao1270",
+        "verified": false
+      }
+    ]
+  }
+}

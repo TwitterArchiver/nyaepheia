@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2034992183758266795",
+    "created_at": "2026-03-20T13:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T14:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034992183758266795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "4752010152",
+          "start": 3,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034992183758266795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034983455222546911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @garrulous_abyss: 是的，其实国内最常见的是“还能上学/上班就没病”\n\n所以国内的，真的需要服用精神病药物，真的需要心理咨询介入的，比例很可能是十倍，甚至几十倍于现有的实际人数。\n\n以前确实没有精神病，只有数量庞大的，“好端端一个人，突然就想不开，要上吊/…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2034992183758266795",
+        "created_at": "2026-03-20T13:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034992183758266795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "4752010152",
+              "start": 3,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034992183758266795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034983455222546911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @garrulous_abyss: 是的，其实国内最常见的是“还能上学/上班就没病”\n\n所以国内的，真的需要服用精神病药物，真的需要心理咨询介入的，比例很可能是十倍，甚至几十倍于现有的实际人数。\n\n以前确实没有精神病，只有数量庞大的，“好端端一个人，突然就想不开，要上吊/…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4752010152",
+        "conversation_id": "2034983455222546911",
+        "created_at": "2026-03-20T13:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034983455222546911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nakamori222/st…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/nakamori222/status/2034844021378650294",
+              "start": 132,
+              "url": "https://t.co/Gwp8X2QfkT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034983455222546911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 741,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034844021378650294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的，其实国内最常见的是“还能上学/上班就没病”\n\n所以国内的，真的需要服用精神病药物，真的需要心理咨询介入的，比例很可能是十倍，甚至几十倍于现有的实际人数。\n\n以前确实没有精神病，只有数量庞大的，“好端端一个人，突然就想不开，要上吊/跳河/跳井/喝农药”了。。 https://t.co/Gwp8X2QfkT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+友好 | 09 | 文科生 | MtF/MtX? | she/they | 暂未HRT | 家长党 | 天残党 | Vibe coding | 搭网站 | 成分不明的可能会直接ban",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 339,
+          "like_count": 4502,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 93
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//科研人员//PhD//奔四老登//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑//\n\n欢迎预约占卜测事 https://t.co/KZBQuE9x4R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 131,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 108,
+                "url": "https://t.co/KZBQuE9x4R"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31450,
+          "following_count": 3654,
+          "like_count": 179955,
+          "listed_count": 106,
+          "media_count": 3838,
+          "tweet_count": 66284
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

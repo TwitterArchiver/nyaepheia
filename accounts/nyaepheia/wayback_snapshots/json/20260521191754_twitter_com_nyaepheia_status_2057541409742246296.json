@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057541409742246296",
+    "created_at": "2026-05-21T19:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T20:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057541409742246296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1721559284239224832",
+          "start": 3,
+          "username": "MissJackieNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057541409742246296",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 249
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057260310734778643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MissJackieNeko: parents being transphobic to their own kids or denying them who they are should be considered abuse"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057541409742246296",
+        "created_at": "2026-05-21T19:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T20:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057541409742246296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1721559284239224832",
+              "start": 3,
+              "username": "MissJackieNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057541409742246296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 249
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057260310734778643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MissJackieNeko: parents being transphobic to their own kids or denying them who they are should be considered abuse"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721559284239224832",
+        "conversation_id": "2057260310734778643",
+        "created_at": "2026-05-21T00:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057260310734778643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057260310734778643",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 73829,
+          "like_count": 1461,
+          "quote_count": 11,
+          "reply_count": 19,
+          "retweet_count": 249
+        },
+        "reply_settings": "everyone",
+        "text": "parents being transphobic to their own kids or denying them who they are should be considered abuse"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 830,
+          "like_count": 22782,
+          "listed_count": 3,
+          "media_count": 362,
+          "tweet_count": 4222
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-06T16:05:05.000Z",
+        "description": "18 ✿ she/her ✿ beat saber player & saber modeler ✿ ultrakill is cool ✿ i am woke deal with it ✿ editor for cube community ✿ mountain dewholic ✿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/JackieNeko",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/JackieNeko",
+                "start": 0,
+                "url": "https://t.co/rdHG9EeKHh"
+              }
+            ]
+          }
+        },
+        "id": "1721559284239224832",
+        "location": "California",
+        "name": "Jackie 😺",
+        "pinned_tweet_id": "2041302728824275217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053294767761707008/BUOgeSG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 1853,
+          "like_count": 38677,
+          "listed_count": 10,
+          "media_count": 1673,
+          "tweet_count": 13549
+        },
+        "url": "https://t.co/rdHG9EeKHh",
+        "username": "MissJackieNeko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046565070948520019",
+    "created_at": "2026-04-21T12:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046565070948520019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1453575590729162758",
+          "start": 3,
+          "username": "obe_ZX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046565070948520019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046564218711765219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @obe_ZX: 我不认为od是错误的，不认为od是在吸毒，也不认为oder都是有罪的\n但说“跨性别大多数都是oder”显然是不太合适的，去举着跨旗反对药物禁售也是不合适的\n可以说跨性别和od群体可能有很大交集，但是我认为它们之间不能画等号，也不能画包含符号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046565070948520019",
+        "created_at": "2026-04-21T12:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046565070948520019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1453575590729162758",
+              "start": 3,
+              "username": "obe_ZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046565070948520019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046564218711765219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @obe_ZX: 我不认为od是错误的，不认为od是在吸毒，也不认为oder都是有罪的\n但说“跨性别大多数都是oder”显然是不太合适的，去举着跨旗反对药物禁售也是不合适的\n可以说跨性别和od群体可能有很大交集，但是我认为它们之间不能画等号，也不能画包含符号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1453575590729162758",
+        "conversation_id": "2046564218711765219",
+        "created_at": "2026-04-21T12:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046564218711765219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Snow_Xue_/stat…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/Snow_Xue_/status/2046533780853440728",
+              "start": 121,
+              "url": "https://t.co/m1ovGerIPe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046564218711765219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046533780853440728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不认为od是错误的，不认为od是在吸毒，也不认为oder都是有罪的\n但说“跨性别大多数都是oder”显然是不太合适的，去举着跨旗反对药物禁售也是不合适的\n可以说跨性别和od群体可能有很大交集，但是我认为它们之间不能画等号，也不能画包含符号 https://t.co/m1ovGerIPe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 737,
+          "like_count": 16050,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2490
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-28T04:13:37.000Z",
+        "description": "07年夏季Trans F | 持证但是DIY HRTing | 175/57kg | 尝试增肥ing | 疑似INFP",
+        "id": "1453575590729162758",
+        "location": "小骨灰盒",
+        "name": "栀子MOCHI 🍡🏳️‍⚧️",
+        "pinned_tweet_id": "2007341646145638708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399355464818688/q56FkSGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 527,
+          "like_count": 22121,
+          "listed_count": 4,
+          "media_count": 414,
+          "tweet_count": 2413
+        },
+        "username": "obe_ZX",
+        "verified": false
+      }
+    ]
+  }
+}

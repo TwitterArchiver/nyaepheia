@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2058084908334252089",
+    "created_at": "2026-05-23T07:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T08:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058084908334252089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942136939735560192",
+          "start": 3,
+          "username": "picxis63594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058084908334252089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058060164159463509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @picxis63594: 本人因为违背父母的意愿进行跨性别激素替代治疗，\n曾经无病非自愿强制入院山东省精卫两个月；\n并且被在无任何精神疾病的状况下被迫服用艾司西酞普兰，奥氮平，丙戊酸镁。\n今二度被强制入院。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2058084908334252089",
+        "created_at": "2026-05-23T07:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058084908334252089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942136939735560192",
+              "start": 3,
+              "username": "picxis63594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058084908334252089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058060164159463509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @picxis63594: 本人因为违背父母的意愿进行跨性别激素替代治疗，\n曾经无病非自愿强制入院山东省精卫两个月；\n并且被在无任何精神疾病的状况下被迫服用艾司西酞普兰，奥氮平，丙戊酸镁。\n今二度被强制入院。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942136939735560192",
+        "conversation_id": "2058060164159463509",
+        "created_at": "2026-05-23T05:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058060164159463509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058060164159463509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2706,
+          "like_count": 63,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "本人因为违背父母的意愿进行跨性别激素替代治疗，\n曾经无病非自愿强制入院山东省精卫两个月；\n并且被在无任何精神疾病的状况下被迫服用艾司西酞普兰，奥氮平，丙戊酸镁。\n今二度被强制入院。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 823,
+          "like_count": 23158,
+          "listed_count": 3,
+          "media_count": 377,
+          "tweet_count": 4313
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T08:21:59.000Z",
+        "description": "MtF/hrt 2026.4.22/互fo喵！陪咱聊天喵",
+        "id": "1942136939735560192",
+        "location": "床上",
+        "name": "无人机潜水_SubDrone🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056641418433826816/eoLLRBCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 192,
+          "like_count": 198,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 130
+        },
+        "username": "picxis63594",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2039303603740086494",
+    "created_at": "2026-04-01T11:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T12:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039303603740086494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1413151000567771146",
+          "start": 3,
+          "username": "Windy_Skyline"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2037…",
+          "end": 42,
+          "expanded_url": "http://x.com/i/article/2037781881215942656",
+          "start": 19,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2037781881215942656",
+          "url": "https://t.co/BGljgthLmb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039303603740086494",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037791879534973292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Windy_Skyline: https://t.co/BGljgthLmb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2039303603740086494",
+        "created_at": "2026-04-01T11:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039303603740086494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1413151000567771146",
+              "start": 3,
+              "username": "Windy_Skyline"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2037…",
+              "end": 42,
+              "expanded_url": "http://x.com/i/article/2037781881215942656",
+              "start": 19,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2037781881215942656",
+              "url": "https://t.co/BGljgthLmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039303603740086494",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037791879534973292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Windy_Skyline: https://t.co/BGljgthLmb"
+      },
+      {
+        "article": {
+          "title": "🇺🇸Trump政府承认联邦监狱管理局对跨性别囚犯进行非法扭转试验🇺🇸"
+        },
+        "attachments": {},
+        "author_id": "1413151000567771146",
+        "conversation_id": "2037791879534973292",
+        "created_at": "2026-03-28T07:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037791879534973292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2037…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2037781881215942656",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2037781881215942656",
+              "url": "https://t.co/BGljgthLmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037791879534973292",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 6431,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BGljgthLmb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/hrt26.4.1/家长党/天残党/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂🍥",
+        "pinned_tweet_id": "2037905372414091549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 543,
+          "like_count": 6183,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 243,
+          "like_count": 2435,
+          "listed_count": 10,
+          "media_count": 3801,
+          "tweet_count": 12927
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

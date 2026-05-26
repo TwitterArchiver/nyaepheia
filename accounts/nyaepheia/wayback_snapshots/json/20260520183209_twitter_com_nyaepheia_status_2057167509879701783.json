@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2056966892448006545",
+    "created_at": "2026-05-20T18:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T19:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057167509879701783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "135410695",
+          "start": 0,
+          "username": "cannibality"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057167509879701783",
+    "in_reply_to_user_id": "135410695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056966892448006545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cannibality 即使那样，也不要对中国抱有任何期待。\n中国政府总是说一套做一套。请看看中国性少数的实际处境吧！被送去政府资助的扭转机构，或是跨性别者的HRT 药物在网上禁售...\n请记住：永远不要期待（现在这个）中国政府对性少数会好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2056966892448006545",
+        "created_at": "2026-05-20T18:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T19:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057167509879701783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "135410695",
+              "start": 0,
+              "username": "cannibality"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057167509879701783",
+        "in_reply_to_user_id": "135410695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056966892448006545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cannibality 即使那样，也不要对中国抱有任何期待。\n中国政府总是说一套做一套。请看看中国性少数的实际处境吧！被送去政府资助的扭转机构，或是跨性别者的HRT 药物在网上禁售...\n请记住：永远不要期待（现在这个）中国政府对性少数会好。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "135410695",
+        "conversation_id": "2056966892448006545",
+        "created_at": "2026-05-20T05:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056966892448006545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 303,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2056739858505138313",
+              "start": 280,
+              "url": "https://t.co/EHXmkANrZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056966892448006545",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 61515,
+          "like_count": 1358,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056739858505138313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "While this statement is limited in scope and by no means enshrines the rights of gay and trans people in law, I can't help but reflect on it coming out the same day that the New Zealand government announced it was beginning the process of formally stripping trans people of ours. https://t.co/EHXmkANrZb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 829,
+          "like_count": 22505,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 4134
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-21T06:42:48.000Z",
+        "description": "☭ 33 ☭ Māori communist ☭ press spokes @againstprisons ☭ prison abolitionist, scholar-activist, cool mum ☭ @kendra_c__ ❤️ ☭ opinions here are personal ☭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "againstprisons"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "kendra_c__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "papa.org.nz",
+                "end": 23,
+                "expanded_url": "http://papa.org.nz",
+                "start": 0,
+                "url": "https://t.co/KUdt0KVbEP"
+              }
+            ]
+          }
+        },
+        "id": "135410695",
+        "location": "\"New\" \"Zealand\"",
+        "name": "emmy rākete 🇵🇸",
+        "pinned_tweet_id": "1831518826258911462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018405559587028992/C0INZ2-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19778,
+          "following_count": 1838,
+          "like_count": 146919,
+          "listed_count": 90,
+          "media_count": 4094,
+          "tweet_count": 94283
+        },
+        "url": "https://t.co/KUdt0KVbEP",
+        "username": "cannibality",
+        "verified": false
+      }
+    ]
+  }
+}

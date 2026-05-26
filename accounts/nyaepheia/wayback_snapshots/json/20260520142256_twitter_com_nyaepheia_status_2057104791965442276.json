@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057104605780275200"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057104791965442276",
+    "created_at": "2026-05-20T14:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057104791965442276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Xa0aL85XX",
+          "end": 26,
+          "expanded_url": "https://x.com/nyaepheia/status/2057104791965442276/photo/1",
+          "media_key": "3_2057104605780275200",
+          "start": 3,
+          "url": "https://t.co/7Xa0aL85XX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057104791965442276",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "❓5 https://t.co/7Xa0aL85XX"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "@everyone 我现在做个静态站点，绑定blog.transcircle.org，大家以后可以往上面发一些文章（包括开发进度等）。作为开发完成前的替代\n大家有什么想法或者偏好？我等会做\n有没有什么要求之类的\nRhenCloud [NURO],  — 22:21\n框架用…？\nCCA8798 — 22:21\n用astro写可以吗\nsakaban — 22:21\n有广告位吗\n翅膀 [OAI],  — 22:21\n？\n有毛病啊",
+        "height": 481,
+        "media_key": "3_2057104605780275200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxNvW1acAAaeQP.jpg",
+        "width": 1042
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057104605780275200"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057104791965442276",
+        "created_at": "2026-05-20T14:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057104791965442276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Xa0aL85XX",
+              "end": 26,
+              "expanded_url": "https://x.com/nyaepheia/status/2057104791965442276/photo/1",
+              "media_key": "3_2057104605780275200",
+              "start": 3,
+              "url": "https://t.co/7Xa0aL85XX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057104791965442276",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "❓5 https://t.co/7Xa0aL85XX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 829,
+          "like_count": 22442,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 4114
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

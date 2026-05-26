@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2036296518249095476",
+    "created_at": "2026-03-24T04:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T05:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036296518249095476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1297187352129961991",
+          "start": 3,
+          "username": "JeremiahDJohns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036296518249095476",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 330
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036136291637604364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JeremiahDJohns: Lot of interesting nuggets here, but it's mildly amusing that trans people are not the group with the most positive vie…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2036135990952337409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEHO5VcaIAEINQa.png",
+        "width": 895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2036296518249095476",
+        "created_at": "2026-03-24T04:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036296518249095476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1297187352129961991",
+              "start": 3,
+              "username": "JeremiahDJohns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036296518249095476",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 330
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036136291637604364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JeremiahDJohns: Lot of interesting nuggets here, but it's mildly amusing that trans people are not the group with the most positive vie…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036135990952337409"
+          ]
+        },
+        "author_id": "1297187352129961991",
+        "conversation_id": "2036136291637604364",
+        "created_at": "2026-03-23T17:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T18:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036136291637604364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H3atbRLzon",
+              "end": 162,
+              "expanded_url": "https://x.com/JeremiahDJohns/status/2036136291637604364/photo/1",
+              "media_key": "3_2036135990952337409",
+              "start": 139,
+              "url": "https://t.co/H3atbRLzon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036136291637604364",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1270,
+          "impression_count": 1071979,
+          "like_count": 11265,
+          "quote_count": 382,
+          "reply_count": 246,
+          "retweet_count": 330
+        },
+        "reply_settings": "everyone",
+        "text": "Lot of interesting nuggets here, but it's mildly amusing that trans people are not the group with the most positive views on trans people. https://t.co/H3atbRLzon"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+友好 | 09 | 文科生 | MtF/MtX? | she/they | 暂未HRT | (半个)家长党 | 天残党 | Vibe coding | 搭网站 | 成分不明的可能会直接ban",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 417,
+          "like_count": 4805,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 120
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-22T15:02:29.000Z",
+        "description": "Founder @CNLiberalism. Writing at Infinite Scroll. Carly Rae Jepsen stan. Send me the worst tweets on this site. https://t.co/xONcXY5PQv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "CNLiberalism"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "infinitescroll.us",
+                "end": 136,
+                "expanded_url": "http://www.infinitescroll.us",
+                "start": 113,
+                "url": "https://t.co/xONcXY5PQv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "infinitescroll.us",
+                "end": 23,
+                "expanded_url": "https://www.infinitescroll.us/",
+                "start": 0,
+                "url": "https://t.co/ZcQYgHtvW7"
+              }
+            ]
+          }
+        },
+        "id": "1297187352129961991",
+        "location": "New York",
+        "name": "Jeremiah Johnson 🌐",
+        "pinned_tweet_id": "2035065920838934658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1298983543314370560/1OnfDOq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56073,
+          "following_count": 1,
+          "like_count": 10666,
+          "listed_count": 440,
+          "media_count": 2508,
+          "tweet_count": 13645
+        },
+        "url": "https://t.co/ZcQYgHtvW7",
+        "username": "JeremiahDJohns",
+        "verified": true
+      }
+    ]
+  }
+}

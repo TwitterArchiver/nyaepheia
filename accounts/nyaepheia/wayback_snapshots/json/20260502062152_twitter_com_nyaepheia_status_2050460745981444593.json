@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050132884531617792"
+      ],
+      "media_source_tweet_id": [
+        "2050133203286118776"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050460745981444593",
+    "created_at": "2026-05-02T06:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T07:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050460745981444593"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "NTE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1765421318873481220",
+          "start": 3,
+          "username": "lyn49556"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OEtdImsm1G",
+          "end": 54,
+          "expanded_url": "https://x.com/lyn49556/status/2050133203286118776/video/1",
+          "media_key": "13_2050132884531617792",
+          "start": 31,
+          "url": "https://t.co/OEtdImsm1G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050460745981444593",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5626
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050133203286118776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lyn49556: What the….\n\n#NTE https://t.co/OEtdImsm1G"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38012,
+        "height": 1080,
+        "media_key": "13_2050132884531617792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050132884531617792/img/4e4Be8WgF0Wwzr_b.jpg",
+        "public_metrics": {
+          "view_count": 1442572
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050132884531617792/pl/2FzTpBfoFLVA4dph.m3u8?tag=27&v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050132884531617792/vid/avc1/576x360/XGrXdaW-RgEEQ4Mb.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050132884531617792/vid/avc1/1152x720/EkWQ9UDihuRqqQqg.mp4?tag=27"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050132884531617792/vid/avc1/432x270/kRLJ0fc5AYbuJ1Y7.mp4?tag=27"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050132884531617792/vid/avc1/1728x1080/0sXm3iU-Gl2SOAm0.mp4?tag=27"
+          }
+        ],
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050132884531617792"
+          ],
+          "media_source_tweet_id": [
+            "2050133203286118776"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050460745981444593",
+        "created_at": "2026-05-02T06:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050460745981444593"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "NTE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1765421318873481220",
+              "start": 3,
+              "username": "lyn49556"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OEtdImsm1G",
+              "end": 54,
+              "expanded_url": "https://x.com/lyn49556/status/2050133203286118776/video/1",
+              "media_key": "13_2050132884531617792",
+              "start": 31,
+              "url": "https://t.co/OEtdImsm1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050460745981444593",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5626
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050133203286118776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lyn49556: What the….\n\n#NTE https://t.co/OEtdImsm1G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050132884531617792"
+          ]
+        },
+        "author_id": "1765421318873481220",
+        "conversation_id": "2050133203286118776",
+        "created_at": "2026-05-01T08:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050133203286118776"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "NTE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OEtdImsm1G",
+              "end": 40,
+              "expanded_url": "https://x.com/lyn49556/status/2050133203286118776/video/1",
+              "media_key": "13_2050132884531617792",
+              "start": 17,
+              "url": "https://t.co/OEtdImsm1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050133203286118776",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7749,
+          "impression_count": 3701660,
+          "like_count": 52933,
+          "quote_count": 675,
+          "reply_count": 319,
+          "retweet_count": 5626
+        },
+        "reply_settings": "everyone",
+        "text": "What the….\n\n#NTE https://t.co/OEtdImsm1G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 769,
+          "like_count": 18712,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 3071
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-06T16:57:33.000Z",
+        "description": "All about Gacha, Memes, News, Anime, Etc.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lootbar.gg/shop/Lyn",
+                "end": 23,
+                "expanded_url": "https://lootbar.gg/shop/Lyn",
+                "start": 0,
+                "url": "https://t.co/IBQGxE9Jf9"
+              }
+            ]
+          }
+        },
+        "id": "1765421318873481220",
+        "location": "Tokyo",
+        "name": "lyn",
+        "pinned_tweet_id": "2049829397268660487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873260444502376450/w2bymgpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90871,
+          "following_count": 55,
+          "like_count": 446,
+          "listed_count": 187,
+          "media_count": 6292,
+          "tweet_count": 8513
+        },
+        "url": "https://t.co/IBQGxE9Jf9",
+        "username": "lyn49556",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034528423083909120",
+        "3_2034528435448782848",
+        "3_2034528448430170112",
+        "3_2034528462179074048"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2034528474099270009",
+    "created_at": "2026-03-19T07:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T08:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034528474099270009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hiM1i7OKQ4",
+          "end": 38,
+          "expanded_url": "https://x.com/nyaepheia/status/2034528474099270009/photo/1",
+          "media_key": "3_2034528423083909120",
+          "start": 15,
+          "url": "https://t.co/hiM1i7OKQ4"
+        },
+        {
+          "display_url": "pic.x.com/hiM1i7OKQ4",
+          "end": 38,
+          "expanded_url": "https://x.com/nyaepheia/status/2034528474099270009/photo/1",
+          "media_key": "3_2034528435448782848",
+          "start": 15,
+          "url": "https://t.co/hiM1i7OKQ4"
+        },
+        {
+          "display_url": "pic.x.com/hiM1i7OKQ4",
+          "end": 38,
+          "expanded_url": "https://x.com/nyaepheia/status/2034528474099270009/photo/1",
+          "media_key": "3_2034528448430170112",
+          "start": 15,
+          "url": "https://t.co/hiM1i7OKQ4"
+        },
+        {
+          "display_url": "pic.x.com/hiM1i7OKQ4",
+          "end": 38,
+          "expanded_url": "https://x.com/nyaepheia/status/2034528474099270009/photo/1",
+          "media_key": "3_2034528462179074048",
+          "start": 15,
+          "url": "https://t.co/hiM1i7OKQ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034528474099270009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "重温一下（上次玩是3年前了） https://t.co/hiM1i7OKQ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "文字：不存在的谎言",
+        "height": 1080,
+        "media_key": "3_2034528423083909120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwY0kdaIAAcIY6.jpg",
+        "width": 2400
+      },
+      {
+        "alt_text": "开始界面",
+        "height": 1080,
+        "media_key": "3_2034528435448782848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwY1ShbIAAgilm.jpg",
+        "width": 2400
+      },
+      {
+        "alt_text": "文字：恋爱绮谭",
+        "height": 1080,
+        "media_key": "3_2034528448430170112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwY2C4bYAAVnGP.jpg",
+        "width": 2400
+      },
+      {
+        "alt_text": "角色：苏半夏\n描述：画面中心是一位名为“苏半夏”的动漫风格少女。她有着一头如雪的长直银发，刘海垂至眉间，并点缀着精致的蓝色蝴蝶发饰。她闭着双眼，神情沉静且略带一丝忧郁，右手食指轻轻抵在唇边，做出一个“嘘”的噤声手势。\n​她穿着一件设计华丽的哥特式风格服饰，配色以深蓝色和白色为主，领口带有层叠的花边。背景是一片纯净的浅色调，使得人物主体非常突出。整幅画作笔触细腻，光影柔和，营造出一种优雅、神秘且静好的视觉感。",
+        "height": 1080,
+        "media_key": "3_2034528462179074048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwY22GbAAAMnWg.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034528423083909120",
+            "3_2034528435448782848",
+            "3_2034528448430170112",
+            "3_2034528462179074048"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034528474099270009",
+        "created_at": "2026-03-19T07:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034528474099270009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hiM1i7OKQ4",
+              "end": 38,
+              "expanded_url": "https://x.com/nyaepheia/status/2034528474099270009/photo/1",
+              "media_key": "3_2034528423083909120",
+              "start": 15,
+              "url": "https://t.co/hiM1i7OKQ4"
+            },
+            {
+              "display_url": "pic.x.com/hiM1i7OKQ4",
+              "end": 38,
+              "expanded_url": "https://x.com/nyaepheia/status/2034528474099270009/photo/1",
+              "media_key": "3_2034528435448782848",
+              "start": 15,
+              "url": "https://t.co/hiM1i7OKQ4"
+            },
+            {
+              "display_url": "pic.x.com/hiM1i7OKQ4",
+              "end": 38,
+              "expanded_url": "https://x.com/nyaepheia/status/2034528474099270009/photo/1",
+              "media_key": "3_2034528448430170112",
+              "start": 15,
+              "url": "https://t.co/hiM1i7OKQ4"
+            },
+            {
+              "display_url": "pic.x.com/hiM1i7OKQ4",
+              "end": 38,
+              "expanded_url": "https://x.com/nyaepheia/status/2034528474099270009/photo/1",
+              "media_key": "3_2034528462179074048",
+              "start": 15,
+              "url": "https://t.co/hiM1i7OKQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034528474099270009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重温一下（上次玩是3年前了） https://t.co/hiM1i7OKQ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBT友好 | 09 |  MtF?MtX?探索中，总之不是顺直男 | she/they | 暂未HRT | 家长党 | 天残党 | Vibe coding | 搭建网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "Epheia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 331,
+          "like_count": 4382,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 83
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

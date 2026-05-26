@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050903435957157888"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2050800541467566385",
+    "created_at": "2026-05-03T11:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T12:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050903447453774225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1701051815260004353",
+          "start": 0,
+          "username": "zhiweiwar"
+        }
+      ],
+      "urls": [
+        {
+          "description": " ",
+          "display_url": "google.com/search?q=site%…",
+          "end": 166,
+          "expanded_url": "https://www.google.com/search?q=site%3Anews.cctv.com+%22TG%E7%BE%A4%E7%BB%84%22",
+          "images": [
+            {
+              "height": 192,
+              "url": "https://pbs.twimg.com/news_img/2050902782551736320/yz9cvUzt?format=png&name=orig",
+              "width": 192
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2050902782551736320/yz9cvUzt?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 143,
+          "status": 200,
+          "title": "🔎 site:news.cctv.com \"TG群组\" - Google Search",
+          "unwound_url": "https://www.google.com/knowledgegraphshares?q=site:news.cctv.com+%22TG%E7%BE%A4%E7%BB%84%22",
+          "url": "https://t.co/40aWHiLbA9"
+        },
+        {
+          "description": "Learn about various prohibited actions of spamming and platform manipulation, and how to report them.",
+          "display_url": "help.x.com/en/rules-and-p…",
+          "end": 190,
+          "expanded_url": "https://help.x.com/en/rules-and-policies/authenticity",
+          "images": [
+            {
+              "height": 403,
+              "url": "https://pbs.twimg.com/news_img/2049255371605237760/EzAzFOtO?format=png&name=orig",
+              "width": 768
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2049255371605237760/EzAzFOtO?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 167,
+          "status": 200,
+          "title": "Authenticity | X Help",
+          "unwound_url": "https://help.x.com/en/rules-and-policies/authenticity",
+          "url": "https://t.co/m5YNRX3gG4"
+        },
+        {
+          "display_url": "pic.x.com/4wxHPZGhEh",
+          "end": 214,
+          "expanded_url": "https://x.com/nyaepheia/status/2050903447453774225/photo/1",
+          "media_key": "3_2050903435957157888",
+          "start": 191,
+          "url": "https://t.co/4wxHPZGhEh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050903447453774225",
+    "in_reply_to_user_id": "1701051815260004353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050800541467566385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhiweiwar 没绑定手机号发不了附注就写在这里了，有权限的小伙伴可以写一下附注\n\n［社群附注］这个图片是AIGC，央视从来没有发布过带有「TG 群组」这样词语的新闻，央视总是称呼为「Telegram」而不是「TG」\n根据X 的规则，这类图片应该披露为「AI生成」\nSource:https://t.co/40aWHiLbA9\nhttps://t.co/m5YNRX3gG4 https://t.co/4wxHPZGhEh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2312,
+        "media_key": "3_2050903435957157888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZFzxDawAAoOPv.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2050800530625273856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXoN40aIAAksQg.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050903435957157888"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2050800541467566385",
+        "created_at": "2026-05-03T11:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T12:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050903447453774225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1701051815260004353",
+              "start": 0,
+              "username": "zhiweiwar"
+            }
+          ],
+          "urls": [
+            {
+              "description": " ",
+              "display_url": "google.com/search?q=site%…",
+              "end": 166,
+              "expanded_url": "https://www.google.com/search?q=site%3Anews.cctv.com+%22TG%E7%BE%A4%E7%BB%84%22",
+              "images": [
+                {
+                  "height": 192,
+                  "url": "https://pbs.twimg.com/news_img/2050902782551736320/yz9cvUzt?format=png&name=orig",
+                  "width": 192
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2050902782551736320/yz9cvUzt?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 143,
+              "status": 200,
+              "title": "🔎 site:news.cctv.com \"TG群组\" - Google Search",
+              "unwound_url": "https://www.google.com/knowledgegraphshares?q=site:news.cctv.com+%22TG%E7%BE%A4%E7%BB%84%22",
+              "url": "https://t.co/40aWHiLbA9"
+            },
+            {
+              "description": "Learn about various prohibited actions of spamming and platform manipulation, and how to report them.",
+              "display_url": "help.x.com/en/rules-and-p…",
+              "end": 190,
+              "expanded_url": "https://help.x.com/en/rules-and-policies/authenticity",
+              "images": [
+                {
+                  "height": 403,
+                  "url": "https://pbs.twimg.com/news_img/2049255371605237760/EzAzFOtO?format=png&name=orig",
+                  "width": 768
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049255371605237760/EzAzFOtO?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 167,
+              "status": 200,
+              "title": "Authenticity | X Help",
+              "unwound_url": "https://help.x.com/en/rules-and-policies/authenticity",
+              "url": "https://t.co/m5YNRX3gG4"
+            },
+            {
+              "display_url": "pic.x.com/4wxHPZGhEh",
+              "end": 214,
+              "expanded_url": "https://x.com/nyaepheia/status/2050903447453774225/photo/1",
+              "media_key": "3_2050903435957157888",
+              "start": 191,
+              "url": "https://t.co/4wxHPZGhEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050903447453774225",
+        "in_reply_to_user_id": "1701051815260004353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050800541467566385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiweiwar 没绑定手机号发不了附注就写在这里了，有权限的小伙伴可以写一下附注\n\n［社群附注］这个图片是AIGC，央视从来没有发布过带有「TG 群组」这样词语的新闻，央视总是称呼为「Telegram」而不是「TG」\n根据X 的规则，这类图片应该披露为「AI生成」\nSource:https://t.co/40aWHiLbA9\nhttps://t.co/m5YNRX3gG4 https://t.co/4wxHPZGhEh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050800530625273856"
+          ]
+        },
+        "author_id": "1701051815260004353",
+        "conversation_id": "2050800541467566385",
+        "created_at": "2026-05-03T04:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T05:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050800541467566385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CNZWylaCqt",
+              "end": 37,
+              "expanded_url": "https://x.com/zhiweiwar/status/2050800541467566385/photo/1",
+              "media_key": "3_2050800530625273856",
+              "start": 14,
+              "url": "https://t.co/CNZWylaCqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050800541467566385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 956,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "TG群的朋友又上央视新闻了 https://t.co/CNZWylaCqt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 774,
+          "like_count": 18983,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 3147
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-11T01:56:34.000Z",
+        "description": "孤山月影照金河，不见人间惆怅客\nI'm 之wei. It's nice to meet you. The Supreme God Olorun Proi Proi.\n私はとても孤独ですので、どうぞよろしくお願いいたします",
+        "id": "1701051815260004353",
+        "location": "OOR WWR",
+        "name": "之wei",
+        "pinned_tweet_id": "2050140320835465479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046108560829132800/NJNPox_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 403,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 602,
+          "tweet_count": 10468
+        },
+        "username": "zhiweiwar",
+        "verified": true
+      }
+    ]
+  }
+}

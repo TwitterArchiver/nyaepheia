@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2038551587413807466",
+    "created_at": "2026-03-30T09:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T10:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038551587413807466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1529658600649539584",
+          "start": 3,
+          "username": "DrSunan2022422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038551587413807466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038529582291415155",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DrSunan2022422: 对这条推文进行信息补充：\n在被注射睾酮后这位mtf在网上了解到了跨性别相关信息并认为自己属于跨女，自行购药进行HRT。父母发现后将其送入扭转机构，出来以后由于辍学只能去奶茶店打工，自己租房恢复雌二醇使用后出现了月经（1/n)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2038551587413807466",
+        "created_at": "2026-03-30T09:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038551587413807466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1529658600649539584",
+              "start": 3,
+              "username": "DrSunan2022422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038551587413807466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038529582291415155",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DrSunan2022422: 对这条推文进行信息补充：\n在被注射睾酮后这位mtf在网上了解到了跨性别相关信息并认为自己属于跨女，自行购药进行HRT。父母发现后将其送入扭转机构，出来以后由于辍学只能去奶茶店打工，自己租房恢复雌二醇使用后出现了月经（1/n)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529658600649539584",
+        "conversation_id": "2038529582291415155",
+        "created_at": "2026-03-30T08:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038529582291415155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drsunan2022422…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/drsunan2022422/status/2021915642815799631",
+              "start": 113,
+              "url": "https://t.co/Ajh1SOUi0C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038529582291415155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4323,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021915642815799631",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对这条推文进行信息补充：\n在被注射睾酮后这位mtf在网上了解到了跨性别相关信息并认为自己属于跨女，自行购药进行HRT。父母发现后将其送入扭转机构，出来以后由于辍学只能去奶茶店打工，自己租房恢复雌二醇使用后出现了月经（1/n) https://t.co/Ajh1SOUi0C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/SocDem/不键政/文科生/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/无糖/(半个)家长党/天残党/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2037905372414091549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 491,
+          "like_count": 5541,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-26T03:00:24.000Z",
+        "description": "一般路过土豆地雷系女高 /喜欢油豆腐的赛博狐狸 | 要素过多啥都能聊 | 在搞某种tpl| 业余喜欢写小说 |睿智的P社玩家｜看到有趣的人会回关｜最闹麻的主任@CnDiode｜最爱的姐姐@g60Yts1kvzO4g8q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 79,
+                "username": "CnDiode"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "g60Yts1kvzO4g8q"
+              }
+            ]
+          }
+        },
+        "id": "1529658600649539584",
+        "location": "SCP基金会中国分部34号站点",
+        "name": "SCP-Dr.Sunan🐾",
+        "pinned_tweet_id": "1977929373727834336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530385867826556928/p_rx1WWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3506,
+          "following_count": 802,
+          "like_count": 40509,
+          "listed_count": 10,
+          "media_count": 407,
+          "tweet_count": 5832
+        },
+        "username": "DrSunan2022422",
+        "verified": false
+      }
+    ]
+  }
+}

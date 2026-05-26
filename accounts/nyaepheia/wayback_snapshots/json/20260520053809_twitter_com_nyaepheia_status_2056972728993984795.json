@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2056972728993984795",
+    "created_at": "2026-05-20T05:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T06:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056972728993984795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1728656771735273472",
+          "start": 3,
+          "username": "amiercreer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056972728993984795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056941616321957901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amiercreer: 本来要发在公众号的但是直接被删除了所以在这里发一下（\n\n回应的政治学：当威权体制\"听见\"性少数…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2056972728993984795",
+        "created_at": "2026-05-20T05:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056972728993984795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1728656771735273472",
+              "start": 3,
+              "username": "amiercreer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056972728993984795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056941616321957901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amiercreer: 本来要发在公众号的但是直接被删除了所以在这里发一下（\n\n回应的政治学：当威权体制\"听见\"性少数…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728656771735273472",
+        "conversation_id": "2056941616321957901",
+        "created_at": "2026-05-20T03:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056941616321957901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/queerlawwatchc…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/queerlawwatchcn/status/2056409627969876339",
+              "start": 48,
+              "url": "https://t.co/YSMvJCJpAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056941616321957901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "本来要发在公众号的但是直接被删除了所以在这里发一下（\n\n回应的政治学：当威权体制\"听见\"性少数\n\n2026年5月，最高人民法院研究室就一份关于性少数反歧视司法保护的信访建议作出书面回复，援引既往判例，表态\"持续关注\"。回复在社交媒体上被部分解读为\"打破二元秩序的曙光\"。关于这份回复的法律性质——信访回复不是司法解释，不可诉、不可执行、不产生任何规范效力——已有论者作出准确分析。¹ 本文无意重复这些判断，而是想追问一个更上游的问题：国家为什么选择以这种方式回应？这种回应在政治运作逻辑中意味着什么？\n\n要回答这个问题，需要把目光从法条文本移向一个近年来在中国政治研究领域积累了大量实证的概念：威权回应性（authoritarian responsiveness）。\n\n一、威权回应性：一个必要的分析框架\n过去十五年间，政治学界围绕一个看似矛盾的现象产生了大量研究：一个没有竞争性选举的政权，为什么要费力回应公民诉求？\n\n早期的解释强调自上而下的信息汲取功能。Distelhorst与侯岳对全国两千余个县级\"市长信箱\"的实地审计实验表明，中国地方政府对公民来信的回复率与民主国家的同类机构大致相当，但这种回应性的驱动力并非选举压力，而是来自上级问责体系对基层治理信息的需求。² Chen、Pan和Xu的田野实验进一步发现，当公民来信中包含集体行动威胁或向上级告状的暗示时，县级政府的回应概率显著上升；相反，表明自己是忠诚党员身份则对回应率没有影响。³ 换言之，驱动回应的不是对公民权利的承认，而是对不稳定的预判。\n\n但这些研究同时揭示了一个关键限制：回应的内容与诉求的实质之间存在系统性脱节。Hu、Gong和Zhao基于2022至2024年田野调查提出的\"机械式回应\"（mechanical responsiveness）概念精确捕捉了这一机制——在数字化问责压力下，基层官员以高回复率完成程序性指标，但回复内容与投诉实质之间几乎没有对应关系。⁴ 他们的数据显示，即便年度案件办结率高达91%，真正得到完全解决的投诉仅占32.4%。Wang和Han从另一个角度将同一现象命名为\"装饰性回应\"（cosmetic responsiveness），指出政府回应常常并非出于对集体行动或合法性侵蚀的真实忧虑，而是出于向上级展示\"在回应\"这一形象本身的官僚需要。⁵\n\n这两个概念——机械式回应与装饰性回应——为理解最高法研究室的那封回信提供了直接的分析工具。回信做了什么？收悉来信，表达重视，逐项回应既有裁判，承诺\"后续关注\"。它精确地完成了信访制度所要求的程序动作，没有多一步，也没有少一步。它是一次教科书级别的程序闭合。\n\n二、选择性回应：为什么性少数议题不会得到实质让步\n\n威权回应性研究的一个核心发现是：回应并非均质分布，国家对不同类型的诉求展现出高度选择性。\n\nHeurlin在其专著 Responsive Authoritarianism in China 中详细分析了征地抗议中的国家回应机制，发现当诉求涉及的是具有广泛共鸣的物质利益（征地补偿、劳动欠薪），且可以通过一次性经济补偿化解时，地方乃至中央政府有较强动力作出实质让步。⁶ 综合Heurlin的发现与更广泛的威权回应性文献，可以识别出一个对称模式：当诉求涉及身份承认、制度变革或意识形态调整时，国家的让步空间急剧收窄。⁶ᵃ\n\n性少数权益保护恰恰属于后一类。它不是一个可以通过补偿一笔钱、调整一个政策参数来\"消化\"的诉求。它要求的是身份的制度性承认——在法律文本中写入\"性取向\"和\"性别认同\"作为受保护的类别，这触及的是国家对社会秩序的定义权本身。在中国的政治语境中，这类诉求与三个结构性阻力交叉：\n\n其一，\"和谐社会\"话语对身份政治的排斥。身份歧视框架被官方归类为\"西方式的\"，与\"全民主义和调和主义的社会基调\"不兼容。⁷ 这不仅是一个修辞姿态，而是内嵌于治理逻辑的制度偏好——中国的法律体系倾向于将歧视问题转化为可以在个案层面解决的民事侵权，而系统性地回避对结构性歧视的命名。\n\n其二，性少数议题的\"维稳收益\"极低。Chen、Pan和Xu的研究已经证明，威权回应性的核心驱动力是集体行动威胁。⁸ 但性少数群体在中国的组织化程度极低，缺乏动员大规模抗议的能力，也不构成地方官员政绩考核中的不稳定因子。对于一个以维稳为核心绩效指标的体制而言，回应这一群体的\"收益\"——避免大规模群体性事件——几乎为零。\n\n其三，意识形态收紧背景下的风险规避。2016年以来，中国对公民社会组织的管控持续加强，性少数议题在公共话语中的可见度显著降低。在这一氛围下，任何超出程序性回应的实质表态——例如承认反歧视立法的必要性——对于具体经办部门而言，都是一种政治风险。选择最安全的回应方式（援引既有裁判，承诺\"持续关注\"，不创设新义务）是完全理性的官僚行为。\n\n三个因素叠加，指向同一个结论：性少数议题恰好处于威权回应性光谱中最不可能获得实质让步的位置。国家会听见和回应，但回应的内容将被严格控制在程序闭合的范围内。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 3429,
+          "like_count": 53,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056409627969876339",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来要发在公众号的但是直接被删除了所以在这里发一下（\n\n回应的政治学：当威权体制\"听见\"性少数 https://t.co/YSMvJCJpAc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 828,
+          "like_count": 22330,
+          "listed_count": 3,
+          "media_count": 343,
+          "tweet_count": 4079
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-26T06:07:58.000Z",
+        "description": "你既怕又何必想，你既想又何必怕@yannan74713我的幕后",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "yannan74713"
+              }
+            ]
+          }
+        },
+        "id": "1728656771735273472",
+        "name": "Hermaphroditus🎀",
+        "pinned_tweet_id": "1765721690301219061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893501220620509186/59T8Mbft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3789,
+          "following_count": 404,
+          "like_count": 14074,
+          "listed_count": 8,
+          "media_count": 812,
+          "tweet_count": 6326
+        },
+        "username": "amiercreer",
+        "verified": true
+      }
+    ]
+  }
+}

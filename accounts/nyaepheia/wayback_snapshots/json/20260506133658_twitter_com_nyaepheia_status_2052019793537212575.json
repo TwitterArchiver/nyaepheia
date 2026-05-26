@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2052019793537212575",
+    "created_at": "2026-05-06T13:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T14:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052019793537212575"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KfirC10SRC/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/KfirC10SRC/status/2051967268268208194",
+          "start": 4,
+          "url": "https://t.co/KLPaKUid2p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052019793537212575",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051967268268208194",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "救救她 https://t.co/KLPaKUid2p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_2051967264451440640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoNWvBbsAAiZlA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2052019793537212575",
+        "created_at": "2026-05-06T13:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052019793537212575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KfirC10SRC/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/KfirC10SRC/status/2051967268268208194",
+              "start": 4,
+              "url": "https://t.co/KLPaKUid2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052019793537212575",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051967268268208194",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "救救她 https://t.co/KLPaKUid2p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051967264451440640"
+          ]
+        },
+        "author_id": "1689095384956633088",
+        "conversation_id": "2051967268268208194",
+        "created_at": "2026-05-06T10:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051967268268208194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/00etIhuedM",
+              "end": 34,
+              "expanded_url": "https://x.com/KfirC10SRC/status/2051967268268208194/photo/1",
+              "media_key": "3_2051967264451440640",
+              "start": 11,
+              "url": "https://t.co/00etIhuedM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051967268268208194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 531,
+          "like_count": 8,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "准备喽，老登回来就吃 https://t.co/00etIhuedM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 796,
+          "like_count": 19827,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 3391
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-09T02:05:07.000Z",
+        "description": "2010年的，MTX/F？pr80重度依赖,家长不管党，双相/ADHD,   战雷空战大手子，不见证喵   🍥时间：2026.3.15  对象：@keplerD080311 备用号：@kfirc10block60",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "keplerD080311"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "kfirc10block60"
+              }
+            ]
+          }
+        },
+        "id": "1689095384956633088",
+        "location": "Hong Kong",
+        "name": "KfirC10🍥",
+        "pinned_tweet_id": "2047927303884440031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051451988681113600/4KpuBqzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 224,
+          "like_count": 350,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 436
+        },
+        "username": "KfirC10SRC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2039663439715680394",
+    "created_at": "2026-04-02T11:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039663439715680394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "708961567",
+          "start": 3,
+          "username": "rio_kbys2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039663439715680394",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039644565339299903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rio_kbys2: 33歳、男です。\n\nゲイでもない。\n性同一性障害でもない。\n恋愛対象は女性。\n\nそれでも、豊胸しました。\n\n性別は変えない。\nでも見た目は変える。\n\n「男はこうあるべき」って、誰が決めた？\n\nbefore → after https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2039644555352682496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5F6qXbMAAdKP4.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2039644555344281600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5F6qVbAAA0dhi.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2039663439715680394",
+        "created_at": "2026-04-02T11:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039663439715680394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "708961567",
+              "start": 3,
+              "username": "rio_kbys2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039663439715680394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039644565339299903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rio_kbys2: 33歳、男です。\n\nゲイでもない。\n性同一性障害でもない。\n恋愛対象は女性。\n\nそれでも、豊胸しました。\n\n性別は変えない。\nでも見た目は変える。\n\n「男はこうあるべき」って、誰が決めた？\n\nbefore → after https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039644555352682496",
+            "3_2039644555344281600"
+          ]
+        },
+        "author_id": "708961567",
+        "conversation_id": "2039644565339299903",
+        "created_at": "2026-04-02T10:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039644565339299903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EJfIlEePOH",
+              "end": 134,
+              "expanded_url": "https://x.com/rio_kbys2/status/2039644565339299903/photo/1",
+              "media_key": "3_2039644555352682496",
+              "start": 111,
+              "url": "https://t.co/EJfIlEePOH"
+            },
+            {
+              "display_url": "pic.x.com/EJfIlEePOH",
+              "end": 134,
+              "expanded_url": "https://x.com/rio_kbys2/status/2039644565339299903/photo/1",
+              "media_key": "3_2039644555344281600",
+              "start": 111,
+              "url": "https://t.co/EJfIlEePOH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039644565339299903",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 200587,
+          "like_count": 1386,
+          "quote_count": 56,
+          "reply_count": 77,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "33歳、男です。\n\nゲイでもない。\n性同一性障害でもない。\n恋愛対象は女性。\n\nそれでも、豊胸しました。\n\n性別は変えない。\nでも見た目は変える。\n\n「男はこうあるべき」って、誰が決めた？\n\nbefore → after https://t.co/EJfIlEePOH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/hrt26.4.1/家长党/天残党/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2037905372414091549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 548,
+          "like_count": 6362,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-21T13:13:50.000Z",
+        "description": "#男女分裂 して歌ってます。どんな生き方も正解にできる。やり残しのない人生を🐯🥀［Instagram］https://t.co/YsNtez1l2c［TikTok］https://t.co/RC5nUbrp8W［Mail］rio-de-janeiro@hotmail.co.jp",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "男女分裂"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/1FXZr",
+                "end": 74,
+                "expanded_url": "https://x.gd/1FXZr",
+                "start": 51,
+                "url": "https://t.co/YsNtez1l2c"
+              },
+              {
+                "display_url": "tiktok.com/@rio_kbys2?_t=…",
+                "end": 105,
+                "expanded_url": "https://www.tiktok.com/@rio_kbys2?_t=8o",
+                "start": 82,
+                "url": "https://t.co/RC5nUbrp8W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/RiosMusicCha…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/RiosMusicChannel",
+                "start": 0,
+                "url": "https://t.co/IX8DKU5Sy6"
+              }
+            ]
+          }
+        },
+        "id": "708961567",
+        "name": "Rio@男女分裂",
+        "pinned_tweet_id": "1560567257960423425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583760163378724864/E_pyzNLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67174,
+          "following_count": 474,
+          "like_count": 106395,
+          "listed_count": 617,
+          "media_count": 5317,
+          "tweet_count": 244260
+        },
+        "url": "https://t.co/IX8DKU5Sy6",
+        "username": "rio_kbys2",
+        "verified": true
+      }
+    ]
+  }
+}

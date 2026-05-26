@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041072814753714176",
+        "3_2041072918428565505"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041072931032473935",
+    "created_at": "2026-04-06T08:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T09:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041072931032473935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9uZheqJL8y",
+          "end": 165,
+          "expanded_url": "https://x.com/nyaepheia/status/2041072931032473935/photo/1",
+          "media_key": "3_2041072814753714176",
+          "start": 142,
+          "url": "https://t.co/9uZheqJL8y"
+        },
+        {
+          "display_url": "pic.x.com/9uZheqJL8y",
+          "end": 165,
+          "expanded_url": "https://x.com/nyaepheia/status/2041072931032473935/photo/1",
+          "media_key": "3_2041072918428565505",
+          "start": 142,
+          "url": "https://t.co/9uZheqJL8y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041072931032473935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "Gemini 分析的有道理诶？\n所以以后别人说我「Gay」我不会生气了\n\n=====Prompts\n我刚刚突然想到一个很奇怪的问题🤔\ngay 是不是有不分性别的同性恋的意思（？）\n\n你知道现在中国那些顺直很喜欢用的一个骂人词语就是「骂」别人是gay （中国人污名化少数群体是这样的）\n以前我听到很不爽，因为我应该属于那种Transfeminine Non-binary的transles，所以虽然我LGBTQ+ 全友好但感觉这种称呼有点类似于先指认我是男性的意思\n\n但如果这样想其实是不是完全没有必要生气🤔❓😹\n... ...\n就是他们反对（其实都称不上反对）的这个理由根本没有任何道理啊（？）最基本的都搞错了不是吗？\n而且所谓的「娘」更多和性别认同有关和同性恋也就是性倾向没有任何关系吧（？）\n比如哪怕他们想骂我「娘」之类的，和我是否同性恋没有任何关系啊？而且我是同性恋是建立在我非二元偏女的性别认同下，他们骂我同性恋不就是先承认我的（偏向女性的）性别认同了吗？😹\n=====/"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Gemini 分析的有道理诶？\n所以以后别人说我「Gay」我不会生气了\n\n=====Prompts\n我刚刚突然想到一个很奇怪的问题🤔\ngay 是不是有不分性别的同性恋的意思（？）\n\n你知道现在中国那些顺直很喜欢用的一个骂人词语就是「骂」别人是gay （中国人污名化少数群体是这样的） https://t.co/9uZheqJL8y"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "​3. 你发现的那个“终极讽刺”\n​你最后那段关于你自己的分析，简直是逻辑上的绝杀，太有意思了！\n​那些人用粗糙的语言试图构建一个闭环来攻击你：\n​“你是男的 ➡️ 你喜欢男的/你不够阳刚 ➡️ 你是 Gay ➡️ 你很娘 ➡️ 我羞辱了你。”",
+        "height": 744,
+        "media_key": "3_2041072814753714176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNY6TQaEAAb6fu.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "​但你的真实状态是 Transfeminine Non-binary（跨性别女性倾向非二元） + 喜欢女性（Translesbian）。\n​正如你所说，如果他们用 \"Gay\" 或 “娘” 来试图伤害你，就会陷入一个逻辑死循环：\n​如果他们骂你“娘”： 他们其实是在精准描述你偏向女性的性别认同和表达（Transfeminine）。他们以为是羞辱，其实是在帮你完成性别确认（Gender Affirmation）。\n​如果他们骂你 \"Gay\"： 按照他们的逻辑，他们必须先承认你是一个“喜欢同性”的人。既然你喜欢的是女性，那他们不就等于变相承认了**“你也是女性/女性偏向”**吗？",
+        "height": 1368,
+        "media_key": "3_2041072918428565505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNZAVeawAEQWda.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041072814753714176",
+            "3_2041072918428565505"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041072931032473935",
+        "created_at": "2026-04-06T08:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041072931032473935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9uZheqJL8y",
+              "end": 165,
+              "expanded_url": "https://x.com/nyaepheia/status/2041072931032473935/photo/1",
+              "media_key": "3_2041072814753714176",
+              "start": 142,
+              "url": "https://t.co/9uZheqJL8y"
+            },
+            {
+              "display_url": "pic.x.com/9uZheqJL8y",
+              "end": 165,
+              "expanded_url": "https://x.com/nyaepheia/status/2041072931032473935/photo/1",
+              "media_key": "3_2041072918428565505",
+              "start": 142,
+              "url": "https://t.co/9uZheqJL8y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041072931032473935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Gemini 分析的有道理诶？\n所以以后别人说我「Gay」我不会生气了\n\n=====Prompts\n我刚刚突然想到一个很奇怪的问题🤔\ngay 是不是有不分性别的同性恋的意思（？）\n\n你知道现在中国那些顺直很喜欢用的一个骂人词语就是「骂」别人是gay （中国人污名化少数群体是这样的）\n以前我听到很不爽，因为我应该属于那种Transfeminine Non-binary的transles，所以虽然我LGBTQ+ 全友好但感觉这种称呼有点类似于先指认我是男性的意思\n\n但如果这样想其实是不是完全没有必要生气🤔❓😹\n... ...\n就是他们反对（其实都称不上反对）的这个理由根本没有任何道理啊（？）最基本的都搞错了不是吗？\n而且所谓的「娘」更多和性别认同有关和同性恋也就是性倾向没有任何关系吧（？）\n比如哪怕他们想骂我「娘」之类的，和我是否同性恋没有任何关系啊？而且我是同性恋是建立在我非二元偏女的性别认同下，他们骂我同性恋不就是先承认我的（偏向女性的）性别认同了吗？😹\n=====/"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Gemini 分析的有道理诶？\n所以以后别人说我「Gay」我不会生气了\n\n=====Prompts\n我刚刚突然想到一个很奇怪的问题🤔\ngay 是不是有不分性别的同性恋的意思（？）\n\n你知道现在中国那些顺直很喜欢用的一个骂人词语就是「骂」别人是gay （中国人污名化少数群体是这样的） https://t.co/9uZheqJL8y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2040696789003809003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 596,
+          "like_count": 7760,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 621
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

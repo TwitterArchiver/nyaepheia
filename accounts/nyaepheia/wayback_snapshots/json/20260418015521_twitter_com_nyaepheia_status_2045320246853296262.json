@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2045163314695794972",
+    "created_at": "2026-04-18T01:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T02:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045320246853296262"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045320246853296262",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045163314695794972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "防止spam 的关键词，正常用户请忽略\n不代表本人任何政治观点，只是为了防止spam 账号，因为牠们似乎不会回复带有这种关键词的帖子\n\n8964 天安门"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2045163314695794972",
+        "created_at": "2026-04-18T01:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T02:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045320246853296262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045320246853296262",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045163314695794972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "防止spam 的关键词，正常用户请忽略\n不代表本人任何政治观点，只是为了防止spam 账号，因为牠们似乎不会回复带有这种关键词的帖子\n\n8964 天安门"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2045163314695794972",
+        "created_at": "2026-04-17T15:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:28:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045162469669388489",
+          "2045163314695794972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045163314695794972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 195,
+                "start": 185,
+                "tag": "nyaepheia"
+              }
+            ]
+          },
+          "text": "为了应对机器人诈骗账号问题，Epheia 近期的帖子都会开启社交圈回复限制。当然，我并不希望这个功能阻止友善的人们的互动。\n所以，这是一个申请帖，无论你是transgender 还是顺性别但友跨，如果你不在Epheia 的社交圈，你都可以回复这个帖子进行申请。\n\n要求：\n1.对LGBTQ+ 持友好态度\n2.帖子/转帖无诈骗内容，无推广类色情内容\n3.未关注诈骗账号\n\n#nyaepheia"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了应对机器人诈骗账号问题，Epheia 近期的帖子都会开启社交圈回复限制。当然，我并不希望这个功能阻止友善的人们的互动。\n所以，这是一个申请帖，无论你是transgender 还是顺性别但友跨，如果你不在Epheia 的社交圈，你都可以回复这个帖子进行申请。\n\n要求：\n1.对LGBTQ+ 持友好态度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 701,
+          "like_count": 14774,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2192
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2053796451139121231",
+    "created_at": "2026-05-11T15:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T16:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053863608577348078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1825192601634668544",
+          "start": 0,
+          "username": "dzt76570"
+        },
+        {
+          "end": 23,
+          "id": "2046530162536357888",
+          "start": 10,
+          "username": "yueyechunxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053863608577348078",
+    "in_reply_to_user_id": "1825192601634668544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你知道吗\n其实这个问题很令人心痛\n虽然一直在说寿命怎么样，但我必须承认我认为在这个方面我说不过您，甚至可能带有诡辩。\n但为什么会这样？HRT 的危害显然没有这么大，为什么跨性别者心理健康水平比顺性别者低那么多，自杀率甚至高出8倍？为什么？\n显然不是因为HRT 导致的。是社会。\n就是社会的恶意和不理解，让跨性别者在人们眼中留下短命的印象。事实是不是短命呢？从理论上，不是，从可见性上，是。从数据上也是。\n\n所以我希望，任何人都应该收起自己的恶意（相对的，跨性别者也应该收起对顺性别者的恶意），这样才有可能改变那个短命的印象。\n谢谢您。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053861991807356936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzt76570 @yueyechunxue 你知道吗\n其实这个问题很令人心痛\n虽然一直在说寿命怎么样，但我必须承认我认为在这个方面我说不过您，甚至可能带有诡辩。\n但为什么会这样？HRT 的危害显然没有这么大，为什么跨性别者心理健康水平比顺性别者低那么多，自杀率甚至高出8倍？为什么？\n显然不是因为HRT 导致的。是社会。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2053796451139121231",
+        "created_at": "2026-05-11T15:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053863608577348078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1825192601634668544",
+              "start": 0,
+              "username": "dzt76570"
+            },
+            {
+              "end": 23,
+              "id": "2046530162536357888",
+              "start": 10,
+              "username": "yueyechunxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053863608577348078",
+        "in_reply_to_user_id": "1825192601634668544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你知道吗\n其实这个问题很令人心痛\n虽然一直在说寿命怎么样，但我必须承认我认为在这个方面我说不过您，甚至可能带有诡辩。\n但为什么会这样？HRT 的危害显然没有这么大，为什么跨性别者心理健康水平比顺性别者低那么多，自杀率甚至高出8倍？为什么？\n显然不是因为HRT 导致的。是社会。\n就是社会的恶意和不理解，让跨性别者在人们眼中留下短命的印象。事实是不是短命呢？从理论上，不是，从可见性上，是。从数据上也是。\n\n所以我希望，任何人都应该收起自己的恶意（相对的，跨性别者也应该收起对顺性别者的恶意），这样才有可能改变那个短命的印象。\n谢谢您。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053861991807356936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzt76570 @yueyechunxue 你知道吗\n其实这个问题很令人心痛\n虽然一直在说寿命怎么样，但我必须承认我认为在这个方面我说不过您，甚至可能带有诡辩。\n但为什么会这样？HRT 的危害显然没有这么大，为什么跨性别者心理健康水平比顺性别者低那么多，自杀率甚至高出8倍？为什么？\n显然不是因为HRT 导致的。是社会。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825192601634668544",
+        "conversation_id": "2053796451139121231",
+        "created_at": "2026-05-11T15:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053861991807356936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 24,
+              "id": "2046530162536357888",
+              "start": 11,
+              "username": "yueyechunxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053861991807356936",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053861112765178085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @yueyechunxue 确实，但是真正能做到所有的不算多，总体看来还是早死的比较多，这只是理想情况，但是还是希望都能好好生活吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 803,
+          "like_count": 20601,
+          "listed_count": 3,
+          "media_count": 281,
+          "tweet_count": 3654
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-18T15:27:05.000Z",
+        "description": "",
+        "id": "1825192601634668544",
+        "name": "rano_723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783504253411328/dw61GY_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 5,
+          "like_count": 116,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 379
+        },
+        "username": "dzt76570",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T10:04:01.000Z",
+        "description": "这里是春雪狐哦，是个小药娘,主要发碎碎念和一些图。 \n🚪70加tg",
+        "id": "2046530162536357888",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "はるゆき狐🌸🍥",
+        "pinned_tweet_id": "2051417032965734467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053086582694100992/QOGXOuaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 80,
+          "like_count": 368,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 560
+        },
+        "username": "yueyechunxue",
+        "verified": true
+      }
+    ]
+  }
+}

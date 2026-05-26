@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2047999247681994994",
+    "created_at": "2026-04-25T11:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047999247681994994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1649365408779214848",
+          "start": 3,
+          "username": "bolckAshley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047999247681994994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047898696394969421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bolckAshley: 最近在看「上伊那牡丹，醉姿如百合」，看番之餘還能了解不少酒類的知識，我覺得這很有意思，然而我是真沒想到這種番也能起爭議，什麼「抽煙喝酒是不是好女孩」都來了😅\n看到抽煙喝酒的女性馬上就要聯想到她們賣淫吸毒，然後聯想到誣告男性爆金幣：只能說中國男人…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 377,
+        "media_key": "3_2047898687108775936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuZAXUbgAA-eWI.jpg",
+        "width": 265
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2047898687028994048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuZAXBaIAAS2Qu.png",
+        "width": 1536
+      },
+      {
+        "height": 1539,
+        "media_key": "3_2047898687280644096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuZAX9aAAA1Elb.png",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2047999247681994994",
+        "created_at": "2026-04-25T11:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047999247681994994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1649365408779214848",
+              "start": 3,
+              "username": "bolckAshley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047999247681994994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047898696394969421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bolckAshley: 最近在看「上伊那牡丹，醉姿如百合」，看番之餘還能了解不少酒類的知識，我覺得這很有意思，然而我是真沒想到這種番也能起爭議，什麼「抽煙喝酒是不是好女孩」都來了😅\n看到抽煙喝酒的女性馬上就要聯想到她們賣淫吸毒，然後聯想到誣告男性爆金幣：只能說中國男人…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047898687108775936",
+            "3_2047898687028994048",
+            "3_2047898687280644096"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "2047898696394969421",
+        "created_at": "2026-04-25T04:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047898696394969421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yNVMqCHgWa",
+              "end": 163,
+              "expanded_url": "https://x.com/bolckAshley/status/2047898696394969421/photo/1",
+              "media_key": "3_2047898687108775936",
+              "start": 140,
+              "url": "https://t.co/yNVMqCHgWa"
+            },
+            {
+              "display_url": "pic.x.com/yNVMqCHgWa",
+              "end": 163,
+              "expanded_url": "https://x.com/bolckAshley/status/2047898696394969421/photo/1",
+              "media_key": "3_2047898687028994048",
+              "start": 140,
+              "url": "https://t.co/yNVMqCHgWa"
+            },
+            {
+              "display_url": "pic.x.com/yNVMqCHgWa",
+              "end": 163,
+              "expanded_url": "https://x.com/bolckAshley/status/2047898696394969421/photo/1",
+              "media_key": "3_2047898687280644096",
+              "start": 140,
+              "url": "https://t.co/yNVMqCHgWa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047898696394969421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2275,
+          "like_count": 55,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "最近在看「上伊那牡丹，醉姿如百合」，看番之餘還能了解不少酒類的知識，我覺得這很有意思，然而我是真沒想到這種番也能起爭議，什麼「抽煙喝酒是不是好女孩」都來了😅\n看到抽煙喝酒的女性馬上就要聯想到她們賣淫吸毒，然後聯想到誣告男性爆金幣：只能說中國男人只有在這種時候想像力才如此的豐富😁 https://t.co/yNVMqCHgWa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "🏳️‍⚧️",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 756,
+          "like_count": 17290,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 2852
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3185,
+          "following_count": 1981,
+          "like_count": 40878,
+          "listed_count": 19,
+          "media_count": 1487,
+          "tweet_count": 21451
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2051309282424246303",
+    "created_at": "2026-05-05T04:06:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T05:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051513945626976729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "这不是区块链项目，不是 Web3 工具，不是 NFT mint，不是企业级随机数服务。 这是一个给 X/Twitter 博主用的社交平台抽奖工具，仅此而已。 - epheiamoe/drand-draw",
+          "display_url": "github.com/epheiamoe/dran…",
+          "end": 38,
+          "expanded_url": "https://github.com/epheiamoe/drand-draw/blob/main/ALGORITHM.md",
+          "start": 15,
+          "status": 200,
+          "title": "drand-draw/ALGORITHM.md at main · epheiamoe/drand-draw",
+          "unwound_url": "https://github.com/epheiamoe/drand-draw/blob/main/ALGORITHM.md",
+          "url": "https://t.co/g4jqjZHKbe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051513945626976729",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051309282424246303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这里是简化的流程\n完整的流程在https://t.co/g4jqjZHKbe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2051309282424246303",
+        "created_at": "2026-05-05T04:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051513945626976729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "这不是区块链项目，不是 Web3 工具，不是 NFT mint，不是企业级随机数服务。 这是一个给 X/Twitter 博主用的社交平台抽奖工具，仅此而已。 - epheiamoe/drand-draw",
+              "display_url": "github.com/epheiamoe/dran…",
+              "end": 38,
+              "expanded_url": "https://github.com/epheiamoe/drand-draw/blob/main/ALGORITHM.md",
+              "start": 15,
+              "status": 200,
+              "title": "drand-draw/ALGORITHM.md at main · epheiamoe/drand-draw",
+              "unwound_url": "https://github.com/epheiamoe/drand-draw/blob/main/ALGORITHM.md",
+              "url": "https://t.co/g4jqjZHKbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051513945626976729",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051309282424246303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这里是简化的流程\n完整的流程在https://t.co/g4jqjZHKbe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2051309282424246303",
+        "created_at": "2026-05-04T14:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051309282424246303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2051295611027435692",
+              "start": 163,
+              "url": "https://t.co/oLQZSDbBkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051309282424246303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "算法流程\n\n【用户列表与编号规则】\n抽奖截止时间一到，立刻获取所有点赞用户的用户名（X ID）。\n将用户名按字母顺序升序排列（A→Z，0→9，_ 符号等按 ASCII 码顺序）。\n排列后，从 0 开始依次编号。\n假设有 N 个有效用户，则编号为 0, 1, 2, ..., N-1。\n此时 N 已确定，名单已公开，不可更改。\n公开这份带编号的完整名单（截图或文本均可）。\n\n【随机种子获取规则】\n5. 使用 drand 在截止时间之后产生的第 1 个随机值作为种子。\n（找到时间戳在截止时间之后、Round 编号最小的那一条记录，其 Randomness 字段的值即为种子，是一个十六进制字符串，如 a3f25c8d1e...）\n\n【中奖计算算法】\n6. 将种子（十六进制字符串）转换为十进制大整数。\n中奖编号 = （该十进制大整数）除以 N 取余数。\n也就是：中奖编号 = 十进制种子 % N\n中奖者即为该编号对应的用户。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 837,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051295611027435692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算法流程\n\n【用户列表与编号规则】\n抽奖截止时间一到，立刻获取所有点赞用户的用户名（X ID）。\n将用户名按字母顺序升序排列（A→Z，0→9，_ 符号等按 ASCII 码顺序）。\n排列后，从 0 开始依次编号。\n假设有 N 个有效用户，则编号为 0, 1, 2, ..., N-1。\n此时 N 已确定，名单已公开，不可更改。 https://t.co/oLQZSDbBkI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 778,
+          "like_count": 19353,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 3282
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

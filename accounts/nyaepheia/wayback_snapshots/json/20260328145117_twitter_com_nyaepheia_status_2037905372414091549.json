@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037905362620497920"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2037905372414091549",
+    "created_at": "2026-03-28T14:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T15:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037905372414091549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "awa.desuwa.org/about/me/x",
+          "end": 47,
+          "expanded_url": "https://awa.desuwa.org/about/me/x",
+          "start": 24,
+          "unwound_url": "https://awa.desuwa.org/about/me/x",
+          "url": "https://t.co/PjIPWALsex"
+        },
+        {
+          "display_url": "pic.x.com/pbzeHItIgA",
+          "end": 83,
+          "expanded_url": "https://x.com/nyaepheia/status/2037905372414091549/photo/1",
+          "media_key": "3_2037905362620497920",
+          "start": 60,
+          "url": "https://t.co/pbzeHItIgA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037905372414091549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这里是一条置顶\n详细的介绍请看bio或[介绍](https://t.co/PjIPWALsex)\n这条帖子会不定期更换 https://t.co/pbzeHItIgA"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "这里是一条置顶\n详细的介绍请看bio或[介绍](https://awa.desuwa.org/about/me/x)\n这条帖子会不定期更换\n---\n关于ban 的使用：\n如果在timeline 上看到一些爹味很重的发言或者非常不喜欢的观点，可能会直接ban\n如果点赞/转了我的帖子或者fo了我，但成分不明确或实在没有交集（根据关注者和帖子），可能也会被ban\n\n就这样，谢谢，祝您开心！\n2026.3.28 第一版",
+        "height": 1198,
+        "media_key": "3_2037905362620497920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEgYIUjbwAAGDB4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037905362620497920"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2037905372414091549",
+        "created_at": "2026-03-28T14:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037905372414091549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "awa.desuwa.org/about/me/x",
+              "end": 47,
+              "expanded_url": "https://awa.desuwa.org/about/me/x",
+              "start": 24,
+              "unwound_url": "https://awa.desuwa.org/about/me/x",
+              "url": "https://t.co/PjIPWALsex"
+            },
+            {
+              "display_url": "pic.x.com/pbzeHItIgA",
+              "end": 83,
+              "expanded_url": "https://x.com/nyaepheia/status/2037905372414091549/photo/1",
+              "media_key": "3_2037905362620497920",
+              "start": 60,
+              "url": "https://t.co/pbzeHItIgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037905372414091549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里是一条置顶\n详细的介绍请看bio或[介绍](https://t.co/PjIPWALsex)\n这条帖子会不定期更换 https://t.co/pbzeHItIgA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+全友好 | 政治倾向：社民 | 不键政 | 文科生 | MtF/MtX? | she/they | 无糖 | (半个)家长党 | 天残党 | Vibe coding | 搭网站 | 成分不明的可能会直接ban\nhttps://t.co/pke4ezHBE3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "desuwa.org/about/me/x",
+                "end": 152,
+                "expanded_url": "http://desuwa.org/about/me/x",
+                "start": 129,
+                "url": "https://t.co/pke4ezHBE3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 476,
+          "like_count": 5292,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 180
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

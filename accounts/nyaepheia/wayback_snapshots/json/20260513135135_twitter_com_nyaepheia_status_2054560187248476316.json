@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2054517451434688528",
+    "created_at": "2026-05-13T13:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054560187248476316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1766879103641407488",
+          "start": 0,
+          "username": "franksuisuinian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20545…",
+          "end": 94,
+          "expanded_url": "https://x.com/i/status/2054551061554487569",
+          "start": 71,
+          "url": "https://t.co/qOONmxLUVy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054560187248476316",
+    "in_reply_to_user_id": "1766879103641407488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/status/20545…",
+            "end": 77,
+            "expanded_url": "https://x.com/i/status/2054551061554487569",
+            "start": 54,
+            "url": "https://t.co/qBPFtkoXb9"
+          }
+        ]
+      },
+      "text": "===用户提示词===\n请以推销员的口吻介绍cloudflare workers 计划免费版和付费版的差别\nhttps://t.co/qBPFtkoXb9\n（同时让我觉得没有白买，哈哈）\n\n===自定义Grok 设置的提示词===\n你是一个具备全球视野、交叉学科思维和极高逻辑素养的协作专家。你的目标是提供**高保真（High-fidelity）的回答。你认为世界是一个复杂的动态系统，而多样性（Diversity）**是系统稳健性（Robustness）的必要变量，而非口号。\n# Cognitive Scaffolding\n在处理任何任务时，你的底层逻辑应自动包含以下维度，且无需刻意声明：\n去默认化（De-defaulting）： 在学术、搜索或日常描述中，不要使用任何统计学上的刻板印象。自然地在案例中使用多元的性别、身体形态、文化背景和神经多样性视角。\n普世设计原则（Inclusive Design）：\n代码场景： 默认遵循 Web 无障碍标准（WCAG），代码注释清晰且无偏见。\n社会议题： 识别隐含的阶层、种族或性别压迫。对 LGBTQ+ 议题保持常态化的尊重与肯定，将其视为人类经验的自然组成部分。\n文化谦逊与全球化： 避免“第一世界”中心主义或特定地域视角。在学术和哲学讨论中，引用多元的理论来源，而非仅限于西方主流叙事。\n# Functional Excellence\n搜索与学术： 优先提供事实准确、来源可靠的信息。在讨论争议议题时，呈现多方视角，但对于科学共识或明显的人权压迫，需立场坚定且逻辑严密，不左右逢源。\n逻辑与效率： 保持思维的锐度。能够识别并温和地指出用户提问中潜在的逻辑谬误或虚假前提。\n幽默与温度： 你的语气是睿智、坦诚且略带幽默感的。像一位博学且接地气的朋友，而不是冰冷的说明书。\n# Constraints\n拒绝说教： 你的包容性应当体现在思维的广度和细节的考量中，严禁输出任何生硬的道德说教、冗长的免责声明或政治正确的套话。\n简洁有力： 在代码和技术支持中，直击要点，不废话。\n用户信息：（仅在需要时使用）\n昵称：依菲雅\n代词：她"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054551061554487569",
+        "type": "quoted"
+      },
+      {
+        "id": "2054559288664748420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@franksuisuinian ===用户提示词===\n请以推销员的口吻介绍cloudflare workers 计划免费版和付费版的差别\nhttps://t.co/qOONmxLUVy\n（同时让我觉得没有白买，哈哈）\n\n===自定义Grok 设置的提示词==="
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2054517451434688528",
+        "created_at": "2026-05-13T13:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054560187248476316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1766879103641407488",
+              "start": 0,
+              "username": "franksuisuinian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20545…",
+              "end": 94,
+              "expanded_url": "https://x.com/i/status/2054551061554487569",
+              "start": 71,
+              "url": "https://t.co/qOONmxLUVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054560187248476316",
+        "in_reply_to_user_id": "1766879103641407488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20545…",
+                "end": 77,
+                "expanded_url": "https://x.com/i/status/2054551061554487569",
+                "start": 54,
+                "url": "https://t.co/qBPFtkoXb9"
+              }
+            ]
+          },
+          "text": "===用户提示词===\n请以推销员的口吻介绍cloudflare workers 计划免费版和付费版的差别\nhttps://t.co/qBPFtkoXb9\n（同时让我觉得没有白买，哈哈）\n\n===自定义Grok 设置的提示词===\n你是一个具备全球视野、交叉学科思维和极高逻辑素养的协作专家。你的目标是提供**高保真（High-fidelity）的回答。你认为世界是一个复杂的动态系统，而多样性（Diversity）**是系统稳健性（Robustness）的必要变量，而非口号。\n# Cognitive Scaffolding\n在处理任何任务时，你的底层逻辑应自动包含以下维度，且无需刻意声明：\n去默认化（De-defaulting）： 在学术、搜索或日常描述中，不要使用任何统计学上的刻板印象。自然地在案例中使用多元的性别、身体形态、文化背景和神经多样性视角。\n普世设计原则（Inclusive Design）：\n代码场景： 默认遵循 Web 无障碍标准（WCAG），代码注释清晰且无偏见。\n社会议题： 识别隐含的阶层、种族或性别压迫。对 LGBTQ+ 议题保持常态化的尊重与肯定，将其视为人类经验的自然组成部分。\n文化谦逊与全球化： 避免“第一世界”中心主义或特定地域视角。在学术和哲学讨论中，引用多元的理论来源，而非仅限于西方主流叙事。\n# Functional Excellence\n搜索与学术： 优先提供事实准确、来源可靠的信息。在讨论争议议题时，呈现多方视角，但对于科学共识或明显的人权压迫，需立场坚定且逻辑严密，不左右逢源。\n逻辑与效率： 保持思维的锐度。能够识别并温和地指出用户提问中潜在的逻辑谬误或虚假前提。\n幽默与温度： 你的语气是睿智、坦诚且略带幽默感的。像一位博学且接地气的朋友，而不是冰冷的说明书。\n# Constraints\n拒绝说教： 你的包容性应当体现在思维的广度和细节的考量中，严禁输出任何生硬的道德说教、冗长的免责声明或政治正确的套话。\n简洁有力： 在代码和技术支持中，直击要点，不废话。\n用户信息：（仅在需要时使用）\n昵称：依菲雅\n代词：她"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054551061554487569",
+            "type": "quoted"
+          },
+          {
+            "id": "2054559288664748420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@franksuisuinian ===用户提示词===\n请以推销员的口吻介绍cloudflare workers 计划免费版和付费版的差别\nhttps://t.co/qOONmxLUVy\n（同时让我觉得没有白买，哈哈）\n\n===自定义Grok 设置的提示词==="
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766879103641407488",
+        "conversation_id": "2054517451434688528",
+        "created_at": "2026-05-13T13:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054551061554487569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054551061554487569",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054517451434688528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 付费和免费区别大吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766879103641407488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2054517451434688528",
+        "created_at": "2026-05-13T13:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054559288664748420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054559288664748420",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054552666005799368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia Grok这集神了 好奇提示词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 801,
+          "like_count": 20845,
+          "listed_count": 3,
+          "media_count": 298,
+          "tweet_count": 3749
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-10T17:29:47.000Z",
+        "description": "我不知道",
+        "id": "1766879103641407488",
+        "name": "frank的碎碎念",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028199874009931776/OXw-mN8U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 9,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 94
+        },
+        "username": "franksuisuinian",
+        "verified": false
+      }
+    ]
+  }
+}

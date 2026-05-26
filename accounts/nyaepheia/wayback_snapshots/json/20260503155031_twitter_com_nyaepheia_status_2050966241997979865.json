@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050965881409490944",
+        "3_2050965564215246848"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2050966241997979865",
+    "created_at": "2026-05-03T15:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T16:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050966241997979865"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fh6YeG8JEH",
+          "end": 75,
+          "expanded_url": "https://x.com/nyaepheia/status/2050966241997979865/photo/1",
+          "media_key": "3_2050965881409490944",
+          "start": 52,
+          "url": "https://t.co/Fh6YeG8JEH"
+        },
+        {
+          "display_url": "pic.x.com/Fh6YeG8JEH",
+          "end": 75,
+          "expanded_url": "https://x.com/nyaepheia/status/2050966241997979865/photo/1",
+          "media_key": "3_2050965564215246848",
+          "start": 52,
+          "url": "https://t.co/Fh6YeG8JEH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050966241997979865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "epheiamoe/bsky 更新了什么？\n\n美观优雅实用的侧边栏组件！\nAI 现已支持查看帖子图片！ https://t.co/Fh6YeG8JEH"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "ai-bsky.pages.dev\n主页时间线\nBluesky社交平台网页截图，中文界面。左侧为导航栏（时间线、通知、搜索等），中间显示\"时间线 - Discover\" feed，包含三条帖子：第一条为\"推特翻译\"账号分享的阿西莫夫写作建议（含英文截图）；第二条为日文内容\"絵・イズ・難しい\"；第三条为关于心理咨询筛选问题的翻译帖（含中英双语截图）。右侧为推荐关注列表、推荐动态源（Discover、Science等）及趋势话题（Amazon Deals、Manchester United等）。整体为深色模式。",
+        "height": 1003,
+        "media_key": "3_2050965881409490944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZ-mkfb0AAItX4.jpg",
+        "width": 1919
+      },
+      {
+        "alt_text": "(post:3mkx6ihy3h22n) text: 丹丹：我替爸爸妈妈和牧歌尝百草，请叫我神农丹 😆 ↳ → (post:3mkwketony226)depth:1 | nachtreiher.bsky.social (夜鹭Nachtreiher🇺🇦) (post:3mkwxfyegsk27\n💭 Thinking: 用户让我查看图片并评价推文中的猫。我需要先获取这条推文的内容。用户给出的推文 URI 是 at://did:plc:5x5ukfoq4p2z3wkkn6hkndtn/app.bsky.feed.post/3mkwketony226。\n\n让我先获取这个推文的上下文，看看是否包含图片。\n🔧 get_post_context\n⮡ depth:0 | holyfiremeow.bsky.social (Cat-holic 圣火喵喵刘东篱) (post:3mkwketony226) text: 招财鸽😽 （不像丹专咬我的发财树） [图片: 1 张] ↳ → (post:3mkwketony226)depth:1 | noixdetao.bsky.social (核桃包) (post:3mkwmc3exhs26) text: 好有细节的表情 ↳ → (post:3mkwketony226)depth:1 | shuiling.bsky.social (一只变态阿姨细p) (post:3mkwmp7uxbc2e) text: 太可爱啦太可爱啦😻 ↳ → (post:3mkwketony226)depth:1 | likebook.bsky.social (Joshua Liu) (post:3mkwrzcjmsc25) text: 丹丹：我咬叶子是为了节省猫粮和罐罐，省钱约等于赚钱发财 😆 → (post:3mkwrzcjmsc25)depth:2 | holyfiremeow.bsky.social (Cat-holic 圣火喵喵刘东篱) (post:3mkwv643x4s2s) text: 他吃了叶子会吐猫粮 → (post:3mkwv643x4s2s)depth:3 | likebook.bsky.social (Joshua Liu) (post:3mkx6ihy3h22n) text: 丹丹：我替爸爸妈妈和牧歌尝百草，请叫我神农丹 😆 ↳",
+        "height": 1005,
+        "media_key": "3_2050965564215246848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZ-UG2bwAA6E3R.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050965881409490944",
+            "3_2050965564215246848"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2050966241997979865",
+        "created_at": "2026-05-03T15:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050966241997979865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fh6YeG8JEH",
+              "end": 75,
+              "expanded_url": "https://x.com/nyaepheia/status/2050966241997979865/photo/1",
+              "media_key": "3_2050965881409490944",
+              "start": 52,
+              "url": "https://t.co/Fh6YeG8JEH"
+            },
+            {
+              "display_url": "pic.x.com/Fh6YeG8JEH",
+              "end": 75,
+              "expanded_url": "https://x.com/nyaepheia/status/2050966241997979865/photo/1",
+              "media_key": "3_2050965564215246848",
+              "start": 52,
+              "url": "https://t.co/Fh6YeG8JEH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050966241997979865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "epheiamoe/bsky 更新了什么？\n\n美观优雅实用的侧边栏组件！\nAI 现已支持查看帖子图片！ https://t.co/Fh6YeG8JEH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 771,
+          "like_count": 19031,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 3168
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046418644855599164",
+    "created_at": "2026-04-21T15:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046619024730227106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochicqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046619024730227106",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046418644855599164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochicqwq 求顺直停止美化hrt 效果，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 547,
+        "media_key": "3_2046282512792727552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXbGo0asAA-EPB.jpg",
+        "width": 720
+      },
+      {
+        "height": 555,
+        "media_key": "3_2046282512746573824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXbGopacAAsRvt.jpg",
+        "width": 720
+      },
+      {
+        "height": 603,
+        "media_key": "3_2046282512796901376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXbGo1aYAA3SZ1.jpg",
+        "width": 720
+      },
+      {
+        "height": 579,
+        "media_key": "3_2046282512809484288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXbGo4aYAAY9I2.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046418644855599164",
+        "created_at": "2026-04-21T15:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046619024730227106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046619024730227106",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046418644855599164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochicqwq 求顺直停止美化hrt 效果，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046282512792727552",
+            "3_2046282512746573824",
+            "3_2046282512796901376",
+            "3_2046282512809484288"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046418644855599164",
+        "created_at": "2026-04-21T02:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T03:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046418644855599164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lsG2beKoCX",
+              "end": 61,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2046418644855599164/photo/1",
+              "media_key": "3_2046282512792727552",
+              "start": 38,
+              "url": "https://t.co/lsG2beKoCX"
+            },
+            {
+              "display_url": "pic.x.com/lsG2beKoCX",
+              "end": 61,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2046418644855599164/photo/1",
+              "media_key": "3_2046282512746573824",
+              "start": 38,
+              "url": "https://t.co/lsG2beKoCX"
+            },
+            {
+              "display_url": "pic.x.com/lsG2beKoCX",
+              "end": 61,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2046418644855599164/photo/1",
+              "media_key": "3_2046282512796901376",
+              "start": 38,
+              "url": "https://t.co/lsG2beKoCX"
+            },
+            {
+              "display_url": "pic.x.com/lsG2beKoCX",
+              "end": 61,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2046418644855599164/photo/1",
+              "media_key": "3_2046282512809484288",
+              "start": 38,
+              "url": "https://t.co/lsG2beKoCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046418644855599164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 14329,
+          "like_count": 74,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "郭继承锐评药娘群体\n话说那个妈妈的儿子的糖效果要真这么好那只能是我吃假糖了 https://t.co/lsG2beKoCX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 740,
+          "like_count": 16215,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2563
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2044830334324457745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 730,
+          "like_count": 2134,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1310
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

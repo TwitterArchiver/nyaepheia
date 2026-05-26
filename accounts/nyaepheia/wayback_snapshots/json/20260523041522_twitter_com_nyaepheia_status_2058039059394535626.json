@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057262944229232798",
+    "created_at": "2026-05-23T04:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058039059394535626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1554095384859127809",
+          "start": 0,
+          "username": "wx_calvin"
+        },
+        {
+          "end": 26,
+          "id": "1596884912379809793",
+          "start": 11,
+          "username": "andyHo86601579"
+        },
+        {
+          "end": 38,
+          "id": "3305544792",
+          "start": 27,
+          "username": "dabowagaga"
+        },
+        {
+          "end": 61,
+          "id": "1720665183188922368",
+          "start": 56,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058039059394535626",
+    "in_reply_to_user_id": "1554095384859127809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057455230527406234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wx_calvin @andyHo86601579 @dabowagaga ？您知道中位数的定义是什么吗？\n\n@grok 介绍中位数的定义。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057455224152002560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2MoCDaEAALF5E.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057262944229232798",
+        "created_at": "2026-05-23T04:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058039059394535626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1554095384859127809",
+              "start": 0,
+              "username": "wx_calvin"
+            },
+            {
+              "end": 26,
+              "id": "1596884912379809793",
+              "start": 11,
+              "username": "andyHo86601579"
+            },
+            {
+              "end": 38,
+              "id": "3305544792",
+              "start": 27,
+              "username": "dabowagaga"
+            },
+            {
+              "end": 61,
+              "id": "1720665183188922368",
+              "start": 56,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058039059394535626",
+        "in_reply_to_user_id": "1554095384859127809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057455230527406234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wx_calvin @andyHo86601579 @dabowagaga ？您知道中位数的定义是什么吗？\n\n@grok 介绍中位数的定义。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057455224152002560"
+          ]
+        },
+        "author_id": "1554095384859127809",
+        "conversation_id": "2057262944229232798",
+        "created_at": "2026-05-21T13:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057455230527406234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1596884912379809793",
+              "start": 0,
+              "username": "andyHo86601579"
+            },
+            {
+              "end": 27,
+              "id": "3305544792",
+              "start": 16,
+              "username": "dabowagaga"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARLUdUpopk",
+              "end": 71,
+              "expanded_url": "https://x.com/wx_calvin/status/2057455230527406234/photo/1",
+              "media_key": "3_2057455224152002560",
+              "start": 48,
+              "url": "https://t.co/ARLUdUpopk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057455230527406234",
+        "in_reply_to_user_id": "1596884912379809793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1857,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057453835749409015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@andyHo86601579 @dabowagaga 所以台湾是不是有一半人群低于中位数收入 https://t.co/ARLUdUpopk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 823,
+          "like_count": 23093,
+          "listed_count": 3,
+          "media_count": 377,
+          "tweet_count": 4297
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-01T13:23:24.000Z",
+        "description": "Fight for what you believe",
+        "id": "1554095384859127809",
+        "location": "Melbourne, Victoria",
+        "name": "绿🐸都是智障",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991149394436182016/M-on-VC5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 84,
+          "like_count": 109,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 1245
+        },
+        "username": "wx_calvin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T15:13:53.000Z",
+        "description": "盧秀燕沒有擔當，市長無能要革職下屬",
+        "id": "1596884912379809793",
+        "name": "🐦馴獸師人生",
+        "pinned_tweet_id": "1647147929541685249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998768222770966533/cWsyRvvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2558,
+          "following_count": 523,
+          "like_count": 128608,
+          "listed_count": 34,
+          "media_count": 14562,
+          "tweet_count": 75692
+        },
+        "username": "andyHo86601579",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-04T02:20:55.000Z",
+        "description": "銀河西斯帝國 皇家高端戰士 。8️⃣1️⃣7️⃣部隊 。我們是朋友🪬 正港台灣囡仔！ 我不是華人。我是台人，華恁娘卡好。 🦌🦔🐰. I'm Taiwanese 動物軍團",
+        "id": "3305544792",
+        "location": "塔土音星球",
+        "name": "風暴士兵 🪐🪬Taiwan only",
+        "pinned_tweet_id": "1517531268166352896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1524206389358641152/1qUjdZdD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89351,
+          "following_count": 233,
+          "like_count": 232798,
+          "listed_count": 349,
+          "media_count": 19328,
+          "tweet_count": 111153
+        },
+        "username": "dabowagaga",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8763814,
+          "following_count": 4,
+          "like_count": 95,
+          "listed_count": 6880,
+          "media_count": 8961609,
+          "tweet_count": 126742432
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

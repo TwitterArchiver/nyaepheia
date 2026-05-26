@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2043163898128613486",
+    "created_at": "2026-04-12T03:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T04:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043173497065836741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2004410188674301953",
+          "start": 0,
+          "username": "abc11451415411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043173497065836741",
+    "in_reply_to_user_id": "2004410188674301953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043173344435143000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@abc11451415411 可能根本不存在（？）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2043173344435143000].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2043173344435143000",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2043173344435143000"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2043163898128613486",
+        "created_at": "2026-04-12T03:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043173497065836741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2004410188674301953",
+              "start": 0,
+              "username": "abc11451415411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043173497065836741",
+        "in_reply_to_user_id": "2004410188674301953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043173344435143000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@abc11451415411 可能根本不存在（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/小证含糖hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站\n已休学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2041715066337452228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 666,
+          "like_count": 11655,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-26T04:33:33.000Z",
+        "description": "神秘软件联系方式278338124？\n无事勿加，感谢配合\n立场人别加，怕死",
+        "id": "2004410188674301953",
+        "location": "你家",
+        "name": "神秘",
+        "pinned_tweet_id": "2040433838015361473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040738836440117248/UOGoQp_M_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 28,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 892
+        },
+        "username": "abc11451415411",
+        "verified": false
+      }
+    ]
+  }
+}

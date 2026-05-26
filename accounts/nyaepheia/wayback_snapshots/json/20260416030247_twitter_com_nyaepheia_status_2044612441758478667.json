@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1447598669843156992",
+          "name": "Translation"
+        }
+      }
+    ],
+    "conversation_id": "2044612441758478667",
+    "created_at": "2026-04-16T03:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T04:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044612441758478667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044612441758478667",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 307
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044452209597747283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: plz repost: the no-conversion-therapy website has been suspended indefinitely due to chinese police harassment of the web…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_2044448159577804800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9WxOlWEAASE1g.jpg",
+        "width": 1206
+      },
+      {
+        "height": 682,
+        "media_key": "3_2044448159565336576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9WxOiX0AAK6Qd.jpg",
+        "width": 1206
+      },
+      {
+        "height": 609,
+        "media_key": "3_2044448159548518401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9WxOeXMAE87NM.jpg",
+        "width": 651
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "2044612441758478667",
+        "created_at": "2026-04-16T03:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T04:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044612441758478667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044612441758478667",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 307
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044452209597747283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: plz repost: the no-conversion-therapy website has been suspended indefinitely due to chinese police harassment of the web…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044448159577804800",
+            "3_2044448159565336576",
+            "3_2044448159548518401"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "2044452209597747283",
+        "created_at": "2026-04-15T16:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:10:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044448163793121623",
+          "2044452209597747283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGXPnl2IsY",
+              "end": 165,
+              "expanded_url": "https://x.com/amber_toffee/status/2044452209597747283/photo/1",
+              "media_key": "3_2044448159577804800",
+              "start": 142,
+              "url": "https://t.co/nGXPnl2IsY"
+            },
+            {
+              "display_url": "pic.x.com/nGXPnl2IsY",
+              "end": 165,
+              "expanded_url": "https://x.com/amber_toffee/status/2044452209597747283/photo/1",
+              "media_key": "3_2044448159565336576",
+              "start": 142,
+              "url": "https://t.co/nGXPnl2IsY"
+            },
+            {
+              "display_url": "pic.x.com/nGXPnl2IsY",
+              "end": 165,
+              "expanded_url": "https://x.com/amber_toffee/status/2044452209597747283/photo/1",
+              "media_key": "3_2044448159548518401",
+              "start": 142,
+              "url": "https://t.co/nGXPnl2IsY"
+            },
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2039740300898279731",
+              "start": 166,
+              "url": "https://t.co/OyuFiNRwQ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044452209597747283",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 24837,
+          "like_count": 672,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 307
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039740300898279731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "plz repost: the no-conversion-therapy website has been suspended indefinitely due to chinese police harassment of the website’s two founders. https://t.co/nGXPnl2IsY https://t.co/OyuFiNRwQ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元\n百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?\nQueer?\nMtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 691,
+          "like_count": 14054,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2073
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 37,
+                "start": 21,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️ ⚢ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2040939467280674867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24764,
+          "following_count": 2742,
+          "like_count": 40795,
+          "listed_count": 12,
+          "media_count": 613,
+          "tweet_count": 21778
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

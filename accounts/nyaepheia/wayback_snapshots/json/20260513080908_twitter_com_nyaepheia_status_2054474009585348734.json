@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2054430722342166594",
+    "created_at": "2026-05-13T08:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T09:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054474009585348734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1284484108601577472",
+          "start": 0,
+          "username": "skiper_94"
+        },
+        {
+          "end": 27,
+          "id": "4909406532",
+          "start": 11,
+          "username": "gabriel_ljyxiao"
+        },
+        {
+          "end": 44,
+          "id": "1714100357582770176",
+          "start": 28,
+          "username": "YesterdayBigcat"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Claude is Anthropic's AI, built for problem solvers. Tackle complex challenges, analyze data, write code, and think through your hardest work.",
+          "display_url": "Claude.ai",
+          "end": 92,
+          "expanded_url": "http://Claude.ai",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/2052614030808784911/lH0nGmsR?format=png&name=orig",
+              "width": 1138
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2052614030808784911/lH0nGmsR?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 69,
+          "status": 200,
+          "title": "Claude",
+          "unwound_url": "https://claude.ai/login",
+          "url": "https://t.co/atgCYs0kb9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054474009585348734",
+    "in_reply_to_user_id": "1284484108601577472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "Claude.ai",
+            "end": 47,
+            "expanded_url": "http://Claude.ai",
+            "start": 24,
+            "url": "https://t.co/LQmfkQTVoP"
+          },
+          {
+            "display_url": "Claude.ai",
+            "end": 160,
+            "expanded_url": "http://Claude.ai",
+            "start": 137,
+            "url": "https://t.co/LQmfkQTVoP"
+          }
+        ]
+      },
+      "text": "让Grok 回答你。\n\n这里的“逆向”具体指：将https://t.co/LQmfkQTVoP网页版聊天界面，通过逆向工程（Reverse Engineering）破解成可编程的API接口。\n不是普通的“中转代理”（用海外账号简单转发），而是技术层面的深度破解：\n抓包分析 https://t.co/LQmfkQTVoP网页端的通信协议（WebSocket、SSE流、认证token、请求签名等）。\n模拟浏览器行为，绕过前端防护（TLS指纹、行为检测、Cloudflare等）。\n把网页聊天功能封装成标准的OpenAI兼容API（支持/v1/chat/completions等格式），让开发者像调用官方API一样直接集成到代码、App或产品里。\n核心优势：一个Claude Pro订阅（或少量账号）就能“无限”拆分卖给几十上百用户，成本极低、利润极高。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054472722370228437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skiper_94 @gabriel_ljyxiao @YesterdayBigcat 让Grok 回答你。\n\n这里的“逆向”具体指：将https://t.co/atgCYs0kb9网页版聊天界面，通过逆向工程（Reverse Engineering）破解成可编程的API接口。\n不是普通的“中转代理”（用海外账号简单转发），而是技术层面的深度破解：\n抓包分析"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2054430722342166594",
+        "created_at": "2026-05-13T08:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054474009585348734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1284484108601577472",
+              "start": 0,
+              "username": "skiper_94"
+            },
+            {
+              "end": 27,
+              "id": "4909406532",
+              "start": 11,
+              "username": "gabriel_ljyxiao"
+            },
+            {
+              "end": 44,
+              "id": "1714100357582770176",
+              "start": 28,
+              "username": "YesterdayBigcat"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Claude is Anthropic's AI, built for problem solvers. Tackle complex challenges, analyze data, write code, and think through your hardest work.",
+              "display_url": "Claude.ai",
+              "end": 92,
+              "expanded_url": "http://Claude.ai",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2052614030808784911/lH0nGmsR?format=png&name=orig",
+                  "width": 1138
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052614030808784911/lH0nGmsR?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "Claude",
+              "unwound_url": "https://claude.ai/login",
+              "url": "https://t.co/atgCYs0kb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054474009585348734",
+        "in_reply_to_user_id": "1284484108601577472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "Claude.ai",
+                "end": 47,
+                "expanded_url": "http://Claude.ai",
+                "start": 24,
+                "url": "https://t.co/LQmfkQTVoP"
+              },
+              {
+                "display_url": "Claude.ai",
+                "end": 160,
+                "expanded_url": "http://Claude.ai",
+                "start": 137,
+                "url": "https://t.co/LQmfkQTVoP"
+              }
+            ]
+          },
+          "text": "让Grok 回答你。\n\n这里的“逆向”具体指：将https://t.co/LQmfkQTVoP网页版聊天界面，通过逆向工程（Reverse Engineering）破解成可编程的API接口。\n不是普通的“中转代理”（用海外账号简单转发），而是技术层面的深度破解：\n抓包分析 https://t.co/LQmfkQTVoP网页端的通信协议（WebSocket、SSE流、认证token、请求签名等）。\n模拟浏览器行为，绕过前端防护（TLS指纹、行为检测、Cloudflare等）。\n把网页聊天功能封装成标准的OpenAI兼容API（支持/v1/chat/completions等格式），让开发者像调用官方API一样直接集成到代码、App或产品里。\n核心优势：一个Claude Pro订阅（或少量账号）就能“无限”拆分卖给几十上百用户，成本极低、利润极高。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054472722370228437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skiper_94 @gabriel_ljyxiao @YesterdayBigcat 让Grok 回答你。\n\n这里的“逆向”具体指：将https://t.co/atgCYs0kb9网页版聊天界面，通过逆向工程（Reverse Engineering）破解成可编程的API接口。\n不是普通的“中转代理”（用海外账号简单转发），而是技术层面的深度破解：\n抓包分析"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1284484108601577472",
+        "conversation_id": "2054430722342166594",
+        "created_at": "2026-05-13T08:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054472722370228437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4909406532",
+              "start": 0,
+              "username": "gabriel_ljyxiao"
+            },
+            {
+              "end": 33,
+              "id": "1714100357582770176",
+              "start": 17,
+              "username": "YesterdayBigcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054472722370228437",
+        "in_reply_to_user_id": "4909406532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054451603785335217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gabriel_ljyxiao @YesterdayBigcat 没懂你意思，逆向什么？非法渠道获取是指什么？Claude本来就不对中国大陆，对美国来说是非法，对中国也是非法吗？双重管控，这个世界太疯狂了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 801,
+          "like_count": 20795,
+          "listed_count": 3,
+          "media_count": 296,
+          "tweet_count": 3735
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-18T13:44:16.000Z",
+        "description": "闲人一个，话不投机半句多",
+        "id": "1284484108601577472",
+        "location": "Lisben",
+        "name": "Skiper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046638823069913088/_FgvBZ09_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 76,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 250
+        },
+        "username": "skiper_94",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-15T03:35:04.000Z",
+        "description": "There is a Crack in Everything, That's How the Light Gets in.",
+        "id": "4909406532",
+        "location": "Nerverland",
+        "name": "Duke doom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049076196168929280/y5EnuXAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 240,
+          "like_count": 12913,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 3270
+        },
+        "username": "gabriel_ljyxiao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-17T02:06:12.000Z",
+        "description": "中国集体抗争事件记录网：https://t.co/sjVzTO6fYM\n投稿邮箱：bigorangecat2023@gmail.com\nYoutube：YesterdayBigcat\nIns：yesterdaybigorangecat\nTikTok：yesterdaybigcat",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yesterdayprotests.com",
+                "end": 35,
+                "expanded_url": "https://yesterdayprotests.com",
+                "start": 12,
+                "url": "https://t.co/sjVzTO6fYM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yesterdayprotests.com",
+                "end": 23,
+                "expanded_url": "https://yesterdayprotests.com",
+                "start": 0,
+                "url": "https://t.co/sjVzTO6fYM"
+              }
+            ]
+          }
+        },
+        "id": "1714100357582770176",
+        "location": "火星",
+        "name": "昨天",
+        "pinned_tweet_id": "2008435957826207815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714101429500268544/Ga5TlrzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140309,
+          "following_count": 523,
+          "like_count": 1446,
+          "listed_count": 638,
+          "media_count": 3376,
+          "tweet_count": 4917
+        },
+        "url": "https://t.co/sjVzTO6fYM",
+        "username": "YesterdayBigcat",
+        "verified": true
+      }
+    ]
+  }
+}

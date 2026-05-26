@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055597702248124416"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2055597988438028530",
+    "created_at": "2026-05-16T10:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T11:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055597988438028530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Contribute to epheiamoe/x2bsky development by creating an account on GitHub.",
+          "display_url": "github.com/epheiamoe/x2bs…",
+          "end": 62,
+          "expanded_url": "http://github.com/epheiamoe/x2bsky",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2055597995438247937/ckIy_DYx?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2055597995438247937/ckIy_DYx?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 39,
+          "status": 200,
+          "title": "GitHub - epheiamoe/x2bsky",
+          "unwound_url": "https://github.com/epheiamoe/x2bsky",
+          "url": "https://t.co/gtplfvZxJk"
+        },
+        {
+          "display_url": "pic.x.com/pElbRZvDLL",
+          "end": 86,
+          "expanded_url": "https://x.com/nyaepheia/status/2055597988438028530/photo/1",
+          "media_key": "3_2055597702248124416",
+          "start": 63,
+          "url": "https://t.co/pElbRZvDLL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055597988438028530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "X2bsky 已经帮我同步了395条贴文到bluesky。你也快来试试吧~\n👉https://t.co/gtplfvZxJk https://t.co/pElbRZvDLL"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Dashboard\nTwo-step sync: Fetch X posts, then select and sync to Bluesky\n\nGo to Fetch & Sync\nPending Sync\n\n1\n\nSynced\n\n395\n\nSkipped\n\n0\n\nAuto Sync\n\nOFF\n\nLast Sync\n2026-05-16 10:22:26\n\nView on Bluesky\nHow to Use\n1\nFetch Posts\n\nClick \"Fetch & Sync\" to get your latest X posts. Replies are automatically filtered out.\n\n2\nSelect Posts\n\nCheck the posts you want to sync. RTs are shown but not selected by default (configurable in Settings).\n\n3\nSync to Bluesky\n\nClick \"Sync Selected\" to post to Bluesky. Multi-post threads will be created automatically.",
+        "height": 793,
+        "media_key": "3_2055597702248124416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbzOBub0AAh7wq.jpg",
+        "width": 1287
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055597702248124416"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2055597988438028530",
+        "created_at": "2026-05-16T10:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055597988438028530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Contribute to epheiamoe/x2bsky development by creating an account on GitHub.",
+              "display_url": "github.com/epheiamoe/x2bs…",
+              "end": 62,
+              "expanded_url": "http://github.com/epheiamoe/x2bsky",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2055597995438247937/ckIy_DYx?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2055597995438247937/ckIy_DYx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "GitHub - epheiamoe/x2bsky",
+              "unwound_url": "https://github.com/epheiamoe/x2bsky",
+              "url": "https://t.co/gtplfvZxJk"
+            },
+            {
+              "display_url": "pic.x.com/pElbRZvDLL",
+              "end": 86,
+              "expanded_url": "https://x.com/nyaepheia/status/2055597988438028530/photo/1",
+              "media_key": "3_2055597702248124416",
+              "start": 63,
+              "url": "https://t.co/pElbRZvDLL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055597988438028530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "X2bsky 已经帮我同步了395条贴文到bluesky。你也快来试试吧~\n👉https://t.co/gtplfvZxJk https://t.co/pElbRZvDLL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 809,
+          "like_count": 21390,
+          "listed_count": 3,
+          "media_count": 321,
+          "tweet_count": 3914
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

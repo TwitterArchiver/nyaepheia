@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046488402581917715",
+    "created_at": "2026-04-21T07:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T08:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046492371068833923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1759983760152637440",
+          "start": 0,
+          "username": "kaixinua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046492371068833923",
+    "in_reply_to_user_id": "1759983760152637440",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046488402581917715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaixinua 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046488402581917715",
+        "created_at": "2026-04-21T07:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046492371068833923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1759983760152637440",
+              "start": 0,
+              "username": "kaixinua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046492371068833923",
+        "in_reply_to_user_id": "1759983760152637440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046488402581917715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaixinua 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759983760152637440",
+        "conversation_id": "2046488402581917715",
+        "created_at": "2026-04-21T07:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046488402581917715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046488402581917715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两板奥氮平，两板帕罗西汀，半碗亚硝酸钠，一瓶阿普唑仑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 732,
+          "like_count": 15859,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 2448
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T16:50:15.000Z",
+        "description": "酗酒，割手样样俱全（求求互fo🥺",
+        "id": "1759983760152637440",
+        "location": "mars",
+        "name": "kaikaixin🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759984206468222976/03bgRFtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 390,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 223
+        },
+        "username": "kaixinua",
+        "verified": false
+      }
+    ]
+  }
+}

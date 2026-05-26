@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041499035555827714",
+        "3_2041499049824768000"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2041497253043634583",
+    "created_at": "2026-04-07T12:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041499062562890121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1877743555961294848",
+          "start": 0,
+          "username": "nino_yukiko"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Created with Gemini",
+          "display_url": "g.co/gemini/share/e…",
+          "end": 47,
+          "expanded_url": "https://g.co/gemini/share/ec55e79600b6",
+          "start": 24,
+          "status": 200,
+          "title": "‎Gemini - 头孢与酒精凝胶反应",
+          "unwound_url": "https://gemini.google.com/share/ec55e79600b6",
+          "url": "https://t.co/ExCCJZapf7"
+        },
+        {
+          "display_url": "pic.x.com/916yj5p3ks",
+          "end": 71,
+          "expanded_url": "https://x.com/nyaepheia/status/2041499062562890121/photo/1",
+          "media_key": "3_2041499035555827714",
+          "start": 48,
+          "url": "https://t.co/916yj5p3ks"
+        },
+        {
+          "display_url": "pic.x.com/916yj5p3ks",
+          "end": 71,
+          "expanded_url": "https://x.com/nyaepheia/status/2041499062562890121/photo/1",
+          "media_key": "3_2041499049824768000",
+          "start": 48,
+          "url": "https://t.co/916yj5p3ks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041499062562890121",
+    "in_reply_to_user_id": "1877743555961294848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041497253043634583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nino_yukiko Gemini 说的🤔\nhttps://t.co/ExCCJZapf7 https://t.co/916yj5p3ks"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "3. 现在的操作建议\n​最重要的建议：立刻、马上告知现场的护士或医生！\n​不要因为觉得尴尬或担心被家长/医生发现HRT的身份而隐瞒。生命安全永远是第一位的。\n​告知医生： “医生，我刚刚想起我身上涂抹了含有大量酒精的皮肤凝胶（或正在使用含酒精的药物），我担心会和头孢产生双硫仑样反应。”\n​关于给药： 医生会根据你目前的体征和所挂头孢的具体种类决定是减慢滴速、更换抗生素，还是观察处理。",
+        "height": 1180,
+        "media_key": "3_2041499035555827714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTcjnebkAIi082.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "​4. 常见症状自查\n​如果博主已经在输液过程中，请留意是否有以下症状：\n​面部发热、充血（像喝醉了一样）。\n​心跳突然加速、胸闷。\n​视力模糊或感到头晕。\n​如果有，请立即按下呼叫铃。\n​5. 给博主的特别提醒\n​停药期： 一般建议在使用头孢类药物期间，以及停药后的 7-14 天内，都要严格避免酒精摄入。这包括饮酒、含酒精的饮料、藿香正气水，以及大面积涂抹含酒精的凝胶。\n​关于HRT： 如果医生建议暂时停用凝胶，几天的停药并不会对长期的转换效果产生剧烈影响。遵医嘱控制目前的呼吸道感染才是当务之急。",
+        "height": 1732,
+        "media_key": "3_2041499049824768000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTckcoaUAAg9FN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 922,
+        "media_key": "3_2041497250057408512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTa7r-b0AAErgP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041499035555827714",
+            "3_2041499049824768000"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2041497253043634583",
+        "created_at": "2026-04-07T12:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041499062562890121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877743555961294848",
+              "start": 0,
+              "username": "nino_yukiko"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Created with Gemini",
+              "display_url": "g.co/gemini/share/e…",
+              "end": 47,
+              "expanded_url": "https://g.co/gemini/share/ec55e79600b6",
+              "start": 24,
+              "status": 200,
+              "title": "‎Gemini - 头孢与酒精凝胶反应",
+              "unwound_url": "https://gemini.google.com/share/ec55e79600b6",
+              "url": "https://t.co/ExCCJZapf7"
+            },
+            {
+              "display_url": "pic.x.com/916yj5p3ks",
+              "end": 71,
+              "expanded_url": "https://x.com/nyaepheia/status/2041499062562890121/photo/1",
+              "media_key": "3_2041499035555827714",
+              "start": 48,
+              "url": "https://t.co/916yj5p3ks"
+            },
+            {
+              "display_url": "pic.x.com/916yj5p3ks",
+              "end": 71,
+              "expanded_url": "https://x.com/nyaepheia/status/2041499062562890121/photo/1",
+              "media_key": "3_2041499049824768000",
+              "start": 48,
+              "url": "https://t.co/916yj5p3ks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041499062562890121",
+        "in_reply_to_user_id": "1877743555961294848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041497253043634583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nino_yukiko Gemini 说的🤔\nhttps://t.co/ExCCJZapf7 https://t.co/916yj5p3ks"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041497250057408512"
+          ]
+        },
+        "author_id": "1877743555961294848",
+        "conversation_id": "2041497253043634583",
+        "created_at": "2026-04-07T12:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041497253043634583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AhbN3HnDXx",
+              "end": 64,
+              "expanded_url": "https://x.com/nino_yukiko/status/2041497253043634583/photo/1",
+              "media_key": "3_2041497250057408512",
+              "start": 41,
+              "url": "https://t.co/AhbN3HnDXx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041497253043634583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毁了 呼吸道感染忘了跟医生说不能挂头孢 凝胶是乙醇基底的\n还能继续给药吗.... https://t.co/AhbN3HnDXx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2040696789003809003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 606,
+          "like_count": 8414,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 812
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-10T15:45:32.000Z",
+        "description": "CNCSer | Team Ni2O3Xe队长&指挥狙 | ACGN系列赛事主办 | 前完美1.15rt金S | B站同名 | 比赛官推见下\nMtF | 10' Spet.8出厂 | INTP | 假性社恐 | 169cm 44kg | 初三在读 | 炸柜25' Oct.15 | GAHT/HRT 26' Mar.28",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/d99Y0GF",
+                "end": 23,
+                "expanded_url": "https://b23.tv/d99Y0GF",
+                "start": 0,
+                "url": "https://t.co/SKR7FEsTfp"
+              }
+            ]
+          }
+        },
+        "id": "1877743555961294848",
+        "name": "妮诺雪子Ni₂O₃Xe",
+        "pinned_tweet_id": "2035327356005662929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036793790862950400/5jzVTFDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 126,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/SKR7FEsTfp",
+        "username": "nino_yukiko",
+        "verified": true
+      }
+    ]
+  }
+}

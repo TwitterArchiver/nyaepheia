@@ -1,0 +1,630 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Personal finance",
+          "id": "847888632711061504",
+          "name": "Personal finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Insurance",
+          "id": "1037076317722763265",
+          "name": "Insurance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597109358593",
+          "name": "Insurance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Nationwide Mutual Insurance Company",
+          "id": "10026370913",
+          "name": "Nationwide"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      }
+    ],
+    "conversation_id": "2049037596161130774",
+    "created_at": "2026-04-29T06:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T07:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049368517665821167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2818193140",
+          "start": 0,
+          "username": "YureiKurosawa"
+        },
+        {
+          "end": 31,
+          "id": "1626918997559242753",
+          "start": 15,
+          "username": "sushibaeTokuDev"
+        },
+        {
+          "end": 48,
+          "id": "1703963332020146176",
+          "start": 32,
+          "username": "The_RadicalDino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049368517665821167",
+    "in_reply_to_user_id": "2818193140",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "foreignpolicy.com/2025/01/23/chi…",
+            "end": 771,
+            "expanded_url": "https://foreignpolicy.com/2025/01/23/china-trans-rights-gender-affirming-surgery-parental-consent/",
+            "start": 748,
+            "url": "https://t.co/zrqQJYsNIZ"
+          },
+          {
+            "display_url": "cnlgbtdata.com/files/uploads/…",
+            "end": 915,
+            "expanded_url": "https://cnlgbtdata.com/files/uploads/2020/04/Transgender_Helathcare_in_China.pdf",
+            "start": 892,
+            "url": "https://t.co/YmEg6vzCGH"
+          },
+          {
+            "display_url": "nhc.gov.cn/yzygj/s7657/20…",
+            "end": 1148,
+            "expanded_url": "http://www.nhc.gov.cn/yzygj/s7657/202204/2efe9f8ca13f499c8e1f70844fe96144.shtml",
+            "start": 1125,
+            "url": "https://t.co/mTdhC47zVI"
+          }
+        ]
+      },
+      "text": "❓\nThis claim is incorrect.\nThe Chinese government does not cover gender reassignment surgery (SRS), facial feminization surgery (FFS), or puberty blockers for minors through public funds or social health insurance.\n\nChina’s basic medical insurance (the nationwide social health insurance system) explicitly excludes gender-affirming procedures. They are classified as non-essential cosmetic/plastic surgeries under the National Healthcare Security Administration rules and fall outside the reimbursement catalog. Hormone replacement therapy (HRT) is also generally not covered and often faces access barriers.\n\nKey sources:\n- Foreign Policy (2025): “Public medical insurance doesn’t cover hormone replacement therapy and gender-affirming surgery.” https://t.co/zrqQJYsNIZ\n- Academic overview (Transgender Healthcare in China report): Transition-related care is almost entirely out-of-pocket. https://t.co/YmEg6vzCGH\n- The National Health Commission’s *Management Specification on Gender Reassignment Technology* (2022) classifies these as restricted clinical technologies, not basic insured services. (Official Chinese text: https://t.co/mTdhC47zVI)\n\nIn practice, patients in China pay the full cost for HRT, SRS (often 100,000–300,000+ RMB), and related care. Some turn to unregulated channels due to high barriers and lack of coverage. This is very different from certain European systems that partially reimburse these treatments.\n\nThe post seems to confuse China’s situation with policies in other countries. The reality on the ground is far more self-funded and restrictive."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049271174656323772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YureiKurosawa @sushibaeTokuDev @The_RadicalDino ❓\nThis claim is incorrect.\nThe Chinese government does not cover gender reassignment surgery (SRS), facial feminization surgery (FFS), or puberty blockers for minors through public funds or social health insurance.\n\nChina’s basic medical insurance (the nationwide social health"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 674,
+        "media_key": "3_2049270976115097600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHB5GGPbwAA6Z-v.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Insurance",
+              "id": "1037076317722763265",
+              "name": "Insurance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597109358593",
+              "name": "Insurance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nationwide Mutual Insurance Company",
+              "id": "10026370913",
+              "name": "Nationwide"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "2049037596161130774",
+        "created_at": "2026-04-29T06:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049368517665821167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2818193140",
+              "start": 0,
+              "username": "YureiKurosawa"
+            },
+            {
+              "end": 31,
+              "id": "1626918997559242753",
+              "start": 15,
+              "username": "sushibaeTokuDev"
+            },
+            {
+              "end": 48,
+              "id": "1703963332020146176",
+              "start": 32,
+              "username": "The_RadicalDino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049368517665821167",
+        "in_reply_to_user_id": "2818193140",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "foreignpolicy.com/2025/01/23/chi…",
+                "end": 771,
+                "expanded_url": "https://foreignpolicy.com/2025/01/23/china-trans-rights-gender-affirming-surgery-parental-consent/",
+                "start": 748,
+                "url": "https://t.co/zrqQJYsNIZ"
+              },
+              {
+                "display_url": "cnlgbtdata.com/files/uploads/…",
+                "end": 915,
+                "expanded_url": "https://cnlgbtdata.com/files/uploads/2020/04/Transgender_Helathcare_in_China.pdf",
+                "start": 892,
+                "url": "https://t.co/YmEg6vzCGH"
+              },
+              {
+                "display_url": "nhc.gov.cn/yzygj/s7657/20…",
+                "end": 1148,
+                "expanded_url": "http://www.nhc.gov.cn/yzygj/s7657/202204/2efe9f8ca13f499c8e1f70844fe96144.shtml",
+                "start": 1125,
+                "url": "https://t.co/mTdhC47zVI"
+              }
+            ]
+          },
+          "text": "❓\nThis claim is incorrect.\nThe Chinese government does not cover gender reassignment surgery (SRS), facial feminization surgery (FFS), or puberty blockers for minors through public funds or social health insurance.\n\nChina’s basic medical insurance (the nationwide social health insurance system) explicitly excludes gender-affirming procedures. They are classified as non-essential cosmetic/plastic surgeries under the National Healthcare Security Administration rules and fall outside the reimbursement catalog. Hormone replacement therapy (HRT) is also generally not covered and often faces access barriers.\n\nKey sources:\n- Foreign Policy (2025): “Public medical insurance doesn’t cover hormone replacement therapy and gender-affirming surgery.” https://t.co/zrqQJYsNIZ\n- Academic overview (Transgender Healthcare in China report): Transition-related care is almost entirely out-of-pocket. https://t.co/YmEg6vzCGH\n- The National Health Commission’s *Management Specification on Gender Reassignment Technology* (2022) classifies these as restricted clinical technologies, not basic insured services. (Official Chinese text: https://t.co/mTdhC47zVI)\n\nIn practice, patients in China pay the full cost for HRT, SRS (often 100,000–300,000+ RMB), and related care. Some turn to unregulated channels due to high barriers and lack of coverage. This is very different from certain European systems that partially reimburse these treatments.\n\nThe post seems to confuse China’s situation with policies in other countries. The reality on the ground is far more self-funded and restrictive."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049271174656323772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YureiKurosawa @sushibaeTokuDev @The_RadicalDino ❓\nThis claim is incorrect.\nThe Chinese government does not cover gender reassignment surgery (SRS), facial feminization surgery (FFS), or puberty blockers for minors through public funds or social health insurance.\n\nChina’s basic medical insurance (the nationwide social health"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049270976115097600"
+          ]
+        },
+        "author_id": "2818193140",
+        "conversation_id": "2049037596161130774",
+        "created_at": "2026-04-28T23:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T00:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049271174656323772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 27,
+              "id": "1626918997559242753",
+              "start": 11,
+              "username": "sushibaeTokuDev"
+            },
+            {
+              "end": 44,
+              "id": "1703963332020146176",
+              "start": 28,
+              "username": "The_RadicalDino"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lpRqPGqS4S",
+              "end": 232,
+              "expanded_url": "https://x.com/YureiKurosawa/status/2049271174656323772/photo/1",
+              "media_key": "3_2049270976115097600",
+              "start": 209,
+              "url": "https://t.co/lpRqPGqS4S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049271174656323772",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049182644777492954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @sushibaeTokuDev @The_RadicalDino its an odd place, goverment will pay for you to have SSR and FFS and even blockers for minots but will not make it illegal to not hire you due to your trans status https://t.co/lpRqPGqS4S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 762,
+          "like_count": 18081,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2985
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-09T03:00:25.000Z",
+        "description": "Just a random girl looking for cute stuff, funny people and memes\n\nTrans🏳️‍⚧️\nAutistic 🧩\nOcacional AgeRe 👼",
+        "id": "2818193140",
+        "location": "Zapopan, Jalisco - Mexico",
+        "name": "Yūrei",
+        "pinned_tweet_id": "1545730993801367552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651066180558376961/qdm2ZVUm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 718,
+          "like_count": 21427,
+          "listed_count": 10,
+          "media_count": 3162,
+          "tweet_count": 14502
+        },
+        "username": "YureiKurosawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-18T12:18:45.000Z",
+        "description": "A dying Korean mother doing the best she can to live her life to the fullest.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.net/@djsh.inpresre…",
+                "end": 23,
+                "expanded_url": "https://www.threads.net/@djsh.inpresrepkor",
+                "start": 0,
+                "url": "https://t.co/kk3z9dTj9o"
+              }
+            ]
+          }
+        },
+        "id": "1626918997559242753",
+        "location": "Tokyo, Japan",
+        "name": "배스시, Zainichi Korean Game Developer",
+        "pinned_tweet_id": "2049112181032329240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117363173470208/TkBWGWnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 996,
+          "like_count": 18454,
+          "listed_count": 6,
+          "media_count": 1420,
+          "tweet_count": 12174
+        },
+        "url": "https://t.co/kk3z9dTj9o",
+        "username": "sushibaeTokuDev",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T02:45:23.000Z",
+        "description": "They/He\nThe Lord of Shang-Yang!\nChinese Libertarian Socialist who's also a Zoologist! \nConservation, Zoology, and Political Philosophy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@TheRadicalDin…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@TheRadicalDino?si=PmyaI9AwRSrJVOTB",
+                "start": 0,
+                "url": "https://t.co/MAnua6sdOJ"
+              }
+            ]
+          }
+        },
+        "id": "1703963332020146176",
+        "location": "Shang-Yang, Western Provinces",
+        "name": "The RadicalDino",
+        "pinned_tweet_id": "1881081013289529702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705807724054020096/43vUbgkn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2922,
+          "following_count": 1111,
+          "like_count": 390392,
+          "listed_count": 15,
+          "media_count": 1169,
+          "tweet_count": 18096
+        },
+        "url": "https://t.co/MAnua6sdOJ",
+        "username": "The_RadicalDino",
+        "verified": false
+      }
+    ]
+  }
+}

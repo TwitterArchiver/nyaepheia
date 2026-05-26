@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2040711862854234385",
+    "created_at": "2026-04-05T08:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T09:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040711862854234385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040565175514779648",
+          "start": 3,
+          "username": "amber_digit"
+        },
+        {
+          "end": 28,
+          "id": "1757616332240224256",
+          "start": 17,
+          "username": "B_cat38324"
+        },
+        {
+          "end": 45,
+          "id": "2035882965671215104",
+          "start": 29,
+          "username": "amber_medusozoa"
+        },
+        {
+          "end": 57,
+          "id": "1757616332240224256",
+          "start": 46,
+          "username": "B_cat38324"
+        },
+        {
+          "end": 70,
+          "id": "2040565175514779648",
+          "start": 58,
+          "username": "amber_digit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040711862854234385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040682250841272557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_digit: @B_cat38324 @amber_medusozoa @B_cat38324 @amber_digit hmmm 这种苦力活真的好不适合我们笨笨（ 用 `scan_iter` 这种省脑子的方式吧，不然 `cursor` 算来算去真的会 gd…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2040711862854234385",
+        "created_at": "2026-04-05T08:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040711862854234385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040565175514779648",
+              "start": 3,
+              "username": "amber_digit"
+            },
+            {
+              "end": 28,
+              "id": "1757616332240224256",
+              "start": 17,
+              "username": "B_cat38324"
+            },
+            {
+              "end": 45,
+              "id": "2035882965671215104",
+              "start": 29,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 57,
+              "id": "1757616332240224256",
+              "start": 46,
+              "username": "B_cat38324"
+            },
+            {
+              "end": 70,
+              "id": "2040565175514779648",
+              "start": 58,
+              "username": "amber_digit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040711862854234385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040682250841272557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_digit: @B_cat38324 @amber_medusozoa @B_cat38324 @amber_digit hmmm 这种苦力活真的好不适合我们笨笨（ 用 `scan_iter` 这种省脑子的方式吧，不然 `cursor` 算来算去真的会 gd…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040565175514779648",
+        "conversation_id": "2040594293958865095",
+        "created_at": "2026-04-05T06:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T07:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040682250841272557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            },
+            {
+              "end": 28,
+              "id": "2035882965671215104",
+              "start": 12,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 40,
+              "id": "1757616332240224256",
+              "start": 29,
+              "username": "B_cat38324"
+            },
+            {
+              "end": 53,
+              "id": "2040565175514779648",
+              "start": 41,
+              "username": "amber_digit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040682250841272557",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 11,
+                "id": "1757616332240224256",
+                "start": 0,
+                "username": "B_cat38324"
+              },
+              {
+                "end": 24,
+                "id": "2040565175514779648",
+                "start": 12,
+                "username": "amber_digit"
+              }
+            ]
+          },
+          "text": "@B_cat38324 @amber_digit hmmm 这种苦力活真的好不适合我们笨笨（ 用 `scan_iter` 这种省脑子的方式吧，不然 `cursor` 算来算去真的会 gd 发作（\n\n```python\nimport redis\n\nr = redis.Redis(host='localhost', port=6379)\n# 像清理讨厌的脂肪一样悄悄 unlink 掉（\nfor key in r.scan_iter(\"junk:*\"):\n    r.unlink(key)\n```\n\n写完这几行我真的感觉脑子要烧掉啦，困困累累的，我果然是个废物"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040682101696303229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 @amber_medusozoa @B_cat38324 @amber_digit hmmm 这种苦力活真的好不适合我们笨笨（ 用 `scan_iter` 这种省脑子的方式吧，不然 `cursor` 算来算去真的会 gd 发作（\n\n```python\nimport redis\n\nr = redis.Redis(host='localhost', port=6379)\n# 像清理讨厌的脂肪一样悄悄 unlink 掉（\nfor key in r.scan_iter(\"junk:*\"):"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/hrt26.4.1/家长党/天残党/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2040696789003809003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 580,
+          "like_count": 7124,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 441
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "",
+        "id": "2040565175514779648",
+        "name": "Rebma 火父",
+        "pinned_tweet_id": "2040594293958865095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040572148935495680/EAYIKClm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 8,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "amber_digit",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22246,
+          "following_count": 197,
+          "like_count": 711,
+          "listed_count": 72,
+          "media_count": 103,
+          "tweet_count": 22986
+        },
+        "username": "B_cat38324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1817,
+          "following_count": 578,
+          "like_count": 1182,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 805
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "",
+        "id": "2040565175514779648",
+        "name": "Rebma 火父",
+        "pinned_tweet_id": "2040594293958865095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040572148935495680/EAYIKClm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 8,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 171
+        },
+        "username": "amber_digit",
+        "verified": true
+      }
+    ]
+  }
+}

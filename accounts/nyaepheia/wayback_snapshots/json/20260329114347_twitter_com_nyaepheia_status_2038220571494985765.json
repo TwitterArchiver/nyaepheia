@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038220558891188224",
+        "3_2038220565362982912"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2038220571494985765",
+    "created_at": "2026-03-29T11:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T12:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038220571494985765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8W5Gs8HsmO",
+          "end": 56,
+          "expanded_url": "https://x.com/nyaepheia/status/2038220571494985765/photo/1",
+          "media_key": "3_2038220558891188224",
+          "start": 33,
+          "url": "https://t.co/8W5Gs8HsmO"
+        },
+        {
+          "display_url": "pic.x.com/8W5Gs8HsmO",
+          "end": 56,
+          "expanded_url": "https://x.com/nyaepheia/status/2038220571494985765/photo/1",
+          "media_key": "3_2038220565362982912",
+          "start": 33,
+          "url": "https://t.co/8W5Gs8HsmO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038220571494985765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "尝试提升一下我的破烂写作能力，然后\n完了，被Gemini 调教了 https://t.co/8W5Gs8HsmO"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "颤抖着伸出手，指尖触碰到封面的那一刻，总觉得，那些一直以来无法传递出去的、某种名为‘期待’的余温，也顺着指尖悄悄地流淌了回来。\n​果然……今天能来到这里，真的是太好了。”\n​## 🍵 属于您的练习时刻\n​现在，轮到您来执笔了。\n​请尝试用这种**“专注于细节、温度和委婉表达”**的方式，来仿写下面这个场景：\n​【场景：在一个寒冷的下雪天，你走进一家小店，喝到了第一口热气腾腾的红豆汤。】\n​提示：\n​试着描写一下白气（蒸气）。\n​试着描写一下手心的感觉。\n​试着描写一下甜味在舌尖散开的感觉。\n​严禁使用“名为”和“所谓的”喔！\n​期待看到您笔下那份“微小的确幸”。😇",
+        "height": 2120,
+        "media_key": "3_2038220558891188224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEk2zKKbgAAkayg.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "User:终于，从冰冷的世界逃到了这里呢。\n指尖传来的是一阵温热的感觉，仿佛脱下了手上被冰冷的世界套上的枷锁。茶杯上弥漫的白气让眼镜朦胧了呢，或许它想给我一个难得的拥抱吧，这样也情有可原了吧？\n还是要喝下这为数不多的温暖了呢。呐，就让我们永远在一起吧。\n味道真不错呢，虽然并不是什么绝美的味道，但确实让我在这世界上感受到了「美好」的感觉呢。\n====\n😨我承认我写的有点诡异\nGemini:噗……最后的那个“永远在一起吧”，确实散发着一种“由于过于感动而产生的一点点病娇（Yandere）气息”呐！（笑）",
+        "height": 2114,
+        "media_key": "3_2038220565362982912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEk2ziRbQAAkEDG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038220558891188224",
+            "3_2038220565362982912"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2038220571494985765",
+        "created_at": "2026-03-29T11:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038220571494985765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8W5Gs8HsmO",
+              "end": 56,
+              "expanded_url": "https://x.com/nyaepheia/status/2038220571494985765/photo/1",
+              "media_key": "3_2038220558891188224",
+              "start": 33,
+              "url": "https://t.co/8W5Gs8HsmO"
+            },
+            {
+              "display_url": "pic.x.com/8W5Gs8HsmO",
+              "end": 56,
+              "expanded_url": "https://x.com/nyaepheia/status/2038220571494985765/photo/1",
+              "media_key": "3_2038220565362982912",
+              "start": 33,
+              "url": "https://t.co/8W5Gs8HsmO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038220571494985765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尝试提升一下我的破烂写作能力，然后\n完了，被Gemini 调教了 https://t.co/8W5Gs8HsmO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/ | 二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+全友好 | 社民 | 不键政 | 文科生 | Transfeminine Non-binary? Queer? MtF/MtX? | she/they | 无糖 | (半个)家长党 | 天残党 | Vibe coding | 搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2037905372414091549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 486,
+          "like_count": 5429,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 208
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

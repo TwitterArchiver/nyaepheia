@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2036834740586901975",
+    "created_at": "2026-03-25T15:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036834740586901975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1340673196069163009",
+          "start": 3,
+          "username": "deathbian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036834740586901975",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036476796669935833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @deathbian: rightwingers really cannot wrap their head around that more mass shootings are committed by c¡sgender people than transgende…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2036834740586901975",
+        "created_at": "2026-03-25T15:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036834740586901975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1340673196069163009",
+              "start": 3,
+              "username": "deathbian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036834740586901975",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036476796669935833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @deathbian: rightwingers really cannot wrap their head around that more mass shootings are committed by c¡sgender people than transgende…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340673196069163009",
+        "conversation_id": "2036476796669935833",
+        "created_at": "2026-03-24T16:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T17:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036476796669935833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eldritchfo5594…",
+              "end": 308,
+              "expanded_url": "https://twitter.com/eldritchfo55940/status/2036243708790579311",
+              "start": 285,
+              "url": "https://t.co/3ElAZ47xjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036476796669935833",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 8212,
+          "like_count": 700,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036243708790579311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "rightwingers really cannot wrap their head around that more mass shootings are committed by c¡sgender people than transgender people. yes, even per capita, it's over 5 times as frequent. but they live in a bubble where they hyperfixate on minority populations &amp; can't see the bias https://t.co/3ElAZ47xjw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+友好 | 09 | 文科生 | MtF/MtX? | she/they | 无糖 | (半个)家长党 | 天残党 | Vibe coding | 搭网站 | 成分不明的可能会直接ban",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 436,
+          "like_count": 4934,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-20T14:59:41.000Z",
+        "description": "24, heavyweight champion of uhaul disaster lesbianism, hot even by mime standards, birthday girl until further notice, jemma topaz approved, polyamorous",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/astridkirsuber…",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/astridkirsuberjatre",
+                "start": 0,
+                "url": "https://t.co/3dBl9if8cp"
+              }
+            ]
+          }
+        },
+        "id": "1340673196069163009",
+        "location": "Kansas City, MO",
+        "name": "The Striddest in the Game",
+        "pinned_tweet_id": "1997769019928047920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984488629461188608/uUewRMWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3335,
+          "following_count": 5425,
+          "like_count": 879099,
+          "listed_count": 14,
+          "media_count": 3539,
+          "tweet_count": 279714
+        },
+        "url": "https://t.co/3dBl9if8cp",
+        "username": "deathbian",
+        "verified": false
+      }
+    ]
+  }
+}

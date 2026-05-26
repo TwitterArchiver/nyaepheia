@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2042190832330269152",
+    "created_at": "2026-05-22T11:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T12:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057782930748174574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1386231446415675392",
+          "start": 0,
+          "username": "wwwqing57"
+        },
+        {
+          "end": 21,
+          "id": "269116603",
+          "start": 11,
+          "username": "china_shw"
+        },
+        {
+          "end": 36,
+          "id": "1145577443622658048",
+          "start": 22,
+          "username": "Predator_fund"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057782930748174574",
+    "in_reply_to_user_id": "1386231446415675392",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057778535599911033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwwqing57 @china_shw @Predator_fund ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2042190832330269152",
+        "created_at": "2026-05-22T11:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057782930748174574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1386231446415675392",
+              "start": 0,
+              "username": "wwwqing57"
+            },
+            {
+              "end": 21,
+              "id": "269116603",
+              "start": 11,
+              "username": "china_shw"
+            },
+            {
+              "end": 36,
+              "id": "1145577443622658048",
+              "start": 22,
+              "username": "Predator_fund"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057782930748174574",
+        "in_reply_to_user_id": "1386231446415675392",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057778535599911033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwqing57 @china_shw @Predator_fund ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386231446415675392",
+        "conversation_id": "2042190832330269152",
+        "created_at": "2026-05-22T11:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057778535599911033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 21,
+              "id": "269116603",
+              "start": 11,
+              "username": "china_shw"
+            },
+            {
+              "end": 36,
+              "id": "1145577443622658048",
+              "start": 22,
+              "username": "Predator_fund"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057778535599911033",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057775583355171122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @china_shw @Predator_fund 国安大于一切！美国打压中国最方便的借口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 828,
+          "like_count": 22897,
+          "listed_count": 3,
+          "media_count": 365,
+          "tweet_count": 4244
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-25T08:12:00.000Z",
+        "description": "记录客观事物，讲述主观感受。",
+        "id": "1386231446415675392",
+        "location": "Shanghai",
+        "name": "X分之一",
+        "pinned_tweet_id": "1407228723263275016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803299991592771586/T26cBHbH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 16,
+          "like_count": 221,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 258
+        },
+        "username": "wwwqing57",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-20T03:57:10.000Z",
+        "description": "一个互联网民工。干点民工的活。挣点民工的钱。悲催的游走在冲塔的边缘。",
+        "id": "269116603",
+        "name": "避免麻烦换个名字",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/688063349884452864/XG2rgRvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 247,
+          "like_count": 142,
+          "listed_count": 16,
+          "media_count": 409,
+          "tweet_count": 17481
+        },
+        "username": "china_shw",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-01T06:18:41.000Z",
+        "description": "Predator Quantitative Trading System Developer. 区块链底层技术开发，合约交易为生；“村头CBD社区”创始人. 社群：https://t.co/fUjvAaTmXZ（需申请）； 油管：https://t.co/2tq5CAlRcL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+UdhxiPdfeXs0M…",
+                "end": 105,
+                "expanded_url": "https://t.me/+UdhxiPdfeXs0MDY1",
+                "start": 82,
+                "url": "https://t.co/fUjvAaTmXZ"
+              },
+              {
+                "display_url": "youtube.com/@predator_fund",
+                "end": 138,
+                "expanded_url": "https://www.youtube.com/@predator_fund",
+                "start": 115,
+                "url": "https://t.co/2tq5CAlRcL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/pudater",
+                "end": 23,
+                "expanded_url": "https://t.me/pudater",
+                "start": 0,
+                "url": "https://t.co/1fJXvb4uY2"
+              }
+            ]
+          }
+        },
+        "id": "1145577443622658048",
+        "location": "香港",
+        "name": "普达特",
+        "pinned_tweet_id": "1690397676071006208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590404432910434304/DfOmRGay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31719,
+          "following_count": 745,
+          "like_count": 3802,
+          "listed_count": 281,
+          "media_count": 854,
+          "tweet_count": 10781
+        },
+        "url": "https://t.co/1fJXvb4uY2",
+        "username": "Predator_fund",
+        "verified": true
+      }
+    ]
+  }
+}

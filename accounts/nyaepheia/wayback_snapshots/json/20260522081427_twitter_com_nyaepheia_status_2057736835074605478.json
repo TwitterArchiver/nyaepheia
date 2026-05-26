@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2057736835074605478",
+    "created_at": "2026-05-22T08:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T09:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057736835074605478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/congqianman199…",
+          "end": 125,
+          "expanded_url": "https://twitter.com/congqianman1994/status/2057396463542686163",
+          "start": 102,
+          "url": "https://t.co/qKmFd6iIju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057736835074605478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057396463542686163",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "be like:\n「Github 的开源代码如果真的好，他们一定会像高科技一样搞技术封锁，而不是极力推广全世界」\n&gt; 非常有道理，那些整天囔囔着独立思考的人为什么在这么简单的逻辑上就没有独立思考呢 https://t.co/qKmFd6iIju"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 686,
+        "media_key": "3_2057396259242303488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1W_0pa4AA0NCy.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2057736835074605478",
+        "created_at": "2026-05-22T08:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057736835074605478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/congqianman199…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/congqianman1994/status/2057396463542686163",
+              "start": 102,
+              "url": "https://t.co/qKmFd6iIju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057736835074605478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057396463542686163",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "be like:\n「Github 的开源代码如果真的好，他们一定会像高科技一样搞技术封锁，而不是极力推广全世界」\n&gt; 非常有道理，那些整天囔囔着独立思考的人为什么在这么简单的逻辑上就没有独立思考呢 https://t.co/qKmFd6iIju"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057396259242303488"
+          ]
+        },
+        "author_id": "1206904705160318981",
+        "conversation_id": "2057396463542686163",
+        "created_at": "2026-05-21T09:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057396463542686163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDtwhbyxza",
+              "end": 34,
+              "expanded_url": "https://x.com/congqianman1994/status/2057396463542686163/photo/1",
+              "media_key": "3_2057396259242303488",
+              "start": 11,
+              "url": "https://t.co/jDtwhbyxza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057396463542686163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 216376,
+          "like_count": 639,
+          "quote_count": 8,
+          "reply_count": 167,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "谁来反驳一下。。。😂 https://t.co/jDtwhbyxza"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 829,
+          "like_count": 22844,
+          "listed_count": 3,
+          "media_count": 362,
+          "tweet_count": 4234
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-17T11:51:37.000Z",
+        "description": "There is no need to rush. There is no need to shine. You don't need to be anyone but yourself.\n我的油管：https://t.co/2bg3ik0hbs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@congqianman19…",
+                "end": 123,
+                "expanded_url": "https://www.youtube.com/@congqianman1994",
+                "start": 100,
+                "url": "https://t.co/2bg3ik0hbs"
+              }
+            ]
+          }
+        },
+        "id": "1206904705160318981",
+        "location": "China",
+        "name": "八瓣橘子七分甜",
+        "pinned_tweet_id": "2057721024947626048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643515465866805248/Cb-0l-ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40804,
+          "following_count": 307,
+          "like_count": 193188,
+          "listed_count": 75,
+          "media_count": 4830,
+          "tweet_count": 20957
+        },
+        "username": "congqianman1994",
+        "verified": false
+      }
+    ]
+  }
+}

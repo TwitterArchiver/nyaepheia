@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2049814827116396577",
+    "created_at": "2026-04-30T11:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T12:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049814827116396577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1073868204",
+          "start": 3,
+          "username": "lipeng0820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049814827116396577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049706393834492264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lipeng0820: 好像发过一次这个视频，但是最近X上不知道又从哪儿冒出来一些小喷子，再分享一次。\n\n连买卖小米股票都能成喷点…投资本身就是在动态中不断改变，一个人今天信A明天信B，如果不是认知渠道发生了重大变化，那确实不合理。\n\n但几年、几十年保持一个观点不动摇……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 232100,
+        "height": 1024,
+        "media_key": "13_2049705757327953920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049705757327953920/img/Z9KbaDjf7ixq8TYZ.jpg",
+        "public_metrics": {
+          "view_count": 31011
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049705757327953920/vid/avc1/320x568/gn5l4KA_RUG4Xtvx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049705757327953920/vid/avc1/480x852/PdLC4Ra-sZvogjEh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049705757327953920/vid/avc1/576x1024/J6j6Ym3KuI14HSl0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049705757327953920/pl/C57fhOMQPleg2jRm.m3u8?v=60d"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2049814827116396577",
+        "created_at": "2026-04-30T11:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049814827116396577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1073868204",
+              "start": 3,
+              "username": "lipeng0820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049814827116396577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049706393834492264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lipeng0820: 好像发过一次这个视频，但是最近X上不知道又从哪儿冒出来一些小喷子，再分享一次。\n\n连买卖小米股票都能成喷点…投资本身就是在动态中不断改变，一个人今天信A明天信B，如果不是认知渠道发生了重大变化，那确实不合理。\n\n但几年、几十年保持一个观点不动摇……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049705757327953920"
+          ]
+        },
+        "author_id": "1073868204",
+        "conversation_id": "2049706393834492264",
+        "created_at": "2026-04-30T04:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049706393834492264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJUVG4mCCj",
+              "end": 164,
+              "expanded_url": "https://x.com/lipeng0820/status/2049706393834492264/video/1",
+              "media_key": "13_2049705757327953920",
+              "start": 141,
+              "url": "https://t.co/CJUVG4mCCj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049706393834492264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 243,
+          "impression_count": 10626,
+          "like_count": 356,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "好像发过一次这个视频，但是最近X上不知道又从哪儿冒出来一些小喷子，再分享一次。\n\n连买卖小米股票都能成喷点…投资本身就是在动态中不断改变，一个人今天信A明天信B，如果不是认知渠道发生了重大变化，那确实不合理。\n\n但几年、几十年保持一个观点不动摇…要么这事儿是真理，要么这人是真蠢。 https://t.co/CJUVG4mCCj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 767,
+          "like_count": 18265,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 3011
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2013-01-09T14:07:02.000Z",
+        "description": "“人生就像巧克力，你永远不知道下一颗是什么味道……” 科技整活/开箱试用/烂梗王🏆/AI 宿主/奇闻e事/亲测好使™我是认真的！ ✈️ TG https://t.co/7yKW5WG4sd 👋你好！Hello！こんにちは！Bonjour！Ciao！Hola！สวัสดีครับ！Привет！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lipeng0820",
+                "end": 94,
+                "expanded_url": "https://t.me/lipeng0820",
+                "start": 71,
+                "url": "https://t.co/7yKW5WG4sd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lee.sd",
+                "end": 23,
+                "expanded_url": "https://lee.sd",
+                "start": 0,
+                "url": "https://t.co/nmKkSfc2YG"
+              }
+            ]
+          }
+        },
+        "id": "1073868204",
+        "location": "0086",
+        "name": "SimbaLee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992085628444626944/K-GSDxFQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43421,
+          "following_count": 920,
+          "like_count": 13700,
+          "listed_count": 382,
+          "media_count": 5563,
+          "tweet_count": 46558
+        },
+        "url": "https://t.co/nmKkSfc2YG",
+        "username": "lipeng0820",
+        "verified": true
+      }
+    ]
+  }
+}

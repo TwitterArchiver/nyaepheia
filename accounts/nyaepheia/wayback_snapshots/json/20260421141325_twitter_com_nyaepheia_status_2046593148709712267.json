@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046593148709712267",
+    "created_at": "2026-04-21T14:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046593148709712267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lcayu/status/2…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/lcayu/status/2046416848363905496",
+          "start": 38,
+          "url": "https://t.co/lT1nYHnodp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046593148709712267",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046416848363905496",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "「現在I have full context. 整理好的計画を作ります。」 https://t.co/lT1nYHnodp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2008,
+        "media_key": "3_2046416844748468224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZVRyWbsAA5WDM.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046593148709712267",
+        "created_at": "2026-04-21T14:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046593148709712267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lcayu/status/2…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/lcayu/status/2046416848363905496",
+              "start": 38,
+              "url": "https://t.co/lT1nYHnodp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046593148709712267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046416848363905496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「現在I have full context. 整理好的計画を作ります。」 https://t.co/lT1nYHnodp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046416844748468224"
+          ]
+        },
+        "author_id": "170414522",
+        "conversation_id": "2046416848363905496",
+        "created_at": "2026-04-21T02:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T03:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046416848363905496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/whj61rXOST",
+              "end": 95,
+              "expanded_url": "https://x.com/lcayu/status/2046416848363905496/photo/1",
+              "media_key": "3_2046416844748468224",
+              "start": 72,
+              "url": "https://t.co/whj61rXOST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046416848363905496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 35056,
+          "like_count": 537,
+          "quote_count": 6,
+          "reply_count": 20,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "只有AI可以输出的话：\n現在I have full context. 整理好的計画を作ります。\n\nClaude桑，君外国語really上手ね。 https://t.co/whj61rXOST"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 740,
+          "like_count": 16122,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2525
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-24T19:32:34.000Z",
+        "description": "Hourensou Engineer👨‍💻.\nToo young too simple,sometimes naive.\n俺中国語本当上手。\n想躺平而不得中🐮🐴。\n锁推follower会被B哦\n\n📷 🎸 🎶 🚴‍♂️ 👨‍🍳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lanpice/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lanpice/",
+                "start": 0,
+                "url": "https://t.co/QRLOYhp91J"
+              }
+            ]
+          }
+        },
+        "id": "170414522",
+        "location": "日本",
+        "name": "Lanpice",
+        "pinned_tweet_id": "1925512190305739048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2206242728/104_15274625_76408dadc67079c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11002,
+          "following_count": 940,
+          "like_count": 8140,
+          "listed_count": 70,
+          "media_count": 2411,
+          "tweet_count": 28997
+        },
+        "url": "https://t.co/QRLOYhp91J",
+        "username": "lcayu",
+        "verified": true
+      }
+    ]
+  }
+}

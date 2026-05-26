@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1750052293607669760",
+          "name": "DevPlatform JP"
+        }
+      }
+    ],
+    "conversation_id": "2046028991304511945",
+    "created_at": "2026-04-20T00:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T01:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046028991304511945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/supezen/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/supezen/status/2045730228383928503",
+          "start": 28,
+          "url": "https://t.co/bcbdbH5T6n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046028991304511945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045730228383928503",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好消息诶！可以把帖子自动同步bluesky 做备份了！ https://t.co/bcbdbH5T6n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2408,
+        "media_key": "3_2045727975740723200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPiwVUa0AAaZ5b.jpg",
+        "width": 1884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1750052293607669760",
+              "name": "DevPlatform JP"
+            }
+          }
+        ],
+        "conversation_id": "2046028991304511945",
+        "created_at": "2026-04-20T00:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T01:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046028991304511945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/supezen/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/supezen/status/2045730228383928503",
+              "start": 28,
+              "url": "https://t.co/bcbdbH5T6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046028991304511945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045730228383928503",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好消息诶！可以把帖子自动同步bluesky 做备份了！ https://t.co/bcbdbH5T6n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045727975740723200"
+          ]
+        },
+        "author_id": "1520209192375644160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1750052293607669760",
+              "name": "DevPlatform JP"
+            }
+          }
+        ],
+        "conversation_id": "2045730228383928503",
+        "created_at": "2026-04-19T05:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045730228383928503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NSlkKNWFEL",
+              "end": 71,
+              "expanded_url": "https://x.com/supezen/status/2045730228383928503/photo/1",
+              "media_key": "3_2045727975740723200",
+              "start": 48,
+              "url": "https://t.co/NSlkKNWFEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045730228383928503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 529,
+          "impression_count": 112636,
+          "like_count": 507,
+          "quote_count": 12,
+          "reply_count": 36,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "明天开始 X 读取 API 大幅降价90%\n\n老马发现读取根本防不住\n\n有太多第三方工具可以选 https://t.co/NSlkKNWFEL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 713,
+          "like_count": 15358,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2301
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-30T01:11:43.000Z",
+        "description": "indie maker. building @dokobot.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "dokobot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zen.cooking",
+                "end": 23,
+                "expanded_url": "http://zen.cooking",
+                "start": 0,
+                "url": "https://t.co/jdqJWaIqbC"
+              }
+            ]
+          }
+        },
+        "id": "1520209192375644160",
+        "name": "ZEN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038515430860754944/9L7_394S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30788,
+          "following_count": 563,
+          "like_count": 6456,
+          "listed_count": 495,
+          "media_count": 1447,
+          "tweet_count": 6276
+        },
+        "url": "https://t.co/jdqJWaIqbC",
+        "username": "supezen",
+        "verified": true
+      }
+    ]
+  }
+}

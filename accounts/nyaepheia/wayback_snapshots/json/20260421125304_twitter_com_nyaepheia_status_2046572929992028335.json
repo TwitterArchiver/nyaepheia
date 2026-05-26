@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046572929992028335",
+    "created_at": "2026-04-21T12:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046572929992028335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2046564818069725246",
+          "start": 145,
+          "url": "https://t.co/Iog4NdfhxO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046572929992028335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046564818069725246",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天哪，跨性别圈子（此处指中文推特和bluesky 等平台上跨性别聚集而形成的社群）已经够乱了。我都看见过顺直男评价咱为「od 雌二醇」了\n能不能不要把跨圈和od 圈子捆绑（？？）\n这样完全不利于跨性别群体的利益。也不利于oder 的利益。因为oder 也并非都是transgender 。 https://t.co/Iog4NdfhxO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046564815079120897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbb2yyaoAEHdSF.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046572929992028335",
+        "created_at": "2026-04-21T12:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046572929992028335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2046564818069725246",
+              "start": 145,
+              "url": "https://t.co/Iog4NdfhxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046572929992028335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046564818069725246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天哪，跨性别圈子（此处指中文推特和bluesky 等平台上跨性别聚集而形成的社群）已经够乱了。我都看见过顺直男评价咱为「od 雌二醇」了\n能不能不要把跨圈和od 圈子捆绑（？？）\n这样完全不利于跨性别群体的利益。也不利于oder 的利益。因为oder 也并非都是transgender 。 https://t.co/Iog4NdfhxO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046564815079120897"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2046559960310730902",
+        "created_at": "2026-04-21T12:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046564818069725246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qmB7reCDos",
+              "end": 31,
+              "expanded_url": "https://x.com/aaarjkk/status/2046564818069725246/photo/1",
+              "media_key": "3_2046564815079120897",
+              "start": 8,
+              "url": "https://t.co/qmB7reCDos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046564818069725246",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046564528197095927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😮‍💨。。。. https://t.co/qmB7reCDos"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 737,
+          "like_count": 16063,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2499
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045114253154385920/7WrwApCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 583,
+          "like_count": 10281,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1372
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

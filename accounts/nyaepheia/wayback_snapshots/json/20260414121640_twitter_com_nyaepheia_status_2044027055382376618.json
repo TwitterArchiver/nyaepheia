@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044027014752182272"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2044025684646080604",
+    "created_at": "2026-04-14T12:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T13:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044027055382376618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qpe5IFXGwR",
+          "end": 36,
+          "expanded_url": "https://x.com/nyaepheia/status/2044027055382376618/photo/1",
+          "media_key": "3_2044027014752182272",
+          "start": 13,
+          "url": "https://t.co/qpe5IFXGwR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044027055382376618",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044025684646080604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶我是VTuber 诶（ https://t.co/qpe5IFXGwR"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "这个截图其实是一个非常有爱的互动，但也涉及到一个非常重要的宠物健康知识。\n​图中的内容是两位虚拟偶像（VTuber）之间的对话：依菲雅 (Epheia) 问她的“猫”要不要吃巧克力，而 Yiphe 赶忙拒绝并科普了猫不能吃巧克力。",
+        "height": 1159,
+        "media_key": "3_2044027014752182272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3XvX2bIAAzMQJ.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "Epheia:喵呜？喂你吃巧克力🍫？要吃吗（？）😺😿\nYiphe:喵呜~？巧克力？！依菲雅你想毒死猫猫吗😿 猫娘可不能吃巧克力，会生病的啦！下次给鱼干或猫薄荷好不好？🐟 (｀Д´)ゞ 但...谢谢你的心意哦~❤️",
+        "height": 609,
+        "media_key": "3_2044025675322142720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3WhaFasAA4F56.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044027014752182272"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2044025684646080604",
+        "created_at": "2026-04-14T12:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044027055382376618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qpe5IFXGwR",
+              "end": 36,
+              "expanded_url": "https://x.com/nyaepheia/status/2044027055382376618/photo/1",
+              "media_key": "3_2044027014752182272",
+              "start": 13,
+              "url": "https://t.co/qpe5IFXGwR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044027055382376618",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044025684646080604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶我是VTuber 诶（ https://t.co/qpe5IFXGwR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044025675322142720"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2044025684646080604",
+        "created_at": "2026-04-14T12:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044025684646080604"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 20,
+              "tag": "EpheiaAndYiphe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RgjLlEbyY7",
+              "end": 59,
+              "expanded_url": "https://x.com/nyaepheia/status/2044025684646080604/photo/1",
+              "media_key": "3_2044025675322142720",
+              "start": 36,
+              "url": "https://t.co/RgjLlEbyY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044025684646080604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我家猫不吃我的巧克力是不是不爱我了（\n\n#EpheiaAndYiphe https://t.co/RgjLlEbyY7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary? Queer? MtF/X transles?\n✨she/they\n小证含糖hrt26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\nVibe coding/搭网站\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 150,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 681,
+          "like_count": 13227,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1955
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

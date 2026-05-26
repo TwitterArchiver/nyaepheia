@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Tennessee",
+          "id": "1016382805914210304",
+          "name": "Tennessee"
+        }
+      }
+    ],
+    "conversation_id": "2034803556818329948",
+    "created_at": "2026-03-20T01:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T02:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034803556818329948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1143239749379022849",
+          "start": 3,
+          "username": "USA_Polling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034803556818329948",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034728832024949247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @USA_Polling: If not nazi, why nazi shaped?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Tennessee",
+              "id": "1016382805914210304",
+              "name": "Tennessee"
+            }
+          }
+        ],
+        "conversation_id": "2034803556818329948",
+        "created_at": "2026-03-20T01:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T02:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034803556818329948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1143239749379022849",
+              "start": 3,
+              "username": "USA_Polling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034803556818329948",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034728832024949247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @USA_Polling: If not nazi, why nazi shaped?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1143239749379022849",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Tennessee",
+              "id": "1016382805914210304",
+              "name": "Tennessee"
+            }
+          }
+        ],
+        "conversation_id": "2034728832024949247",
+        "created_at": "2026-03-19T20:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T21:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034728832024949247"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "nazi",
+              "probability": 0.4975,
+              "start": 7,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/PinkNews/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/PinkNews/status/2034629599028486345",
+              "start": 30,
+              "url": "https://t.co/15Z4anRyRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034728832024949247",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 21654,
+          "like_count": 1216,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034629599028486345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "If not nazi, why nazi shaped? https://t.co/15Z4anRyRu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+友好 | 09 | 文科生 | MtF?MtX?探索中，总之不是顺直男 | she/they | (暂)未HRT | 家长党 | 天残党 | Vibe coding | 搭建网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 337,
+          "like_count": 4450,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-24T19:29:31.000Z",
+        "description": "Polls, Data, Shitposts, Opinions, Personal Account // Email or DM About Promotions // Support Me: https://t.co/19q84QjwLc 🐱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/polling",
+                "end": 121,
+                "expanded_url": "http://ko-fi.com/polling",
+                "start": 98,
+                "url": "https://t.co/19q84QjwLc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "usapolling.substack.com",
+                "end": 23,
+                "expanded_url": "https://usapolling.substack.com/",
+                "start": 0,
+                "url": "https://t.co/IW9XtWhnZh"
+              }
+            ]
+          }
+        },
+        "id": "1143239749379022849",
+        "location": "🇺🇸 Your Dad's Bedroom 🏳️‍⚧️",
+        "name": "Polling USA",
+        "pinned_tweet_id": "1968422896885272827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034122671211089922/yWPURPEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147738,
+          "following_count": 488,
+          "like_count": 14775,
+          "listed_count": 1536,
+          "media_count": 13472,
+          "tweet_count": 45748
+        },
+        "url": "https://t.co/IW9XtWhnZh",
+        "username": "USA_Polling",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046482507085041893",
+    "created_at": "2026-04-21T13:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T14:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046576261464813840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1685261233325285376",
+          "start": 0,
+          "username": "caixukun134114"
+        },
+        {
+          "end": 32,
+          "id": "1852895432269234176",
+          "start": 16,
+          "username": "432Ifantrygroup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "zh.wikipedia.org/wiki/NSFW",
+          "end": 56,
+          "expanded_url": "https://zh.wikipedia.org/wiki/NSFW",
+          "start": 33,
+          "status": 200,
+          "title": "NSFW - 维基百科，自由的百科全书",
+          "unwound_url": "https://zh.wikipedia.org/wiki/NSFW",
+          "url": "https://t.co/44f2ju0dkj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046576261464813840",
+    "in_reply_to_user_id": "1685261233325285376",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046575886632473070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caixukun134114 @432Ifantrygroup https://t.co/44f2ju0dkj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046482507085041893",
+        "created_at": "2026-04-21T13:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046576261464813840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1685261233325285376",
+              "start": 0,
+              "username": "caixukun134114"
+            },
+            {
+              "end": 32,
+              "id": "1852895432269234176",
+              "start": 16,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "zh.wikipedia.org/wiki/NSFW",
+              "end": 56,
+              "expanded_url": "https://zh.wikipedia.org/wiki/NSFW",
+              "start": 33,
+              "status": 200,
+              "title": "NSFW - 维基百科，自由的百科全书",
+              "unwound_url": "https://zh.wikipedia.org/wiki/NSFW",
+              "url": "https://t.co/44f2ju0dkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046576261464813840",
+        "in_reply_to_user_id": "1685261233325285376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046575886632473070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caixukun134114 @432Ifantrygroup https://t.co/44f2ju0dkj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685261233325285376",
+        "conversation_id": "2046482507085041893",
+        "created_at": "2026-04-21T13:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046575886632473070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 27,
+              "id": "1852895432269234176",
+              "start": 11,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046575886632473070",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046575742671344028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @432Ifantrygroup 话说什么是nsfw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 738,
+          "like_count": 16066,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2504
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-29T12:09:36.000Z",
+        "description": "普通，平淡，稍微沾点建政的日子人，纯情绪输出会拉黑",
+        "id": "1685261233325285376",
+        "location": "安徽，合肥",
+        "name": "万能哈基旅店",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933399946784591872/8l2liLZS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 154,
+          "like_count": 12637,
+          "listed_count": 6,
+          "media_count": 347,
+          "tweet_count": 7876
+        },
+        "username": "caixukun134114",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046155626104098949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 3102,
+          "like_count": 25612,
+          "listed_count": 3,
+          "media_count": 276,
+          "tweet_count": 6719
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036887938512871424"
+      ],
+      "media_source_tweet_id": [
+        "2036887942371725488"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2037041103153811748",
+    "created_at": "2026-03-26T05:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T06:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037041103153811748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519891633201946629",
+          "start": 3,
+          "username": "lego_2005"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F9kQsrzvcT",
+          "end": 63,
+          "expanded_url": "https://x.com/lego_2005/status/2036887942371725488/photo/1",
+          "media_key": "3_2036887938512871424",
+          "start": 40,
+          "url": "https://t.co/F9kQsrzvcT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037041103153811748",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 271
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036887942371725488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @lego_2005: Don’t care\n\nTrans rights https://t.co/F9kQsrzvcT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 419,
+        "media_key": "3_2036887938512871424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HER6ycZWYAAdXla.jpg",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036887938512871424"
+          ],
+          "media_source_tweet_id": [
+            "2036887942371725488"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2037041103153811748",
+        "created_at": "2026-03-26T05:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037041103153811748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519891633201946629",
+              "start": 3,
+              "username": "lego_2005"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F9kQsrzvcT",
+              "end": 63,
+              "expanded_url": "https://x.com/lego_2005/status/2036887942371725488/photo/1",
+              "media_key": "3_2036887938512871424",
+              "start": 40,
+              "url": "https://t.co/F9kQsrzvcT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037041103153811748",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 271
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036887942371725488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @lego_2005: Don’t care\n\nTrans rights https://t.co/F9kQsrzvcT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036887938512871424"
+          ]
+        },
+        "author_id": "1519891633201946629",
+        "conversation_id": "2036887942371725488",
+        "created_at": "2026-03-25T19:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T20:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036887942371725488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F9kQsrzvcT",
+              "end": 48,
+              "expanded_url": "https://x.com/lego_2005/status/2036887942371725488/photo/1",
+              "media_key": "3_2036887938512871424",
+              "start": 25,
+              "url": "https://t.co/F9kQsrzvcT"
+            },
+            {
+              "display_url": "x.com/discussingfilm…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/discussingfilm/status/2036881399102288047",
+              "start": 49,
+              "url": "https://t.co/8YeRZn838K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036887942371725488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 15960,
+          "like_count": 1883,
+          "quote_count": 1,
+          "reply_count": 49,
+          "retweet_count": 271
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036881399102288047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "Don’t care\n\nTrans rights https://t.co/F9kQsrzvcT https://t.co/8YeRZn838K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+友好 | 09 | 文科生 | MtF/MtX? | she/they | 无糖 | (半个)家长党 | 天残党 | Vibe coding | 搭网站 | 成分不明的可能会直接ban",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 437,
+          "like_count": 4956,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-29T04:10:08.000Z",
+        "description": "LGBTQ safe. the other half of transgender goth girl team rocket, your local Lovecraftian historian pfp by @WildaSarah234",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 106,
+                "username": "WildaSarah234"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@TherealLEGOma…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@TherealLEGOman2005?si=GTAWO-Mr4jLh83v9",
+                "start": 0,
+                "url": "https://t.co/I5SvCatKrv"
+              }
+            ]
+          }
+        },
+        "id": "1519891633201946629",
+        "location": "Unicron she/her",
+        "name": "Lucy 🏳️‍⚧️ literally Supergirl",
+        "pinned_tweet_id": "2032257153394758042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006268717944995840/JRG-Xznt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 686,
+          "like_count": 247164,
+          "listed_count": 9,
+          "media_count": 8886,
+          "tweet_count": 76387
+        },
+        "url": "https://t.co/I5SvCatKrv",
+        "username": "lego_2005",
+        "verified": false
+      }
+    ]
+  }
+}

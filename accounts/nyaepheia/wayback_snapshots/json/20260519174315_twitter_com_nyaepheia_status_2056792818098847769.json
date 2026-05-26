@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2056792818098847769",
+    "created_at": "2026-05-19T17:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056792818098847769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "17306975",
+          "start": 3,
+          "username": "livedoornews"
+        }
+      ],
+      "urls": [
+        {
+          "description": "中国・上海市の商業ビルにある日本料理店にナイフを持った男が押し入り、3人が負傷しました。当時、店内には日本人もいたとの情報がありますが、被害者に日本人が含まれているかどうかはまだ分かっていません。押し",
+          "display_url": "news.livedoor.com/lite/article_d…",
+          "end": 83,
+          "expanded_url": "https://news.livedoor.com/lite/article_detail/31316558/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2056656208673824768/onv9rHId?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2056656208673824768/onv9rHId?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 60,
+          "status": 200,
+          "title": "【速報】上海の日本料理店にナイフ男が押し入り3人負傷　59歳の中国人の身柄確保　日本人が店内にいたとの情報も",
+          "unwound_url": "https://news.livedoor.com/article/detail/31316558/",
+          "url": "https://t.co/Ni6wEbYIUw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056792818098847769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 476
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056658115358048737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @livedoornews: 【判明】中国・上海の日本料理店にナイフ男が押し入り3人負傷、59歳中国人の身柄確保\nhttps://t.co/Ni6wEbYIUw\n\n当時、店内には日本人もいたとの情報があるが、被害者に日本人が含まれているかどうかはまだわかっていない。警察に…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2056792818098847769",
+        "created_at": "2026-05-19T17:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056792818098847769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "17306975",
+              "start": 3,
+              "username": "livedoornews"
+            }
+          ],
+          "urls": [
+            {
+              "description": "中国・上海市の商業ビルにある日本料理店にナイフを持った男が押し入り、3人が負傷しました。当時、店内には日本人もいたとの情報がありますが、被害者に日本人が含まれているかどうかはまだ分かっていません。押し",
+              "display_url": "news.livedoor.com/lite/article_d…",
+              "end": 83,
+              "expanded_url": "https://news.livedoor.com/lite/article_detail/31316558/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2056656208673824768/onv9rHId?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056656208673824768/onv9rHId?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 60,
+              "status": 200,
+              "title": "【速報】上海の日本料理店にナイフ男が押し入り3人負傷　59歳の中国人の身柄確保　日本人が店内にいたとの情報も",
+              "unwound_url": "https://news.livedoor.com/article/detail/31316558/",
+              "url": "https://t.co/Ni6wEbYIUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056792818098847769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 476
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056658115358048737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @livedoornews: 【判明】中国・上海の日本料理店にナイフ男が押し入り3人負傷、59歳中国人の身柄確保\nhttps://t.co/Ni6wEbYIUw\n\n当時、店内には日本人もいたとの情報があるが、被害者に日本人が含まれているかどうかはまだわかっていない。警察に…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17306975",
+        "conversation_id": "2056658115358048737",
+        "created_at": "2026-05-19T08:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056658115358048737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "中国・上海市の商業ビルにある日本料理店にナイフを持った男が押し入り、3人が負傷しました。当時、店内には日本人もいたとの情報がありますが、被害者に日本人が含まれているかどうかはまだ分かっていません。押し",
+              "display_url": "news.livedoor.com/lite/article_d…",
+              "end": 65,
+              "expanded_url": "https://news.livedoor.com/lite/article_detail/31316558/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2056656208673824768/onv9rHId?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056656208673824768/onv9rHId?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "【速報】上海の日本料理店にナイフ男が押し入り3人負傷　59歳の中国人の身柄確保　日本人が店内にいたとの情報も",
+              "unwound_url": "https://news.livedoor.com/article/detail/31316558/",
+              "url": "https://t.co/Ni6wEbYIUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056658115358048737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 306722,
+          "like_count": 850,
+          "quote_count": 104,
+          "reply_count": 124,
+          "retweet_count": 476
+        },
+        "reply_settings": "everyone",
+        "text": "【判明】中国・上海の日本料理店にナイフ男が押し入り3人負傷、59歳中国人の身柄確保\nhttps://t.co/Ni6wEbYIUw\n\n当時、店内には日本人もいたとの情報があるが、被害者に日本人が含まれているかどうかはまだわかっていない。警察によると、男は言動が混乱していて、精神疾患の治療歴があるという。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 826,
+          "like_count": 22293,
+          "listed_count": 3,
+          "media_count": 343,
+          "tweet_count": 4067
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。また、Amazonや楽天などのおトクなお買い物情報も発信中です。 ■公式アプリhttps://t.co/mboL5a5cKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/JHuxZ3v",
+                "end": 115,
+                "expanded_url": "http://onl.la/JHuxZ3v",
+                "start": 92,
+                "url": "https://t.co/mboL5a5cKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com",
+                "end": 23,
+                "expanded_url": "http://news.livedoor.com/",
+                "start": 0,
+                "url": "https://t.co/wgqBLjY4vo"
+              }
+            ]
+          }
+        },
+        "id": "17306975",
+        "name": "ライブドアニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698896423025270784/GhIkQiXi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167280,
+          "following_count": 107,
+          "like_count": 2289,
+          "listed_count": 13947,
+          "media_count": 288981,
+          "tweet_count": 465989
+        },
+        "url": "https://t.co/wgqBLjY4vo",
+        "username": "livedoornews",
+        "verified": true
+      }
+    ]
+  }
+}

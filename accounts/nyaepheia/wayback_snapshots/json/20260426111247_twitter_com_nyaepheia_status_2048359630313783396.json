@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2048080760427761842",
+    "created_at": "2026-04-26T11:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T12:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048359630313783396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1759983760152637440",
+          "start": 0,
+          "username": "kaixinua"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20483…",
+          "end": 106,
+          "expanded_url": "https://x.com/i/status/2048356689045533099",
+          "start": 83,
+          "url": "https://t.co/fE5rUwML4E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048359630313783396",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048356689045533099",
+        "type": "quoted"
+      },
+      {
+        "id": "2048080760427761842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@kaixinua 请注意，这个帖子的情况可能有不属实之处。请在这个帖子查看最新情况，或通过其他渠道查证\n我们以后会更加认真审核此类信息\n\n总之，希望大家都一切安好\nhttps://t.co/fE5rUwML4E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048356522447781888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG05Z43awAA8lbC.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2048080760427761842",
+        "created_at": "2026-04-26T11:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048359630313783396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1759983760152637440",
+              "start": 0,
+              "username": "kaixinua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20483…",
+              "end": 106,
+              "expanded_url": "https://x.com/i/status/2048356689045533099",
+              "start": 83,
+              "url": "https://t.co/fE5rUwML4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048359630313783396",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048356689045533099",
+            "type": "quoted"
+          },
+          {
+            "id": "2048080760427761842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@kaixinua 请注意，这个帖子的情况可能有不属实之处。请在这个帖子查看最新情况，或通过其他渠道查证\n我们以后会更加认真审核此类信息\n\n总之，希望大家都一切安好\nhttps://t.co/fE5rUwML4E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048356522447781888"
+          ]
+        },
+        "author_id": "2031097520840167424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2048356689045533099",
+        "created_at": "2026-04-26T11:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048356689045533099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJwm6u7uSh",
+              "end": 28,
+              "expanded_url": "https://x.com/Ciallo_114_514/status/2048356689045533099/photo/1",
+              "media_key": "3_2048356522447781888",
+              "start": 5,
+              "url": "https://t.co/fJwm6u7uSh"
+            },
+            {
+              "display_url": "x.com/xyu1182202/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/xyu1182202/status/2048064640190730306",
+              "start": 29,
+              "url": "https://t.co/pkblg46XK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048356689045533099",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048064640190730306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "活了活了 https://t.co/fJwm6u7uSh https://t.co/pkblg46XK0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2048080760427761842",
+        "created_at": "2026-04-25T16:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048080760427761842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1759983760152637440",
+              "start": 12,
+              "username": "kaixinua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xyu1182202/sta…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/xyu1182202/status/2048064640190730306",
+              "start": 149,
+              "url": "https://t.co/euQqesUeRp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048080760427761842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 21,
+                "id": "1759983760152637440",
+                "start": 12,
+                "username": "kaixinua"
+              }
+            ]
+          },
+          "text": "讣告\n沉痛宣告我们的朋友@kaixinua 已于近日不幸离世。\n面对内心的挣扎与痛苦，她也曾向世界寻求陪伴与理解。\n她走得太早。\n我们尊重她的选择，愿她摆脱所有的痛苦与折磨——按照她的心愿。\n我们希望她在下辈子能作为一个健康快乐的小女孩，自由地成长、无忧无虑地生活，感受这个世界所有的温柔与美好。\n愿她的灵魂得到安息。\n永远怀念你。\n\n［修改自原帖：增加标点符号］"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1749,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048064640190730306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "讣告\n沉痛宣告我们的朋友@kaixinua 已于近日不幸离世。\n面对内心的挣扎与痛苦，她也曾向世界寻求陪伴与理解。\n她走得太早。\n我们尊重她的选择，愿她摆脱所有的痛苦与折磨——按照她的心愿。\n我们希望她在下辈子能作为一个健康快乐的小女孩，自由地成长、无忧无虑地生活，感受这个世界所有的温柔与美好。 https://t.co/euQqesUeRp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 761,
+          "like_count": 17598,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2905
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T16:50:15.000Z",
+        "description": "酗酒，割手样样俱全（求求互fo🥺",
+        "id": "1759983760152637440",
+        "location": "mars",
+        "name": "kaikaixin🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759984206468222976/03bgRFtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 392,
+          "like_count": 489,
+          "listed_count": 3,
+          "media_count": 31,
+          "tweet_count": 224
+        },
+        "username": "kaixinua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T19:59:37.000Z",
+        "description": "前世@YunoQiu56649｜互fo喵(没回私信提醒我喵)\n生日0402｜hrt2026.1.12-3.19 4.24-？｜已炸柜｜超级天残党+家长不管党｜中焦重抑｜全部立场中立｜碎碎念｜我又不想死了｜fo我请顺带fo小号@qi_bu64350",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "qi_bu64350"
+              }
+            ]
+          }
+        },
+        "id": "2031097520840167424",
+        "location": "你家",
+        "name": "Ciallo～(∠・ω ＜ )︵★🍥🏳️‍⚧️（互fo寻回ing）",
+        "pinned_tweet_id": "2047315543703928878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 748,
+          "like_count": 2209,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 3945
+        },
+        "username": "Ciallo_114_514",
+        "verified": false
+      }
+    ]
+  }
+}

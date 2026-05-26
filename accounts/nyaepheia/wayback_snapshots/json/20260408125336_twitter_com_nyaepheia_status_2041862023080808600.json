@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2041860322685022247",
+    "created_at": "2026-04-08T12:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041862023080808600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2004410188674301953",
+          "start": 0,
+          "username": "abc11451415411"
+        },
+        {
+          "end": 31,
+          "id": "2031097520840167424",
+          "start": 16,
+          "username": "Ciallo_114_514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041862023080808600",
+    "in_reply_to_user_id": "2004410188674301953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041861838892085611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abc11451415411 @Ciallo_114_514 我妈是病娇（\n所以我才是家长党的（\n😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2041860322685022247",
+        "created_at": "2026-04-08T12:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041862023080808600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2004410188674301953",
+              "start": 0,
+              "username": "abc11451415411"
+            },
+            {
+              "end": 31,
+              "id": "2031097520840167424",
+              "start": 16,
+              "username": "Ciallo_114_514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041862023080808600",
+        "in_reply_to_user_id": "2004410188674301953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041861838892085611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abc11451415411 @Ciallo_114_514 我妈是病娇（\n所以我才是家长党的（\n😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004410188674301953",
+        "conversation_id": "2041860322685022247",
+        "created_at": "2026-04-08T12:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041861838892085611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 26,
+              "id": "2031097520840167424",
+              "start": 11,
+              "username": "Ciallo_114_514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041861838892085611",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041861492266692806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @Ciallo_114_514 他这一类的，就是因为家长的原因才这样的，你这不纯…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2041715066337452228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 624,
+          "like_count": 9329,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1156
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-26T04:33:33.000Z",
+        "description": "神秘软件联系方式278338124？\n无事勿加，感谢配合\n立场人别加，怕死",
+        "id": "2004410188674301953",
+        "location": "你家",
+        "name": "神秘",
+        "pinned_tweet_id": "2040433838015361473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040738836440117248/UOGoQp_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 25,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 689
+        },
+        "username": "abc11451415411",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T19:59:37.000Z",
+        "description": "前世@YunoQiu56649\n生日0402｜hrt2026.1.12-3.19 断糖ing｜已炸柜｜中焦重抑｜全部立场中立｜碎碎念｜我不想死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "2031097520840167424",
+        "location": "你家",
+        "name": "Ciallo～(∠・ω ＜ )︵🍥（互fo寻回ing）",
+        "pinned_tweet_id": "2041169063330889949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 506,
+          "like_count": 951,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2204
+        },
+        "username": "Ciallo_114_514",
+        "verified": false
+      }
+    ]
+  }
+}

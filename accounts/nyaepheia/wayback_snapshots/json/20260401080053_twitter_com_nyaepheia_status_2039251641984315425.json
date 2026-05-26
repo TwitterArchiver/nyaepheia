@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2039251641984315425",
+    "created_at": "2026-04-01T08:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T09:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039251641984315425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2431427114",
+          "start": 3,
+          "username": "RedDiversidad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039251641984315425",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 458
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038828853636764075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RedDiversidad: Corte reconoce a infancias trans su derecho a cambiar nombre y género en Guerrero.\n\nLa medida promovida por la CNDH fue…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 645,
+        "media_key": "3_2038823911484502016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtbi5ubMAAE1l6.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2039251641984315425",
+        "created_at": "2026-04-01T08:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039251641984315425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2431427114",
+              "start": 3,
+              "username": "RedDiversidad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039251641984315425",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 458
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038828853636764075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RedDiversidad: Corte reconoce a infancias trans su derecho a cambiar nombre y género en Guerrero.\n\nLa medida promovida por la CNDH fue…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038823911484502016"
+          ]
+        },
+        "author_id": "2431427114",
+        "conversation_id": "2038828853636764075",
+        "created_at": "2026-03-31T04:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038828853636764075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4iWnspv1T",
+              "end": 302,
+              "expanded_url": "https://x.com/RedDiversidad/status/2038828853636764075/photo/1",
+              "media_key": "3_2038823911484502016",
+              "start": 279,
+              "url": "https://t.co/t4iWnspv1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038828853636764075",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 38272,
+          "like_count": 2673,
+          "quote_count": 23,
+          "reply_count": 29,
+          "retweet_count": 458
+        },
+        "reply_settings": "everyone",
+        "text": "Corte reconoce a infancias trans su derecho a cambiar nombre y género en Guerrero.\n\nLa medida promovida por la CNDH fue aprobada por unanimidad, sentando un nuevo precedente que pone un alto a los intentos de grupos de odio por restringir las libertades de esta población. Hilo. https://t.co/t4iWnspv1T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/hrt26.4.1/家长党/天残党/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂🍥",
+        "pinned_tweet_id": "2037905372414091549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 542,
+          "like_count": 6150,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 282
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2014-04-07T04:02:08.000Z",
+        "description": "Siguenos y mantente al tanto de lo que sucede en Jalisco y el mundo.  🏳️‍🌈",
+        "id": "2431427114",
+        "location": "Guadalajara, Jalisco",
+        "name": "Noticias LGBT+",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/989978980085252097/LoNwxfjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15046,
+          "following_count": 7301,
+          "like_count": 520,
+          "listed_count": 48,
+          "media_count": 2737,
+          "tweet_count": 8316
+        },
+        "username": "RedDiversidad",
+        "verified": false
+      }
+    ]
+  }
+}

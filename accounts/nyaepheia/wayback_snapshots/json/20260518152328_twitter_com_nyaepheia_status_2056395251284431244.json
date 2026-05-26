@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2056392649314353355",
+    "created_at": "2026-05-18T15:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056395251284431244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "771705332703735808",
+          "start": 0,
+          "username": "XLionc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056395251284431244",
+    "in_reply_to_user_id": "771705332703735808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056392649314353355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XLionc 额度怎么样？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2056392649314353355",
+        "created_at": "2026-05-18T15:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056395251284431244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "771705332703735808",
+              "start": 0,
+              "username": "XLionc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056395251284431244",
+        "in_reply_to_user_id": "771705332703735808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056392649314353355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XLionc 额度怎么样？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "771705332703735808",
+        "conversation_id": "2056392649314353355",
+        "created_at": "2026-05-18T15:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056392649314353355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2056368049205485924",
+              "start": 13,
+              "url": "https://t.co/Ted8GNWOYZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056392649314353355",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056368049205485924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OpenCode Go👍 https://t.co/Ted8GNWOYZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 825,
+          "like_count": 22012,
+          "listed_count": 3,
+          "media_count": 338,
+          "tweet_count": 4024
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-02T13:44:23.000Z",
+        "description": "@ xlionjuan on most Git platforms",
+        "id": "771705332703735808",
+        "name": "XLion",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/863732386495737856/whFL9t-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 873,
+          "like_count": 8355,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1602
+        },
+        "username": "XLionc",
+        "verified": false
+      }
+    ]
+  }
+}

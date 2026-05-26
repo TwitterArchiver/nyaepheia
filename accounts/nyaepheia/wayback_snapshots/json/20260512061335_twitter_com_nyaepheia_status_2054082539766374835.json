@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2054082539766374835",
+    "created_at": "2026-05-12T06:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054082539766374835"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/desyoune_san/s…",
+          "end": 157,
+          "expanded_url": "https://twitter.com/desyoune_san/status/2053793553659392269",
+          "start": 134,
+          "url": "https://t.co/vfBnWEqr3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054082539766374835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053793553659392269",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "百合左翼/百合右翼\n\n←百合左翼\n喜欢近年来在影像作品中激进的革新派百合作品·百合配对，例如在男女作品中并不罕见的「后宫类·后宫结局」等\n\n百合右翼→\n喜欢即使经历各种纷争或波折，最终也会归于「一对一」关系的传统百合作品·百合配对的保守派\n---\n你是左翼还是右翼？ https://t.co/vfBnWEqr3O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053793550278750208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICKWj5acAAZOsT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053793550962446338",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICKWmca0AIQ2GZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2054082539766374835",
+        "created_at": "2026-05-12T06:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054082539766374835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/desyoune_san/s…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/desyoune_san/status/2053793553659392269",
+              "start": 134,
+              "url": "https://t.co/vfBnWEqr3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054082539766374835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053793553659392269",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "百合左翼/百合右翼\n\n←百合左翼\n喜欢近年来在影像作品中激进的革新派百合作品·百合配对，例如在男女作品中并不罕见的「后宫类·后宫结局」等\n\n百合右翼→\n喜欢即使经历各种纷争或波折，最终也会归于「一对一」关系的传统百合作品·百合配对的保守派\n---\n你是左翼还是右翼？ https://t.co/vfBnWEqr3O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053793550278750208",
+            "3_2053793550962446338"
+          ]
+        },
+        "author_id": "1115238480227889152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2053793553659392269",
+        "created_at": "2026-05-11T11:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053793553659392269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6hd9nPf5sf",
+              "end": 169,
+              "expanded_url": "https://x.com/desyoune_san/status/2053793553659392269/photo/1",
+              "media_key": "3_2053793550278750208",
+              "start": 146,
+              "url": "https://t.co/6hd9nPf5sf"
+            },
+            {
+              "display_url": "pic.x.com/6hd9nPf5sf",
+              "end": 169,
+              "expanded_url": "https://x.com/desyoune_san/status/2053793553659392269/photo/1",
+              "media_key": "3_2053793550962446338",
+              "start": 146,
+              "url": "https://t.co/6hd9nPf5sf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053793553659392269",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1959,
+          "impression_count": 535255,
+          "like_count": 8067,
+          "quote_count": 441,
+          "reply_count": 61,
+          "retweet_count": 1115
+        },
+        "reply_settings": "everyone",
+        "text": "百合左翼/百合右翼\n\n←百合左翼\n男女モノでは珍しくなかった「ハーレムモノ・ハーレムEND」等、近年の映像作品としては急進してきた革新的な百合作品・百合カプを好む層\n\n百合右翼→\n色々揉めたり何だったりあっても最終『１対１』の関係性に収まる往年の伝統ある百合作品・百合カプを好きな保守的な層 https://t.co/6hd9nPf5sf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 803,
+          "like_count": 20638,
+          "listed_count": 3,
+          "media_count": 284,
+          "tweet_count": 3677
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-08T13:02:28.000Z",
+        "description": "20↑/百合好き/解体済\n\n推しカプの話だけをずっとしていたい\n\nhttps://t.co/qTWvfoJpkn　https://t.co/biJffDkW54",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/37355222/",
+                "end": 56,
+                "expanded_url": "https://www.pixiv.net/users/37355222/",
+                "start": 33,
+                "url": "https://t.co/qTWvfoJpkn"
+              },
+              {
+                "display_url": "novelup.plus/user/149169572…",
+                "end": 80,
+                "expanded_url": "https://novelup.plus/user/149169572/profile",
+                "start": 57,
+                "url": "https://t.co/biJffDkW54"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/desyoune_san?t…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/desyoune_san?t=muuozN&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/K7ufkRFHHo"
+              }
+            ]
+          }
+        },
+        "id": "1115238480227889152",
+        "location": "エッチな百合イラストもTLに流す場合があります",
+        "name": "でしょうね。さん",
+        "pinned_tweet_id": "1993888688825389393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519318976114790401/ByAAEvUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6504,
+          "following_count": 4720,
+          "like_count": 69629,
+          "listed_count": 49,
+          "media_count": 10947,
+          "tweet_count": 119114
+        },
+        "url": "https://t.co/K7ufkRFHHo",
+        "username": "desyoune_san",
+        "verified": false
+      }
+    ]
+  }
+}

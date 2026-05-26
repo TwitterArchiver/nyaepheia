@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036787404007518208"
+      ],
+      "media_source_tweet_id": [
+        "2036787776587268378"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2037439418773168232",
+    "created_at": "2026-03-27T07:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T08:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037439418773168232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1634630796131594241",
+          "start": 3,
+          "username": "wanghuiling211"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U3u9S2arIk",
+          "end": 104,
+          "expanded_url": "https://x.com/wanghuiling211/status/2036787776587268378/photo/1",
+          "media_key": "3_2036787404007518208",
+          "start": 81,
+          "url": "https://t.co/U3u9S2arIk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037439418773168232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 174
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036787776587268378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wanghuiling211: 张雪峰老师这种价值观是有毒的，这是纯粹在贩卖焦虑，在鼓励恶性竞争，当然他作为“恶性竞争者”之一也为此支付了生命的代价。… https://t.co/U3u9S2arIk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1708,
+        "media_key": "3_2036787404007518208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQfWkLbsAAYV2Q.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036787404007518208"
+          ],
+          "media_source_tweet_id": [
+            "2036787776587268378"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2037439418773168232",
+        "created_at": "2026-03-27T07:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037439418773168232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1634630796131594241",
+              "start": 3,
+              "username": "wanghuiling211"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3u9S2arIk",
+              "end": 104,
+              "expanded_url": "https://x.com/wanghuiling211/status/2036787776587268378/photo/1",
+              "media_key": "3_2036787404007518208",
+              "start": 81,
+              "url": "https://t.co/U3u9S2arIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037439418773168232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 174
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036787776587268378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wanghuiling211: 张雪峰老师这种价值观是有毒的，这是纯粹在贩卖焦虑，在鼓励恶性竞争，当然他作为“恶性竞争者”之一也为此支付了生命的代价。… https://t.co/U3u9S2arIk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036787404007518208"
+          ]
+        },
+        "author_id": "1634630796131594241",
+        "conversation_id": "2036787776587268378",
+        "created_at": "2026-03-25T12:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:48:55.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036787411473121368",
+          "2036787609838457337",
+          "2036787776587268378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3u9S2arIk",
+              "end": 83,
+              "expanded_url": "https://x.com/wanghuiling211/status/2036787776587268378/photo/1",
+              "media_key": "3_2036787404007518208",
+              "start": 60,
+              "url": "https://t.co/U3u9S2arIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036787776587268378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "张雪峰老师这种价值观是有毒的，这是纯粹在贩卖焦虑，在鼓励恶性竞争，当然他作为“恶性竞争者”之一也为此支付了生命的代价。\n\n一个人来到这个世上不是为了工作，而是来享受悠闲的，一个社会把一个人的时间全部剥夺，把享受悠闲生活的门槛抬到无比高，让你在恐惧中日复一日用几十年的生命去换取，去买人生最后几年的悠闲+安全的幻象，这是人类社会最大的骗局，看不透这点的人一生都会活在“器”的层面挣扎。\n\n你也不需要努力，需要努力做的事也就表示这件事是你不想做的，你玩的时候需要努力吗？你想做的事内驱力会引领你去做，根本不需要用努力勤奋这类词来鞭笞自己。\n你要做的就是先修复好应试教育的毒害和有毒的家庭带给你的创伤，先学会去玩，去重新唤醒对世界的感知，会玩的人就会创造，你想要的一切都在创造里！\n\n学历，房子，工作统统不重要，你的父母也不重要，你不需要去背负任何人的期待，你可以让任何人失望，别人期待你不是你的人生课题。\n\n你这一生最重要的就是你的健康，你的快乐，睡好觉，吃好饭比什么都重要，一切让你睡不好觉吃不好饭的人和事都可以慢慢割舍。\n\n无论是谁制定的规则，只要你选择不玩，规则就对你没！有！任！何！约束力。\n\n上学也只是学习知识的途径之一，不是唯一，学习是终生的。\n\n你更加不需要和任何人拼，不需要参与任何恶性竞争（这样做的人不是处于焦灼中就是已经支付了生命的代价）你只要有个谋生的技能能填饱肚子，有张床睡，不去玩任何主流社会指定的游戏，身体好，去不断探索自己去做一些自己喜欢的事，和一些喜欢的人产生交集，这已经是十分理想的一生。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 307,
+          "impression_count": 234244,
+          "like_count": 1324,
+          "quote_count": 27,
+          "reply_count": 323,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "张雪峰老师这种价值观是有毒的，这是纯粹在贩卖焦虑，在鼓励恶性竞争，当然他作为“恶性竞争者”之一也为此支付了生命的代价。 https://t.co/U3u9S2arIk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+全友好 | 09 | 文科生 | MtF/MtX? | she/they | 无糖 | (半个)家长党 | 天残党 | Vibe coding | 搭网站 | 成分不明的可能会直接ban\nhttps://t.co/pke4ezHBE3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "desuwa.org/about/me/x",
+                "end": 141,
+                "expanded_url": "http://desuwa.org/about/me/x",
+                "start": 118,
+                "url": "https://t.co/pke4ezHBE3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 456,
+          "like_count": 5077,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-11T19:02:35.000Z",
+        "description": "Writer | Illustrator | Feminist | Atheist (Religion is cancer) | 高知悍妇｜INTP | ADHDer | Childfree cat lady |《基层女性》《基层女性生存指北》作者 | 已被和谐的前600万粉女拳王✌️",
+        "id": "1634630796131594241",
+        "location": "England, United Kingdom",
+        "name": "王慧玲HuilingWang",
+        "pinned_tweet_id": "1970535319184331035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019786787367845888/diLwszC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21304,
+          "following_count": 386,
+          "like_count": 7999,
+          "listed_count": 37,
+          "media_count": 345,
+          "tweet_count": 3297
+        },
+        "username": "wanghuiling211",
+        "verified": true
+      }
+    ]
+  }
+}

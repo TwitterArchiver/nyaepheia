@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2035973665012203742",
+    "created_at": "2026-03-23T13:37:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T14:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036074844727419304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1877743555961294848",
+          "start": 0,
+          "username": "nino_yukiko"
+        },
+        {
+          "end": 22,
+          "id": "1763577841588056064",
+          "start": 13,
+          "username": "yxrchina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036074844727419304",
+    "in_reply_to_user_id": "1877743555961294848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036065357535072569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nino_yukiko @yxrchina 是这样的..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2035973665012203742",
+        "created_at": "2026-03-23T13:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036074844727419304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877743555961294848",
+              "start": 0,
+              "username": "nino_yukiko"
+            },
+            {
+              "end": 22,
+              "id": "1763577841588056064",
+              "start": 13,
+              "username": "yxrchina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036074844727419304",
+        "in_reply_to_user_id": "1877743555961294848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036065357535072569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nino_yukiko @yxrchina 是这样的..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877743555961294848",
+        "conversation_id": "2035973665012203742",
+        "created_at": "2026-03-23T12:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036065357535072569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 20,
+              "id": "1763577841588056064",
+              "start": 11,
+              "username": "yxrchina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036065357535072569",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035973665012203742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @yxrchina 虽然都说不必在意外人的眼光 但实践下来真的很难…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+友好 | 09 | 文科生 | MtF/MtX? | she/they | 暂未HRT | (半个)家长党 | 天残党 | Vibe coding | 搭网站 | 成分不明的可能会直接ban",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 399,
+          "like_count": 4736,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-10T15:45:32.000Z",
+        "description": "CNCSer🇨🇳 | 民间草根队伍Team Ni2O3Xe队长与指挥狙 | ACGN系列赛事主办 | 前完美1.15rt金S | \n10' Spet.8出厂 | INTP | 假性社恐 | Male-to-Female🏳‍⚧ | 169cm 44kg | 初三在读 | 炸柜25' Oct.15  | 比赛官推见下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/@acgn_tourname…",
+                "end": 23,
+                "expanded_url": "https://x.com/@acgn_tournament",
+                "start": 0,
+                "url": "https://t.co/XShY3o751w"
+              }
+            ]
+          }
+        },
+        "id": "1877743555961294848",
+        "name": "妮诺雪子Ni₂O₃Xe",
+        "pinned_tweet_id": "2035327356005662929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030696719294582784/HtAOjfOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 63,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 130
+        },
+        "url": "https://t.co/XShY3o751w",
+        "username": "nino_yukiko",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "🏳️‍⚧️「重构时间线，再次重逢」\n| INFP / INFJ | MtF | oler转oder | 🎂08.15 | Vite | Cpp | HRT 25.08.11~25.11.30 | 已扭转 25.11.30~26.03.04 | 已炸柜 | 已断糖 | #keep4o |",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 141,
+                "start": 134,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "404yann.com",
+                "end": 23,
+                "expanded_url": "http://404yann.com",
+                "start": 0,
+                "url": "https://t.co/tx6gNy4Q6Z"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "location": "Hefei Anhui",
+        "name": "𝚂𝚢 𝚈𝚊𝚗𝚗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986480358486122496/VZfOMdaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 2341,
+          "like_count": 22247,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 6454
+        },
+        "url": "https://t.co/tx6gNy4Q6Z",
+        "username": "yxrchina",
+        "verified": false
+      }
+    ]
+  }
+}

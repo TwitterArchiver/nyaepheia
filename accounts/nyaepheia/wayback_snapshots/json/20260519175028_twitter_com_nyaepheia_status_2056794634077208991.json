@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      }
+    ],
+    "conversation_id": "2056794634077208991",
+    "created_at": "2026-05-19T17:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056794634077208991"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JLTPoetry/stat…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/JLTPoetry/status/2056391275264229501",
+          "start": 59,
+          "url": "https://t.co/roEpEmUVKj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056794634077208991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056391275264229501",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "JK·罗琳一边鼓吹对跨性别者的种族灭绝，一边把女性当作挡箭牌，但凡有人胆敢批评她的杀人意图，就立刻高喊「这是厌女」。 https://t.co/roEpEmUVKj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2056794634077208991",
+        "created_at": "2026-05-19T17:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056794634077208991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JLTPoetry/stat…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/JLTPoetry/status/2056391275264229501",
+              "start": 59,
+              "url": "https://t.co/roEpEmUVKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056794634077208991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056391275264229501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "JK·罗琳一边鼓吹对跨性别者的种族灭绝，一边把女性当作挡箭牌，但凡有人胆敢批评她的杀人意图，就立刻高喊「这是厌女」。 https://t.co/roEpEmUVKj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026864921783222272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2056298486220357970",
+        "created_at": "2026-05-18T15:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056391275264229501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "21632185",
+              "start": 0,
+              "username": "daniellismore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056391275264229501",
+        "in_reply_to_user_id": "21632185",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2920,
+          "like_count": 289,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056298486220357970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daniellismore JK Rowling promotes genocide against trans people while using women as a human shield to claim misogyny if anyone dares to criticize her murderous intentions."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 826,
+          "like_count": 22297,
+          "listed_count": 3,
+          "media_count": 343,
+          "tweet_count": 4070
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-26T03:40:37.000Z",
+        "description": "Poet. Curator of rot. Chronicler of the human condition. I am that I Am. Give peace a chance. ☮︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "josephlewistamone.wordpress.com",
+                "end": 23,
+                "expanded_url": "https://josephlewistamone.wordpress.com/",
+                "start": 0,
+                "url": "https://t.co/MHfw00juSw"
+              }
+            ]
+          }
+        },
+        "id": "2026864921783222272",
+        "name": "Joseph Tamone Poetry ☮︎",
+        "pinned_tweet_id": "2055430752116904296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051111975548030976/zI18pGIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 233,
+          "like_count": 1026,
+          "listed_count": 35,
+          "media_count": 160,
+          "tweet_count": 8994
+        },
+        "url": "https://t.co/MHfw00juSw",
+        "username": "JLTPoetry",
+        "verified": true
+      }
+    ]
+  }
+}

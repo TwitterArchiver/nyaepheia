@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048726913175420928",
+        "3_2048726913171247104",
+        "3_2048726913368420352"
+      ],
+      "media_source_tweet_id": [
+        "2048726924869124566",
+        "2048726924869124566",
+        "2048726924869124566"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2048779250753556581",
+    "created_at": "2026-04-27T15:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T16:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048779250753556581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "48307320",
+          "start": 3,
+          "username": "beardomination"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CBIBOeAmVi",
+          "end": 53,
+          "expanded_url": "https://x.com/beardomination/status/2048726924869124566/photo/1",
+          "media_key": "3_2048726913175420928",
+          "start": 30,
+          "url": "https://t.co/CBIBOeAmVi"
+        },
+        {
+          "display_url": "pic.x.com/CBIBOeAmVi",
+          "end": 53,
+          "expanded_url": "https://x.com/beardomination/status/2048726924869124566/photo/1",
+          "media_key": "3_2048726913171247104",
+          "start": 30,
+          "url": "https://t.co/CBIBOeAmVi"
+        },
+        {
+          "display_url": "pic.x.com/CBIBOeAmVi",
+          "end": 53,
+          "expanded_url": "https://x.com/beardomination/status/2048726924869124566/photo/1",
+          "media_key": "3_2048726913368420352",
+          "start": 30,
+          "url": "https://t.co/CBIBOeAmVi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048779250753556581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048726924869124566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beardomination: 请选择你的人工智障 https://t.co/CBIBOeAmVi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048726913175420928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6KRd2agAAuxuE.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2048726913171247104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6KRd1a0AAneBS.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2048726913368420352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6KRekbcAASlGy.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048726913175420928",
+            "3_2048726913171247104",
+            "3_2048726913368420352"
+          ],
+          "media_source_tweet_id": [
+            "2048726924869124566",
+            "2048726924869124566",
+            "2048726924869124566"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2048779250753556581",
+        "created_at": "2026-04-27T15:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048779250753556581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "48307320",
+              "start": 3,
+              "username": "beardomination"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CBIBOeAmVi",
+              "end": 53,
+              "expanded_url": "https://x.com/beardomination/status/2048726924869124566/photo/1",
+              "media_key": "3_2048726913175420928",
+              "start": 30,
+              "url": "https://t.co/CBIBOeAmVi"
+            },
+            {
+              "display_url": "pic.x.com/CBIBOeAmVi",
+              "end": 53,
+              "expanded_url": "https://x.com/beardomination/status/2048726924869124566/photo/1",
+              "media_key": "3_2048726913171247104",
+              "start": 30,
+              "url": "https://t.co/CBIBOeAmVi"
+            },
+            {
+              "display_url": "pic.x.com/CBIBOeAmVi",
+              "end": 53,
+              "expanded_url": "https://x.com/beardomination/status/2048726924869124566/photo/1",
+              "media_key": "3_2048726913368420352",
+              "start": 30,
+              "url": "https://t.co/CBIBOeAmVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048779250753556581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048726924869124566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beardomination: 请选择你的人工智障 https://t.co/CBIBOeAmVi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048726913175420928",
+            "3_2048726913171247104",
+            "3_2048726913368420352"
+          ]
+        },
+        "author_id": "48307320",
+        "conversation_id": "2048726924869124566",
+        "created_at": "2026-04-27T11:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048726924869124566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CBIBOeAmVi",
+              "end": 33,
+              "expanded_url": "https://x.com/beardomination/status/2048726924869124566/photo/1",
+              "media_key": "3_2048726913175420928",
+              "start": 10,
+              "url": "https://t.co/CBIBOeAmVi"
+            },
+            {
+              "display_url": "pic.x.com/CBIBOeAmVi",
+              "end": 33,
+              "expanded_url": "https://x.com/beardomination/status/2048726924869124566/photo/1",
+              "media_key": "3_2048726913171247104",
+              "start": 10,
+              "url": "https://t.co/CBIBOeAmVi"
+            },
+            {
+              "display_url": "pic.x.com/CBIBOeAmVi",
+              "end": 33,
+              "expanded_url": "https://x.com/beardomination/status/2048726924869124566/photo/1",
+              "media_key": "3_2048726913368420352",
+              "start": 10,
+              "url": "https://t.co/CBIBOeAmVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048726924869124566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 5664,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "请选择你的人工智障 https://t.co/CBIBOeAmVi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 762,
+          "like_count": 17874,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2952
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-18T10:14:47.000Z",
+        "description": "熊与人的悲欢并不相通，所以我决定把你们全部挂树。小号：@RealFoodyCat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "RealFoodyCat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/littlemoebear",
+                "end": 23,
+                "expanded_url": "https://t.me/littlemoebear",
+                "start": 0,
+                "url": "https://t.co/TbQer6WryJ"
+              }
+            ]
+          }
+        },
+        "id": "48307320",
+        "location": "Bearia",
+        "name": "🐻",
+        "pinned_tweet_id": "1347367420718039040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1405420343968243714/M7EO8Jg2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13850,
+          "following_count": 576,
+          "like_count": 3098,
+          "listed_count": 94,
+          "media_count": 1997,
+          "tweet_count": 57217
+        },
+        "url": "https://t.co/TbQer6WryJ",
+        "username": "beardomination",
+        "verified": false
+      }
+    ]
+  }
+}

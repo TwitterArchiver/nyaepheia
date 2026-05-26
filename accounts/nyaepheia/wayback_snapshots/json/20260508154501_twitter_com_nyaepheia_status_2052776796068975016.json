@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2052770430436749489",
+    "created_at": "2026-05-08T15:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052776796068975016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochicqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052776796068975016",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "🦋 Bluesky Client 是一个让你在 Bluesky 社交网络 上拥有超能力的第三方客户端。\n\n简单说，它做两件事：\n\n给你两个界面选：一个精致的终端界面（适合键盘党、终端爱好者），和一个漂亮的可安装网页应用（PWA，直接浏览器打开就能用）。同一个账号，两种姿势。\n\n给你的社交网络装上 AI 副驾：AI 不只是聊天机器人——它能帮你读时间线、总结帖子讨论、润色你要发的草稿、翻译帖子、管理你的列表……而且 AI 可以直接在你的授权下帮你操作账号（发帖、点赞、关注等），每次写操作都需要你点头确认，你始终握着方向盘。\n\n隐私方面：整个项目没有后端服务器，你的凭证和 AI Key 只在你自己设备上，所有请求直接从你的设备发到 Bluesky 和 AI 提供商。\n\n一句话总结：这是一个让你用自己选的 AI、在自己的设备上、更聪明地玩 Bluesky 的开源客户端。 🚀"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052774328450875884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochicqwq 🦋 Bluesky Client 是一个让你在 Bluesky 社交网络 上拥有超能力的第三方客户端。\n\n简单说，它做两件事：\n\n给你两个界面选：一个精致的终端界面（适合键盘党、终端爱好者），和一个漂亮的可安装网页应用（PWA，直接浏览器打开就能用）。同一个账号，两种姿势。\n\n给你的社交网络装上 AI 副驾：AI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2052770430436749489",
+        "created_at": "2026-05-08T15:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052776796068975016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052776796068975016",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "🦋 Bluesky Client 是一个让你在 Bluesky 社交网络 上拥有超能力的第三方客户端。\n\n简单说，它做两件事：\n\n给你两个界面选：一个精致的终端界面（适合键盘党、终端爱好者），和一个漂亮的可安装网页应用（PWA，直接浏览器打开就能用）。同一个账号，两种姿势。\n\n给你的社交网络装上 AI 副驾：AI 不只是聊天机器人——它能帮你读时间线、总结帖子讨论、润色你要发的草稿、翻译帖子、管理你的列表……而且 AI 可以直接在你的授权下帮你操作账号（发帖、点赞、关注等），每次写操作都需要你点头确认，你始终握着方向盘。\n\n隐私方面：整个项目没有后端服务器，你的凭证和 AI Key 只在你自己设备上，所有请求直接从你的设备发到 Bluesky 和 AI 提供商。\n\n一句话总结：这是一个让你用自己选的 AI、在自己的设备上、更聪明地玩 Bluesky 的开源客户端。 🚀"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052774328450875884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochicqwq 🦋 Bluesky Client 是一个让你在 Bluesky 社交网络 上拥有超能力的第三方客户端。\n\n简单说，它做两件事：\n\n给你两个界面选：一个精致的终端界面（适合键盘党、终端爱好者），和一个漂亮的可安装网页应用（PWA，直接浏览器打开就能用）。同一个账号，两种姿势。\n\n给你的社交网络装上 AI 副驾：AI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033160782687731712",
+        "conversation_id": "2052770430436749489",
+        "created_at": "2026-05-08T15:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052774328450875884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052774328450875884",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052770430436749489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 其实我没搞懂这个工程是做什么的🤔可以给我介绍一下吗🤗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 797,
+          "like_count": 20151,
+          "listed_count": 3,
+          "media_count": 252,
+          "tweet_count": 3469
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点｜石图提供者@hiotemaron41774｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "hiotemaron41774"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2047250658261442860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2534,
+          "following_count": 1611,
+          "like_count": 4793,
+          "listed_count": 2,
+          "media_count": 426,
+          "tweet_count": 3227
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2048080760427761842",
+    "created_at": "2026-04-25T16:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T17:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048082039501697090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2004410188674301953",
+          "start": 0,
+          "username": "abc11451415411"
+        },
+        {
+          "end": 25,
+          "id": "1759983760152637440",
+          "start": 16,
+          "username": "kaixinua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048082039501697090",
+    "in_reply_to_user_id": "2004410188674301953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048081205548224882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@abc11451415411 @kaixinua 😭\n她是我第二个去世的互关（？）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2048081205548224882].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2048081205548224882",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2048081205548224882"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2048080760427761842",
+        "created_at": "2026-04-25T16:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048082039501697090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2004410188674301953",
+              "start": 0,
+              "username": "abc11451415411"
+            },
+            {
+              "end": 25,
+              "id": "1759983760152637440",
+              "start": 16,
+              "username": "kaixinua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048082039501697090",
+        "in_reply_to_user_id": "2004410188674301953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048081205548224882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@abc11451415411 @kaixinua 😭\n她是我第二个去世的互关（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 757,
+          "like_count": 17399,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2870
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-26T04:33:33.000Z",
+        "description": "神秘软件联系方式278338124？\n无事勿加，感谢配合\n立场人别加，怕死",
+        "id": "2004410188674301953",
+        "location": "你家",
+        "name": "神秘",
+        "pinned_tweet_id": "2040433838015361473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040738836440117248/UOGoQp_M_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 26,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 971
+        },
+        "username": "abc11451415411",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T16:50:15.000Z",
+        "description": "酗酒，割手样样俱全（求求互fo🥺",
+        "id": "1759983760152637440",
+        "location": "mars",
+        "name": "kaikaixin🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759984206468222976/03bgRFtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 389,
+          "like_count": 489,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 223
+        },
+        "username": "kaixinua",
+        "verified": false
+      }
+    ]
+  }
+}

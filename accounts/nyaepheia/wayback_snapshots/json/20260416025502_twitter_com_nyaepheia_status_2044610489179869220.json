@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2044610489179869220",
+    "created_at": "2026-04-16T02:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T03:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044610489179869220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ZX65535plus1/s…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/ZX65535plus1/status/2044478602398548055",
+          "start": 37,
+          "url": "https://t.co/jsPAbwymw4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044610489179869220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044478602398548055",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国的顺直是多么缺乏自信以至于需要通过歧视跨性别来证明自己的「优越」？？ https://t.co/jsPAbwymw4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2044610489179869220",
+        "created_at": "2026-04-16T02:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044610489179869220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZX65535plus1/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/ZX65535plus1/status/2044478602398548055",
+              "start": 37,
+              "url": "https://t.co/jsPAbwymw4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044610489179869220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044478602398548055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国的顺直是多么缺乏自信以至于需要通过歧视跨性别来证明自己的「优越」？？ https://t.co/jsPAbwymw4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "2044478602398548055",
+        "created_at": "2026-04-15T18:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T19:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044478602398548055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044478602398548055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4061,
+          "like_count": 114,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 13
+        },
+        "reply_settings": "following",
+        "text": "从三月到现在，可能是从那个“粉底液将军”的时间开始，跨性别群聊/账号大范围被封杀，墙内短视频平台又开始着重审查外貌和身份证性别不一致，记录扭转机构/戒网瘾园区的网站运营者被警，可能还有很多我没接触到的事件\n你们觉得这些是独立事件吗\n我觉得完全不是，而且远没有停止"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元\n百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?\nQueer?\nMtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 691,
+          "like_count": 14050,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2067
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "过于调皮有时被当做S的欠拴brat  |  \n只要不去就诊我就是健全B  |  \n大体上是直的，除非女人你在玩火",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3995,
+          "following_count": 1436,
+          "like_count": 72598,
+          "listed_count": 4,
+          "media_count": 1031,
+          "tweet_count": 20651
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}

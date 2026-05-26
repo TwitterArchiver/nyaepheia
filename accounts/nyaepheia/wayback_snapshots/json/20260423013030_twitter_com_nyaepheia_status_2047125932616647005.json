@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2047125932616647005",
+    "created_at": "2026-04-23T01:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T02:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047125932616647005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541248951843663873",
+          "start": 3,
+          "username": "Anermoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047125932616647005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046933677943447768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anermoka: 我忽然发现，oder和trans的关系，很像烟民和顺男的关系。\noder中只有一部分是trans，烟民里只有一部分是顺男。\ntrans里只有一部分是oder，顺男里也只有一部分是烟民。\n吸烟在顺男中虽普遍但也被视为陋习，od行为在trans中也类似。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2047125932616647005",
+        "created_at": "2026-04-23T01:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T02:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047125932616647005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541248951843663873",
+              "start": 3,
+              "username": "Anermoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047125932616647005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046933677943447768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anermoka: 我忽然发现，oder和trans的关系，很像烟民和顺男的关系。\noder中只有一部分是trans，烟民里只有一部分是顺男。\ntrans里只有一部分是oder，顺男里也只有一部分是烟民。\n吸烟在顺男中虽普遍但也被视为陋习，od行为在trans中也类似。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541248951843663873",
+        "conversation_id": "2046933677943447768",
+        "created_at": "2026-04-22T12:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046933677943447768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046933677943447768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2183,
+          "like_count": 49,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我忽然发现，oder和trans的关系，很像烟民和顺男的关系。\noder中只有一部分是trans，烟民里只有一部分是顺男。\ntrans里只有一部分是oder，顺男里也只有一部分是烟民。\n吸烟在顺男中虽普遍但也被视为陋习，od行为在trans中也类似。\n有人说“只有吸烟才算真男人”，也有人说“不支持od的不配称跨”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 748,
+          "like_count": 16622,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2746
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-27T02:36:10.000Z",
+        "description": "只是恰好路过这个世界",
+        "id": "1541248951843663873",
+        "location": "驻马店",
+        "name": "而已",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931245645597380608/xHAWTaMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 209,
+          "like_count": 16112,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 539
+        },
+        "username": "Anermoka",
+        "verified": false
+      }
+    ]
+  }
+}

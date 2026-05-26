@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057076840829976684",
+    "created_at": "2026-05-20T12:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057076840829976684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2037909112055300096",
+          "start": 3,
+          "username": "QueerLawWatchCN"
+        }
+      ],
+      "urls": [
+        {
+          "description": "可以这么说，熬到现在的农村户口，已经到了即将有价值的时候了。这个时候将户口转出，还是要三思而行！你说呢？",
+          "display_url": "chinadigitaltimes.net/chinese/727303…",
+          "end": 57,
+          "expanded_url": "https://chinadigitaltimes.net/chinese/727303.html",
+          "images": [
+            {
+              "height": 458,
+              "url": "https://pbs.twimg.com/news_img/2056924427947003905/mkPL0iY3?format=jpg&name=orig",
+              "width": 1080
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2056924427947003905/mkPL0iY3?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 34,
+          "status": 200,
+          "title": "中和彩虹说｜最高法院的回信鼓舞人心",
+          "unwound_url": "https://chinadigitaltimes.net/chinese/727303.html",
+          "url": "https://t.co/ukuzuAfuZ0"
+        },
+        {
+          "description": "近日最高人民法院发布文件，明确在司法审判中禁止基于性倾向、性别认同与性别表达的歧视，是国家级司法体系首次以书面形式，将“性取向、性别认同、性别表达”明确纳入禁止歧视的法律保护范围。",
+          "display_url": "chinadigitaltimes.net/chinese/727314…",
+          "end": 81,
+          "expanded_url": "https://chinadigitaltimes.net/chinese/727314.html",
+          "images": [
+            {
+              "height": 680,
+              "url": "https://pbs.twimg.com/news_img/2057039969362001920/WovYxjcj?format=jpg&name=orig",
+              "width": 1080
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2057039969362001920/WovYxjcj?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 58,
+          "status": 200,
+          "title": "【404文库】ActionForLove为爱行动｜最高法：审判中明确禁止歧视性倾向、性别认同与性别表达",
+          "unwound_url": "https://chinadigitaltimes.net/chinese/727314.html",
+          "url": "https://t.co/UVKpoL1SBM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057076840829976684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057067874129154233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QueerLawWatchCN: 感谢中国数字时代的备份：\nhttps://t.co/ukuzuAfuZ0\nhttps://t.co/UVKpoL1SBM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057076840829976684",
+        "created_at": "2026-05-20T12:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057076840829976684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2037909112055300096",
+              "start": 3,
+              "username": "QueerLawWatchCN"
+            }
+          ],
+          "urls": [
+            {
+              "description": "可以这么说，熬到现在的农村户口，已经到了即将有价值的时候了。这个时候将户口转出，还是要三思而行！你说呢？",
+              "display_url": "chinadigitaltimes.net/chinese/727303…",
+              "end": 57,
+              "expanded_url": "https://chinadigitaltimes.net/chinese/727303.html",
+              "images": [
+                {
+                  "height": 458,
+                  "url": "https://pbs.twimg.com/news_img/2056924427947003905/mkPL0iY3?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056924427947003905/mkPL0iY3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "中和彩虹说｜最高法院的回信鼓舞人心",
+              "unwound_url": "https://chinadigitaltimes.net/chinese/727303.html",
+              "url": "https://t.co/ukuzuAfuZ0"
+            },
+            {
+              "description": "近日最高人民法院发布文件，明确在司法审判中禁止基于性倾向、性别认同与性别表达的歧视，是国家级司法体系首次以书面形式，将“性取向、性别认同、性别表达”明确纳入禁止歧视的法律保护范围。",
+              "display_url": "chinadigitaltimes.net/chinese/727314…",
+              "end": 81,
+              "expanded_url": "https://chinadigitaltimes.net/chinese/727314.html",
+              "images": [
+                {
+                  "height": 680,
+                  "url": "https://pbs.twimg.com/news_img/2057039969362001920/WovYxjcj?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2057039969362001920/WovYxjcj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 58,
+              "status": 200,
+              "title": "【404文库】ActionForLove为爱行动｜最高法：审判中明确禁止歧视性倾向、性别认同与性别表达",
+              "unwound_url": "https://chinadigitaltimes.net/chinese/727314.html",
+              "url": "https://t.co/UVKpoL1SBM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057076840829976684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057067874129154233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QueerLawWatchCN: 感谢中国数字时代的备份：\nhttps://t.co/ukuzuAfuZ0\nhttps://t.co/UVKpoL1SBM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037909112055300096",
+        "conversation_id": "2057067874129154233",
+        "created_at": "2026-05-20T11:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057067874129154233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "可以这么说，熬到现在的农村户口，已经到了即将有价值的时候了。这个时候将户口转出，还是要三思而行！你说呢？",
+              "display_url": "chinadigitaltimes.net/chinese/727303…",
+              "end": 36,
+              "expanded_url": "https://chinadigitaltimes.net/chinese/727303.html",
+              "images": [
+                {
+                  "height": 458,
+                  "url": "https://pbs.twimg.com/news_img/2056924427947003905/mkPL0iY3?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056924427947003905/mkPL0iY3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 13,
+              "status": 200,
+              "title": "中和彩虹说｜最高法院的回信鼓舞人心",
+              "unwound_url": "https://chinadigitaltimes.net/chinese/727303.html",
+              "url": "https://t.co/ukuzuAfuZ0"
+            },
+            {
+              "description": "近日最高人民法院发布文件，明确在司法审判中禁止基于性倾向、性别认同与性别表达的歧视，是国家级司法体系首次以书面形式，将“性取向、性别认同、性别表达”明确纳入禁止歧视的法律保护范围。",
+              "display_url": "chinadigitaltimes.net/chinese/727314…",
+              "end": 60,
+              "expanded_url": "https://chinadigitaltimes.net/chinese/727314.html",
+              "images": [
+                {
+                  "height": 680,
+                  "url": "https://pbs.twimg.com/news_img/2057039969362001920/WovYxjcj?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2057039969362001920/WovYxjcj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 37,
+              "status": 200,
+              "title": "【404文库】ActionForLove为爱行动｜最高法：审判中明确禁止歧视性倾向、性别认同与性别表达",
+              "unwound_url": "https://chinadigitaltimes.net/chinese/727314.html",
+              "url": "https://t.co/UVKpoL1SBM"
+            },
+            {
+              "display_url": "x.com/QueerLawWatchC…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/QueerLawWatchCN/status/2057038569131155773",
+              "start": 61,
+              "url": "https://t.co/JSWqJqmI7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057067874129154233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 665,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057038569131155773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢中国数字时代的备份：\nhttps://t.co/ukuzuAfuZ0\nhttps://t.co/UVKpoL1SBM https://t.co/JSWqJqmI7X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 829,
+          "like_count": 22440,
+          "listed_count": 3,
+          "media_count": 349,
+          "tweet_count": 4112
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-28T15:08:39.000Z",
+        "description": "阿冬的环球酷儿法律观察\n关注全球LGBTQ运动经验和法律实践🏳️‍🌈🏳️‍⚧️，为中国的LGBTQ运动提供他山之玉。\ntracking queer law & policy globally | personal, not institutional",
+        "id": "2037909112055300096",
+        "name": "阿冬的酷儿法律观察",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047360437906182144/TuWas3GX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 514,
+          "like_count": 318,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 111
+        },
+        "username": "QueerLawWatchCN",
+        "verified": true
+      }
+    ]
+  }
+}

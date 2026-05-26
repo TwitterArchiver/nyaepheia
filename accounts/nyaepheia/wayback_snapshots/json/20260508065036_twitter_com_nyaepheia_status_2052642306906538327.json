@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052642139625168896"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2052642306906538327",
+    "created_at": "2026-05-08T06:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T07:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052642306906538327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hFmUrzZoX4",
+          "end": 45,
+          "expanded_url": "https://x.com/nyaepheia/status/2052642306906538327/photo/1",
+          "media_key": "3_2052642139625168896",
+          "start": 22,
+          "url": "https://t.co/hFmUrzZoX4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052642306906538327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "DeepSeek：「推荐DeepSeek」 https://t.co/hFmUrzZoX4"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "分析\n当前流程的核心问题：登录后立即要求 AI 配置，但大部分用户没有 API Key。\n当前: 登录 → 主界面 (AI 功能静默失败/空白) \n期望: 登录 → 欢迎引导 → 核心功能可用 → AI 可选配置\n---\n方案：两步引导 + 优雅降级\n1. 登录后欢迎卡片（一次性）\n登录成功后显示一个欢迎引导卡，存入 localStorage 确保只显示一次：\n┌──────────────────────────────────────────┐\n│  🎉 欢迎使用 Bluesky 客户端！             │\n│                                          │\n│  ✅ 立即可用:                             │\n│     时间线 · 搜索 · 资料 · 书签 · 列表 · DM │\n│                                          │\n│  🤖 AI 功能 (需配置 API Key):              │\n│     AI 对话 · 智能翻译 · 草稿润色         │\n│                                          │\n│   [去设置 AI]   [跳过，开始使用]           │\n│                                          │\n│   💡 可随时在设置中配置，推荐 DeepSeek:     │\n│     注册即送免费额度，无需付费              │\n└──────────────────────────────────────────┘\n- \"跳过\" → 存入 bsky_welcomed: true，进主界面，AI 功能显示「未配置」提示\n- \"去设置\" → 打开 Settings → AI tab",
+        "height": 664,
+        "media_key": "3_2052642139625168896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxzJo9bIAApzJa.png",
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052642139625168896"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2052642306906538327",
+        "created_at": "2026-05-08T06:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052642306906538327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hFmUrzZoX4",
+              "end": 45,
+              "expanded_url": "https://x.com/nyaepheia/status/2052642306906538327/photo/1",
+              "media_key": "3_2052642139625168896",
+              "start": 22,
+              "url": "https://t.co/hFmUrzZoX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052642306906538327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "DeepSeek：「推荐DeepSeek」 https://t.co/hFmUrzZoX4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 794,
+          "like_count": 20031,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 3438
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2045049323940127025",
+    "created_at": "2026-04-17T07:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T08:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045049323940127025"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 138,
+          "start": 131,
+          "tag": "上伊那ぼたん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1887029443237199872",
+          "start": 3,
+          "username": "kamiina_anime"
+        }
+      ],
+      "urls": [
+        {
+          "description": "第2話“いぶきが一緒に飲んでくれそうなお酒”を探すかなでは、ぼたんを誘って酒屋に赴く。そこでぼたんは百合の名前を冠したお酒に惹かれ、初めて焼酎を口にするのだった。果たしていぶきとお酒を飲むというかなでの願いは叶うのか。暖かくなってきて、ぼたんといぶきは服を買いに出かけることに。いぶきが案内した先はお酒の飲める服屋...",
+          "display_url": "youtu.be/NHCMsQkqLpQ",
+          "end": 105,
+          "expanded_url": "https://youtu.be/NHCMsQkqLpQ",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2044702631109795840/Qb3u2CNW?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2044702631109795840/Qb3u2CNW?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 82,
+          "status": 200,
+          "title": "【予告映像】第2話｜TVアニメ『上伊那ぼたん、酔へる姿は百合の花』4月17日24時より放送",
+          "unwound_url": "https://www.youtube.com/watch?v=NHCMsQkqLpQ&feature=youtu.be",
+          "url": "https://t.co/d9PUaZI0AK"
+        },
+        {
+          "description": "『上伊那ぼたん、酔へる姿は百合の花』TVアニメ化決定！",
+          "display_url": "kamiina-botan.com/onair/",
+          "end": 129,
+          "expanded_url": "https://kamiina-botan.com/onair/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2043154388697636864/zPjYbvNg?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2043154388697636864/zPjYbvNg?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 106,
+          "status": 200,
+          "title": "TVアニメ『上伊那ぼたん、酔へる姿は百合の花』公式サイト",
+          "unwound_url": "https://kamiina-botan.com/onair/",
+          "url": "https://t.co/9zczEFeXI9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045049323940127025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1473
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044702587770032189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kamiina_anime: ✼••┈┈\n　　　  　  第2話\n　 　4/17（金）24:00～\n　　　　　　　　　┈┈••✼\n\n「スキ……すき……」\n\nhttps://t.co/d9PUaZI0AK\nhttps://t.co/9zczEFeXI9\n\n#上伊那ぼたん…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35068,
+        "height": 1080,
+        "media_key": "13_2044684584462508032",
+        "preview_image_url": "https://pbs.twimg.com/media/HGAt-rCbwAA90xl.jpg",
+        "public_metrics": {
+          "view_count": 78342
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044684584462508032/pl/WAQb9GiuV_P_kTCl.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044684584462508032/vid/avc1/480x270/S2JjlZCEFJxXk1Zc.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044684584462508032/vid/avc1/1920x1080/z8GxJJTb7Fjcb-CF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044684584462508032/vid/avc1/1280x720/P9-td8qXmn_NDeK2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044684584462508032/vid/avc1/640x360/PqxD_2VBA1NpjARJ.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2045049323940127025",
+        "created_at": "2026-04-17T07:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T08:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045049323940127025"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 131,
+              "tag": "上伊那ぼたん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1887029443237199872",
+              "start": 3,
+              "username": "kamiina_anime"
+            }
+          ],
+          "urls": [
+            {
+              "description": "第2話“いぶきが一緒に飲んでくれそうなお酒”を探すかなでは、ぼたんを誘って酒屋に赴く。そこでぼたんは百合の名前を冠したお酒に惹かれ、初めて焼酎を口にするのだった。果たしていぶきとお酒を飲むというかなでの願いは叶うのか。暖かくなってきて、ぼたんといぶきは服を買いに出かけることに。いぶきが案内した先はお酒の飲める服屋...",
+              "display_url": "youtu.be/NHCMsQkqLpQ",
+              "end": 105,
+              "expanded_url": "https://youtu.be/NHCMsQkqLpQ",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2044702631109795840/Qb3u2CNW?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044702631109795840/Qb3u2CNW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 82,
+              "status": 200,
+              "title": "【予告映像】第2話｜TVアニメ『上伊那ぼたん、酔へる姿は百合の花』4月17日24時より放送",
+              "unwound_url": "https://www.youtube.com/watch?v=NHCMsQkqLpQ&feature=youtu.be",
+              "url": "https://t.co/d9PUaZI0AK"
+            },
+            {
+              "description": "『上伊那ぼたん、酔へる姿は百合の花』TVアニメ化決定！",
+              "display_url": "kamiina-botan.com/onair/",
+              "end": 129,
+              "expanded_url": "https://kamiina-botan.com/onair/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2043154388697636864/zPjYbvNg?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2043154388697636864/zPjYbvNg?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "TVアニメ『上伊那ぼたん、酔へる姿は百合の花』公式サイト",
+              "unwound_url": "https://kamiina-botan.com/onair/",
+              "url": "https://t.co/9zczEFeXI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045049323940127025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1473
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044702587770032189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kamiina_anime: ✼••┈┈\n　　　  　  第2話\n　 　4/17（金）24:00～\n　　　　　　　　　┈┈••✼\n\n「スキ……すき……」\n\nhttps://t.co/d9PUaZI0AK\nhttps://t.co/9zczEFeXI9\n\n#上伊那ぼたん…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044684584462508032"
+          ]
+        },
+        "author_id": "1887029443237199872",
+        "conversation_id": "2044702587770032189",
+        "created_at": "2026-04-16T09:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044702587770032189"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 112,
+              "tag": "上伊那ぼたん"
+            }
+          ],
+          "urls": [
+            {
+              "description": "第2話“いぶきが一緒に飲んでくれそうなお酒”を探すかなでは、ぼたんを誘って酒屋に赴く。そこでぼたんは百合の名前を冠したお酒に惹かれ、初めて焼酎を口にするのだった。果たしていぶきとお酒を飲むというかなでの願いは叶うのか。暖かくなってきて、ぼたんといぶきは服を買いに出かけることに。いぶきが案内した先はお酒の飲める服屋...",
+              "display_url": "youtu.be/NHCMsQkqLpQ",
+              "end": 86,
+              "expanded_url": "https://youtu.be/NHCMsQkqLpQ",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2044702631109795840/Qb3u2CNW?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044702631109795840/Qb3u2CNW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 63,
+              "status": 200,
+              "title": "【予告映像】第2話｜TVアニメ『上伊那ぼたん、酔へる姿は百合の花』4月17日24時より放送",
+              "unwound_url": "https://www.youtube.com/watch?v=NHCMsQkqLpQ&feature=youtu.be",
+              "url": "https://t.co/d9PUaZI0AK"
+            },
+            {
+              "description": "『上伊那ぼたん、酔へる姿は百合の花』TVアニメ化決定！",
+              "display_url": "kamiina-botan.com/onair/",
+              "end": 110,
+              "expanded_url": "https://kamiina-botan.com/onair/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2043154388697636864/zPjYbvNg?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2043154388697636864/zPjYbvNg?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 87,
+              "status": 200,
+              "title": "TVアニメ『上伊那ぼたん、酔へる姿は百合の花』公式サイト",
+              "unwound_url": "https://kamiina-botan.com/onair/",
+              "url": "https://t.co/9zczEFeXI9"
+            },
+            {
+              "display_url": "pic.x.com/MuYuoCFTBp",
+              "end": 143,
+              "expanded_url": "https://x.com/kamiina_anime/status/2044702587770032189/video/1",
+              "media_key": "13_2044684584462508032",
+              "start": 120,
+              "url": "https://t.co/MuYuoCFTBp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044702587770032189",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 573,
+          "impression_count": 499411,
+          "like_count": 5827,
+          "quote_count": 134,
+          "reply_count": 16,
+          "retweet_count": 1473
+        },
+        "reply_settings": "everyone",
+        "text": "✼••┈┈\n　　　  　  第2話\n　 　4/17（金）24:00～\n　　　　　　　　　┈┈••✼\n\n「スキ……すき……」\n\nhttps://t.co/d9PUaZI0AK\nhttps://t.co/9zczEFeXI9\n\n#上伊那ぼたん https://t.co/MuYuoCFTBp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元\n百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?\nQueer?\nMtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 700,
+          "like_count": 14668,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2165
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-05T06:46:37.000Z",
+        "description": "TVアニメ『上伊那ぼたん、酔へる姿は百合の花』公式アカウントです。｜原作：塀「上伊那ぼたん、酔へる姿は百合の花」（秋田書店「チャンピオンクロス」連載）｜監督：佐久間貴史｜副監督：戸澤俊太郎｜キャラクターデザイン：吉成 鋼｜メインアニメーター：松尾祐輔、みやち｜シリーズ構成：米内山陽子｜音楽：橋口佳奈｜制作：ソワネ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kamiina-botan.com",
+                "end": 23,
+                "expanded_url": "http://kamiina-botan.com/",
+                "start": 0,
+                "url": "https://t.co/gUlOQ9pAxz"
+              }
+            ]
+          }
+        },
+        "id": "1887029443237199872",
+        "name": "TVアニメ『上伊那ぼたん、酔へる姿は百合の花』",
+        "pinned_tweet_id": "2044702587770032189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031599176715526144/9kAdeJIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30390,
+          "following_count": 16,
+          "like_count": 1,
+          "listed_count": 206,
+          "media_count": 288,
+          "tweet_count": 621
+        },
+        "url": "https://t.co/gUlOQ9pAxz",
+        "username": "kamiina_anime",
+        "verified": true
+      }
+    ]
+  }
+}

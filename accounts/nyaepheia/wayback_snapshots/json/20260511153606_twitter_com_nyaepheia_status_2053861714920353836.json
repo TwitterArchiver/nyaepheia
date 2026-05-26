@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053861707626479616"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053796451139121231",
+    "created_at": "2026-05-11T15:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T16:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053861714920353836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1825192601634668544",
+          "start": 0,
+          "username": "dzt76570"
+        },
+        {
+          "end": 23,
+          "id": "2046530162536357888",
+          "start": 10,
+          "username": "yueyechunxue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XGLRTl7KFr",
+          "end": 121,
+          "expanded_url": "https://x.com/nyaepheia/status/2053861714920353836/photo/1",
+          "media_key": "3_2053861707626479616",
+          "start": 98,
+          "url": "https://t.co/XGLRTl7KFr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053861714920353836",
+    "in_reply_to_user_id": "1825192601634668544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053860423892648412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzt76570 @yueyechunxue 我先自证清白，没有ban 您\n当然显然我如果隐藏了您，没有任何理由继续和您说话。\n但问题是确实没有看到您的消息。任何一条都没有。\n其他人的都正常。 https://t.co/XGLRTl7KFr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1563,
+        "media_key": "3_2053861707626479616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIDIV1zagAAsUZB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053861707626479616"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053796451139121231",
+        "created_at": "2026-05-11T15:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053861714920353836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1825192601634668544",
+              "start": 0,
+              "username": "dzt76570"
+            },
+            {
+              "end": 23,
+              "id": "2046530162536357888",
+              "start": 10,
+              "username": "yueyechunxue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XGLRTl7KFr",
+              "end": 121,
+              "expanded_url": "https://x.com/nyaepheia/status/2053861714920353836/photo/1",
+              "media_key": "3_2053861707626479616",
+              "start": 98,
+              "url": "https://t.co/XGLRTl7KFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053861714920353836",
+        "in_reply_to_user_id": "1825192601634668544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053860423892648412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzt76570 @yueyechunxue 我先自证清白，没有ban 您\n当然显然我如果隐藏了您，没有任何理由继续和您说话。\n但问题是确实没有看到您的消息。任何一条都没有。\n其他人的都正常。 https://t.co/XGLRTl7KFr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825192601634668544",
+        "conversation_id": "2053796451139121231",
+        "created_at": "2026-05-11T15:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053860423892648412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 24,
+              "id": "2046530162536357888",
+              "start": 11,
+              "username": "yueyechunxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053860423892648412",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053859246169829627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @yueyechunxue 那可能又被ban了。为什么这个软件这么爱ban推文？又不是发布广告色情血性暴力了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 803,
+          "like_count": 20599,
+          "listed_count": 3,
+          "media_count": 281,
+          "tweet_count": 3652
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-18T15:27:05.000Z",
+        "description": "",
+        "id": "1825192601634668544",
+        "name": "rano_723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783504253411328/dw61GY_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 5,
+          "like_count": 115,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 376
+        },
+        "username": "dzt76570",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T10:04:01.000Z",
+        "description": "这里是春雪狐哦，是个小药娘,主要发碎碎念和一些图。 \n🚪70加tg",
+        "id": "2046530162536357888",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "はるゆき狐🌸🍥",
+        "pinned_tweet_id": "2051417032965734467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053086582694100992/QOGXOuaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 80,
+          "like_count": 368,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 560
+        },
+        "username": "yueyechunxue",
+        "verified": true
+      }
+    ]
+  }
+}

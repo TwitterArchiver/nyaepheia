@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043880660994248704"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2043880668992811071",
+    "created_at": "2026-04-14T02:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043880668992811071"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xwFjjEUFbL",
+          "end": 23,
+          "expanded_url": "https://x.com/nyaepheia/status/2043880668992811071/photo/1",
+          "media_key": "3_2043880660994248704",
+          "start": 0,
+          "url": "https://t.co/xwFjjEUFbL"
+        },
+        {
+          "display_url": "x.com/smiroyama/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/smiroyama/status/2043840720667324832",
+          "start": 24,
+          "url": "https://t.co/ZH6cxggji6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043880668992811071",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043840720667324832",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/xwFjjEUFbL https://t.co/ZH6cxggji6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2043880660994248704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1SodnaUAA4ulK.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043840685351284737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF0uRkvasAEeFpz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043880660994248704"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2043880668992811071",
+        "created_at": "2026-04-14T02:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043880668992811071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xwFjjEUFbL",
+              "end": 23,
+              "expanded_url": "https://x.com/nyaepheia/status/2043880668992811071/photo/1",
+              "media_key": "3_2043880660994248704",
+              "start": 0,
+              "url": "https://t.co/xwFjjEUFbL"
+            },
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/smiroyama/status/2043840720667324832",
+              "start": 24,
+              "url": "https://t.co/ZH6cxggji6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043880668992811071",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043840720667324832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/xwFjjEUFbL https://t.co/ZH6cxggji6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043840685351284737"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2043840720667324832",
+        "created_at": "2026-04-13T23:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T00:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043840720667324832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HodfPfDQKF",
+              "end": 165,
+              "expanded_url": "https://x.com/smiroyama/status/2043840720667324832/photo/1",
+              "media_key": "3_2043840685351284737",
+              "start": 142,
+              "url": "https://t.co/HodfPfDQKF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043840720667324832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "提示词：1个女孩，动漫风格，角色与参考图一致，浅灰棕色长发，头顶有一根呆毛，琥珀色/棕色大眼睛，可爱的笑容，脸颊微红。她穿着深蓝色校服西装外套（带粉色包边），白色翻领衬衫，粉色领结，搭配深蓝色百褶裙。她穿着黑色长筒袜（绝对领域）。她随意地坐在床上，床上有白色的床单和蓝色的毯子。她怀里紧紧抱着一个巨大的蓝色宜家鲨鱼毛绒玩具（Blåhaj）。床边的地板上放着一双棕色乐福鞋。简单的背景，有窗帘的窗户，木制床架。简单的光影，赛璐璐涂色，平涂，柔和的色调，杰作，最佳画质，高分辨率，正方形比例（1:1）。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 929,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "提示词：1个女孩，动漫风格，角色与参考图一致，浅灰棕色长发，头顶有一根呆毛，琥珀色/棕色大眼睛，可爱的笑容，脸颊微红。她穿着深蓝色校服西装外套（带粉色包边），白色翻领衬衫，粉色领结，搭配深蓝色百褶裙。她穿着黑色长筒袜（绝对领域）。她随意地坐在床上，床上有白色的床单和蓝色的毯子。她怀 https://t.co/HodfPfDQKF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary? Queer? MtF/X transles?\n✨she/they\n小证含糖hrt26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\nVibe coding/搭网站\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 150,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 678,
+          "like_count": 12867,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1904
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |Dev @HRTtracker🍥 @KeenLib |  User | 🐱 Lover | 好朋友 🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "KeenLib"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041377830597246976/UX0FQmaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2907,
+          "following_count": 1856,
+          "like_count": 7607,
+          "listed_count": 2,
+          "media_count": 1028,
+          "tweet_count": 4682
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

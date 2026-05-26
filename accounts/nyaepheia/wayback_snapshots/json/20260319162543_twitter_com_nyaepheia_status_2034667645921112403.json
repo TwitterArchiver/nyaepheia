@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034667634541940736"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2034667645921112403",
+    "created_at": "2026-03-19T16:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T17:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034667645921112403"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Welcome to the PolitiScales, the online political test. You will be confronted to a series of affirmations and for each of them you will have to click on the button which corresponds the most to your opinion.",
+          "display_url": "politiscales.party/results?YjA9Nz…",
+          "end": 23,
+          "expanded_url": "https://politiscales.party/results?YjA9NzkmYzE9MTAmYzA9NjcmdDA9MTkmdDE9MzYmcHJhZz0xMDAmZTE9MjQmZTA9MzYmbTA9NTImbTE9MjkmajE9NSZqMD01MiZwMD0yMSZwMT0xOSZzMD03NiZmZW1pPTU3",
+          "start": 0,
+          "status": 200,
+          "title": "PolitiScales - Your results",
+          "unwound_url": "https://politiscales.party/results?YjA9NzkmYzE9MTAmYzA9NjcmdDA9MTkmdDE9MzYmcHJhZz0xMDAmZTE9MjQmZTA9MzYmbTA9NTImbTE9MjkmajE9NSZqMD01MiZwMD0yMSZwMT0xOSZzMD03NiZmZW1pPTU3",
+          "url": "https://t.co/Znbov4sP5F"
+        },
+        {
+          "display_url": "pic.x.com/oFmNEa2czH",
+          "end": 47,
+          "expanded_url": "https://x.com/nyaepheia/status/2034667645921112403/photo/1",
+          "media_key": "3_2034667634541940736",
+          "start": 24,
+          "url": "https://t.co/oFmNEa2czH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034667645921112403",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Znbov4sP5F https://t.co/oFmNEa2czH"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "| 维度 (左 vs 右) | 左侧倾向 (%) | 中间/中立 (%) | 右侧倾向 (%) |\n|---|---|---|---|\n| 社会建构主义 vs 本质主义 | 67% | 23% | 10% |\n| 修复性司法 vs 惩罚性司法 | 52% | 43% | 5% (未标数值，由余数推算) |\n| 进步主义 vs 保守主义 | 76% | 24% | 0% |\n| 国际主义 vs 国族主义 | 79% | 21% | 0% |\n| 共产主义 vs 资本主义 | 21% | 60% | 19% |\n| 规范主义 vs 放任主义 | 52% | 19% | 29% |\n| 生态主义 vs 生产主义 | 36% | 40% | 24% |\n| 革命派 vs 改良派 | 19% | 45% | 36% |\n（来自Gemini 的识别结果）",
+        "height": 2126,
+        "media_key": "3_2034667634541940736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyXbvjbUAAZMY1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034667634541940736"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2034667645921112403",
+        "created_at": "2026-03-19T16:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034667645921112403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Welcome to the PolitiScales, the online political test. You will be confronted to a series of affirmations and for each of them you will have to click on the button which corresponds the most to your opinion.",
+              "display_url": "politiscales.party/results?YjA9Nz…",
+              "end": 23,
+              "expanded_url": "https://politiscales.party/results?YjA9NzkmYzE9MTAmYzA9NjcmdDA9MTkmdDE9MzYmcHJhZz0xMDAmZTE9MjQmZTA9MzYmbTA9NTImbTE9MjkmajE9NSZqMD01MiZwMD0yMSZwMT0xOSZzMD03NiZmZW1pPTU3",
+              "start": 0,
+              "status": 200,
+              "title": "PolitiScales - Your results",
+              "unwound_url": "https://politiscales.party/results?YjA9NzkmYzE9MTAmYzA9NjcmdDA9MTkmdDE9MzYmcHJhZz0xMDAmZTE9MjQmZTA9MzYmbTA9NTImbTE9MjkmajE9NSZqMD01MiZwMD0yMSZwMT0xOSZzMD03NiZmZW1pPTU3",
+              "url": "https://t.co/Znbov4sP5F"
+            },
+            {
+              "display_url": "pic.x.com/oFmNEa2czH",
+              "end": 47,
+              "expanded_url": "https://x.com/nyaepheia/status/2034667645921112403/photo/1",
+              "media_key": "3_2034667634541940736",
+              "start": 24,
+              "url": "https://t.co/oFmNEa2czH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034667645921112403",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Znbov4sP5F https://t.co/oFmNEa2czH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+友好 | 09 | 文科生 | MtF?MtX?探索中，总之不是顺直男 | she/they | (暂)未HRT | 家长党 | 天残党 | Vibe coding | 搭建网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 336,
+          "like_count": 4434,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

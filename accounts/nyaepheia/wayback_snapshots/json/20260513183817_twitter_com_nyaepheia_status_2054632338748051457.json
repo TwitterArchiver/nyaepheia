@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054627409279016960"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      }
+    ],
+    "conversation_id": "2054632338748051457",
+    "created_at": "2026-05-13T18:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T19:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054632338748051457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YHA0psIpmp",
+          "end": 192,
+          "expanded_url": "https://x.com/nyaepheia/status/2054632338748051457/video/1",
+          "media_key": "13_2054627409279016960",
+          "start": 169,
+          "url": "https://t.co/YHA0psIpmp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054632338748051457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 376,
+            "start": 372,
+            "tag": "dev"
+          },
+          {
+            "end": 385,
+            "start": 377,
+            "tag": "ai_bsky"
+          }
+        ]
+      },
+      "text": "沉浸式刷「AI bsky」——你的Bluesky，AI加持。\n\n✨ 丝滑动画  \n♿ 无障碍设计：符合WCAG 4.1.2，语义化HTML，支持色弱模式。\n🖼️ AI ALT：用视觉AI解释图像，让图像可被任何人或AI 无障碍地看见。\n🤖 MCP支持。\n🧰 内置33个工具，深度集成Bluesky + 零配置网络搜索 / 维基百科。\n🔒 纯前端，数据不离开你的浏览器。  \n\n观看实机演示 🎥 ↓\n\n* 展示的贴文版权归原作者所有，仅作展示用途。如果您不希望您的帖子被展示，请联系。\n* AI ALT 实际生成速度取决于AI 提供商。AI bsky 并不会默认生成AI ALT，此功能需手动开启。\n* PWA版本：v0.13.1\n* 对话使用的模型是DeepSeek-V4-flash。视觉模型使用Mistral/Pixtral-Large\n\n#dev #ai_bsky"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "沉浸式刷「AI bsky」——你的Bluesky，AI加持。\n\n✨ 丝滑动画  \n♿ 无障碍设计：符合WCAG 4.1.2，语义化HTML，支持色弱模式。\n🖼️ AI ALT：用视觉AI解释图像，让图像可被任何人或AI 无障碍地看见。\n🤖 MCP支持。\n🧰 内置33个工具，深度集成Bluesky + 零配置网络搜索 / 维基百科。\n🔒 https://t.co/YHA0psIpmp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 409200,
+        "height": 1080,
+        "media_key": "13_2054627409279016960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054627409279016960/img/p7ipjKBr4VBUNaxT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054627409279016960/vid/avc1/1280x720/rUbVK0GlZqNPcz_b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054627409279016960/pl/waMgu0F-aQkEyQqL.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054627409279016960/vid/avc1/640x360/ir86aHapWHl6wzSF.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054627409279016960/vid/avc1/1920x1080/3WMevAg9j5pPiwjP.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054627409279016960/vid/avc1/480x270/-pPIszz2jnlSklCn.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054627409279016960"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2054632338748051457",
+        "created_at": "2026-05-13T18:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T19:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054632338748051457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YHA0psIpmp",
+              "end": 192,
+              "expanded_url": "https://x.com/nyaepheia/status/2054632338748051457/video/1",
+              "media_key": "13_2054627409279016960",
+              "start": 169,
+              "url": "https://t.co/YHA0psIpmp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054632338748051457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 376,
+                "start": 372,
+                "tag": "dev"
+              },
+              {
+                "end": 385,
+                "start": 377,
+                "tag": "ai_bsky"
+              }
+            ]
+          },
+          "text": "沉浸式刷「AI bsky」——你的Bluesky，AI加持。\n\n✨ 丝滑动画  \n♿ 无障碍设计：符合WCAG 4.1.2，语义化HTML，支持色弱模式。\n🖼️ AI ALT：用视觉AI解释图像，让图像可被任何人或AI 无障碍地看见。\n🤖 MCP支持。\n🧰 内置33个工具，深度集成Bluesky + 零配置网络搜索 / 维基百科。\n🔒 纯前端，数据不离开你的浏览器。  \n\n观看实机演示 🎥 ↓\n\n* 展示的贴文版权归原作者所有，仅作展示用途。如果您不希望您的帖子被展示，请联系。\n* AI ALT 实际生成速度取决于AI 提供商。AI bsky 并不会默认生成AI ALT，此功能需手动开启。\n* PWA版本：v0.13.1\n* 对话使用的模型是DeepSeek-V4-flash。视觉模型使用Mistral/Pixtral-Large\n\n#dev #ai_bsky"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "沉浸式刷「AI bsky」——你的Bluesky，AI加持。\n\n✨ 丝滑动画  \n♿ 无障碍设计：符合WCAG 4.1.2，语义化HTML，支持色弱模式。\n🖼️ AI ALT：用视觉AI解释图像，让图像可被任何人或AI 无障碍地看见。\n🤖 MCP支持。\n🧰 内置33个工具，深度集成Bluesky + 零配置网络搜索 / 维基百科。\n🔒 https://t.co/YHA0psIpmp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 801,
+          "like_count": 20920,
+          "listed_count": 3,
+          "media_count": 301,
+          "tweet_count": 3776
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

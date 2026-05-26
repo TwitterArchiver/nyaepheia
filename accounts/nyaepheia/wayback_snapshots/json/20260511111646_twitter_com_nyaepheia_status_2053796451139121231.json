@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2053796451139121231",
+    "created_at": "2026-05-11T11:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T12:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053796451139121231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dzt76570/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/dzt76570/status/2053493703290028071",
+          "start": 11,
+          "url": "https://t.co/C4AthCOGZK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053796451139121231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053493703290028071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推友怎么评价这种想法 https://t.co/C4AthCOGZK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2053796451139121231",
+        "created_at": "2026-05-11T11:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053796451139121231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dzt76570/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/dzt76570/status/2053493703290028071",
+              "start": 11,
+              "url": "https://t.co/C4AthCOGZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053796451139121231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053493703290028071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推友怎么评价这种想法 https://t.co/C4AthCOGZK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825192601634668544",
+        "conversation_id": "2053381757144277105",
+        "created_at": "2026-05-10T15:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053493703290028071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 22,
+              "id": "2040113248544931841",
+              "start": 11,
+              "username": "zjq1262143"
+            },
+            {
+              "end": 38,
+              "id": "1845454917236031495",
+              "start": 23,
+              "username": "Dontbesadforit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053493703290028071",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053487886155313620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @zjq1262143 @Dontbesadforit 不是“可以不用”这种问题，我们是会被这种东西给恶心到的，没有对你的恶意啊，对我们大多数人来说是这样的，你可以设想一下，你好不容易找了一个你喜欢的材质包，结果急头白脸的打开后发现他把背景改成了一张黄图，是会被恶心一下的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 803,
+          "like_count": 20513,
+          "listed_count": 3,
+          "media_count": 280,
+          "tweet_count": 3604
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-18T15:27:05.000Z",
+        "description": "",
+        "id": "1825192601634668544",
+        "name": "rano_723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783504253411328/dw61GY_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 5,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 334
+        },
+        "username": "dzt76570",
+        "verified": false
+      }
+    ]
+  }
+}

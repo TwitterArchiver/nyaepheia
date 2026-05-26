@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2049874186471129395",
+    "created_at": "2026-05-01T16:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T17:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050258518687854671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945314547126185984",
+          "start": 0,
+          "username": "pysimpom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050258518687854671",
+    "in_reply_to_user_id": "1945314547126185984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049874186471129395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pysimpom 好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2049874163238883328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKdsNYa0AAq62Y.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2049874164312637441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKdsRYbAAEd2fd.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2049874166820876288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKdsaubsAApiQm.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2049874186471129395",
+        "created_at": "2026-05-01T16:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050258518687854671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945314547126185984",
+              "start": 0,
+              "username": "pysimpom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050258518687854671",
+        "in_reply_to_user_id": "1945314547126185984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049874186471129395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pysimpom 好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049874163238883328",
+            "3_2049874164312637441",
+            "3_2049874166820876288"
+          ]
+        },
+        "author_id": "1945314547126185984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          }
+        ],
+        "conversation_id": "2049874186471129395",
+        "created_at": "2026-04-30T15:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049874186471129395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8mWBmbPXlL",
+              "end": 148,
+              "expanded_url": "https://x.com/pysimpom/status/2049874186471129395/photo/1",
+              "media_key": "3_2049874163238883328",
+              "start": 125,
+              "url": "https://t.co/8mWBmbPXlL"
+            },
+            {
+              "display_url": "pic.x.com/8mWBmbPXlL",
+              "end": 148,
+              "expanded_url": "https://x.com/pysimpom/status/2049874186471129395/photo/1",
+              "media_key": "3_2049874164312637441",
+              "start": 125,
+              "url": "https://t.co/8mWBmbPXlL"
+            },
+            {
+              "display_url": "pic.x.com/8mWBmbPXlL",
+              "end": 148,
+              "expanded_url": "https://x.com/pysimpom/status/2049874186471129395/photo/1",
+              "media_key": "3_2049874166820876288",
+              "start": 125,
+              "url": "https://t.co/8mWBmbPXlL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049874186471129395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "gpt image 2...感觉纯文本生成的时候...是专门溶了某个风格画师的图...\n一模一样的prompt结果(加了以简单日漫风格 (simple anime style) 呈现。避免半写实、3D、韩漫风和刻板化模板)gemini生成的还是一坨 https://t.co/8mWBmbPXlL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 769,
+          "like_count": 18661,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 3059
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-16T02:48:34.000Z",
+        "description": "特摄厨，BA厨，美漫厨 | blender和绘画在学 | 现在南京 | vibe，古法两手抓中\ngithub:https://t.co/GbsMIU43kQ|\nNGL:https://t.co/v8WRYGH0ZI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/evilmordy",
+                "end": 78,
+                "expanded_url": "http://github.com/evilmordy",
+                "start": 55,
+                "url": "https://t.co/GbsMIU43kQ"
+              },
+              {
+                "display_url": "ngl.link/yuchaosong791",
+                "end": 107,
+                "expanded_url": "https://ngl.link/yuchaosong791",
+                "start": 84,
+                "url": "https://t.co/v8WRYGH0ZI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/hFP8V8t",
+                "end": 23,
+                "expanded_url": "https://b23.tv/hFP8V8t",
+                "start": 0,
+                "url": "https://t.co/9W4RGXWEkT"
+              }
+            ]
+          }
+        },
+        "id": "1945314547126185984",
+        "name": "fake sensei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042548764972564480/-U2cGKZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 1189,
+          "like_count": 6120,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1469
+        },
+        "url": "https://t.co/9W4RGXWEkT",
+        "username": "pysimpom",
+        "verified": false
+      }
+    ]
+  }
+}

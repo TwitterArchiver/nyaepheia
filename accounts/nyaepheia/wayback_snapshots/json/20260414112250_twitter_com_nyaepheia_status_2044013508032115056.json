@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044013502533402624"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044013508032115056",
+    "created_at": "2026-04-14T11:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044013508032115056"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 71,
+          "start": 61,
+          "tag": "AskEpheia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zFhIFFeCXC",
+          "end": 95,
+          "expanded_url": "https://x.com/nyaepheia/status/2044013508032115056/photo/1",
+          "media_key": "3_2044013502533402624",
+          "start": 72,
+          "url": "https://t.co/zFhIFFeCXC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044013508032115056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "400fo 了诶！\n谢谢大家！\n有什么想问Epheia 的吗？\n* 个人隐私除外\n* 政治除外\n* 其它不想回答的除外\n\n#AskEpheia https://t.co/zFhIFFeCXC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1544,
+        "media_key": "3_2044013502533402624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3Lc26bAAARLyR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044013502533402624"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044013508032115056",
+        "created_at": "2026-04-14T11:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044013508032115056"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 61,
+              "tag": "AskEpheia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFhIFFeCXC",
+              "end": 95,
+              "expanded_url": "https://x.com/nyaepheia/status/2044013508032115056/photo/1",
+              "media_key": "3_2044013502533402624",
+              "start": 72,
+              "url": "https://t.co/zFhIFFeCXC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044013508032115056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "400fo 了诶！\n谢谢大家！\n有什么想问Epheia 的吗？\n* 个人隐私除外\n* 政治除外\n* 其它不想回答的除外\n\n#AskEpheia https://t.co/zFhIFFeCXC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary? Queer? MtF/X transles?\n✨she/they\n小证含糖hrt26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\nVibe coding/搭网站\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 150,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 680,
+          "like_count": 13192,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1945
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

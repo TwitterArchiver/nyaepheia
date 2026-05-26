@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2037019298510889003",
+    "created_at": "2026-03-26T09:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T10:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037103190962037019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1992142628343996416",
+          "start": 0,
+          "username": "Witch198964"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Your browser is outdated and may not display this website correctly. Please use a newer version of your browser or operating system. MtF.wiki 的内容仅供参考，可能存在过时或不准确的信息，请谨慎甄别。",
+          "display_url": "mtf.wiki/zh-cn/docs/psy…",
+          "end": 67,
+          "expanded_url": "https://mtf.wiki/zh-cn/docs/psyco/guangdong/wang-xiaojing",
+          "start": 44,
+          "status": 200,
+          "title": "深圳｜王晓京",
+          "unwound_url": "https://mtf.wiki/zh-cn/docs/psyco/guangdong/wang-xiaojing",
+          "url": "https://t.co/mBd0mtfl96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037103190962037019",
+    "in_reply_to_user_id": "1992142628343996416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037102455062982740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Witch198964 啊，我不知道我这个行不行，毕波医生说可以，但话说上次去王晓京(https://t.co/mBd0mtfl96)那里他开的是什么「不完全易性症」(×_×)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2037019298510889003",
+        "created_at": "2026-03-26T09:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037103190962037019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1992142628343996416",
+              "start": 0,
+              "username": "Witch198964"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Your browser is outdated and may not display this website correctly. Please use a newer version of your browser or operating system. MtF.wiki 的内容仅供参考，可能存在过时或不准确的信息，请谨慎甄别。",
+              "display_url": "mtf.wiki/zh-cn/docs/psy…",
+              "end": 67,
+              "expanded_url": "https://mtf.wiki/zh-cn/docs/psyco/guangdong/wang-xiaojing",
+              "start": 44,
+              "status": 200,
+              "title": "深圳｜王晓京",
+              "unwound_url": "https://mtf.wiki/zh-cn/docs/psyco/guangdong/wang-xiaojing",
+              "url": "https://t.co/mBd0mtfl96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037103190962037019",
+        "in_reply_to_user_id": "1992142628343996416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037102455062982740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Witch198964 啊，我不知道我这个行不行，毕波医生说可以，但话说上次去王晓京(https://t.co/mBd0mtfl96)那里他开的是什么「不完全易性症」(×_×)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992142628343996416",
+        "conversation_id": "2037019298510889003",
+        "created_at": "2026-03-26T09:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037102455062982740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037102455062982740",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037100266231906651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 之前我看别的mtx得到的诊断是非典型性别认知障碍，所以开不到药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+全友好 | 09 | 文科生 | MtF/MtX? | she/they | 无糖 | (半个)家长党 | 天残党 | Vibe coding | 搭网站 | 成分不明的可能会直接ban",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 441,
+          "like_count": 4994,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 134
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-22T08:07:09.000Z",
+        "description": "MTF，TQ，ENTP，公路车，精英社会自由主义，理工/生物/哲学，Cantonese，同类互fo",
+        "id": "1992142628343996416",
+        "name": "Witch🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2034994870910427157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994968046524665862/LOZflgNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 260,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 226
+        },
+        "username": "Witch198964",
+        "verified": false
+      }
+    ]
+  }
+}

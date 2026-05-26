@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2055265995724620088",
+    "created_at": "2026-05-15T12:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T13:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055266004117381338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Bluesky social client with AI integration",
+          "display_url": "bsky.epheia.dev",
+          "end": 32,
+          "expanded_url": "http://bsky.epheia.dev",
+          "start": 9,
+          "status": 200,
+          "title": "Bluesky Client",
+          "unwound_url": "https://bsky.epheia.dev/",
+          "url": "https://t.co/rP0ZR92qcp"
+        },
+        {
+          "description": "Bluesky social client with AI integration",
+          "display_url": "ai-bsky.pages.dev",
+          "end": 58,
+          "expanded_url": "http://ai-bsky.pages.dev",
+          "start": 35,
+          "status": 200,
+          "title": "Bluesky Client",
+          "unwound_url": "https://ai-bsky.pages.dev/",
+          "url": "https://t.co/xGPCYyps4Q"
+        },
+        {
+          "description": "A dual-UI (TUI + PWA) Bluesky client with deep AI integration. Built with TypeScript, Ink (React), React DOM, and AT Protocol. - epheiamoe/bsky",
+          "display_url": "github.com/epheiamoe/bsky",
+          "end": 88,
+          "expanded_url": "http://github.com/epheiamoe/bsky",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2052770487584112640/3AKFHKe7?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2052770487584112640/3AKFHKe7?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 65,
+          "status": 200,
+          "title": "GitHub - epheiamoe/bsky: A dual-UI (TUI + PWA) Bluesky client with deep AI integration. Built with TypeScript, Ink (React), React DOM, and AT Protocol.",
+          "unwound_url": "https://github.com/epheiamoe/bsky",
+          "url": "https://t.co/ONZCwWd6fb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055266004117381338",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055266001428861210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "立即使用PWA：\nhttps://t.co/rP0ZR92qcp\n或：https://t.co/xGPCYyps4Q\n\n前往仓库：https://t.co/ONZCwWd6fb\n（3/3）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33166,
+        "height": 1080,
+        "media_key": "13_2055264893843197952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055264893843197952/img/UbsW3womLciv2Gdk.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055264893843197952/pl/-ODwlvyF2AoNkdYs.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055264893843197952/vid/avc1/640x360/6_fptFLPcMbuR2MB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055264893843197952/vid/avc1/1280x720/Eq9f_NYr86OG7tAX.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055264893843197952/vid/avc1/480x270/_BMW7ZkIx5fUcgAR.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055264893843197952/vid/avc1/1920x1080/7XhIhzvnY9e0PIgq.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2055265995724620088",
+        "created_at": "2026-05-15T12:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055266004117381338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Bluesky social client with AI integration",
+              "display_url": "bsky.epheia.dev",
+              "end": 32,
+              "expanded_url": "http://bsky.epheia.dev",
+              "start": 9,
+              "status": 200,
+              "title": "Bluesky Client",
+              "unwound_url": "https://bsky.epheia.dev/",
+              "url": "https://t.co/rP0ZR92qcp"
+            },
+            {
+              "description": "Bluesky social client with AI integration",
+              "display_url": "ai-bsky.pages.dev",
+              "end": 58,
+              "expanded_url": "http://ai-bsky.pages.dev",
+              "start": 35,
+              "status": 200,
+              "title": "Bluesky Client",
+              "unwound_url": "https://ai-bsky.pages.dev/",
+              "url": "https://t.co/xGPCYyps4Q"
+            },
+            {
+              "description": "A dual-UI (TUI + PWA) Bluesky client with deep AI integration. Built with TypeScript, Ink (React), React DOM, and AT Protocol. - epheiamoe/bsky",
+              "display_url": "github.com/epheiamoe/bsky",
+              "end": 88,
+              "expanded_url": "http://github.com/epheiamoe/bsky",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2052770487584112640/3AKFHKe7?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052770487584112640/3AKFHKe7?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 65,
+              "status": 200,
+              "title": "GitHub - epheiamoe/bsky: A dual-UI (TUI + PWA) Bluesky client with deep AI integration. Built with TypeScript, Ink (React), React DOM, and AT Protocol.",
+              "unwound_url": "https://github.com/epheiamoe/bsky",
+              "url": "https://t.co/ONZCwWd6fb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055266004117381338",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055266001428861210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "立即使用PWA：\nhttps://t.co/rP0ZR92qcp\n或：https://t.co/xGPCYyps4Q\n\n前往仓库：https://t.co/ONZCwWd6fb\n（3/3）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055264893843197952"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2055265995724620088",
+        "created_at": "2026-05-15T12:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055266001428861210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4s3rEAJB7u",
+              "end": 85,
+              "expanded_url": "https://x.com/nyaepheia/status/2055266001428861210/video/1",
+              "media_key": "13_2055264893843197952",
+              "start": 62,
+              "url": "https://t.co/4s3rEAJB7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055266001428861210",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "坚持响应式设计。不仅如此，这次带来了更好的手机操作体验。\n着重为小屏幕优化。新增底部操作栏，常用功能触手可及。\n（2/3）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055265995724620088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "坚持响应式设计。不仅如此，这次带来了更好的手机操作体验。\n着重为小屏幕优化。新增底部操作栏，常用功能触手可及。\n（2/3） https://t.co/4s3rEAJB7u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 807,
+          "like_count": 21232,
+          "listed_count": 3,
+          "media_count": 314,
+          "tweet_count": 3860
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

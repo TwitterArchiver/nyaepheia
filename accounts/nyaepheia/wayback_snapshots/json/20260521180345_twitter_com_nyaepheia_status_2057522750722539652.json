@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057038569131155773",
+    "created_at": "2026-05-21T18:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T19:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057522750722539652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1646281249361739777",
+          "start": 0,
+          "username": "lzx_li78058"
+        },
+        {
+          "end": 25,
+          "id": "1686670087800111104",
+          "start": 13,
+          "username": "Ivan1985530"
+        },
+        {
+          "end": 42,
+          "id": "2037909112055300096",
+          "start": 26,
+          "username": "QueerLawWatchCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057522750722539652",
+    "in_reply_to_user_id": "1646281249361739777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057521853095194941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzx_li78058 @Ivan1985530 @QueerLawWatchCN 不是。\n谁说要无秩序了？我不支持暴力革命，但就算是支持暴力革命的推主也是说的是建立更好的秩序。\n我不想说服您用一时的无序建立更好的秩序是合理的。因为我甚至怀疑是否真的能建立更好的秩序，所以我显然说服不了您。\n但我认为您的误解必须要被澄清。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057038569131155773",
+        "created_at": "2026-05-21T18:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057522750722539652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646281249361739777",
+              "start": 0,
+              "username": "lzx_li78058"
+            },
+            {
+              "end": 25,
+              "id": "1686670087800111104",
+              "start": 13,
+              "username": "Ivan1985530"
+            },
+            {
+              "end": 42,
+              "id": "2037909112055300096",
+              "start": 26,
+              "username": "QueerLawWatchCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057522750722539652",
+        "in_reply_to_user_id": "1646281249361739777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057521853095194941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzx_li78058 @Ivan1985530 @QueerLawWatchCN 不是。\n谁说要无秩序了？我不支持暴力革命，但就算是支持暴力革命的推主也是说的是建立更好的秩序。\n我不想说服您用一时的无序建立更好的秩序是合理的。因为我甚至怀疑是否真的能建立更好的秩序，所以我显然说服不了您。\n但我认为您的误解必须要被澄清。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646281249361739777",
+        "conversation_id": "2057038569131155773",
+        "created_at": "2026-05-21T18:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057521853095194941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 23,
+              "id": "1686670087800111104",
+              "start": 11,
+              "username": "Ivan1985530"
+            },
+            {
+              "end": 40,
+              "id": "2037909112055300096",
+              "start": 24,
+              "username": "QueerLawWatchCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057521853095194941",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057520281594577134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @Ivan1985530 @QueerLawWatchCN 秩序确保了的是一个底线 没有了他这个底线 也就是基本的人身安全，对少数人群更广泛更暴力的压迫和攻击会更常见，不管是战争还是自然灾害等时候都能看到。也许最终会重建一个对少数人群更保护的秩序但也可能会变成有更系统性压迫的秩序"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 831,
+          "like_count": 22727,
+          "listed_count": 3,
+          "media_count": 359,
+          "tweet_count": 4197
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-12T22:37:07.000Z",
+        "description": "",
+        "id": "1646281249361739777",
+        "name": "Lzx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947758751861379072/6WH6aFhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 218,
+          "like_count": 26567,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 3395
+        },
+        "username": "lzx_li78058",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-02T09:29:56.000Z",
+        "description": "Democracy, Freedom, Rule of law.  Love and equality.\n\n民主，自由，法治。\n\n爱和平等。",
+        "id": "1686670087800111104",
+        "name": "Ivan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870430778410299392/APgwsex4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 18,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1291
+        },
+        "username": "Ivan1985530",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T15:08:39.000Z",
+        "description": "阿冬的环球酷儿法律观察\n关注全球LGBTQ运动经验和法律实践🏳️‍🌈🏳️‍⚧️，为中国的LGBTQ运动提供他山之玉。\ntracking queer law & policy globally | personal, not institutional",
+        "id": "2037909112055300096",
+        "name": "阿冬的酷儿法律观察",
+        "pinned_tweet_id": "2056409627969876339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047360437906182144/TuWas3GX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 528,
+          "like_count": 365,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 128
+        },
+        "username": "QueerLawWatchCN",
+        "verified": true
+      }
+    ]
+  }
+}

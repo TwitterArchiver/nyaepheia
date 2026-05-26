@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057033079701795160",
+    "created_at": "2026-05-20T18:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T19:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057160767854817480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552213521253150720",
+          "start": 0,
+          "username": "acnekot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057160767854817480",
+    "in_reply_to_user_id": "1552213521253150720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057033079701795160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acnekot 怎么才1M..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2057032858221551617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwMfGWaIAE9cT-.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1079,
+        "media_key": "3_2057032869021954048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwMfulbMAAEh3p.jpg",
+        "width": 1109
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2057032881437069312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwMgc1a0AA7fwM.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2057032933115084800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwMjdWawAACQ6j.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057033079701795160",
+        "created_at": "2026-05-20T18:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T19:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057160767854817480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057160767854817480",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057033079701795160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 怎么才1M..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057032858221551617",
+            "3_2057032869021954048",
+            "3_2057032881437069312",
+            "3_2057032933115084800"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2057033079701795160",
+        "created_at": "2026-05-20T09:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057033079701795160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/So0uSwHS9H",
+              "end": 32,
+              "expanded_url": "https://x.com/acnekot/status/2057033079701795160/photo/1",
+              "media_key": "3_2057032858221551617",
+              "start": 9,
+              "url": "https://t.co/So0uSwHS9H"
+            },
+            {
+              "display_url": "pic.x.com/So0uSwHS9H",
+              "end": 32,
+              "expanded_url": "https://x.com/acnekot/status/2057033079701795160/photo/1",
+              "media_key": "3_2057032869021954048",
+              "start": 9,
+              "url": "https://t.co/So0uSwHS9H"
+            },
+            {
+              "display_url": "pic.x.com/So0uSwHS9H",
+              "end": 32,
+              "expanded_url": "https://x.com/acnekot/status/2057033079701795160/photo/1",
+              "media_key": "3_2057032881437069312",
+              "start": 9,
+              "url": "https://t.co/So0uSwHS9H"
+            },
+            {
+              "display_url": "pic.x.com/So0uSwHS9H",
+              "end": 32,
+              "expanded_url": "https://x.com/acnekot/status/2057033079701795160/photo/1",
+              "media_key": "3_2057032933115084800",
+              "start": 9,
+              "url": "https://t.co/So0uSwHS9H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057033079701795160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2354,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我拿到了点硬通货 https://t.co/So0uSwHS9H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 829,
+          "like_count": 22476,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 4124
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 796,
+          "like_count": 92518,
+          "listed_count": 7,
+          "media_count": 3879,
+          "tweet_count": 16457
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

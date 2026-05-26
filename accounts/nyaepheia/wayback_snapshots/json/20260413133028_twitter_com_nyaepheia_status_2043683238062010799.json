@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2043683238062010799",
+    "created_at": "2026-04-13T13:30:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043683238062010799"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 137,
+          "start": 127,
+          "tag": "nyaepheia"
+        },
+        {
+          "end": 155,
+          "start": 143,
+          "tag": "EpheiaToday"
+        },
+        {
+          "end": 181,
+          "start": 168,
+          "tag": "EpheiaStatus"
+        }
+      ],
+      "urls": [
+        {
+          "description": "求关注喵，同类互关 /ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/hrt26.4.1/家长党/天残党/SocDem/不键政/文科生/Vibe coding/搭网站 X:x.com/nyaepheia",
+          "display_url": "bsky.app/profile/wataku…",
+          "end": 56,
+          "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+          "start": 33,
+          "status": 200,
+          "title": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂 (@watakushi.desuwa.org)",
+          "unwound_url": "https://bsky.app/profile/watakushi.desuwa.org",
+          "url": "https://t.co/TKCnjHhbIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043683238062010799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 137,
+            "start": 127,
+            "tag": "nyaepheia"
+          },
+          {
+            "end": 155,
+            "start": 143,
+            "tag": "EpheiaToday"
+          },
+          {
+            "end": 181,
+            "start": 168,
+            "tag": "EpheiaStatus"
+          },
+          {
+            "end": 213,
+            "start": 200,
+            "tag": "EpheiaTought"
+          },
+          {
+            "end": 257,
+            "start": 247,
+            "tag": "EpheiaHRT"
+          },
+          {
+            "end": 275,
+            "start": 265,
+            "tag": "EpheiaDev"
+          },
+          {
+            "end": 292,
+            "start": 281,
+            "tag": "EpheiaYuri"
+          },
+          {
+            "end": 312,
+            "start": 299,
+            "tag": "EpheiaReview"
+          },
+          {
+            "end": 333,
+            "start": 319,
+            "tag": "EpheiaArchive"
+          },
+          {
+            "end": 348,
+            "start": 338,
+            "tag": "AskEpheia"
+          },
+          {
+            "end": 484,
+            "start": 474,
+            "tag": "nyaepheia"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "bsky.app/profile/wataku…",
+            "end": 56,
+            "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+            "start": 33,
+            "url": "https://t.co/22rDIeendE"
+          }
+        ]
+      },
+      "text": "［Bluesky］\n可以关注一下咱的bluesky 哦！谢谢喵！\nhttps://t.co/22rDIeendE\nbluesky 是一个对性少数更友好的社区~\n\n［Epheia 使用的标签］\nEpheia 会使用下面这些标签来标注推文，它们有特定的含义\n#nyaepheia 账号相关\n#EpheiaToday 今天发生的比较大的事情\n#EpheiaStatus 状态，日记，随笔，通常记录生活琐事\n#EpheiaTought 一些对社群或社会的想法，可能包括暴论，不成熟的想法等，请注意辨别\n#EpheiaHRT HRT 相关\n#EpheiaDev 开发相关\n#EpheiaYuri 百合相关\n​#EpheiaReview 事件评论\n​#EpheiaArchive 归档\n​#AskEpheia 互动环节~\n... 待补充\n\n［近况］\n然后最近不登校了... 大部分时间在线（具体请参考最后一次回帖的时间，可能作息不规律）欢迎互关或mtf/mtx同类回帖或私信聊天，但我完全不可能让你的心情变好的（\n\n［修订记录］\n第二版 2026/4/13\n\n#nyaepheia"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "［Bluesky］\n可以关注一下咱的bluesky 哦！谢谢喵！\nhttps://t.co/TKCnjHhbIV\nbluesky 是一个对性少数更友好的社区~\n\n［Epheia 使用的标签］\nEpheia 会使用下面这些标签来标注推文，它们有特定的含义\n#nyaepheia 账号相关\n#EpheiaToday 今天发生的比较大的事情\n#EpheiaStatus"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2043683238062010799",
+        "created_at": "2026-04-13T13:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043683238062010799"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 127,
+              "tag": "nyaepheia"
+            },
+            {
+              "end": 155,
+              "start": 143,
+              "tag": "EpheiaToday"
+            },
+            {
+              "end": 181,
+              "start": 168,
+              "tag": "EpheiaStatus"
+            }
+          ],
+          "urls": [
+            {
+              "description": "求关注喵，同类互关 /ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/hrt26.4.1/家长党/天残党/SocDem/不键政/文科生/Vibe coding/搭网站 X:x.com/nyaepheia",
+              "display_url": "bsky.app/profile/wataku…",
+              "end": 56,
+              "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+              "start": 33,
+              "status": 200,
+              "title": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂 (@watakushi.desuwa.org)",
+              "unwound_url": "https://bsky.app/profile/watakushi.desuwa.org",
+              "url": "https://t.co/TKCnjHhbIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043683238062010799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 137,
+                "start": 127,
+                "tag": "nyaepheia"
+              },
+              {
+                "end": 155,
+                "start": 143,
+                "tag": "EpheiaToday"
+              },
+              {
+                "end": 181,
+                "start": 168,
+                "tag": "EpheiaStatus"
+              },
+              {
+                "end": 213,
+                "start": 200,
+                "tag": "EpheiaTought"
+              },
+              {
+                "end": 257,
+                "start": 247,
+                "tag": "EpheiaHRT"
+              },
+              {
+                "end": 275,
+                "start": 265,
+                "tag": "EpheiaDev"
+              },
+              {
+                "end": 292,
+                "start": 281,
+                "tag": "EpheiaYuri"
+              },
+              {
+                "end": 312,
+                "start": 299,
+                "tag": "EpheiaReview"
+              },
+              {
+                "end": 333,
+                "start": 319,
+                "tag": "EpheiaArchive"
+              },
+              {
+                "end": 348,
+                "start": 338,
+                "tag": "AskEpheia"
+              },
+              {
+                "end": 484,
+                "start": 474,
+                "tag": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 56,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 33,
+                "url": "https://t.co/22rDIeendE"
+              }
+            ]
+          },
+          "text": "［Bluesky］\n可以关注一下咱的bluesky 哦！谢谢喵！\nhttps://t.co/22rDIeendE\nbluesky 是一个对性少数更友好的社区~\n\n［Epheia 使用的标签］\nEpheia 会使用下面这些标签来标注推文，它们有特定的含义\n#nyaepheia 账号相关\n#EpheiaToday 今天发生的比较大的事情\n#EpheiaStatus 状态，日记，随笔，通常记录生活琐事\n#EpheiaTought 一些对社群或社会的想法，可能包括暴论，不成熟的想法等，请注意辨别\n#EpheiaHRT HRT 相关\n#EpheiaDev 开发相关\n#EpheiaYuri 百合相关\n​#EpheiaReview 事件评论\n​#EpheiaArchive 归档\n​#AskEpheia 互动环节~\n... 待补充\n\n［近况］\n然后最近不登校了... 大部分时间在线（具体请参考最后一次回帖的时间，可能作息不规律）欢迎互关或mtf/mtx同类回帖或私信聊天，但我完全不可能让你的心情变好的（\n\n［修订记录］\n第二版 2026/4/13\n\n#nyaepheia"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "［Bluesky］\n可以关注一下咱的bluesky 哦！谢谢喵！\nhttps://t.co/TKCnjHhbIV\nbluesky 是一个对性少数更友好的社区~\n\n［Epheia 使用的标签］\nEpheia 会使用下面这些标签来标注推文，它们有特定的含义\n#nyaepheia 账号相关\n#EpheiaToday 今天发生的比较大的事情\n#EpheiaStatus"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/小证含糖hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站\n已休学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2041715066337452228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 673,
+          "like_count": 12625,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1858
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2044611508978733355",
+    "created_at": "2026-04-16T04:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T05:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044641776494092590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1548619992001785859",
+          "start": 0,
+          "username": "frankshiki73"
+        },
+        {
+          "end": 24,
+          "id": "1928705633135767600",
+          "start": 14,
+          "username": "Coxe_Pica"
+        },
+        {
+          "end": 40,
+          "id": "1810873766119100416",
+          "start": 25,
+          "username": "RainBuild_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044641776494092590",
+    "in_reply_to_user_id": "1548619992001785859",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044635407405781364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frankshiki73 @Coxe_Pica @RainBuild_2024 似乎不行\n\n安卓X 新版app"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2044611508978733355",
+        "created_at": "2026-04-16T04:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044641776494092590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1548619992001785859",
+              "start": 0,
+              "username": "frankshiki73"
+            },
+            {
+              "end": 24,
+              "id": "1928705633135767600",
+              "start": 14,
+              "username": "Coxe_Pica"
+            },
+            {
+              "end": 40,
+              "id": "1810873766119100416",
+              "start": 25,
+              "username": "RainBuild_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044641776494092590",
+        "in_reply_to_user_id": "1548619992001785859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044635407405781364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frankshiki73 @Coxe_Pica @RainBuild_2024 似乎不行\n\n安卓X 新版app"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548619992001785859",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2044611508978733355",
+        "created_at": "2026-04-16T04:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044635407405781364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "Coxe_Pica"
+            },
+            {
+              "end": 26,
+              "id": "1810873766119100416",
+              "start": 11,
+              "username": "RainBuild_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044635407405781364",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044633065587118403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coxe_Pica @RainBuild_2024 Grok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元\n百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?\nQueer?\nMtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 697,
+          "like_count": 14193,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2094
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-17T10:46:02.000Z",
+        "description": "INFP Web / Game / Anime / 🚇🚌🚄🧳💻🧋🍥",
+        "id": "1548619992001785859",
+        "location": "Earth",
+        "name": "frank_782🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018390699918651392/hjysl7-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 125,
+          "like_count": 1228,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 708
+        },
+        "username": "frankshiki73",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13初中生7年级\nMtf/女孩子啦年龄党/无证含糖🍥🏳️‍⚧️\n常驻湖北在湖北上学\n无心理问题/苹果粉\n分享我的日常生活和技术\n感谢你的关注和喜欢ó\n\n\"When tomorrow comes.....\"🎉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Coxe_Pica",
+                "end": 23,
+                "expanded_url": "http://t.me/Coxe_Pica",
+                "start": 0,
+                "url": "https://t.co/ic4apAkY69"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北",
+        "name": "𝑪𝒐𝒙𝒆_𝑷𝒊𝒄𝒂 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041475934608380289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042574562454614016/vmVviffD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 16,
+          "like_count": 499,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 245
+        },
+        "url": "https://t.co/ic4apAkY69",
+        "username": "Coxe_Pica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "id": "1810873766119100416",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042977093999570944/b0OIdVg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9543,
+          "following_count": 923,
+          "like_count": 76406,
+          "listed_count": 19,
+          "media_count": 1521,
+          "tweet_count": 10803
+        },
+        "username": "RainBuild_2024",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-17T10:46:02.000Z",
+        "description": "INFP Web / Game / Anime / 🚇🚌🚄🧳💻🧋🍥",
+        "id": "1548619992001785859",
+        "location": "Earth",
+        "name": "frank_782🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018390699918651392/hjysl7-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 125,
+          "like_count": 1228,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 708
+        },
+        "url": "",
+        "username": "frankshiki73",
+        "verified": false
+      }
+    ]
+  }
+}

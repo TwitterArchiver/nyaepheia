@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054100908842385408"
+      ],
+      "media_source_tweet_id": [
+        "2054140725072396629"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2054469947527762109",
+    "created_at": "2026-05-13T07:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054469947527762109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1201513602835828737",
+          "start": 3,
+          "username": "kudo_eru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pTJktdIPQ3",
+          "end": 79,
+          "expanded_url": "https://x.com/kudo_eru/status/2054140725072396629/photo/1",
+          "media_key": "3_2054100908842385408",
+          "start": 56,
+          "url": "https://t.co/pTJktdIPQ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054469947527762109",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 504
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054140725072396629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kudo_eru: 『ミコトとレイ』書影出た！！！！！\n5月23日発売！！！！！\n\n▼URLはリプ欄▼ https://t.co/pTJktdIPQ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1523,
+        "media_key": "3_2054100908842385408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGh5LxbgAA7Z-H.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054100908842385408"
+          ],
+          "media_source_tweet_id": [
+            "2054140725072396629"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2054469947527762109",
+        "created_at": "2026-05-13T07:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054469947527762109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1201513602835828737",
+              "start": 3,
+              "username": "kudo_eru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pTJktdIPQ3",
+              "end": 79,
+              "expanded_url": "https://x.com/kudo_eru/status/2054140725072396629/photo/1",
+              "media_key": "3_2054100908842385408",
+              "start": 56,
+              "url": "https://t.co/pTJktdIPQ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054469947527762109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 504
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054140725072396629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kudo_eru: 『ミコトとレイ』書影出た！！！！！\n5月23日発売！！！！！\n\n▼URLはリプ欄▼ https://t.co/pTJktdIPQ3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054100908842385408"
+          ]
+        },
+        "author_id": "1201513602835828737",
+        "conversation_id": "2054140725072396629",
+        "created_at": "2026-05-12T10:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054140725072396629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pTJktdIPQ3",
+              "end": 65,
+              "expanded_url": "https://x.com/kudo_eru/status/2054140725072396629/photo/1",
+              "media_key": "3_2054100908842385408",
+              "start": 42,
+              "url": "https://t.co/pTJktdIPQ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054140725072396629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 448,
+          "impression_count": 90045,
+          "like_count": 3617,
+          "quote_count": 16,
+          "reply_count": 17,
+          "retweet_count": 504
+        },
+        "reply_settings": "everyone",
+        "text": "『ミコトとレイ』書影出た！！！！！\n5月23日発売！！！！！\n\n▼URLはリプ欄▼ https://t.co/pTJktdIPQ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 801,
+          "like_count": 20794,
+          "listed_count": 3,
+          "media_count": 296,
+          "tweet_count": 3734
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-02T14:49:11.000Z",
+        "description": "絵を描きます！ ■創作百合ミコレイ🎹ひかしず👨‍🏫きららMAX【江口さんちの純情サキュバス】連載中🥀単行本①巻発売中 ■お仕事のご連絡は【✉️：sikisiki910＠gmail.com】までお願いします。 AI学習×",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/54891433",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/54891433",
+                "start": 0,
+                "url": "https://t.co/1BmGW5mWpG"
+              }
+            ]
+          }
+        },
+        "id": "1201513602835828737",
+        "name": "工藤える🎀ミコレイ＆純サキュ②5月発売",
+        "pinned_tweet_id": "2054140725072396629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621440257475612672/5pIcEIGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229171,
+          "following_count": 713,
+          "like_count": 18523,
+          "listed_count": 1620,
+          "media_count": 215,
+          "tweet_count": 4220
+        },
+        "url": "https://t.co/1BmGW5mWpG",
+        "username": "kudo_eru",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2050236563427340462",
+    "created_at": "2026-05-01T15:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T16:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050236563427340462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1800795522363723776",
+          "start": 3,
+          "username": "hewg_smithing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050236563427340462",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4897
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050004838029934937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hewg_smithing: Should you stop associating trans people with femboys?\n\n◯ Yes  \n\n◯ Yes\n\n◯ Yes"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2050236563427340462",
+        "created_at": "2026-05-01T15:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050236563427340462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1800795522363723776",
+              "start": 3,
+              "username": "hewg_smithing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050236563427340462",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4897
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050004838029934937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hewg_smithing: Should you stop associating trans people with femboys?\n\n◯ Yes  \n\n◯ Yes\n\n◯ Yes"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800795522363723776",
+        "conversation_id": "2050004838029934937",
+        "created_at": "2026-05-01T00:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T01:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050004838029934937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drewbaeboy/sta…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/drewbaeboy/status/2049896893774180680",
+              "start": 78,
+              "url": "https://t.co/8dMJnjIP33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050004838029934937",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 611,
+          "impression_count": 575043,
+          "like_count": 48737,
+          "quote_count": 39,
+          "reply_count": 224,
+          "retweet_count": 4897
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049896893774180680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Should you stop associating trans people with femboys?\n\n◯ Yes  \n\n◯ Yes\n\n◯ Yes https://t.co/8dMJnjIP33"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 769,
+          "like_count": 18623,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 3055
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-12T07:41:43.000Z",
+        "description": "Smithing a weapon to fell a god pfp art by ~Annie~ (pookie) | tgirl 🏳️‍⚧️|",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hewgs.straw.page",
+                "end": 23,
+                "expanded_url": "https://hewgs.straw.page/",
+                "start": 0,
+                "url": "https://t.co/m0rlGLke5J"
+              }
+            ]
+          }
+        },
+        "id": "1800795522363723776",
+        "location": "Roundtable Hold",
+        "name": "Hewg (tgirl arc 🏳️‍⚧️)",
+        "pinned_tweet_id": "1982902335526580457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631336400048128/Ch3MzOte_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 273,
+          "like_count": 75606,
+          "listed_count": 6,
+          "media_count": 767,
+          "tweet_count": 13037
+        },
+        "url": "https://t.co/m0rlGLke5J",
+        "username": "hewg_smithing",
+        "verified": false
+      }
+    ]
+  }
+}

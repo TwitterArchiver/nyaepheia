@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051703063921238016"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2051700461137465360",
+    "created_at": "2026-05-05T16:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T17:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051703071697449308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pW54c0FS6h",
+          "end": 49,
+          "expanded_url": "https://x.com/nyaepheia/status/2051703071697449308/photo/1",
+          "media_key": "3_2051703063921238016",
+          "start": 26,
+          "url": "https://t.co/pW54c0FS6h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051703071697449308",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051700461137465360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最快的选手出现了\nGPT，仅思考一秒，直接杀死比赛 https://t.co/pW54c0FS6h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2101,
+        "media_key": "3_2051703063921238016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHkdEPWbIAAN7P_.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "x+3=8\n那twitter=几？\n👀哈哈\n\n---\n\nGrok：哈哈哈，依菲雅这脑洞绝了！👀\n\n**x + 3 = 8**  \n→ **x = 5**\n\n那 **Twitter** 呢？  \n**Twitter = X**（官方认证重命名）  \n所以 **Twitter = x = 5**\n\n答案就是 **5** 啦～  \n\n（Elon 看到都要点赞这个梗了）😂",
+        "height": 2106,
+        "media_key": "3_2051700442892279809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHkarrQbIAEFYI0.jpg",
+        "width": 1073
+      },
+      {
+        "alt_text": "x+3=8\n那twitter=几？\n👀哈哈\n\n---\n\nDeepSeek ：根据方程 x + 3 = 8，解得 x = 5。问题问“twitter=几”，这是一个幽默的脑筋急转弯，暗示twitter也等于5。所以答案是5。\n\n5",
+        "height": 1213,
+        "media_key": "3_2051700452073549824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHkasNdaMAAkQgK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051703063921238016"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2051700461137465360",
+        "created_at": "2026-05-05T16:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T17:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051703071697449308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pW54c0FS6h",
+              "end": 49,
+              "expanded_url": "https://x.com/nyaepheia/status/2051703071697449308/photo/1",
+              "media_key": "3_2051703063921238016",
+              "start": 26,
+              "url": "https://t.co/pW54c0FS6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051703071697449308",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051700461137465360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最快的选手出现了\nGPT，仅思考一秒，直接杀死比赛 https://t.co/pW54c0FS6h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051700442892279809",
+            "3_2051700452073549824"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2051700461137465360",
+        "created_at": "2026-05-05T16:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T17:26:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051700185718468698",
+          "2051700461137465360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OD9UynU1D7",
+              "end": 128,
+              "expanded_url": "https://x.com/nyaepheia/status/2051700461137465360/photo/1",
+              "media_key": "3_2051700442892279809",
+              "start": 105,
+              "url": "https://t.co/OD9UynU1D7"
+            },
+            {
+              "display_url": "pic.x.com/OD9UynU1D7",
+              "end": 128,
+              "expanded_url": "https://x.com/nyaepheia/status/2051700461137465360/photo/1",
+              "media_key": "3_2051700452073549824",
+              "start": 105,
+              "url": "https://t.co/OD9UynU1D7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051700461137465360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我宣布推出新的LLM 能力测量标准：twitter=5 标准🐱，致力于取代MMLU, GSM8K, MATH 等测试集（\n\nGrok fast 3秒得正确答案\nDeepSeek flash 71 秒得错误答案 https://t.co/OD9UynU1D7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 790,
+          "like_count": 19577,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 3346
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

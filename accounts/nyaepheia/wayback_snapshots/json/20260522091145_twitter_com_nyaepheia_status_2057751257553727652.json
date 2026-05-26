@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057751250532487168"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057674177939972159",
+    "created_at": "2026-05-22T09:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T10:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057751257553727652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1554095384859127809",
+          "start": 0,
+          "username": "wx_calvin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HjDdcgmoVg",
+          "end": 34,
+          "expanded_url": "https://x.com/nyaepheia/status/2057751257553727652/photo/1",
+          "media_key": "3_2057751250532487168",
+          "start": 11,
+          "url": "https://t.co/HjDdcgmoVg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057751257553727652",
+    "in_reply_to_user_id": "1554095384859127809",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057675138439737390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wx_calvin https://t.co/HjDdcgmoVg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1321,
+        "media_key": "3_2057751250532487168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6Z3CQa0AAJPJz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057751250532487168"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057674177939972159",
+        "created_at": "2026-05-22T09:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057751257553727652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1554095384859127809",
+              "start": 0,
+              "username": "wx_calvin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HjDdcgmoVg",
+              "end": 34,
+              "expanded_url": "https://x.com/nyaepheia/status/2057751257553727652/photo/1",
+              "media_key": "3_2057751250532487168",
+              "start": 11,
+              "url": "https://t.co/HjDdcgmoVg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057751257553727652",
+        "in_reply_to_user_id": "1554095384859127809",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057675138439737390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wx_calvin https://t.co/HjDdcgmoVg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554095384859127809",
+        "conversation_id": "2057674177939972159",
+        "created_at": "2026-05-22T04:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057675138439737390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779149099084009472",
+              "start": 0,
+              "username": "MikuLoverr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057675138439737390",
+        "in_reply_to_user_id": "1779149099084009472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057674177939972159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuLoverr_ 样本数取奇数啊，傻逼巴子你是不是以为中位数一定五五分的啊。台巴子喜欢造假有什么好奇怪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 829,
+          "like_count": 22853,
+          "listed_count": 3,
+          "media_count": 363,
+          "tweet_count": 4235
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-01T13:23:24.000Z",
+        "description": "Fight for what you believe",
+        "id": "1554095384859127809",
+        "location": "Melbourne, Victoria",
+        "name": "Xin Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991149394436182016/M-on-VC5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 84,
+          "like_count": 109,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 1241
+        },
+        "username": "wx_calvin",
+        "verified": false
+      }
+    ]
+  }
+}

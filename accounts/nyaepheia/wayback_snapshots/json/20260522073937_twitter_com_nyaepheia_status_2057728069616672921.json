@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057481441756291178",
+    "created_at": "2026-05-22T07:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T08:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057728069616672921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1246970227947999232",
+          "start": 0,
+          "username": "Niki20207"
+        },
+        {
+          "end": 25,
+          "id": "1647980508297719815",
+          "start": 11,
+          "username": "yanyejilennon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "en.wikipedia.org/wiki/Use_of_as…",
+          "end": 49,
+          "expanded_url": "https://en.wikipedia.org/wiki/Use_of_assisted_reproductive_technology_by_LGBTQ_people?wprov=sfla1",
+          "images": [
+            {
+              "height": 657,
+              "url": "https://pbs.twimg.com/news_img/2057728078374445057/vDx32T18?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2057728078374445057/vDx32T18?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 26,
+          "status": 200,
+          "title": "Use of assisted reproductive technology by LGBTQ people - Wikipedia",
+          "unwound_url": "https://en.wikipedia.org/wiki/Use_of_assisted_reproductive_technology_by_LGBTQ_people?wprov=sfla1",
+          "url": "https://t.co/hqKtMtaxEG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057728069616672921",
+    "in_reply_to_user_id": "1246970227947999232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057674756326088975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Niki20207 @yanyejilennon https://t.co/hqKtMtaxEG\n这是一篇百科介绍，介绍了LGBTQ+  群体可用的辅助生殖技术，供您参考。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057481441756291178",
+        "created_at": "2026-05-22T07:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057728069616672921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1246970227947999232",
+              "start": 0,
+              "username": "Niki20207"
+            },
+            {
+              "end": 25,
+              "id": "1647980508297719815",
+              "start": 11,
+              "username": "yanyejilennon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "en.wikipedia.org/wiki/Use_of_as…",
+              "end": 49,
+              "expanded_url": "https://en.wikipedia.org/wiki/Use_of_assisted_reproductive_technology_by_LGBTQ_people?wprov=sfla1",
+              "images": [
+                {
+                  "height": 657,
+                  "url": "https://pbs.twimg.com/news_img/2057728078374445057/vDx32T18?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2057728078374445057/vDx32T18?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 26,
+              "status": 200,
+              "title": "Use of assisted reproductive technology by LGBTQ people - Wikipedia",
+              "unwound_url": "https://en.wikipedia.org/wiki/Use_of_assisted_reproductive_technology_by_LGBTQ_people?wprov=sfla1",
+              "url": "https://t.co/hqKtMtaxEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057728069616672921",
+        "in_reply_to_user_id": "1246970227947999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057674756326088975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Niki20207 @yanyejilennon https://t.co/hqKtMtaxEG\n这是一篇百科介绍，介绍了LGBTQ+  群体可用的辅助生殖技术，供您参考。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1246970227947999232",
+        "conversation_id": "2057481441756291178",
+        "created_at": "2026-05-22T04:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057674756326088975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1647980508297719815",
+              "start": 0,
+              "username": "yanyejilennon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057674756326088975",
+        "in_reply_to_user_id": "1647980508297719815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 481,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057481441756291178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyejilennon 不是，谁能告诉我同性恋咋生育？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 831,
+          "like_count": 22838,
+          "listed_count": 3,
+          "media_count": 362,
+          "tweet_count": 4231
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T01:17:34.000Z",
+        "description": "皇后大道東上為何無皇宮？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "libertywalk.co.jp",
+                "end": 23,
+                "expanded_url": "https://libertywalk.co.jp/",
+                "start": 0,
+                "url": "https://t.co/1gkO6DIRFY"
+              }
+            ]
+          }
+        },
+        "id": "1246970227947999232",
+        "location": "距离自己3.4公里",
+        "name": "𝓝𝓲𝓴𝓲𝟟.🔰",
+        "pinned_tweet_id": "1998221595194916925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057469229130235904/N9aqiVFe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 390,
+          "like_count": 395,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 472
+        },
+        "url": "https://t.co/1gkO6DIRFY",
+        "username": "Niki20207",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T15:09:18.000Z",
+        "description": "握紧我矛盾密布的手",
+        "id": "1647980508297719815",
+        "location": "Liverpool, England",
+        "name": "21st Century Schizoid Man",
+        "pinned_tweet_id": "2051709632058380563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041206438568296448/01syet9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 333,
+          "like_count": 42137,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 3884
+        },
+        "username": "yanyejilennon",
+        "verified": false
+      }
+    ]
+  }
+}

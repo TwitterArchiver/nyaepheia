@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046545386123522294",
+    "created_at": "2026-04-22T06:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T07:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046836746407883006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445400963632750596",
+          "start": 0,
+          "username": "Im_Just__Girl"
+        },
+        {
+          "end": 25,
+          "id": "1887391023976038400",
+          "start": 15,
+          "username": "xiey57828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046836746407883006",
+    "in_reply_to_user_id": "1445400963632750596",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046836582074949794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Im_Just__Girl @xiey57828 好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046545386123522294",
+        "created_at": "2026-04-22T06:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046836746407883006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445400963632750596",
+              "start": 0,
+              "username": "Im_Just__Girl"
+            },
+            {
+              "end": 25,
+              "id": "1887391023976038400",
+              "start": 15,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046836746407883006",
+        "in_reply_to_user_id": "1445400963632750596",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046836582074949794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_Just__Girl @xiey57828 好。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445400963632750596",
+        "conversation_id": "2046545386123522294",
+        "created_at": "2026-04-22T06:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046836582074949794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            },
+            {
+              "end": 21,
+              "id": "1608637128132685825",
+              "start": 11,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046836582074949794",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046677911927935401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 @nyaepheia 那我od雌二醇是不是女人中的女人，雌性中的雌性！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 739,
+          "like_count": 16280,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2657
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "可怜的有机小女孩，脾气也很坏，说不定哪天就死了|I'm a Good girl. Please don't hurt me.👧|🌈|OD雌二醇",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "Danielle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462232961372162/WYgmAow1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 850,
+          "like_count": 12823,
+          "listed_count": 4,
+          "media_count": 143,
+          "tweet_count": 6583
+        },
+        "username": "Im_Just__Girl",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "#人妖 #跨畜 #精神病  #od #自残 #出生 #白眼狼 #不成熟 #神经病 #脑残 #缺爱 #微信粉 #OPPO粉。最好的宝宝@xyu1182202 。最好的妹妹@LeavesMao",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "人妖"
+              },
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "跨畜"
+              },
+              {
+                "end": 12,
+                "start": 8,
+                "tag": "精神病"
+              },
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "od"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "自残"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "出生"
+              },
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "白眼狼"
+              },
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "不成熟"
+              },
+              {
+                "end": 40,
+                "start": 36,
+                "tag": "神经病"
+              },
+              {
+                "end": 44,
+                "start": 41,
+                "tag": "脑残"
+              },
+              {
+                "end": 48,
+                "start": 45,
+                "tag": "缺爱"
+              },
+              {
+                "end": 53,
+                "start": 49,
+                "tag": "微信粉"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "OPPO粉"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "xyu1182202"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "阎王殿",
+        "name": "沐桃",
+        "pinned_tweet_id": "2046400320176005588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 266,
+          "like_count": 3570,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1414
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052030157599408128",
+        "3_2052030165941903360",
+        "3_2052030176146718721"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052030186850594923",
+    "created_at": "2026-05-06T14:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052030186850594923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Bluesky social client with AI integration",
+          "display_url": "ai-bsky.pages.dev",
+          "end": 23,
+          "expanded_url": "http://ai-bsky.pages.dev",
+          "start": 0,
+          "status": 200,
+          "title": "Bluesky Client",
+          "unwound_url": "https://ai-bsky.pages.dev/",
+          "url": "https://t.co/xGPCYyps4Q"
+        },
+        {
+          "description": "A dual-UI (TUI + PWA) Bluesky client with deep AI integration. Built with TypeScript, Ink (React), React DOM, and AT Protocol. - epheiamoe/bsky",
+          "display_url": "github.com/epheiamoe/bsky",
+          "end": 77,
+          "expanded_url": "https://github.com/epheiamoe/bsky",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2050147146205470720/_6A-Rqft?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2050147146205470720/_6A-Rqft?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 54,
+          "status": 200,
+          "title": "GitHub - epheiamoe/bsky: A dual-UI (TUI + PWA) Bluesky client with deep AI integration. Built with TypeScript, Ink (React), React DOM, and AT Protocol.",
+          "unwound_url": "https://github.com/epheiamoe/bsky",
+          "url": "https://t.co/l1CGZ3KBfm"
+        },
+        {
+          "display_url": "pic.x.com/bEoiY7P4LH",
+          "end": 101,
+          "expanded_url": "https://x.com/nyaepheia/status/2052030186850594923/photo/1",
+          "media_key": "3_2052030157599408128",
+          "start": 78,
+          "url": "https://t.co/bEoiY7P4LH"
+        },
+        {
+          "display_url": "pic.x.com/bEoiY7P4LH",
+          "end": 101,
+          "expanded_url": "https://x.com/nyaepheia/status/2052030186850594923/photo/1",
+          "media_key": "3_2052030165941903360",
+          "start": 78,
+          "url": "https://t.co/bEoiY7P4LH"
+        },
+        {
+          "display_url": "pic.x.com/bEoiY7P4LH",
+          "end": 101,
+          "expanded_url": "https://x.com/nyaepheia/status/2052030186850594923/photo/1",
+          "media_key": "3_2052030176146718721",
+          "start": 78,
+          "url": "https://t.co/bEoiY7P4LH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052030186850594923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/xGPCYyps4Q 今日更新：\n增加私信功能\n增加个人资料编辑功能\n\n代码仓库：https://t.co/l1CGZ3KBfm https://t.co/bEoiY7P4LH"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "侧边栏",
+        "height": 2294,
+        "media_key": "3_2052030157599408128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpGjmQaAAANCij.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "私信按钮",
+        "height": 2298,
+        "media_key": "3_2052030165941903360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpGkFVaYAAzg4b.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2300,
+        "media_key": "3_2052030176146718721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpGkrWbgAEv045.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052030157599408128",
+            "3_2052030165941903360",
+            "3_2052030176146718721"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052030186850594923",
+        "created_at": "2026-05-06T14:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052030186850594923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Bluesky social client with AI integration",
+              "display_url": "ai-bsky.pages.dev",
+              "end": 23,
+              "expanded_url": "http://ai-bsky.pages.dev",
+              "start": 0,
+              "status": 200,
+              "title": "Bluesky Client",
+              "unwound_url": "https://ai-bsky.pages.dev/",
+              "url": "https://t.co/xGPCYyps4Q"
+            },
+            {
+              "description": "A dual-UI (TUI + PWA) Bluesky client with deep AI integration. Built with TypeScript, Ink (React), React DOM, and AT Protocol. - epheiamoe/bsky",
+              "display_url": "github.com/epheiamoe/bsky",
+              "end": 77,
+              "expanded_url": "https://github.com/epheiamoe/bsky",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2050147146205470720/_6A-Rqft?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2050147146205470720/_6A-Rqft?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "GitHub - epheiamoe/bsky: A dual-UI (TUI + PWA) Bluesky client with deep AI integration. Built with TypeScript, Ink (React), React DOM, and AT Protocol.",
+              "unwound_url": "https://github.com/epheiamoe/bsky",
+              "url": "https://t.co/l1CGZ3KBfm"
+            },
+            {
+              "display_url": "pic.x.com/bEoiY7P4LH",
+              "end": 101,
+              "expanded_url": "https://x.com/nyaepheia/status/2052030186850594923/photo/1",
+              "media_key": "3_2052030157599408128",
+              "start": 78,
+              "url": "https://t.co/bEoiY7P4LH"
+            },
+            {
+              "display_url": "pic.x.com/bEoiY7P4LH",
+              "end": 101,
+              "expanded_url": "https://x.com/nyaepheia/status/2052030186850594923/photo/1",
+              "media_key": "3_2052030165941903360",
+              "start": 78,
+              "url": "https://t.co/bEoiY7P4LH"
+            },
+            {
+              "display_url": "pic.x.com/bEoiY7P4LH",
+              "end": 101,
+              "expanded_url": "https://x.com/nyaepheia/status/2052030186850594923/photo/1",
+              "media_key": "3_2052030176146718721",
+              "start": 78,
+              "url": "https://t.co/bEoiY7P4LH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052030186850594923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xGPCYyps4Q 今日更新：\n增加私信功能\n增加个人资料编辑功能\n\n代码仓库：https://t.co/l1CGZ3KBfm https://t.co/bEoiY7P4LH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 797,
+          "like_count": 19844,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 3394
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

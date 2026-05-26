@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046540594047234124",
+    "created_at": "2026-04-21T10:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046540594047234124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2797632889",
+          "start": 3,
+          "username": "ElainaCherudim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046540594047234124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046538082313547960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ElainaCherudim: 不要代表别人。\n跨性别被绑在西方共产主义运动的战车上给西方左派当炮灰，本身就是中国跨性别者的处境再国际社会关注度不高的原因之一。因为中俄LGBT的存在打破了西方左派乌托邦的自我陶醉的幻想。\n相同的逻辑，跨性别也不应该被绑在个别人的“反抗c…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046540594047234124",
+        "created_at": "2026-04-21T10:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046540594047234124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2797632889",
+              "start": 3,
+              "username": "ElainaCherudim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046540594047234124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046538082313547960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ElainaCherudim: 不要代表别人。\n跨性别被绑在西方共产主义运动的战车上给西方左派当炮灰，本身就是中国跨性别者的处境再国际社会关注度不高的原因之一。因为中俄LGBT的存在打破了西方左派乌托邦的自我陶醉的幻想。\n相同的逻辑，跨性别也不应该被绑在个别人的“反抗c…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2797632889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2046538082313547960",
+        "created_at": "2026-04-21T10:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046538082313547960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Snow_Xue_/stat…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/Snow_Xue_/status/2046533780853440728",
+              "start": 129,
+              "url": "https://t.co/QkcdS2PvwJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046538082313547960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046533780853440728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要代表别人。\n跨性别被绑在西方共产主义运动的战车上给西方左派当炮灰，本身就是中国跨性别者的处境再国际社会关注度不高的原因之一。因为中俄LGBT的存在打破了西方左派乌托邦的自我陶醉的幻想。\n相同的逻辑，跨性别也不应该被绑在个别人的“反抗cosplay”上。 https://t.co/QkcdS2PvwJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 735,
+          "like_count": 15979,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 2475
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2014-09-08T09:45:09.000Z",
+        "description": "Senior SDE @BytedanceTalk SRS post-op Feminist, anti-Communism, technolibertarianism, Slava Ukraini, pro-Israel, Zionist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "BytedanceTalk"
+              }
+            ]
+          }
+        },
+        "id": "2797632889",
+        "location": "The Matrix",
+        "name": "Just a programmer 🏳️‍🌈🏳️‍⚧️🇺🇦🇮🇱✡️👩‍💻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613557249930330114/nKMAuZ2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 863,
+          "like_count": 7107,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 4874
+        },
+        "username": "ElainaCherudim",
+        "verified": false
+      }
+    ]
+  }
+}

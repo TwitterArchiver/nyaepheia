@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2042261761764831301",
+    "created_at": "2026-04-09T15:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042261761764831301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "955461127965614088",
+          "start": 3,
+          "username": "Robert037927"
+        },
+        {
+          "end": 27,
+          "id": "1540698144429596673",
+          "start": 18,
+          "username": "Y2D80355"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042261761764831301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041961550563676332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Robert037927: @Y2D80355 我学的第一句是十年前崩坏三刚出时，琪亚娜说的那句德语“ich liebe dich（我爱你）”。当时不知道什么意思，也没有AI，傻了吧唧地拿去问我暗恋的那位女孩儿，因为她是德语专业的。结果她以为我在表白，于是成功在一起了。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2041961548063895555",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFaBNY1a8AMm4Qs.jpg",
+        "width": 1067
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2042261761764831301",
+        "created_at": "2026-04-09T15:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042261761764831301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "955461127965614088",
+              "start": 3,
+              "username": "Robert037927"
+            },
+            {
+              "end": 27,
+              "id": "1540698144429596673",
+              "start": 18,
+              "username": "Y2D80355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042261761764831301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041961550563676332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Robert037927: @Y2D80355 我学的第一句是十年前崩坏三刚出时，琪亚娜说的那句德语“ich liebe dich（我爱你）”。当时不知道什么意思，也没有AI，傻了吧唧地拿去问我暗恋的那位女孩儿，因为她是德语专业的。结果她以为我在表白，于是成功在一起了。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041961548063895555"
+          ]
+        },
+        "author_id": "955461127965614088",
+        "conversation_id": "2041929544358052345",
+        "created_at": "2026-04-08T19:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041961550563676332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1540698144429596673",
+              "start": 0,
+              "username": "Y2D80355"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dTb1Nq62gP",
+              "end": 163,
+              "expanded_url": "https://x.com/Robert037927/status/2041961550563676332/photo/1",
+              "media_key": "3_2041961548063895555",
+              "start": 140,
+              "url": "https://t.co/dTb1Nq62gP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041961550563676332",
+        "in_reply_to_user_id": "1540698144429596673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 19680,
+          "like_count": 318,
+          "quote_count": 6,
+          "reply_count": 24,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041929544358052345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y2D80355 我学的第一句是十年前崩坏三刚出时，琪亚娜说的那句德语“ich liebe dich（我爱你）”。当时不知道什么意思，也没有AI，傻了吧唧地拿去问我暗恋的那位女孩儿，因为她是德语专业的。结果她以为我在表白，于是成功在一起了。感谢德语🙏🙏从此也给米哈游氪了不少金 https://t.co/dTb1Nq62gP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/小证含糖hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站\n已休学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2041715066337452228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 652,
+          "like_count": 10264,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1422
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-22T15:24:19.000Z",
+        "description": "It turns out that people in every country are in the information cocoons.",
+        "id": "955461127965614088",
+        "name": "当心坠落🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017679730758324225/XeHDNNTn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 214,
+          "like_count": 2453,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 713
+        },
+        "username": "Robert037927",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "🇩🇪🇪🇺/瞎放点东西✈️🚂🌍🌾🧪🔭🔨📷🔍🍳🏳️‍🌈🇺🇳.../女的，因起的名字和地名撞上痛失姓名权/忠诚的DTicket与廉价航空使用者，全EU可飞/🚪DM1,00，仅支持德国马克现金支付，没有就免费/Die Gedanken sind frei/很遗憾性取向没男的",
+        "id": "1540698144429596673",
+        "name": "Erika Musterfrau",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041239980635279361/5MMItUDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 591,
+          "like_count": 3795,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 4684
+        },
+        "username": "Y2D80355",
+        "verified": false
+      }
+    ]
+  }
+}

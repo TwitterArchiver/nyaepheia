@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2045317719130861764",
+    "created_at": "2026-04-18T06:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T07:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045386316813312397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1502290571833995266",
+          "start": 0,
+          "username": "3a4kura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045386316813312397",
+    "in_reply_to_user_id": "1502290571833995266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045385431135801622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3a4kura 你的政治观点怎么样都可以，但视频发一遍就好了😿\n我看到通知这么多相同视频差点把你当spam 屏蔽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2045317719130861764",
+        "created_at": "2026-04-18T06:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045386316813312397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1502290571833995266",
+              "start": 0,
+              "username": "3a4kura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045386316813312397",
+        "in_reply_to_user_id": "1502290571833995266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045385431135801622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3a4kura 你的政治观点怎么样都可以，但视频发一遍就好了😿\n我看到通知这么多相同视频差点把你当spam 屏蔽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502290571833995266",
+        "conversation_id": "2045317719130861764",
+        "created_at": "2026-04-18T06:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045385431135801622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2.2K likes, 741 comments. \"Openai：中共网军是如何祸害全世界的？王志安说反共人士比中共坏100倍，这话立得住脚吗？中共網軍是如何禍害全世界的？王誌安説反共人士比中共壞100倍，這話立得住腳嗎？夸克说|誇克説\"",
+              "display_url": "youtu.be/KI0SRfejtLM?si…",
+              "end": 34,
+              "expanded_url": "https://youtu.be/KI0SRfejtLM?si=bYgASKyD2NcQPNo8",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2045385473632415744/H_TkYzUh?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2045385473632415744/H_TkYzUh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 11,
+              "status": 200,
+              "title": "夸克说",
+              "unwound_url": "https://www.youtube.com/watch?si=bYgASKyD2NcQPNo8&v=KI0SRfejtLM&feature=youtu.be",
+              "url": "https://t.co/hssU1VKcj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045385431135801622",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045317719130861764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia https://t.co/hssU1VKcj7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 708,
+          "like_count": 14940,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2227
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-11T14:29:28.000Z",
+        "description": "宝宝……嘿嘿嘿……宝宝……\n @shana_yowaino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "shana_yowaino"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SaskuraMiku",
+                "end": 23,
+                "expanded_url": "http://t.me/SaskuraMiku",
+                "start": 0,
+                "url": "https://t.co/ZuTqpGvZj9"
+              }
+            ]
+          }
+        },
+        "id": "1502290571833995266",
+        "location": "我家宝宝的怀里",
+        "name": "繪立园綺",
+        "pinned_tweet_id": "1899841111612690630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885755697448837120/swM5XmvL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 242,
+          "like_count": 20215,
+          "listed_count": 1,
+          "media_count": 2770,
+          "tweet_count": 9053
+        },
+        "url": "https://t.co/ZuTqpGvZj9",
+        "username": "3a4kura",
+        "verified": false
+      }
+    ]
+  }
+}

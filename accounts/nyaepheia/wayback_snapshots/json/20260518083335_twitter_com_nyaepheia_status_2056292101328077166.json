@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2056292101328077166",
+    "created_at": "2026-05-18T08:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056292101328077166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2056283652909388222",
+          "start": 74,
+          "url": "https://t.co/ycBWH23I8O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056292101328077166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056283652909388222",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "5月17日是「国际不再恐惧同性恋、双性恋与跨性别者日」，但怎么都在宣传不要恐惧同性恋，双性恋和跨性别去哪里了？有没有可能这本质上就是一种恐双恐跨？ https://t.co/ycBWH23I8O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1709,
+        "media_key": "3_2056256834483146752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlKskpWUAA2pA6.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2056292101328077166",
+        "created_at": "2026-05-18T08:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056292101328077166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2056283652909388222",
+              "start": 74,
+              "url": "https://t.co/ycBWH23I8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056292101328077166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056283652909388222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "5月17日是「国际不再恐惧同性恋、双性恋与跨性别者日」，但怎么都在宣传不要恐惧同性恋，双性恋和跨性别去哪里了？有没有可能这本质上就是一种恐双恐跨？ https://t.co/ycBWH23I8O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056256834483146752"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2056283652909388222",
+        "created_at": "2026-05-18T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056283652909388222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z93oucjUQ9",
+              "end": 59,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056283652909388222/photo/1",
+              "media_key": "3_2056256834483146752",
+              "start": 36,
+              "url": "https://t.co/z93oucjUQ9"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2055974108777877712",
+              "start": 60,
+              "url": "https://t.co/L2cQPeqYW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056283652909388222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9022,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055974108777877712",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5月17日，有网友发现搜索“国际不再恐同日”，却出现大量艾滋病相关词条 https://t.co/z93oucjUQ9 https://t.co/L2cQPeqYW6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 826,
+          "like_count": 21917,
+          "listed_count": 3,
+          "media_count": 336,
+          "tweet_count": 4006
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230336,
+          "following_count": 1055,
+          "like_count": 9564,
+          "listed_count": 8756,
+          "media_count": 46996,
+          "tweet_count": 54118
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

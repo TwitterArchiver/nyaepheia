@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2058196940417036708",
+    "created_at": "2026-05-23T14:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058196940417036708"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/omgnowihasfish…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/omgnowihasfish/status/2058160924603920528",
+          "start": 20,
+          "url": "https://t.co/XsnGq3A1xj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058196940417036708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058160924603920528",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我争取在一年内吧\n\n怎么做呢\n我很怕疼 https://t.co/XsnGq3A1xj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2058196940417036708",
+        "created_at": "2026-05-23T14:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058196940417036708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/omgnowihasfish…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/omgnowihasfish/status/2058160924603920528",
+              "start": 20,
+              "url": "https://t.co/XsnGq3A1xj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058196940417036708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058160924603920528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我争取在一年内吧\n\n怎么做呢\n我很怕疼 https://t.co/XsnGq3A1xj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055911737208315904",
+        "conversation_id": "2058160924603920528",
+        "created_at": "2026-05-23T12:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058160924603920528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_Sennya0717/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/_Sennya0717/status/2004550532967641571",
+              "start": 16,
+              "url": "https://t.co/FeP8ymLoi9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058160924603920528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 921,
+          "like_count": 19,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004550532967641571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "黃瓜要争取在18岁之前结束生命 https://t.co/FeP8ymLoi9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n好累。\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 51,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 28,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2058194191491236035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 829,
+          "like_count": 23328,
+          "listed_count": 4,
+          "media_count": 382,
+          "tweet_count": 4387
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T07:23:39.000Z",
+        "description": "座標台灣台中市(謝謝你喜歡台灣😭😭😭❤️❤️)\n2009/12/24\n我已急哭😂😭",
+        "id": "2055911737208315904",
+        "name": "黃瓜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055912532402216960/jnl7BbH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 336,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 127
+        },
+        "username": "omgnowihasfish",
+        "verified": false
+      }
+    ]
+  }
+}

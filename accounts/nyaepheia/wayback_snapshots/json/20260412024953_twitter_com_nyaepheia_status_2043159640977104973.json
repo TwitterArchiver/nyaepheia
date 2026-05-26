@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2043159640977104973",
+    "created_at": "2026-04-12T02:49:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T03:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043159640977104973"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RainBuild_2024…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/RainBuild_2024/status/2043011063424364590",
+          "start": 36,
+          "url": "https://t.co/R2iSjF7obd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043159640977104973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043011063424364590",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想当女孩😭😭😭\n男性躯壳太难受了😭😭😭\n每次看到女性身体都羡慕得要死 https://t.co/R2iSjF7obd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2043159640977104973",
+        "created_at": "2026-04-12T02:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T03:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043159640977104973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainBuild_2024…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/RainBuild_2024/status/2043011063424364590",
+              "start": 36,
+              "url": "https://t.co/R2iSjF7obd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043159640977104973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043011063424364590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想当女孩😭😭😭\n男性躯壳太难受了😭😭😭\n每次看到女性身体都羡慕得要死 https://t.co/R2iSjF7obd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2043011063424364590",
+        "created_at": "2026-04-11T16:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043011063424364590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/morisase/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/morisase/status/2043001217341849615",
+              "start": 36,
+              "url": "https://t.co/n33bMfqV9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043011063424364590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2120,
+          "like_count": 59,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043001217341849615",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想当女孩😭😭😭\n男性躯壳太难受了😭😭😭\n每次看到女性身体都羡慕得要死 https://t.co/n33bMfqV9A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/小证含糖hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站\n已休学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2041715066337452228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 666,
+          "like_count": 11567,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1701
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/喜欢的事就要做到极致",
+        "id": "1810873766119100416",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042977093999570944/b0OIdVg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9506,
+          "following_count": 908,
+          "like_count": 74223,
+          "listed_count": 18,
+          "media_count": 1481,
+          "tweet_count": 10524
+        },
+        "username": "RainBuild_2024",
+        "verified": true
+      }
+    ]
+  }
+}

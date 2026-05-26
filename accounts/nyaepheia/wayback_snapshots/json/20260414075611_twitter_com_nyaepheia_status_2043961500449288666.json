@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2043961500449288666",
+    "created_at": "2026-04-14T07:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043961500449288666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1444716723978981380",
+          "start": 3,
+          "username": "EleanorAnatidae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "lycoris.online",
+          "end": 105,
+          "expanded_url": "https://lycoris.online",
+          "start": 82,
+          "status": 200,
+          "title": "夏水仙",
+          "unwound_url": "https://lycoris.online",
+          "url": "https://t.co/x2MRyxLCLE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043961500449288666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021166737559818271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EleanorAnatidae: 出门在外，找不到可用的第三卫生间？\n我们点亮了夏水仙 Lycoris🌸——一个专为跨性别者设计的互助地图。\n\n🔗访问地址：https://t.co/x2MRyxLCLE\n\n核心功能：\n1.地图：浏览、标记、快速查找附近的无障碍卫生间、友…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021166712725413888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAygaqfXoAAzMW0.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021166712817844227",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAygaq1aAAMRm8r.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021166714109538304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAygavpXsAAdOa6.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021166714248101890",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAygawKaAAIOYsI.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2043961500449288666",
+        "created_at": "2026-04-14T07:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043961500449288666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1444716723978981380",
+              "start": 3,
+              "username": "EleanorAnatidae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "lycoris.online",
+              "end": 105,
+              "expanded_url": "https://lycoris.online",
+              "start": 82,
+              "status": 200,
+              "title": "夏水仙",
+              "unwound_url": "https://lycoris.online",
+              "url": "https://t.co/x2MRyxLCLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043961500449288666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021166737559818271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EleanorAnatidae: 出门在外，找不到可用的第三卫生间？\n我们点亮了夏水仙 Lycoris🌸——一个专为跨性别者设计的互助地图。\n\n🔗访问地址：https://t.co/x2MRyxLCLE\n\n核心功能：\n1.地图：浏览、标记、快速查找附近的无障碍卫生间、友…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021166712725413888",
+            "3_2021166712817844227",
+            "3_2021166714109538304",
+            "3_2021166714248101890"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "conversation_id": "2021166737559818271",
+        "created_at": "2026-02-10T10:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021166737559818271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "lycoris.online",
+              "end": 84,
+              "expanded_url": "https://lycoris.online",
+              "start": 61,
+              "status": 200,
+              "title": "夏水仙",
+              "unwound_url": "https://lycoris.online",
+              "url": "https://t.co/x2MRyxLCLE"
+            },
+            {
+              "display_url": "pic.x.com/ctWsi7megC",
+              "end": 183,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2021166737559818271/photo/1",
+              "media_key": "3_2021166712725413888",
+              "start": 160,
+              "url": "https://t.co/ctWsi7megC"
+            },
+            {
+              "display_url": "pic.x.com/ctWsi7megC",
+              "end": 183,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2021166737559818271/photo/1",
+              "media_key": "3_2021166712817844227",
+              "start": 160,
+              "url": "https://t.co/ctWsi7megC"
+            },
+            {
+              "display_url": "pic.x.com/ctWsi7megC",
+              "end": 183,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2021166737559818271/photo/1",
+              "media_key": "3_2021166714109538304",
+              "start": 160,
+              "url": "https://t.co/ctWsi7megC"
+            },
+            {
+              "display_url": "pic.x.com/ctWsi7megC",
+              "end": 183,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2021166737559818271/photo/1",
+              "media_key": "3_2021166714248101890",
+              "start": 160,
+              "url": "https://t.co/ctWsi7megC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021166737559818271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 238,
+                "id": "1949788299477876737",
+                "start": 225,
+                "username": "LycorisTrans"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 84,
+                "expanded_url": "https://lycoris.online",
+                "start": 61,
+                "url": "https://t.co/pE8yXcP7Mz"
+              }
+            ]
+          },
+          "text": "出门在外，找不到可用的第三卫生间？\n我们点亮了夏水仙 Lycoris🌸——一个专为跨性别者设计的互助地图。\n\n🔗访问地址：https://t.co/pE8yXcP7Mz\n\n核心功能：\n1.地图：浏览、标记、快速查找附近的无障碍卫生间、友好药店和医疗机构。\n2.指南：极简版HRT指南，介绍如何安全、科学、经济的HRT。\n\n我们的理念：\n以温柔与专业守护跨性别者的日常安全，让信息共享成为彼此的光。\n\n联系方式：（除私信本人之外）\ntwitter账号：@LycorisTrans \n邮箱：LycorisTrans@gmail.com\n\n由于我的技术水平有限，网站有诸多不足之处还请谅解，我会尽我所能改进和完善。谢谢！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 54480,
+          "like_count": 300,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "出门在外，找不到可用的第三卫生间？\n我们点亮了夏水仙 Lycoris🌸——一个专为跨性别者设计的互助地图。\n\n🔗访问地址：https://t.co/x2MRyxLCLE\n\n核心功能：\n1.地图：浏览、标记、快速查找附近的无障碍卫生间、友好药店和医疗机构。\n2.指南：极简版HRT指南，介绍如何安全、科学、经济的HRT。 https://t.co/ctWsi7megC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary? Queer? MtF/X transles?\n✨she/they\n小证含糖hrt26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\nVibe coding/搭网站\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 150,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 678,
+          "like_count": 13017,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1933
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl /Liberté Égalité Fraternité/另一个号@PetiteRenarde21",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              },
+              {
+                "end": 86,
+                "start": 70,
+                "username": "PetiteRenarde21"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 23,
+                "expanded_url": "https://lycoris.online",
+                "start": 0,
+                "url": "https://t.co/pE8yXcPFC7"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "pinned_tweet_id": "2021166737559818271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011472697138790400/zWZC7GQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3862,
+          "following_count": 2184,
+          "like_count": 29103,
+          "listed_count": 9,
+          "media_count": 153,
+          "tweet_count": 7022
+        },
+        "url": "https://t.co/pE8yXcPFC7",
+        "username": "EleanorAnatidae",
+        "verified": true
+      }
+    ]
+  }
+}

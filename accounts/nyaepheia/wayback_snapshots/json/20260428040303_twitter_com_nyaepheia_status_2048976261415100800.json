@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048951111579754496"
+      ],
+      "media_source_tweet_id": [
+        "2048951344472744332"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2048976261415100800",
+    "created_at": "2026-04-28T04:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048976261415100800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852293817627787264",
+          "start": 3,
+          "username": "Orc30678"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oAedw1O2C6",
+          "end": 66,
+          "expanded_url": "https://x.com/Orc30678/status/2048951344472744332/photo/1",
+          "media_key": "3_2048951111579754496",
+          "start": 43,
+          "url": "https://t.co/oAedw1O2C6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048976261415100800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048951344472744332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Orc30678: 让gemini帮我生成的Deepseek娘\n是不是还不错 https://t.co/oAedw1O2C6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048951111579754496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9WLh_aYAAcWkP.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048951111579754496"
+          ],
+          "media_source_tweet_id": [
+            "2048951344472744332"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2048976261415100800",
+        "created_at": "2026-04-28T04:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048976261415100800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1852293817627787264",
+              "start": 3,
+              "username": "Orc30678"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oAedw1O2C6",
+              "end": 66,
+              "expanded_url": "https://x.com/Orc30678/status/2048951344472744332/photo/1",
+              "media_key": "3_2048951111579754496",
+              "start": 43,
+              "url": "https://t.co/oAedw1O2C6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048976261415100800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048951344472744332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Orc30678: 让gemini帮我生成的Deepseek娘\n是不是还不错 https://t.co/oAedw1O2C6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048951111579754496"
+          ]
+        },
+        "author_id": "1852293817627787264",
+        "conversation_id": "2048951344472744332",
+        "created_at": "2026-04-28T02:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048951344472744332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oAedw1O2C6",
+              "end": 52,
+              "expanded_url": "https://x.com/Orc30678/status/2048951344472744332/photo/1",
+              "media_key": "3_2048951111579754496",
+              "start": 29,
+              "url": "https://t.co/oAedw1O2C6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048951344472744332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 381,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "让gemini帮我生成的Deepseek娘\n是不是还不错 https://t.co/oAedw1O2C6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 762,
+          "like_count": 17983,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 2963
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-01T10:18:17.000Z",
+        "description": "hoi4等のゲーム内容やPB絵を投稿してます。 無許可会話追加は遠慮で。興味極広い。アクナイドクター 共犯者 マイムジで初華推し　锁推号/鍵垢@SubOrc30678",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 71,
+                "username": "SubOrc30678"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "TNO.wiki",
+                "end": 23,
+                "expanded_url": "http://TNO.wiki",
+                "start": 0,
+                "url": "https://t.co/iHdsSVFUEH"
+              }
+            ]
+          }
+        },
+        "id": "1852293817627787264",
+        "location": "ブルグント騎士団国 ブリュッセル本部",
+        "name": "☢️🇩🇪ORC🇨🇵☢️(低浮上)",
+        "pinned_tweet_id": "1953466962777985352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046944955005108224/i59Np-bh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 3440,
+          "like_count": 73133,
+          "listed_count": 3,
+          "media_count": 1569,
+          "tweet_count": 17363
+        },
+        "url": "https://t.co/iHdsSVFUEH",
+        "username": "Orc30678",
+        "verified": false
+      }
+    ]
+  }
+}

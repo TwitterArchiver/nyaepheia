@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2041506620472004827",
+    "created_at": "2026-04-07T14:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T15:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041517812976615549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038614200172326912",
+          "start": 0,
+          "username": "mingxukong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041517812976615549",
+    "in_reply_to_user_id": "2038614200172326912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041506620472004827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingxukong 其实真的不难（\n而且中考没什么用（\n侥幸考太好的高中也可能跟不上（我就是）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2041506620472004827",
+        "created_at": "2026-04-07T14:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041517812976615549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038614200172326912",
+              "start": 0,
+              "username": "mingxukong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041517812976615549",
+        "in_reply_to_user_id": "2038614200172326912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041506620472004827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingxukong 其实真的不难（\n而且中考没什么用（\n侥幸考太好的高中也可能跟不上（我就是）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038614200172326912",
+        "conversation_id": "2041506620472004827",
+        "created_at": "2026-04-07T13:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041506620472004827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041506620472004827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 600,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有高中生告诉我中考到底难不难\n我们老师天天说中考很难 真挺焦虑的🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2040696789003809003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 609,
+          "like_count": 8488,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 835
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-30T13:48:30.000Z",
+        "description": "OvO\n我只是一个可爱的小学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo53075",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovo53075",
+                "start": 0,
+                "url": "https://t.co/Mt2EOcLCvM"
+              }
+            ]
+          }
+        },
+        "id": "2038614200172326912",
+        "location": "我操你冯",
+        "name": "坏",
+        "pinned_tweet_id": "2040051215308906764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038614458411454464/f5UxqtBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 27,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 279
+        },
+        "url": "https://t.co/Mt2EOcLCvM",
+        "username": "mingxukong",
+        "verified": false
+      }
+    ]
+  }
+}

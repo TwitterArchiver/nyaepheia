@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044624551842385920"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044624562441326725",
+    "created_at": "2026-04-16T03:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T04:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044624562441326725"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 22,
+          "tag": "nyaepheia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7YkGLOu2GD",
+          "end": 56,
+          "expanded_url": "https://x.com/nyaepheia/status/2044624562441326725/photo/1",
+          "media_key": "3_2044624551842385920",
+          "start": 33,
+          "url": "https://t.co/7YkGLOu2GD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044624562441326725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "名字加了个跨旗，所以蓝标在审核\n谢谢大家\n\n#nyaepheia https://t.co/7YkGLOu2GD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 641,
+        "media_key": "3_2044624551842385920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_3Mm-bkAAHZDf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044624551842385920"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044624562441326725",
+        "created_at": "2026-04-16T03:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T04:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044624562441326725"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 22,
+              "tag": "nyaepheia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7YkGLOu2GD",
+              "end": 56,
+              "expanded_url": "https://x.com/nyaepheia/status/2044624562441326725/photo/1",
+              "media_key": "3_2044624551842385920",
+              "start": 33,
+              "url": "https://t.co/7YkGLOu2GD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044624562441326725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "名字加了个跨旗，所以蓝标在审核\n谢谢大家\n\n#nyaepheia https://t.co/7YkGLOu2GD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元\n百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?\nQueer?\nMtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 696,
+          "like_count": 14113,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2089
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": false
+      }
+    ]
+  }
+}

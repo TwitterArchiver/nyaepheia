@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042159733097091072",
+        "3_2042159732434276352",
+        "3_2042159733189328896"
+      ],
+      "media_source_tweet_id": [
+        "2042159735248662532",
+        "2042159735248662532",
+        "2042159735248662532"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2042498401347256511",
+    "created_at": "2026-04-10T07:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042498401347256511"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "わたなれ"
+        },
+        {
+          "end": 58,
+          "start": 53,
+          "tag": "まいれな"
+        },
+        {
+          "end": 71,
+          "start": 59,
+          "tag": "まいれな推し推進委員会"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1495327577678180354",
+          "start": 3,
+          "username": "YURIDAISUKIDESU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KAsmGlAAmP",
+          "end": 95,
+          "expanded_url": "https://x.com/YURIDAISUKIDESU/status/2042159735248662532/photo/1",
+          "media_key": "3_2042159733097091072",
+          "start": 72,
+          "url": "https://t.co/KAsmGlAAmP"
+        },
+        {
+          "display_url": "pic.x.com/KAsmGlAAmP",
+          "end": 95,
+          "expanded_url": "https://x.com/YURIDAISUKIDESU/status/2042159735248662532/photo/1",
+          "media_key": "3_2042159732434276352",
+          "start": 72,
+          "url": "https://t.co/KAsmGlAAmP"
+        },
+        {
+          "display_url": "pic.x.com/KAsmGlAAmP",
+          "end": 95,
+          "expanded_url": "https://x.com/YURIDAISUKIDESU/status/2042159735248662532/photo/1",
+          "media_key": "3_2042159733189328896",
+          "start": 72,
+          "url": "https://t.co/KAsmGlAAmP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042498401347256511",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042159735248662532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YURIDAISUKIDESU: しごおわ！\n\n今日もお疲れ様でしたm(_ _)m\n\n#わたなれ\n#まいれな\n#まいれな推し推進委員会 https://t.co/KAsmGlAAmP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2042159733097091072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFc1dRnb0AAa8cn.jpg",
+        "width": 1200
+      },
+      {
+        "height": 675,
+        "media_key": "3_2042159732434276352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFc1dPJaEAAKqX7.jpg",
+        "width": 1200
+      },
+      {
+        "height": 675,
+        "media_key": "3_2042159733189328896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFc1dR9bQAAHCKy.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042159733097091072",
+            "3_2042159732434276352",
+            "3_2042159733189328896"
+          ],
+          "media_source_tweet_id": [
+            "2042159735248662532",
+            "2042159735248662532",
+            "2042159735248662532"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2042498401347256511",
+        "created_at": "2026-04-10T07:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042498401347256511"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "わたなれ"
+            },
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "まいれな"
+            },
+            {
+              "end": 71,
+              "start": 59,
+              "tag": "まいれな推し推進委員会"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1495327577678180354",
+              "start": 3,
+              "username": "YURIDAISUKIDESU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAsmGlAAmP",
+              "end": 95,
+              "expanded_url": "https://x.com/YURIDAISUKIDESU/status/2042159735248662532/photo/1",
+              "media_key": "3_2042159733097091072",
+              "start": 72,
+              "url": "https://t.co/KAsmGlAAmP"
+            },
+            {
+              "display_url": "pic.x.com/KAsmGlAAmP",
+              "end": 95,
+              "expanded_url": "https://x.com/YURIDAISUKIDESU/status/2042159735248662532/photo/1",
+              "media_key": "3_2042159732434276352",
+              "start": 72,
+              "url": "https://t.co/KAsmGlAAmP"
+            },
+            {
+              "display_url": "pic.x.com/KAsmGlAAmP",
+              "end": 95,
+              "expanded_url": "https://x.com/YURIDAISUKIDESU/status/2042159735248662532/photo/1",
+              "media_key": "3_2042159733189328896",
+              "start": 72,
+              "url": "https://t.co/KAsmGlAAmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042498401347256511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042159735248662532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YURIDAISUKIDESU: しごおわ！\n\n今日もお疲れ様でしたm(_ _)m\n\n#わたなれ\n#まいれな\n#まいれな推し推進委員会 https://t.co/KAsmGlAAmP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042159733097091072",
+            "3_2042159732434276352",
+            "3_2042159733189328896"
+          ]
+        },
+        "author_id": "1495327577678180354",
+        "conversation_id": "2042159735248662532",
+        "created_at": "2026-04-09T08:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042159735248662532"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "わたなれ"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "まいれな"
+            },
+            {
+              "end": 50,
+              "start": 38,
+              "tag": "まいれな推し推進委員会"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAsmGlAAmP",
+              "end": 74,
+              "expanded_url": "https://x.com/YURIDAISUKIDESU/status/2042159735248662532/photo/1",
+              "media_key": "3_2042159733097091072",
+              "start": 51,
+              "url": "https://t.co/KAsmGlAAmP"
+            },
+            {
+              "display_url": "pic.x.com/KAsmGlAAmP",
+              "end": 74,
+              "expanded_url": "https://x.com/YURIDAISUKIDESU/status/2042159735248662532/photo/1",
+              "media_key": "3_2042159732434276352",
+              "start": 51,
+              "url": "https://t.co/KAsmGlAAmP"
+            },
+            {
+              "display_url": "pic.x.com/KAsmGlAAmP",
+              "end": 74,
+              "expanded_url": "https://x.com/YURIDAISUKIDESU/status/2042159735248662532/photo/1",
+              "media_key": "3_2042159733189328896",
+              "start": 51,
+              "url": "https://t.co/KAsmGlAAmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042159735248662532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 2915,
+          "like_count": 416,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "しごおわ！\n\n今日もお疲れ様でしたm(_ _)m\n\n#わたなれ\n#まいれな\n#まいれな推し推進委員会 https://t.co/KAsmGlAAmP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/小证含糖hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站\n已休学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2041715066337452228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 657,
+          "like_count": 10693,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1533
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-20T09:21:17.000Z",
+        "description": "30歳を過ぎて百合に目覚めた独身社会人です🚹\nやがて君になる、できそこないの姫君たち、citrus、安達としまむら、私の推しは悪役令嬢、リコリスリコイルなど😊\n良い百合があったら教えて下さい😆\n無言フォロー失礼します👍\n出会いは求めてませんのであしからず\n百合男子です😙\n＃百合好きさんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 149,
+                "start": 136,
+                "tag": "百合好きさんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1495327577678180354",
+        "location": "日本 北海道",
+        "name": "百合ゆ〜り@百合の国へようこそ♂",
+        "pinned_tweet_id": "1982786453341147389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030982728628473856/_5rrj2U9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11275,
+          "following_count": 6293,
+          "like_count": 40675,
+          "listed_count": 30,
+          "media_count": 3643,
+          "tweet_count": 21924
+        },
+        "username": "YURIDAISUKIDESU",
+        "verified": true
+      }
+    ]
+  }
+}

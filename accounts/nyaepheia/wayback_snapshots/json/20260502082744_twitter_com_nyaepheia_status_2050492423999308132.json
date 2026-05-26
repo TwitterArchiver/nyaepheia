@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2050360659649720652",
+    "created_at": "2026-05-02T08:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050492423999308132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1961476592070529024",
+          "start": 0,
+          "username": "gear_Talia"
+        },
+        {
+          "end": 22,
+          "id": "1139482526492192768",
+          "start": 12,
+          "username": "chalank15"
+        },
+        {
+          "end": 37,
+          "id": "1650521797299953665",
+          "start": 23,
+          "username": "yorei_puewwoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050492423999308132",
+    "in_reply_to_user_id": "1961476592070529024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050474811236004200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gear_Talia @chalank15 @yorei_puewwoc 在大街上喊「我是傻逼」没人管是因为大家不歧视傻逼，因为现在傻逼到处都是\n而且我不知道你这里把同性恋和傻逼并列对比是何用意，是说自己是高贵的、聪明的顺直吗？（误解致歉）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2050360659649720652",
+        "created_at": "2026-05-02T08:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050492423999308132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1961476592070529024",
+              "start": 0,
+              "username": "gear_Talia"
+            },
+            {
+              "end": 22,
+              "id": "1139482526492192768",
+              "start": 12,
+              "username": "chalank15"
+            },
+            {
+              "end": 37,
+              "id": "1650521797299953665",
+              "start": 23,
+              "username": "yorei_puewwoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050492423999308132",
+        "in_reply_to_user_id": "1961476592070529024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050474811236004200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gear_Talia @chalank15 @yorei_puewwoc 在大街上喊「我是傻逼」没人管是因为大家不歧视傻逼，因为现在傻逼到处都是\n而且我不知道你这里把同性恋和傻逼并列对比是何用意，是说自己是高贵的、聪明的顺直吗？（误解致歉）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961476592070529024",
+        "conversation_id": "2050360659649720652",
+        "created_at": "2026-05-02T07:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050474811236004200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 21,
+              "id": "1139482526492192768",
+              "start": 11,
+              "username": "chalank15"
+            },
+            {
+              "end": 36,
+              "id": "1650521797299953665",
+              "start": 22,
+              "username": "yorei_puewwoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050474811236004200",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050459881787035712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @chalank15 @yorei_puewwoc 你是觉得那些陌生人很关心你的性取向？你现在去大街上喊我是傻逼都没人去管你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 769,
+          "like_count": 18761,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 3082
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-29T17:10:42.000Z",
+        "description": "Strong, fearless, and unstoppable",
+        "id": "1961476592070529024",
+        "location": "Cheyenne, WY",
+        "name": "🔥Talia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961476802293227520/Q2Lq3pDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 18,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "gear_Talia",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-14T10:39:39.000Z",
+        "description": "",
+        "id": "1139482526492192768",
+        "name": "沙瓤粉番茄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577990026280849408/TZe3hbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 163,
+          "like_count": 424,
+          "listed_count": 8,
+          "media_count": 19,
+          "tweet_count": 29043
+        },
+        "username": "chalank15",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T15:27:27.000Z",
+        "description": "呼唤我的名字吧 晚餐铃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yulingko.moe",
+                "end": 23,
+                "expanded_url": "https://blog.yulingko.moe/",
+                "start": 0,
+                "url": "https://t.co/t6Y3dpb1nq"
+              }
+            ]
+          }
+        },
+        "id": "1650521797299953665",
+        "name": "y0r3ipu3ww0c",
+        "pinned_tweet_id": "2026491877558735319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019422693507072000/uoDDll_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 696,
+          "like_count": 76148,
+          "listed_count": 3,
+          "media_count": 886,
+          "tweet_count": 14512
+        },
+        "url": "https://t.co/t6Y3dpb1nq",
+        "username": "yorei_puewwoc",
+        "verified": false
+      }
+    ]
+  }
+}

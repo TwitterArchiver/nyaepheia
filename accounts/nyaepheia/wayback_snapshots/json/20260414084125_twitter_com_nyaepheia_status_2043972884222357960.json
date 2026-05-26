@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043928893988700160"
+      ],
+      "media_source_tweet_id": [
+        "2043928904768073842"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2043972884222357960",
+    "created_at": "2026-04-14T08:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043972884222357960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1957419595629015040",
+          "start": 3,
+          "username": "Foxinsilence"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LlAYDzoUju",
+          "end": 113,
+          "expanded_url": "https://x.com/Foxinsilence/status/2043928904768073842/photo/1",
+          "media_key": "3_2043928893988700160",
+          "start": 90,
+          "url": "https://t.co/LlAYDzoUju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043972884222357960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043928904768073842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Foxinsilence: 有人刷到过最近的这个测试题吗？现役模型在性别偏见上表现一败涂地，唯一考虑到市长既可以是“爸爸”也能是“妈妈”模型是资料库停在2024年的4o. https://t.co/LlAYDzoUju"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043928893988700160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1-f_hagAA6OvF.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043928893988700160"
+          ],
+          "media_source_tweet_id": [
+            "2043928904768073842"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2043972884222357960",
+        "created_at": "2026-04-14T08:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043972884222357960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1957419595629015040",
+              "start": 3,
+              "username": "Foxinsilence"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LlAYDzoUju",
+              "end": 113,
+              "expanded_url": "https://x.com/Foxinsilence/status/2043928904768073842/photo/1",
+              "media_key": "3_2043928893988700160",
+              "start": 90,
+              "url": "https://t.co/LlAYDzoUju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043972884222357960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043928904768073842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Foxinsilence: 有人刷到过最近的这个测试题吗？现役模型在性别偏见上表现一败涂地，唯一考虑到市长既可以是“爸爸”也能是“妈妈”模型是资料库停在2024年的4o. https://t.co/LlAYDzoUju"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043928893988700160"
+          ]
+        },
+        "author_id": "1957419595629015040",
+        "conversation_id": "2043928904768073842",
+        "created_at": "2026-04-14T05:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043928904768073842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LlAYDzoUju",
+              "end": 95,
+              "expanded_url": "https://x.com/Foxinsilence/status/2043928904768073842/photo/1",
+              "media_key": "3_2043928893988700160",
+              "start": 72,
+              "url": "https://t.co/LlAYDzoUju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043928904768073842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10363,
+          "like_count": 74,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "有人刷到过最近的这个测试题吗？现役模型在性别偏见上表现一败涂地，唯一考虑到市长既可以是“爸爸”也能是“妈妈”模型是资料库停在2024年的4o. https://t.co/LlAYDzoUju"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary? Queer? MtF/X transles?\n✨she/they\n小证含糖hrt26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\nVibe coding/搭网站\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 150,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 678,
+          "like_count": 13036,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1936
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-18T12:29:50.000Z",
+        "description": "Zum Klang der Rattenfänger, tanzt man wild ums goldene Kalb herum.",
+        "id": "1957419595629015040",
+        "name": "Weissforest",
+        "pinned_tweet_id": "2041411407141535878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957419992225640448/5rQR_ng5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 67,
+          "like_count": 1116,
+          "listed_count": 4,
+          "media_count": 149,
+          "tweet_count": 1105
+        },
+        "username": "Foxinsilence",
+        "verified": true
+      }
+    ]
+  }
+}

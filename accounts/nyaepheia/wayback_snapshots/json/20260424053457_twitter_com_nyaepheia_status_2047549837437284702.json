@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047325883124629504"
+      ],
+      "media_source_tweet_id": [
+        "2047326319990710300"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2047549837437284702",
+    "created_at": "2026-04-24T05:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047549837437284702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761282483834998784",
+          "start": 3,
+          "username": "10waterlili"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IrZhRZMTWI",
+          "end": 67,
+          "expanded_url": "https://x.com/10waterlili/status/2047326319990710300/photo/1",
+          "media_key": "3_2047325883124629504",
+          "start": 44,
+          "url": "https://t.co/IrZhRZMTWI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047549837437284702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047326319990710300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @10waterlili: 张克莎，中国大陆性别转换第一人\n至今63岁，依然健在 https://t.co/IrZhRZMTWI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 370,
+        "media_key": "3_2047325883124629504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmQCyMbQAAwbdh.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047325883124629504"
+          ],
+          "media_source_tweet_id": [
+            "2047326319990710300"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2047549837437284702",
+        "created_at": "2026-04-24T05:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047549837437284702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761282483834998784",
+              "start": 3,
+              "username": "10waterlili"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IrZhRZMTWI",
+              "end": 67,
+              "expanded_url": "https://x.com/10waterlili/status/2047326319990710300/photo/1",
+              "media_key": "3_2047325883124629504",
+              "start": 44,
+              "url": "https://t.co/IrZhRZMTWI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047549837437284702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047326319990710300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @10waterlili: 张克莎，中国大陆性别转换第一人\n至今63岁，依然健在 https://t.co/IrZhRZMTWI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047325883124629504"
+          ]
+        },
+        "author_id": "1761282483834998784",
+        "conversation_id": "2047326319990710300",
+        "created_at": "2026-04-23T14:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047326319990710300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IrZhRZMTWI",
+              "end": 50,
+              "expanded_url": "https://x.com/10waterlili/status/2047326319990710300/photo/1",
+              "media_key": "3_2047325883124629504",
+              "start": 27,
+              "url": "https://t.co/IrZhRZMTWI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047326319990710300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 22371,
+          "like_count": 363,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "张克莎，中国大陆性别转换第一人\n至今63岁，依然健在 https://t.co/IrZhRZMTWI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 752,
+          "like_count": 16990,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 2789
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 26.2.21｜🍰 09.3.14\n深柜中（待炸\nɪɴғᴘ-ᴛ｜ex-音游人｜民间天文学家🔭\n一番可愛い妹@xiaoyimiaoaaa\n缓慢互fo中｜想和xyn贴贴💕\n电报https://t.co/aydtYwj2Gi｜防失联@nagis1a\n自介喵～https://t.co/KKvURpWk5o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 59,
+                "username": "xiaoyimiaoaaa"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "username": "nagis1a"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/tennchu",
+                "end": 115,
+                "expanded_url": "http://t.me/tennchu",
+                "start": 92,
+                "url": "https://t.co/aydtYwj2Gi"
+              },
+              {
+                "display_url": "lit.link/zh-tw/tennOvO",
+                "end": 155,
+                "expanded_url": "http://lit.link/zh-tw/tennOvO",
+                "start": 132,
+                "url": "https://t.co/KKvURpWk5o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "𝒕𝒆𝒏𝒏 ᐝ 🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045004879303958528/xNxtLn0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 475,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "10waterlili",
+        "verified": false
+      }
+    ]
+  }
+}

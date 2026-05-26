@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2055207411552825705",
+    "created_at": "2026-05-15T08:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055207411552825705"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 115,
+          "start": 109,
+          "tag": "レズビアン"
+        },
+        {
+          "end": 124,
+          "start": 117,
+          "tag": "同性カップル"
+        },
+        {
+          "end": 138,
+          "start": 125,
+          "tag": "セクマイさんと繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1864663403262038019",
+          "start": 3,
+          "username": "y_narcissus_w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055207411552825705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 960
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054941085382922521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y_narcissus_w: 今の日本では結婚はできないけど、\n2人の愛を誓う日として\n結婚式を挙げる同性カップルも増えています💍🤍\n\nいつか女の子同士のカップルも\n自然に、普通に、\n共存できたらいいなぁ🌈\n\n#レズビアン \n#同性カップル\n#セクマイさんと繋がりたい…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2054941079171190784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISeBiJbUAAumjH.jpg",
+        "width": 1919
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054941079225704448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISeBiWbIAAqrXP.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2055207411552825705",
+        "created_at": "2026-05-15T08:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055207411552825705"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 109,
+              "tag": "レズビアン"
+            },
+            {
+              "end": 124,
+              "start": 117,
+              "tag": "同性カップル"
+            },
+            {
+              "end": 138,
+              "start": 125,
+              "tag": "セクマイさんと繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1864663403262038019",
+              "start": 3,
+              "username": "y_narcissus_w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055207411552825705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 960
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054941085382922521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y_narcissus_w: 今の日本では結婚はできないけど、\n2人の愛を誓う日として\n結婚式を挙げる同性カップルも増えています💍🤍\n\nいつか女の子同士のカップルも\n自然に、普通に、\n共存できたらいいなぁ🌈\n\n#レズビアン \n#同性カップル\n#セクマイさんと繋がりたい…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054941079171190784",
+            "3_2054941079225704448"
+          ]
+        },
+        "author_id": "1864663403262038019",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2054941085382922521",
+        "created_at": "2026-05-14T15:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054941085382922521"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 90,
+              "tag": "レズビアン"
+            },
+            {
+              "end": 105,
+              "start": 98,
+              "tag": "同性カップル"
+            },
+            {
+              "end": 119,
+              "start": 106,
+              "tag": "セクマイさんと繋がりたい"
+            },
+            {
+              "end": 126,
+              "start": 120,
+              "tag": "LGBTQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HEgp3QX0lE",
+              "end": 150,
+              "expanded_url": "https://x.com/y_narcissus_w/status/2054941085382922521/photo/1",
+              "media_key": "3_2054941079171190784",
+              "start": 127,
+              "url": "https://t.co/HEgp3QX0lE"
+            },
+            {
+              "display_url": "pic.x.com/HEgp3QX0lE",
+              "end": 150,
+              "expanded_url": "https://x.com/y_narcissus_w/status/2054941085382922521/photo/1",
+              "media_key": "3_2054941079225704448",
+              "start": 127,
+              "url": "https://t.co/HEgp3QX0lE"
+            },
+            {
+              "display_url": "x.com/__kapi_8/statu…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/__kapi_8/status/2054825637593178416",
+              "start": 151,
+              "url": "https://t.co/afSZiP6YI6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054941085382922521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 429,
+          "impression_count": 200975,
+          "like_count": 9861,
+          "quote_count": 39,
+          "reply_count": 31,
+          "retweet_count": 960
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054825637593178416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今の日本では結婚はできないけど、\n2人の愛を誓う日として\n結婚式を挙げる同性カップルも増えています💍🤍\n\nいつか女の子同士のカップルも\n自然に、普通に、\n共存できたらいいなぁ🌈\n\n#レズビアン \n#同性カップル\n#セクマイさんと繋がりたい\n#LGBTQ https://t.co/HEgp3QX0lE https://t.co/afSZiP6YI6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 806,
+          "like_count": 21214,
+          "listed_count": 3,
+          "media_count": 310,
+          "tweet_count": 3854
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-05T13:29:45.000Z",
+        "description": "🏳️‍🌈 / @999999lv　彼女とYoutubeはじめました🎠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "999999lv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/__yuimai__",
+                "end": 23,
+                "expanded_url": "https://lit.link/__yuimai__",
+                "start": 0,
+                "url": "https://t.co/Na2iWqyJQT"
+              }
+            ]
+          }
+        },
+        "id": "1864663403262038019",
+        "location": "関西",
+        "name": "唯",
+        "pinned_tweet_id": "2002335188886696141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053490907740270592/59r84yUa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 241,
+          "like_count": 9867,
+          "listed_count": 7,
+          "media_count": 182,
+          "tweet_count": 1510
+        },
+        "url": "https://t.co/Na2iWqyJQT",
+        "username": "y_narcissus_w",
+        "verified": false
+      }
+    ]
+  }
+}

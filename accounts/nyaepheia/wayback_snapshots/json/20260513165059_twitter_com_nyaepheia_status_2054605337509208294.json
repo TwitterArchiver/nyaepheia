@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2054474695014330481",
+    "created_at": "2026-05-13T16:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T17:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054605337509208294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882873467340832768",
+          "start": 0,
+          "username": "1896dddd71391"
+        },
+        {
+          "end": 28,
+          "id": "705777407794352129",
+          "start": 15,
+          "username": "ServalCandle"
+        }
+      ],
+      "urls": [
+        {
+          "description": "欢迎使用君子阁在线排盘系统,君子阁排八字系统包盘四柱八字排盘,紫微斗数排盘,奇门遁甲排盘,六爻排盘,梅花易数排盘等;",
+          "display_url": "junzige.com/suanming/paipa…",
+          "end": 52,
+          "expanded_url": "https://www.junzige.com/suanming/paipan/",
+          "start": 29,
+          "status": 200,
+          "title": "八字排盘,四柱八字排盘算命,免费排八字,在线排盘系统_君子阁",
+          "unwound_url": "https://www.junzige.com/suanming/paipan/",
+          "url": "https://t.co/G2CpGvv4MA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054605337509208294",
+    "in_reply_to_user_id": "1882873467340832768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054602649841160388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@1896dddd71391 @ServalCandle https://t.co/G2CpGvv4MA\n用这个，然后截图结果让AI 分析"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2054474695014330481",
+        "created_at": "2026-05-13T16:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054605337509208294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882873467340832768",
+              "start": 0,
+              "username": "1896dddd71391"
+            },
+            {
+              "end": 28,
+              "id": "705777407794352129",
+              "start": 15,
+              "username": "ServalCandle"
+            }
+          ],
+          "urls": [
+            {
+              "description": "欢迎使用君子阁在线排盘系统,君子阁排八字系统包盘四柱八字排盘,紫微斗数排盘,奇门遁甲排盘,六爻排盘,梅花易数排盘等;",
+              "display_url": "junzige.com/suanming/paipa…",
+              "end": 52,
+              "expanded_url": "https://www.junzige.com/suanming/paipan/",
+              "start": 29,
+              "status": 200,
+              "title": "八字排盘,四柱八字排盘算命,免费排八字,在线排盘系统_君子阁",
+              "unwound_url": "https://www.junzige.com/suanming/paipan/",
+              "url": "https://t.co/G2CpGvv4MA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054605337509208294",
+        "in_reply_to_user_id": "1882873467340832768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054602649841160388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@1896dddd71391 @ServalCandle https://t.co/G2CpGvv4MA\n用这个，然后截图结果让AI 分析"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882873467340832768",
+        "conversation_id": "2054474695014330481",
+        "created_at": "2026-05-13T16:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054602649841160388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            },
+            {
+              "end": 24,
+              "id": "1608637128132685825",
+              "start": 14,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054602649841160388",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054585769382265289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@ServalCandle @nyaepheia 指个路，我想试试自己的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 801,
+          "like_count": 20891,
+          "listed_count": 3,
+          "media_count": 299,
+          "tweet_count": 3763
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T19:30:04.000Z",
+        "description": "",
+        "id": "1882873467340832768",
+        "name": "1896dddd",
+        "pinned_tweet_id": "2046546814661546264",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 32,
+          "like_count": 1500,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 461
+        },
+        "username": "1896dddd71391",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "頭像是自拍 / 身分證性別女/封鎖必回 / 癲貓精靈 咪咪超行(*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🌸猫宮すみか🎀🫪",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024879161932918784/w21cnpHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33983,
+          "following_count": 418,
+          "like_count": 236379,
+          "listed_count": 107,
+          "media_count": 9174,
+          "tweet_count": 59800
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

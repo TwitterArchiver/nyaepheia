@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048062162795651072",
+        "3_2048062171997937664"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2048062181804265634",
+    "created_at": "2026-04-25T15:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T16:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048062181804265634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AQUCSnN0Kt",
+          "end": 111,
+          "expanded_url": "https://x.com/nyaepheia/status/2048062181804265634/photo/1",
+          "media_key": "3_2048062162795651072",
+          "start": 88,
+          "url": "https://t.co/AQUCSnN0Kt"
+        },
+        {
+          "display_url": "pic.x.com/AQUCSnN0Kt",
+          "end": 111,
+          "expanded_url": "https://x.com/nyaepheia/status/2048062181804265634/photo/1",
+          "media_key": "3_2048062171997937664",
+          "start": 88,
+          "url": "https://t.co/AQUCSnN0Kt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048062181804265634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Edge 自动翻译你知道你有多诡异吗？...\n有点故障恐怖的意思了\n\n原来很多的内容直接只留下了两条...最恐怖的\n\n图二：原始rss 文件\n\nSource: Sy，经过授权 https://t.co/AQUCSnN0Kt"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "该 XML 文件似乎没有任何样式信息关联。文档树如下所示。\n<rss>\n<频道>\n<物品>\n...\n</物品>\n<物品>\n...\n</物品>\n<物品>\n<title>好空，好空，一切都只剩了空</title>\n</物品>\n<物品>\n<title>亮得很晃眼，显得很不真实</title>\n</物品>\n<物品>\n...\n</物品>\n<物品>\n...\n</物品>\n<物品>\n...\n</物品>\n<物品>\n...\n</物品>\n</频道>\n</rss（右侧）吗>",
+        "height": 1975,
+        "media_key": "3_2048062162795651072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwtr5taYAADxzA.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "<rss version=\"2.0\">\n<channel>\n<title>Misrule</title>\n<description>愿我们纵然置身当下，仍能寻得清醒。 </description>\n<link>https://misrule.top/</link>\n<item>\n<title>密不通风的网</title>\n<link>https://misrule.top/posts/0424-chaos/</link>\n<guid isPermaLink=\"true\">https://misrule.top/posts/0424-chaos/</guid>\n<description>想死想快乐想要抱抱编成一张网把我困住了。不清醒，但也不至于解离。躁狂犯了我在写什么呢。</description>\n<pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>\n</item>\n<item>\n<title>稍微不理我几下就会破防</title>\n<link>https://misrule.top/posts/0423-connection/</link>\n<guid isPermaLink=\"true\">https://misrule.top/posts/0423-connection/</guid>\n<description>和温斯顿一样写着无人在乎的文字。渴望被需要，却总是从细节里读出恶意。</description>\n<pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>\n</item>\n<item>\n<title>好空，好空，一切都只剩了空</title>\n<link>https://misrule.top/posts/0423-empty/</link>\n<guid isPermaLink=\"true\">https://misrule.top/posts/0423-empty/</guid>\n<description>情绪换了频率就再也调不回来。社交能量归零。好想被稳稳的接住。</description>\n<pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>\n</item>\n<item>\n<title>亮得很晃眼，显得很不真实</title",
+        "height": 2144,
+        "media_key": "3_2048062171997937664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwtsb_aIAApF4M.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048062162795651072",
+            "3_2048062171997937664"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2048062181804265634",
+        "created_at": "2026-04-25T15:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048062181804265634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQUCSnN0Kt",
+              "end": 111,
+              "expanded_url": "https://x.com/nyaepheia/status/2048062181804265634/photo/1",
+              "media_key": "3_2048062162795651072",
+              "start": 88,
+              "url": "https://t.co/AQUCSnN0Kt"
+            },
+            {
+              "display_url": "pic.x.com/AQUCSnN0Kt",
+              "end": 111,
+              "expanded_url": "https://x.com/nyaepheia/status/2048062181804265634/photo/1",
+              "media_key": "3_2048062171997937664",
+              "start": 88,
+              "url": "https://t.co/AQUCSnN0Kt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048062181804265634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Edge 自动翻译你知道你有多诡异吗？...\n有点故障恐怖的意思了\n\n原来很多的内容直接只留下了两条...最恐怖的\n\n图二：原始rss 文件\n\nSource: Sy，经过授权 https://t.co/AQUCSnN0Kt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 757,
+          "like_count": 17382,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2865
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

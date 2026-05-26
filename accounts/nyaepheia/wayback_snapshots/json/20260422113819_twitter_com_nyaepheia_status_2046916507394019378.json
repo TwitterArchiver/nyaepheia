@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046916507394019378",
+    "created_at": "2026-04-22T11:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T12:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046916507394019378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaomonuya/sta…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/xiaomonuya/status/2046632438714310867",
+          "start": 60,
+          "url": "https://t.co/P2zkET8ZvE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046916507394019378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046632438714310867",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个抗抑郁药好像效果不够好，一直不能彻底好，有效果但不太够\n我发现一个可以根治抑郁症的药\n叫亚硝酸钠，请问哪里有卖的（ https://t.co/P2zkET8ZvE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2046632436256366592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcZW3TaYAALd5j.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046916507394019378",
+        "created_at": "2026-04-22T11:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046916507394019378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomonuya/sta…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/xiaomonuya/status/2046632438714310867",
+              "start": 60,
+              "url": "https://t.co/P2zkET8ZvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046916507394019378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046632438714310867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个抗抑郁药好像效果不够好，一直不能彻底好，有效果但不太够\n我发现一个可以根治抑郁症的药\n叫亚硝酸钠，请问哪里有卖的（ https://t.co/P2zkET8ZvE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046632436256366592"
+          ]
+        },
+        "author_id": "1858393719080366080",
+        "conversation_id": "2046632438714310867",
+        "created_at": "2026-04-21T16:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046632438714310867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qDjxgOvdl",
+              "end": 83,
+              "expanded_url": "https://x.com/xiaomonuya/status/2046632438714310867/photo/1",
+              "media_key": "3_2046632436256366592",
+              "start": 60,
+              "url": "https://t.co/5qDjxgOvdl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046632438714310867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 589,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這個抗抑鬱藥好像效果不夠好，一直不能徹底好，有效果但不太夠\n我發現了一個可以根治抑鬱症的藥\n叫亞硝酸鈉，請問哪裡有賣的 https://t.co/5qDjxgOvdl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 740,
+          "like_count": 16453,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2694
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻，出生20101130\n優點：会点魔术～～～比赛拿过两年亚军，魔术爱好者内中低水平（毕竟我还小）\n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n某些男的想给我发性器照片的给我滚～～～！\n🚪52喵\n我是跨性別喵",
+        "id": "1858393719080366080",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046876258278269277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045021122476036096/65d5RM3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 167,
+          "like_count": 3366,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 4166
+        },
+        "username": "xiaomonuya",
+        "verified": false
+      }
+    ]
+  }
+}

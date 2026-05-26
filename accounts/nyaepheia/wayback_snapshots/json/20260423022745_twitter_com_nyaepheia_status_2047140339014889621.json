@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046857328881016934",
+    "created_at": "2026-04-23T02:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T03:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047140339014889621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1864023251674132480",
+          "start": 0,
+          "username": "ZyXqh0721"
+        },
+        {
+          "end": 20,
+          "id": "85622317",
+          "start": 11,
+          "username": "andy0131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047140339014889621",
+    "in_reply_to_user_id": "1864023251674132480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046991309215261113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZyXqh0721 @andy0131 我去！求中共开放收集到的旮旯给母补丁库！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046857328881016934",
+        "created_at": "2026-04-23T02:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047140339014889621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1864023251674132480",
+              "start": 0,
+              "username": "ZyXqh0721"
+            },
+            {
+              "end": 20,
+              "id": "85622317",
+              "start": 11,
+              "username": "andy0131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047140339014889621",
+        "in_reply_to_user_id": "1864023251674132480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046991309215261113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZyXqh0721 @andy0131 我去！求中共开放收集到的旮旯给母补丁库！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864023251674132480",
+        "conversation_id": "2046857328881016934",
+        "created_at": "2026-04-22T16:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046991309215261113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "85622317",
+              "start": 0,
+              "username": "andy0131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046991309215261113",
+        "in_reply_to_user_id": "85622317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 971,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046857328881016934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@andy0131 我去，那中共的资料库不就有全球最全的嘎拉game补丁吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 747,
+          "like_count": 16678,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2747
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-03T19:06:02.000Z",
+        "description": "",
+        "id": "1864023251674132480",
+        "name": "zy xqh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990345084404142080/aFyQ2o5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 1,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1680
+        },
+        "username": "ZyXqh0721",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-27T17:54:16.000Z",
+        "description": "設計及藝術工作者，天然1450；不定期根據時事更新，歡迎投幣買咖啡支持",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/andesign",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/andesign",
+                "start": 0,
+                "url": "https://t.co/osjladxloC"
+              }
+            ]
+          }
+        },
+        "id": "85622317",
+        "location": "25.131321,121.528157",
+        "name": "Andesign",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820080650235650048/b_tA8_8N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219,
+          "following_count": 253,
+          "like_count": 3927,
+          "listed_count": 6,
+          "media_count": 271,
+          "tweet_count": 1797
+        },
+        "url": "https://t.co/osjladxloC",
+        "username": "andy0131",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,616 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2055359758362931215",
+    "created_at": "2026-05-15T18:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T19:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055359758362931215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "2055356059066466304",
+          "start": 5,
+          "username": "TransCircleOrg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "bsky.app/profile/TransC…",
+          "end": 55,
+          "expanded_url": "http://bsky.app/profile/TransCircle.org",
+          "start": 32,
+          "status": 200,
+          "title": "TransCircle (@transcircle.org)",
+          "unwound_url": "https://bsky.app/profile/TransCircle.org",
+          "url": "https://t.co/OZPZKnuR5j"
+        },
+        {
+          "description": "TransCircle has one repository available. Follow their code on GitHub.",
+          "display_url": "GitHub.com/TransCircle",
+          "end": 86,
+          "expanded_url": "http://GitHub.com/TransCircle",
+          "images": [
+            {
+              "height": 280,
+              "url": "https://pbs.twimg.com/news_img/2055349859138592768/IG7HtqxD?format=png&name=orig",
+              "width": 280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2055349859138592768/IG7HtqxD?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 63,
+          "status": 200,
+          "title": "TransCircle",
+          "unwound_url": "https://github.com/TransCircle",
+          "url": "https://t.co/sF5ZkxsjN1"
+        },
+        {
+          "display_url": "TransCircle.org",
+          "end": 113,
+          "expanded_url": "http://TransCircle.org",
+          "start": 90,
+          "status": 200,
+          "title": "TransCircleProject",
+          "unwound_url": "https://transcircle.org/",
+          "url": "https://t.co/KN9JnmCHrf"
+        },
+        {
+          "display_url": "x.com/nyaepheia/stat…",
+          "end": 137,
+          "expanded_url": "https://twitter.com/nyaepheia/status/2055349854281531733",
+          "start": 114,
+          "url": "https://t.co/Cns4syYBzT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055359758362931215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055349854281531733",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "X 账号：@TransCircleOrg\nBluesky 账号：https://t.co/OZPZKnuR5j\nGitHub：https://t.co/sF5ZkxsjN1\n网站：https://t.co/KN9JnmCHrf https://t.co/Cns4syYBzT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2055359758362931215",
+        "created_at": "2026-05-15T18:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055359758362931215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "2055356059066466304",
+              "start": 5,
+              "username": "TransCircleOrg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bsky.app/profile/TransC…",
+              "end": 55,
+              "expanded_url": "http://bsky.app/profile/TransCircle.org",
+              "start": 32,
+              "status": 200,
+              "title": "TransCircle (@transcircle.org)",
+              "unwound_url": "https://bsky.app/profile/TransCircle.org",
+              "url": "https://t.co/OZPZKnuR5j"
+            },
+            {
+              "description": "TransCircle has one repository available. Follow their code on GitHub.",
+              "display_url": "GitHub.com/TransCircle",
+              "end": 86,
+              "expanded_url": "http://GitHub.com/TransCircle",
+              "images": [
+                {
+                  "height": 280,
+                  "url": "https://pbs.twimg.com/news_img/2055349859138592768/IG7HtqxD?format=png&name=orig",
+                  "width": 280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2055349859138592768/IG7HtqxD?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 63,
+              "status": 200,
+              "title": "TransCircle",
+              "unwound_url": "https://github.com/TransCircle",
+              "url": "https://t.co/sF5ZkxsjN1"
+            },
+            {
+              "display_url": "TransCircle.org",
+              "end": 113,
+              "expanded_url": "http://TransCircle.org",
+              "start": 90,
+              "status": 200,
+              "title": "TransCircleProject",
+              "unwound_url": "https://transcircle.org/",
+              "url": "https://t.co/KN9JnmCHrf"
+            },
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2055349854281531733",
+              "start": 114,
+              "url": "https://t.co/Cns4syYBzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055359758362931215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055349854281531733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "X 账号：@TransCircleOrg\nBluesky 账号：https://t.co/OZPZKnuR5j\nGitHub：https://t.co/sF5ZkxsjN1\n网站：https://t.co/KN9JnmCHrf https://t.co/Cns4syYBzT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2055349854281531733",
+        "created_at": "2026-05-15T18:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055349854281531733"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 16,
+              "tag": "TransCircle"
+            }
+          ],
+          "urls": [
+            {
+              "description": "TransCircle has one repository available. Follow their code on GitHub.",
+              "display_url": "Github.com/TransCircle",
+              "end": 52,
+              "expanded_url": "http://Github.com/TransCircle",
+              "images": [
+                {
+                  "height": 280,
+                  "url": "https://pbs.twimg.com/news_img/2055349859138592768/IG7HtqxD?format=png&name=orig",
+                  "width": 280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2055349859138592768/IG7HtqxD?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 29,
+              "status": 200,
+              "title": "TransCircle",
+              "unwound_url": "https://github.com/TransCircle",
+              "url": "https://t.co/RMnSgyndO9"
+            },
+            {
+              "description": "我们的存在，就是对恶意最大的反抗。. Contribute to TransCircle/TransCircle development by creating an account on GitHub.",
+              "display_url": "Github.com/TransCircle/Tr…",
+              "end": 87,
+              "expanded_url": "http://Github.com/TransCircle/TransCircle",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2055349897134776320/fEIDToYW?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2055349897134776320/fEIDToYW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 64,
+              "status": 200,
+              "title": "GitHub - TransCircle/TransCircle: 我们的存在，就是对恶意最大的反抗。",
+              "unwound_url": "https://github.com/TransCircle/TransCircle",
+              "url": "https://t.co/A8wb4rWrOR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055349854281531733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "请在GitHub 上关注我们！\n#TransCircle\nhttps://t.co/RMnSgyndO9\n\n新的仓库URL 是：https://t.co/A8wb4rWrOR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 807,
+          "like_count": 21312,
+          "listed_count": 3,
+          "media_count": 316,
+          "tweet_count": 3887
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T18:35:13.000Z",
+        "description": "",
+        "id": "2055356059066466304",
+        "name": "TransCircle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055356408699514881/Xwsvn8u3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "TransCircleOrg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2047609142840557605",
+    "created_at": "2026-04-24T09:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T10:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047609142840557605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2047575554157949023",
+          "start": 7,
+          "url": "https://t.co/PSqdL0Gb8e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047609142840557605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047575554157949023",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牧鸢回来了！ https://t.co/PSqdL0Gb8e"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2047609142840557605",
+        "created_at": "2026-04-24T09:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047609142840557605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2047575554157949023",
+              "start": 7,
+              "url": "https://t.co/PSqdL0Gb8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047609142840557605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047575554157949023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牧鸢回来了！ https://t.co/PSqdL0Gb8e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2047575554157949023",
+        "created_at": "2026-04-24T07:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047575554157949023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/siyu060910/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/siyu060910/status/2047415193442161080",
+              "start": 29,
+              "url": "https://t.co/Iau9dVqjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047575554157949023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 6374,
+          "like_count": 155,
+          "quote_count": 3,
+          "reply_count": 27,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047415193442161080",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们之前不会以为我们之前调查会有当官的来这里选妃是假的吧 https://t.co/Iau9dVqjkk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 753,
+          "like_count": 17024,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 2791
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4470,
+          "following_count": 2567,
+          "like_count": 2632,
+          "listed_count": 16,
+          "media_count": 398,
+          "tweet_count": 2660
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

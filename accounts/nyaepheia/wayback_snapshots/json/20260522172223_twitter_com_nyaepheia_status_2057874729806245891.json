@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057874729806245891",
+    "created_at": "2026-05-22T17:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057874729806245891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057874729806245891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057567105663287660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 近日，上海一名62岁环卫工大叔，用镜头记录自己工作的一天。\n\n大叔凌晨4:00左右起床；4:56开始工作；7:06吃早餐；7:30继续工作；11:30回家吃饭；\n12:30继续工作；17:00回家吃晚饭；\n18:00继续工作；20:40到…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 170132,
+        "height": 1906,
+        "media_key": "13_2057476296586801152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057476296586801152/img/pRPLi7aic4B7TeET.jpg",
+        "public_metrics": {
+          "view_count": 49585
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057476296586801152/pl/VEFDoRh0od2HlZX0.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057476296586801152/vid/avc1/480x846/m5mfkM7hMfSsaAoO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057476296586801152/vid/avc1/720x1270/hcBFpWNvGPccgaLf.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057476296586801152/vid/avc1/320x564/4MPnhJZjz47GbCSi.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057476296586801152/vid/avc1/1080x1906/eeoDW2jOtuDPIR_c.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057874729806245891",
+        "created_at": "2026-05-22T17:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057874729806245891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057874729806245891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057567105663287660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 近日，上海一名62岁环卫工大叔，用镜头记录自己工作的一天。\n\n大叔凌晨4:00左右起床；4:56开始工作；7:06吃早餐；7:30继续工作；11:30回家吃饭；\n12:30继续工作；17:00回家吃晚饭；\n18:00继续工作；20:40到…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057476296586801152"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057567105663287660",
+        "created_at": "2026-05-21T21:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T22:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057567105663287660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8IxzrVBdD",
+              "end": 158,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2057567105663287660/video/1",
+              "media_key": "13_2057476296586801152",
+              "start": 135,
+              "url": "https://t.co/T8IxzrVBdD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057567105663287660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "近日，上海一名62岁环卫工大叔，用镜头记录自己工作的一天。\n\n大叔凌晨4:00左右起床；4:56开始工作；7:06吃早餐；7:30继续工作；11:30回家吃饭；\n12:30继续工作；17:00回家吃晚饭；\n18:00继续工作；20:40到单位开会打卡；21:16到家。\n\n这一天，大叔至少工作了13个小时，一日三餐全是廉价的碳水，每天睡眠不足8小时。\n据悉，上海环卫工月薪大约4500-5500元"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 102545,
+          "like_count": 626,
+          "quote_count": 10,
+          "reply_count": 88,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "近日，上海一名62岁环卫工大叔，用镜头记录自己工作的一天。\n\n大叔凌晨4:00左右起床；4:56开始工作；7:06吃早餐；7:30继续工作；11:30回家吃饭；\n12:30继续工作；17:00回家吃晚饭；\n18:00继续工作；20:40到单位开会打卡；21:16到家。 https://t.co/T8IxzrVBdD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 823,
+          "like_count": 23042,
+          "listed_count": 3,
+          "media_count": 378,
+          "tweet_count": 4288
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2232609,
+          "following_count": 1062,
+          "like_count": 9593,
+          "listed_count": 8760,
+          "media_count": 47267,
+          "tweet_count": 54394
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

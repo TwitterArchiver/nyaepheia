@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038464531337543680"
+      ],
+      "media_source_tweet_id": [
+        "2038464536613683620"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2038498970637635988",
+    "created_at": "2026-03-30T06:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T07:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038498970637635988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1497481140915290115",
+          "start": 3,
+          "username": "karasu_ga_warau"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TMIhI12qnL",
+          "end": 94,
+          "expanded_url": "https://x.com/karasu_ga_warau/status/2038464536613683620/photo/1",
+          "media_key": "3_2038464531337543680",
+          "start": 71,
+          "url": "https://t.co/TMIhI12qnL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038498970637635988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038464536613683620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karasu_ga_warau: 一個友善提醒：助人者應該更多地遵循人權理念框架帶給我們的價值觀和準則，而不是成為效益至上的救世主。 https://t.co/TMIhI12qnL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2038464531337543680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoUsOWbgAAbHUP.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038464531337543680"
+          ],
+          "media_source_tweet_id": [
+            "2038464536613683620"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2038498970637635988",
+        "created_at": "2026-03-30T06:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T07:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038498970637635988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1497481140915290115",
+              "start": 3,
+              "username": "karasu_ga_warau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TMIhI12qnL",
+              "end": 94,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2038464536613683620/photo/1",
+              "media_key": "3_2038464531337543680",
+              "start": 71,
+              "url": "https://t.co/TMIhI12qnL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038498970637635988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038464536613683620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karasu_ga_warau: 一個友善提醒：助人者應該更多地遵循人權理念框架帶給我們的價值觀和準則，而不是成為效益至上的救世主。 https://t.co/TMIhI12qnL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038464531337543680"
+          ]
+        },
+        "author_id": "1497481140915290115",
+        "conversation_id": "2038464536613683620",
+        "created_at": "2026-03-30T03:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T04:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038464536613683620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TMIhI12qnL",
+              "end": 73,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2038464536613683620/photo/1",
+              "media_key": "3_2038464531337543680",
+              "start": 50,
+              "url": "https://t.co/TMIhI12qnL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038464536613683620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 797,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "一個友善提醒：助人者應該更多地遵循人權理念框架帶給我們的價值觀和準則，而不是成為效益至上的救世主。 https://t.co/TMIhI12qnL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/SocDem/不键政/文科生/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/无糖/(半个)家长党/天残党/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2037905372414091549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 491,
+          "like_count": 5520,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 214
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-26T07:59:00.000Z",
+        "description": "Proud Chinese communism survivor | Proud Feminist | Proud Queer (she/they) | May all the justice live in peace, love in peace and rest in peace.",
+        "id": "1497481140915290115",
+        "name": "夏巢川 Rei Xia",
+        "pinned_tweet_id": "1814038292738035893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798095968576958464/DJkGIkQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28847,
+          "following_count": 1311,
+          "like_count": 9752,
+          "listed_count": 118,
+          "media_count": 559,
+          "tweet_count": 5547
+        },
+        "username": "karasu_ga_warau",
+        "verified": false
+      }
+    ]
+  }
+}

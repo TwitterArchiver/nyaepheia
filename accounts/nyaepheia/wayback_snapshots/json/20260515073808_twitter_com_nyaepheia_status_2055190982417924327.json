@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2055190982417924327",
+    "created_at": "2026-05-15T07:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T08:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055190982417924327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1854621992348987415",
+          "start": 3,
+          "username": "veracite_desir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055190982417924327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054995570909913138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @veracite_desir: 我的激进跨性别意识形态如下：\n消除贫困和财富，消除工作和家庭，消灭警察和边境，消除一切对空间的性别化分配，解除基于生育能力对身体的镌刻和规训；消灭爱，消灭恨，消灭人类，消灭我和你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2055190982417924327",
+        "created_at": "2026-05-15T07:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055190982417924327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1854621992348987415",
+              "start": 3,
+              "username": "veracite_desir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055190982417924327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054995570909913138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @veracite_desir: 我的激进跨性别意识形态如下：\n消除贫困和财富，消除工作和家庭，消灭警察和边境，消除一切对空间的性别化分配，解除基于生育能力对身体的镌刻和规训；消灭爱，消灭恨，消灭人类，消灭我和你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854621992348987415",
+        "conversation_id": "2054995570909913138",
+        "created_at": "2026-05-14T18:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054995570909913138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/noname2095_/st…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/noname2095_/status/2054975607847653536",
+              "start": 91,
+              "url": "https://t.co/kGHddCnb8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054995570909913138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2484,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054975607847653536",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的激进跨性别意识形态如下：\n消除贫困和财富，消除工作和家庭，消灭警察和边境，消除一切对空间的性别化分配，解除基于生育能力对身体的镌刻和规训；消灭爱，消灭恨，消灭人类，消灭我和你。 https://t.co/kGHddCnb8h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 805,
+          "like_count": 21199,
+          "listed_count": 3,
+          "media_count": 310,
+          "tweet_count": 3853
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-07T20:28:47.000Z",
+        "description": "多伦多A姓女子\n175cm/56kg/75a",
+        "id": "1854621992348987415",
+        "name": "🪼",
+        "pinned_tweet_id": "2049587569147441505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052275519425486852/wlKDFWz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 88,
+          "like_count": 721,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 116
+        },
+        "username": "veracite_desir",
+        "verified": true
+      }
+    ]
+  }
+}

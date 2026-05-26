@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2048080760427761842",
+    "created_at": "2026-04-25T16:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T17:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048080760427761842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "1759983760152637440",
+          "start": 12,
+          "username": "kaixinua"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/xyu1182202/sta…",
+          "end": 172,
+          "expanded_url": "https://twitter.com/xyu1182202/status/2048064640190730306",
+          "start": 149,
+          "url": "https://t.co/euQqesUeRp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048080760427761842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 21,
+            "id": "1759983760152637440",
+            "start": 12,
+            "username": "kaixinua"
+          }
+        ]
+      },
+      "text": "讣告\n沉痛宣告我们的朋友@kaixinua 已于近日不幸离世。\n面对内心的挣扎与痛苦，她也曾向世界寻求陪伴与理解。\n她走得太早。\n我们尊重她的选择，愿她摆脱所有的痛苦与折磨——按照她的心愿。\n我们希望她在下辈子能作为一个健康快乐的小女孩，自由地成长、无忧无虑地生活，感受这个世界所有的温柔与美好。\n愿她的灵魂得到安息。\n永远怀念你。\n\n［修改自原帖：增加标点符号］"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048064640190730306",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "讣告\n沉痛宣告我们的朋友@kaixinua 已于近日不幸离世。\n面对内心的挣扎与痛苦，她也曾向世界寻求陪伴与理解。\n她走得太早。\n我们尊重她的选择，愿她摆脱所有的痛苦与折磨——按照她的心愿。\n我们希望她在下辈子能作为一个健康快乐的小女孩，自由地成长、无忧无虑地生活，感受这个世界所有的温柔与美好。 https://t.co/euQqesUeRp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2048080760427761842",
+        "created_at": "2026-04-25T16:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048080760427761842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1759983760152637440",
+              "start": 12,
+              "username": "kaixinua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xyu1182202/sta…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/xyu1182202/status/2048064640190730306",
+              "start": 149,
+              "url": "https://t.co/euQqesUeRp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048080760427761842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 21,
+                "id": "1759983760152637440",
+                "start": 12,
+                "username": "kaixinua"
+              }
+            ]
+          },
+          "text": "讣告\n沉痛宣告我们的朋友@kaixinua 已于近日不幸离世。\n面对内心的挣扎与痛苦，她也曾向世界寻求陪伴与理解。\n她走得太早。\n我们尊重她的选择，愿她摆脱所有的痛苦与折磨——按照她的心愿。\n我们希望她在下辈子能作为一个健康快乐的小女孩，自由地成长、无忧无虑地生活，感受这个世界所有的温柔与美好。\n愿她的灵魂得到安息。\n永远怀念你。\n\n［修改自原帖：增加标点符号］"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048064640190730306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "讣告\n沉痛宣告我们的朋友@kaixinua 已于近日不幸离世。\n面对内心的挣扎与痛苦，她也曾向世界寻求陪伴与理解。\n她走得太早。\n我们尊重她的选择，愿她摆脱所有的痛苦与折磨——按照她的心愿。\n我们希望她在下辈子能作为一个健康快乐的小女孩，自由地成长、无忧无虑地生活，感受这个世界所有的温柔与美好。 https://t.co/euQqesUeRp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2048064640190730306",
+        "created_at": "2026-04-25T15:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048064640190730306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1759983760152637440",
+              "start": 12,
+              "username": "kaixinua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048064640190730306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 743,
+          "like_count": 26,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n沉痛宣告我们的朋友@kaixinua\n已于近日不幸离世面对内心的挣扎与痛苦也曾向世界寻求陪伴与理解她走得太早我们尊重她的选择愿她摆脱所有的痛苦与折磨按照她的心愿我们希望她在下辈子能作为一个健康快乐的小女孩自由地成长无忧无虑地生活感受这个世界所有的温柔与美好愿她的灵魂得到安息永远怀念你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 757,
+          "like_count": 17395,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2869
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T16:50:15.000Z",
+        "description": "酗酒，割手样样俱全（求求互fo🥺",
+        "id": "1759983760152637440",
+        "location": "mars",
+        "name": "kaikaixin🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759984206468222976/03bgRFtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 389,
+          "like_count": 489,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 223
+        },
+        "username": "kaixinua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n宝宝\n@xiey57828\n@leavesMao\n另一个曦月\n@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "leavesMao"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2048064640190730306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 852,
+          "like_count": 3512,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 4311
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      }
+    ]
+  }
+}

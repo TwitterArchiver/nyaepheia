@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057379408051388419",
+    "created_at": "2026-05-21T08:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T09:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057379408051388419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Diamond_Kokoro…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Diamond_Kokoro/status/2057374349330718758",
+          "start": 11,
+          "url": "https://t.co/6gV4bLtBCM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057379408051388419",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057374349330718758",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "通过垃圾桶感受民主。 https://t.co/6gV4bLtBCM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057374335938277376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1DDt-bMAA2atg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057379408051388419",
+        "created_at": "2026-05-21T08:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T09:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057379408051388419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Diamond_Kokoro…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Diamond_Kokoro/status/2057374349330718758",
+              "start": 11,
+              "url": "https://t.co/6gV4bLtBCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057379408051388419",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057374349330718758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "通过垃圾桶感受民主。 https://t.co/6gV4bLtBCM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057374335938277376"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "conversation_id": "2057374349330718758",
+        "created_at": "2026-05-21T08:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T09:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057374349330718758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gIuFTnbL3T",
+              "end": 40,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2057374349330718758/photo/1",
+              "media_key": "3_2057374335938277376",
+              "start": 17,
+              "url": "https://t.co/gIuFTnbL3T"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2056985775963603154",
+              "start": 41,
+              "url": "https://t.co/N3f21THrEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057374349330718758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056985775963603154",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "update：這裡現在是個垃圾桶 https://t.co/gIuFTnbL3T https://t.co/N3f21THrEJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 829,
+          "like_count": 22584,
+          "listed_count": 3,
+          "media_count": 353,
+          "tweet_count": 4159
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "🏳️‍🌈｜@irisdesombres 的忠犬，祂的命令就是我的愿望。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "石榴花丛中",
+        "name": "小羽",
+        "pinned_tweet_id": "2048784423957778816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056857827483029505/YC0x-37f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 122,
+          "like_count": 6579,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 4374
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

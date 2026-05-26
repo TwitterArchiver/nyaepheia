@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2056646223470436530",
+    "created_at": "2026-05-19T17:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056794916580454855"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20567…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/status/2056794634077208991",
+          "start": 0,
+          "url": "https://t.co/m8vbN3z0KW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056794916580454855",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056794634077208991",
+        "type": "quoted"
+      },
+      {
+        "id": "2056646223470436530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "https://t.co/m8vbN3z0KW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2056646223470436530",
+        "created_at": "2026-05-19T17:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056794916580454855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20567…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/status/2056794634077208991",
+              "start": 0,
+              "url": "https://t.co/m8vbN3z0KW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056794916580454855",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056794634077208991",
+            "type": "quoted"
+          },
+          {
+            "id": "2056646223470436530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "https://t.co/m8vbN3z0KW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2056794634077208991",
+        "created_at": "2026-05-19T17:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056794634077208991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JLTPoetry/stat…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/JLTPoetry/status/2056391275264229501",
+              "start": 59,
+              "url": "https://t.co/roEpEmUVKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056794634077208991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056391275264229501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "JK·罗琳一边鼓吹对跨性别者的种族灭绝，一边把女性当作挡箭牌，但凡有人胆敢批评她的杀人意图，就立刻高喊「这是厌女」。 https://t.co/roEpEmUVKj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2056646223470436530",
+        "created_at": "2026-05-19T08:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056646223470436530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/daniellismore/…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/daniellismore/status/2056298486220357970",
+              "start": 105,
+              "url": "https://t.co/Y7Z7qj6hHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056646223470436530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "J.K.罗琳一直在以「保护女性」为旗号塑造自己的公众形象。她张口闭口就是「女性」——女性空间、女性权利、女性安全、女性体育、女性的所有东西。\n\n那么，当英国改革党在幕后发起反堕胎权运动时，她在哪里？\n\n沉默。\n\n当改革党主张让英国退出《欧洲人权公约》——这个保护女性免受家庭暴力、强迫婚姻、名誉犯罪和国家歧视的法律框架时，她在哪里？\n\n沉默。\n\n当那些她选择与之站在一起的政治势力正在系统性地剥夺女性权利时，她又在哪里？\n\n一片死寂。\n\n这个女人拥有超过1300万粉丝、十亿美元级别的商业帝国、个人法律基金，甚至最高法院大法官都愿意听她说话。她不缺平台，她不怕争议。她已经反复证明，只要她想，她就能大声说出那些尖锐的话。\n\n她只是不想说这些。\n\n这个模式一点也不微妙。她资助的每一场运动、支持的每一个法律案件、发表的每一次公开声明，都只围绕一个主题。不是广义上的女性。具体而言，仅限于跨性别者。当话题转向堕胎时，她消失了。当话题转向《欧洲人权公约》时，她消失了。当话题转向改革党的社会保守主义——这种倒退数十年的立场将剥夺女性权利——她照样消失了。\n\n《欧洲人权公约》并非抽象的法律文件。它是为这个国家的女性提供了具体保护的法律框架。它支撑着女性不受国家保护而遭受家庭暴力的权利。它支撑着生育权的相关判例。它支撑着反对强迫婚姻和人口贩运的保护措施。它支撑着隐私权、身体自主权、法律面前人人平等的权利。\n\n改革党想退出这个公约。\n\n这个公约也保护跨性别者。问题就出在这里。\n\n因为唯一能合理解释罗琳为何在所有其他女性权利议题上保持沉默、却把财富倾注在单一议题上的原因就是——她的运动从来不是关于女性的。它从来都是关于跨性别者的。女性只是她用来包装的幌子。排斥跨性别者才是真正的目标。\n\n一个在2025年真正关心女性权利的人，一定会对改革党大声疾呼。她会资助法律挑战来对抗堕胎限制。她会大声捍卫《欧洲人权公约》。她会明白：当你所支持的政治力量正在拆解保护女性免受国家和暴力侵害的法律架构时，你却保持沉默——那么你就不能声称自己在捍卫女性权利。\n\n除非你在乎的权利根本不是广义上的女性权利。\n\n除非你在乎的只是将跨性别者排除在公共生活之外的那一部分。\n\n在这种情形下，沉默就变得完全合理了。\n\n跟随沉默。它会告诉你那些冠冕堂皇的话所隐藏的一切。\n\n她还纳闷自己为什么会失去朋友。我私下和她的三个老朋友聊过。他们对她的评价简直糟糕透顶。\n\n所以，她也许是你的英雄，但在我看来，她根本不算什么好人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3961,
+          "like_count": 116,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056298486220357970",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "J.K.罗琳一直在以「保护女性」为旗号塑造自己的公众形象。她张口闭口就是「女性」——女性空间、女性权利、女性安全、女性体育、女性的所有东西。\n\n那么，当英国改革党在幕后发起反堕胎权运动时，她在哪里？\n\n沉默。 https://t.co/Y7Z7qj6hHg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 827,
+          "like_count": 22299,
+          "listed_count": 3,
+          "media_count": 343,
+          "tweet_count": 4072
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

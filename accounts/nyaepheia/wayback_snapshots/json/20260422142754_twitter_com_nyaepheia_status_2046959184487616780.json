@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046959112060387499",
+    "created_at": "2026-04-22T14:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046959184487616780"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "/ɪˈfiːə/ 二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD Transfeminine Non-binary?Queer?MtF/X transles?|✨she/they|小证含糖hrt since26.4.1 家长党|天残党😭 SocDem ❤️@yxrchina",
+          "display_url": "eph.moe/she",
+          "end": 28,
+          "expanded_url": "http://eph.moe/she",
+          "start": 5,
+          "status": 200,
+          "title": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️ (@nyaepheia) on X",
+          "unwound_url": "https://x.com/nyaepheia",
+          "url": "https://t.co/wbxaYgUpPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046959184487616780",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046959112060387499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蒸馏结果：https://t.co/wbxaYgUpPC （"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 773,
+        "media_key": "3_2046959106473578496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhCdksb0AAGObW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046959112060387499",
+        "created_at": "2026-04-22T14:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046959184487616780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "/ɪˈfiːə/ 二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD Transfeminine Non-binary?Queer?MtF/X transles?|✨she/they|小证含糖hrt since26.4.1 家长党|天残党😭 SocDem ❤️@yxrchina",
+              "display_url": "eph.moe/she",
+              "end": 28,
+              "expanded_url": "http://eph.moe/she",
+              "start": 5,
+              "status": 200,
+              "title": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️ (@nyaepheia) on X",
+              "unwound_url": "https://x.com/nyaepheia",
+              "url": "https://t.co/wbxaYgUpPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046959184487616780",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046959112060387499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蒸馏结果：https://t.co/wbxaYgUpPC （"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046959106473578496"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046959112060387499",
+        "created_at": "2026-04-22T14:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046959112060387499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vF4ycrFIF8",
+              "end": 23,
+              "expanded_url": "https://x.com/nyaepheia/status/2046959112060387499/photo/1",
+              "media_key": "3_2046959106473578496",
+              "start": 0,
+              "url": "https://t.co/vF4ycrFIF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046959112060387499",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vF4ycrFIF8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 744,
+          "like_count": 16574,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2727
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

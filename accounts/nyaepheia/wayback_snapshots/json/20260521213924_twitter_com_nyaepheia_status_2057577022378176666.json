@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057577022378176666",
+    "created_at": "2026-05-21T21:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T22:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057577022378176666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1928705633135767600",
+          "start": 3,
+          "username": "PriseTwinkle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057577022378176666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057320800710189457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PriseTwinkle: 你能陪我多久？\n一秒？那我可以捏一下你的脸\n一分钟？那我们可以短暂的接吻\n一刻钟？那我们可以去散步聊天\n一小时？那我们可以做一遍大扫除\n一时辰？那我们可以一起去吃饭\n一天？那我可以带你去游乐场\n一个月？那我们可以租一个属于我们的小家\n一季？那…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057577022378176666",
+        "created_at": "2026-05-21T21:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T22:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057577022378176666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1928705633135767600",
+              "start": 3,
+              "username": "PriseTwinkle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057577022378176666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057320800710189457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PriseTwinkle: 你能陪我多久？\n一秒？那我可以捏一下你的脸\n一分钟？那我们可以短暂的接吻\n一刻钟？那我们可以去散步聊天\n一小时？那我们可以做一遍大扫除\n一时辰？那我们可以一起去吃饭\n一天？那我可以带你去游乐场\n一个月？那我们可以租一个属于我们的小家\n一季？那…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2057320800710189457",
+        "created_at": "2026-05-21T04:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057320800710189457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057320800710189457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你能陪我多久？\n一秒？那我可以捏一下你的脸\n一分钟？那我们可以短暂的接吻\n一刻钟？那我们可以去散步聊天\n一小时？那我们可以做一遍大扫除\n一时辰？那我们可以一起去吃饭\n一天？那我可以带你去游乐场\n一个月？那我们可以租一个属于我们的小家\n一季？那我可以陪你旅游\n一年？那我会给你准备一份独特的纪念礼物\n一旬？那我可以陪你一起奋斗\n一辈子？那我可以陪你一起从青丝变白发\n对不起….我好像又开始说胡话了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1858,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你能陪我多久？\n一秒？那我可以捏一下你的脸\n一分钟？那我们可以短暂的接吻\n一刻钟？那我们可以去散步聊天\n一小时？那我们可以做一遍大扫除\n一时辰？那我们可以一起去吃饭\n一天？那我可以带你去游乐场\n一个月？那我们可以租一个属于我们的小家\n一季？那我可以陪你旅游"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 831,
+          "like_count": 22817,
+          "listed_count": 3,
+          "media_count": 362,
+          "tweet_count": 4230
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？跨圈最小的? \n无证小药娘🍥2026.4.7 MTF\n从小想做个女孩子-炸柜：5.2,/继续深柜ing\n喜欢折腾电脑和会一点编程\n分享Hrt日常-磕药药割手手💊🔪\n喜欢我的话点个关注吧🥺 求求你了~\n@TeamRain_2024 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "TeamRain_2024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 154,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 132,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/vVpfNV6DFI"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041475934608380289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050189894278897664/xk4hCXpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 7,
+          "like_count": 1854,
+          "listed_count": 5,
+          "media_count": 92,
+          "tweet_count": 673
+        },
+        "url": "https://t.co/vVpfNV6DFI",
+        "username": "PriseTwinkle",
+        "verified": true
+      }
+    ]
+  }
+}

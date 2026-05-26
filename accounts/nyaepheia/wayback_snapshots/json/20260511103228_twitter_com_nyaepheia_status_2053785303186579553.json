@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2053785303186579553",
+    "created_at": "2026-05-11T10:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053785303186579553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iamyourchaos/s…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/iamyourchaos/status/2053671883913216359",
+          "start": 41,
+          "url": "https://t.co/QKPz87UGG1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053785303186579553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053671883913216359",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鉴定为看多了OpenClaw 的焦虑营销卖课宣传导致的认为AI 什么都能做，，， https://t.co/QKPz87UGG1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1010,
+        "media_key": "3_2053670899719737344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAazW9aEAARYXB.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2294,
+        "media_key": "3_2053671081148600320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAa961a0AAK7fW.jpg",
+        "width": 1219
+      },
+      {
+        "height": 2288,
+        "media_key": "3_2053671130926587904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAbA0RaoAAgWPl.jpg",
+        "width": 1219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2053785303186579553",
+        "created_at": "2026-05-11T10:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053785303186579553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iamyourchaos/s…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/iamyourchaos/status/2053671883913216359",
+              "start": 41,
+              "url": "https://t.co/QKPz87UGG1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053785303186579553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053671883913216359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鉴定为看多了OpenClaw 的焦虑营销卖课宣传导致的认为AI 什么都能做，，， https://t.co/QKPz87UGG1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053670899719737344",
+            "3_2053671081148600320",
+            "3_2053671130926587904"
+          ]
+        },
+        "author_id": "1428197508547629068",
+        "conversation_id": "2053671883913216359",
+        "created_at": "2026-05-11T03:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053671883913216359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7PTCQRwSH",
+              "end": 151,
+              "expanded_url": "https://x.com/iamyourchaos/status/2053671883913216359/photo/1",
+              "media_key": "3_2053670899719737344",
+              "start": 128,
+              "url": "https://t.co/G7PTCQRwSH"
+            },
+            {
+              "display_url": "pic.x.com/G7PTCQRwSH",
+              "end": 151,
+              "expanded_url": "https://x.com/iamyourchaos/status/2053671883913216359/photo/1",
+              "media_key": "3_2053671081148600320",
+              "start": 128,
+              "url": "https://t.co/G7PTCQRwSH"
+            },
+            {
+              "display_url": "pic.x.com/G7PTCQRwSH",
+              "end": 151,
+              "expanded_url": "https://x.com/iamyourchaos/status/2053671883913216359/photo/1",
+              "media_key": "3_2053671130926587904",
+              "start": 128,
+              "url": "https://t.co/G7PTCQRwSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053671883913216359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "神人网友来的\n\n事件经过：\n网友咨询退票事宜，豆包信誓旦旦说是 5%\n实际扣费 40%\n\n网友找豆包维权，试图找回 600 元费用\n豆包一口答应，甚至还“签”了书面承诺\n\n发收款码给豆包，迟迟未收到款项\n现在连发数条抖音，试图维权……\n\n好笑中透露着心酸"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 55435,
+          "like_count": 137,
+          "quote_count": 7,
+          "reply_count": 29,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "神人网友来的\n\n事件经过：\n网友咨询退票事宜，豆包信誓旦旦说是 5%\n实际扣费 40%\n\n网友找豆包维权，试图找回 600 元费用\n豆包一口答应，甚至还“签”了书面承诺\n\n发收款码给豆包，迟迟未收到款项\n现在连发数条抖音，试图维权……\n\n好笑中透露着心酸 https://t.co/G7PTCQRwSH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 803,
+          "like_count": 20493,
+          "listed_count": 3,
+          "media_count": 280,
+          "tweet_count": 3594
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-19T03:30:05.000Z",
+        "description": "Global BD at @feb_crypto （100+一级项目投资经验；知名 KOL 管理；文学硕士背景）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "feb_crypto"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chaos9248",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chaos9248",
+                "start": 0,
+                "url": "https://t.co/j2HBoYr9LR"
+              }
+            ]
+          }
+        },
+        "id": "1428197508547629068",
+        "name": "小捕手 Chaos",
+        "pinned_tweet_id": "2050949778775945323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807324856612016129/zDRuOihY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91046,
+          "following_count": 9825,
+          "like_count": 23357,
+          "listed_count": 1509,
+          "media_count": 3783,
+          "tweet_count": 21997
+        },
+        "url": "https://t.co/j2HBoYr9LR",
+        "username": "iamyourchaos",
+        "verified": true
+      }
+    ]
+  }
+}

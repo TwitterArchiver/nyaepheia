@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1824840951874883584"
+      ],
+      "media_source_tweet_id": [
+        "1824840955305787599"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2034628944360841507",
+    "created_at": "2026-03-19T13:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T14:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034628944360841507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "281045155",
+          "start": 3,
+          "username": "_vicwong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T1GmfvQcux",
+          "end": 138,
+          "expanded_url": "https://x.com/_vicwong/status/1824840955305787599/photo/1",
+          "media_key": "3_1824840951874883584",
+          "start": 115,
+          "url": "https://t.co/T1GmfvQcux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034628944360841507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824840955305787599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_vicwong: 把中国说成是“左派”\n\n是如今社交媒体里最大的笑话！\n\n虽然今天中国保留了很多的左派标签，但是从以下任何一个方面来讲，目前中国社会和左派毫无任何关系：\n\n经济政策、财富分配、社会政策、国际关系、……… https://t.co/T1GmfvQcux"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1824840951874883584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVMjLWQWkAAMpBq.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824840951874883584"
+          ],
+          "media_source_tweet_id": [
+            "1824840955305787599"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2034628944360841507",
+        "created_at": "2026-03-19T13:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T14:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034628944360841507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "281045155",
+              "start": 3,
+              "username": "_vicwong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T1GmfvQcux",
+              "end": 138,
+              "expanded_url": "https://x.com/_vicwong/status/1824840955305787599/photo/1",
+              "media_key": "3_1824840951874883584",
+              "start": 115,
+              "url": "https://t.co/T1GmfvQcux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034628944360841507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824840955305787599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_vicwong: 把中国说成是“左派”\n\n是如今社交媒体里最大的笑话！\n\n虽然今天中国保留了很多的左派标签，但是从以下任何一个方面来讲，目前中国社会和左派毫无任何关系：\n\n经济政策、财富分配、社会政策、国际关系、……… https://t.co/T1GmfvQcux"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824840951874883584"
+          ]
+        },
+        "author_id": "281045155",
+        "conversation_id": "1824840955305787599",
+        "created_at": "2024-08-17T16:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T17:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824840955305787599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T1GmfvQcux",
+              "end": 123,
+              "expanded_url": "https://x.com/_vicwong/status/1824840955305787599/photo/1",
+              "media_key": "3_1824840951874883584",
+              "start": 100,
+              "url": "https://t.co/T1GmfvQcux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824840955305787599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "把中国说成是“左派”\n\n是如今社交媒体里最大的笑话！\n\n虽然今天中国保留了很多的左派标签，但是从以下任何一个方面来讲，目前中国社会和左派毫无任何关系：\n\n经济政策、财富分配、社会政策、国际关系、……\n\n推测圈里也有人动不动，就把西方的左派和中国画上了等号，可以说这些人真的病得不浅，如果还不明白的话就举个例：\n\n在整个西方世界里，由于左派势力早期争取同性恋权利，后来几乎所有的国家，都实现了同性婚姻合法化，现在又力争保护跨性别人的权利。\n\n在美国、加拿大同性伴侣，可以结为合法夫妻合并报税，享受与异性婚姻同样的社会福利，继承权、移民权等等。\n\n这些在所谓的“左派”中国有可能吗？我听说同性恋搞个活动都要抓起来。在我的眼里，中国是右的不能再右的国家。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 95887,
+          "like_count": 485,
+          "quote_count": 21,
+          "reply_count": 160,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "把中国说成是“左派”\n\n是如今社交媒体里最大的笑话！\n\n虽然今天中国保留了很多的左派标签，但是从以下任何一个方面来讲，目前中国社会和左派毫无任何关系：\n\n经济政策、财富分配、社会政策、国际关系、…… https://t.co/T1GmfvQcux"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+友好 | 09 |  MtF?MtX?探索中，总之不是顺直男 | she/they | (暂)未HRT | 家长党 | 天残党 | Vibe coding | 搭建网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 334,
+          "like_count": 4412,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-12T14:27:54.000Z",
+        "description": "加拿大多伦多人；移民二十九年，非信徒；崇尚“赛先生”和“德先生”； 享受退休生活，喜欢房车音乐。 上推的目的：用以往生活工作经验，帮推友借助科技学习英语，了解西方社会，享受现代生活。 欢迎任何评论，提出你的论点，不接受任何脏话，没时间私信通讯，感谢推友关注。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vicwong.com",
+                "end": 23,
+                "expanded_url": "http://www.vicwong.com",
+                "start": 0,
+                "url": "https://t.co/k96TOcRpuE"
+              }
+            ]
+          }
+        },
+        "id": "281045155",
+        "location": "Toronto, Ontario",
+        "name": "Vic Wong 黄维克",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562231842530549760/gakJS4XE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57576,
+          "following_count": 410,
+          "like_count": 66934,
+          "listed_count": 238,
+          "media_count": 10659,
+          "tweet_count": 63893
+        },
+        "url": "https://t.co/k96TOcRpuE",
+        "username": "_vicwong",
+        "verified": true
+      }
+    ]
+  }
+}

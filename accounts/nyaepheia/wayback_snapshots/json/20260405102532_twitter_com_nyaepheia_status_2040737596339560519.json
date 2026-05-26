@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2040720420140376256",
+    "created_at": "2026-04-05T10:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T11:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040737596339560519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2018318410015490048",
+          "start": 0,
+          "username": "KomariChika4097"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040737596339560519",
+    "in_reply_to_user_id": "2018318410015490048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040720420140376256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KomariChika4097 是。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2040720420140376256",
+        "created_at": "2026-04-05T10:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T11:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040737596339560519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2018318410015490048",
+              "start": 0,
+              "username": "KomariChika4097"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040737596339560519",
+        "in_reply_to_user_id": "2018318410015490048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040720420140376256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KomariChika4097 是。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018318410015490048",
+        "conversation_id": "2040720420140376256",
+        "created_at": "2026-04-05T09:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040720420140376256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ComradeAshenov…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ComradeAshenov/status/2040568834877505763",
+              "start": 8,
+              "url": "https://t.co/yR0SJutX0N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040720420140376256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040568834877505763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她们是在干吗？ https://t.co/yR0SJutX0N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/hrt26.4.1/家长党/天残党/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2040696789003809003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 582,
+          "like_count": 7215,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 464
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-02T13:39:59.000Z",
+        "description": "🇹🇼中華民國北平15嵗國中生 民主社會主義 激進共和主義 議會民主 階級鬥爭 愛好：人文社科 語言學 計算機科學 enby/she/her 半出柜 enfp-t 語言: 漢語🇹🇼 英語🏴󠁧󠁢󠁥󠁮󠁧󠁿OK俄語🇷🇺(學習中) 雙相情感障礙  亚健康 割手不od 希望成为可爱的小男女孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.gov.tw",
+                "end": 23,
+                "expanded_url": "http://president.gov.tw",
+                "start": 0,
+                "url": "https://t.co/mbOKViAaa5"
+              }
+            ]
+          }
+        },
+        "id": "2018318410015490048",
+        "location": "Peking, ROC",
+        "name": "小静|Тишина🏳️‍⚧️🇹🇼",
+        "pinned_tweet_id": "2040273453916545404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040225577769340928/sWe7pIxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 422,
+          "like_count": 5687,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 2165
+        },
+        "url": "https://t.co/mbOKViAaa5",
+        "username": "KomariChika4097",
+        "verified": false
+      }
+    ]
+  }
+}

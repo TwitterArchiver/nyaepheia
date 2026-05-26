@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051267319461212160",
+        "3_2051267331784155136"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051267344174047457",
+    "created_at": "2026-05-04T11:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T12:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051267344174047457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nmvPzjHwHb",
+          "end": 32,
+          "expanded_url": "https://x.com/nyaepheia/status/2051267344174047457/photo/1",
+          "media_key": "3_2051267319461212160",
+          "start": 9,
+          "url": "https://t.co/nmvPzjHwHb"
+        },
+        {
+          "display_url": "pic.x.com/nmvPzjHwHb",
+          "end": 32,
+          "expanded_url": "https://x.com/nyaepheia/status/2051267344174047457/photo/1",
+          "media_key": "3_2051267331784155136",
+          "start": 9,
+          "url": "https://t.co/nmvPzjHwHb"
+        },
+        {
+          "display_url": "x.com/Shioochicqwq/s…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/Shioochicqwq/status/2051215336394170533",
+          "start": 33,
+          "url": "https://t.co/ieaXFwLx2S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051267344174047457",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051215336394170533",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么刻板印象合集 https://t.co/nmvPzjHwHb https://t.co/ieaXFwLx2S"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "https://femboy.test.nagisa.icu/?qq_aio_chat_type=3",
+        "height": 2137,
+        "media_key": "3_2051267319461212160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHeQwkvacAAiVR7.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "🌙\n综合潜质鉴定得分\n\n238\n👑 究极天选男娘\n传说级·纯度99.9%·已无药可救\n🏆 击败了全国 99.8% 的受测者\n核心潜质雷达图\n多维度明细剖析\n审美偏好\n58/60 (97%)\n极度凸显，已超越95%的人\n行为习惯\n60/65 (92%)\n极度凸显，已超越95%的人\n心理共情\n55/60 (92%)\n极度凸显，已超越95%的人\n社交亚文化\n65/65 (100%)\n极度凸显，已超越95%的人\n鉴定官专属深度报告\n👑 隐藏神级形态：【天选男娘·世界级宝藏】\n【潜意识解析】\n检测仪直接爆表！你已经不是单纯的潜质问题了，这是刻在DNA底层的终极觉醒！这浑然天成的娇憨与极品纯度，哪怕是最硬的钢铁直男在你面前也会瞬间融化。你就是传说中百年难得一遇的神级白菜！\n【日常生活表现】\n无论是举手投足的微表情，还是潜意识的脑回路，都已经完美跨越了性别的次元壁。在懂得欣赏的人眼里，你现在的每一个小动作都散发着致命的魅惑力。\n【进阶整活建议】\n还测什么试？赶紧开播！全地球的兄弟们都在等着你拯救他们的审美！快穿上专门为你准备的战袍，去征服世界吧！\n二维码\n长按保存或扫码测测你的潜质\n\n分享给兄弟测测\n保存分析长图\n重新抽取题库 / 再次测试",
+        "height": 3380,
+        "media_key": "3_2051267331784155136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHeQxSpboAAQGz5.jpg",
+        "width": 700
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051215325123989505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdheGvaUAEPpPI.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051215325207928832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdheHDbIAA7xcz.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051267319461212160",
+            "3_2051267331784155136"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051267344174047457",
+        "created_at": "2026-05-04T11:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051267344174047457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmvPzjHwHb",
+              "end": 32,
+              "expanded_url": "https://x.com/nyaepheia/status/2051267344174047457/photo/1",
+              "media_key": "3_2051267319461212160",
+              "start": 9,
+              "url": "https://t.co/nmvPzjHwHb"
+            },
+            {
+              "display_url": "pic.x.com/nmvPzjHwHb",
+              "end": 32,
+              "expanded_url": "https://x.com/nyaepheia/status/2051267344174047457/photo/1",
+              "media_key": "3_2051267331784155136",
+              "start": 9,
+              "url": "https://t.co/nmvPzjHwHb"
+            },
+            {
+              "display_url": "x.com/Shioochicqwq/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Shioochicqwq/status/2051215336394170533",
+              "start": 33,
+              "url": "https://t.co/ieaXFwLx2S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051267344174047457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051215336394170533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么刻板印象合集 https://t.co/nmvPzjHwHb https://t.co/ieaXFwLx2S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051215325123989505",
+            "3_2051215325207928832"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2051215336394170533",
+        "created_at": "2026-05-04T08:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T09:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051215336394170533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一份结合了心理学量表与行为逻辑测试的深度鉴定系统",
+              "display_url": "femboy.test.nagisa.icu/?qq_aio_chat_t…",
+              "end": 29,
+              "expanded_url": "https://femboy.test.nagisa.icu/?qq_aio_chat_type=3",
+              "start": 6,
+              "status": 200,
+              "title": "男娘潜质综合评估量表",
+              "unwound_url": "https://femboy.test.nagisa.icu/?qq_aio_chat_type=3",
+              "url": "https://t.co/7jvF0uzRJz"
+            },
+            {
+              "display_url": "pic.x.com/YvMY0DAaEt",
+              "end": 75,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2051215336394170533/photo/1",
+              "media_key": "3_2051215325123989505",
+              "start": 52,
+              "url": "https://t.co/YvMY0DAaEt"
+            },
+            {
+              "display_url": "pic.x.com/YvMY0DAaEt",
+              "end": 75,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2051215336394170533/photo/1",
+              "media_key": "3_2051215325207928832",
+              "start": 52,
+              "url": "https://t.co/YvMY0DAaEt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051215336394170533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5080,
+          "like_count": 32,
+          "quote_count": 10,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男娘测试🤓\nhttps://t.co/7jvF0uzRJz\n虽然这玩意的刻板印象和乐子程度不亚于mf分 https://t.co/YvMY0DAaEt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 776,
+          "like_count": 19222,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 3224
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点｜石图提供者@hiotemaron41774｜友情链接:https//:https://t.co/lgff7NheVI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "hiotemaron41774"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 127,
+                "expanded_url": "http://whatasiger.xyz",
+                "start": 104,
+                "url": "https://t.co/lgff7NheVI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2047250658261442860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2366,
+          "following_count": 1570,
+          "like_count": 4324,
+          "listed_count": 2,
+          "media_count": 379,
+          "tweet_count": 2913
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

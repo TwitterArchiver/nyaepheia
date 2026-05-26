@@ -1,0 +1,599 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2044409250710184151",
+    "created_at": "2026-04-15T13:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T14:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044409250710184151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1887029443237199872",
+          "start": 3,
+          "username": "kamiina_anime"
+        }
+      ],
+      "urls": [
+        {
+          "description": "オープニングスタッフ ❚絵コンテ・演出ちな ❚作画監督渡部さくら ❚原画中村七左、まりんぐ・そんぐ、小澤龍之介、上田翔太郎、牧野秀則、井川典恵、諸冨直也、真鍋 元、本田舞波、渡部尭晧、河本有聖、内藤丈太朗、ふじいりな、山﨑匠馬、MNDG、松本元気、駿、西原大樹、宮原拓也、木曽勇太 ❚第二原画加賀朱莉、...",
+          "display_url": "youtu.be/fUU_VKLXzRQ",
+          "end": 124,
+          "expanded_url": "https://youtu.be/fUU_VKLXzRQ",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2042625573068115971/ZZCWlRDS?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2042625573068115971/ZZCWlRDS?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 101,
+          "status": 200,
+          "title": "オープニングムービー完全版｜TVアニメ『上伊那ぼたん、酔へる姿は百合の花』",
+          "unwound_url": "https://www.youtube.com/watch?v=fUU_VKLXzRQ&feature=youtu.be",
+          "url": "https://t.co/QvNb0RiUzv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044409250710184151",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5213
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042625524699402414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kamiina_anime: ゜◌ 𓏸 𓈒 .\n\n　　　　　 TVアニメ\n上伊那ぼたん、酔へる姿は百合の花\n\n　　 オープニングムービー完全版\n\n　　　　　　　　　　　　　. 𓈒 𓏸 ◌ ゜\n\nhttps://t.co/QvNb0RiUzv\n\n絵コンテ・演出：ちな\n作画…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29504,
+        "height": 1440,
+        "media_key": "13_2042625468441247744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042625468441247744/img/nzbiOcRhoUYZYEjo.jpg",
+        "public_metrics": {
+          "view_count": 379726
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042625468441247744/pl/RQoE6EmxPVt_dOYF.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042625468441247744/vid/avc1/960x720/K3WGIVK6iJgqMVgD.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042625468441247744/vid/avc1/480x360/YaNc1oU_gxBwd79i.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042625468441247744/vid/avc1/360x270/jCgDJ00aUl7ri5Za.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042625468441247744/vid/avc1/1920x1440/3MJSLS-61Bm1Obxi.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2044409250710184151",
+        "created_at": "2026-04-15T13:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044409250710184151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1887029443237199872",
+              "start": 3,
+              "username": "kamiina_anime"
+            }
+          ],
+          "urls": [
+            {
+              "description": "オープニングスタッフ ❚絵コンテ・演出ちな ❚作画監督渡部さくら ❚原画中村七左、まりんぐ・そんぐ、小澤龍之介、上田翔太郎、牧野秀則、井川典恵、諸冨直也、真鍋 元、本田舞波、渡部尭晧、河本有聖、内藤丈太朗、ふじいりな、山﨑匠馬、MNDG、松本元気、駿、西原大樹、宮原拓也、木曽勇太 ❚第二原画加賀朱莉、...",
+              "display_url": "youtu.be/fUU_VKLXzRQ",
+              "end": 124,
+              "expanded_url": "https://youtu.be/fUU_VKLXzRQ",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2042625573068115971/ZZCWlRDS?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2042625573068115971/ZZCWlRDS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "オープニングムービー完全版｜TVアニメ『上伊那ぼたん、酔へる姿は百合の花』",
+              "unwound_url": "https://www.youtube.com/watch?v=fUU_VKLXzRQ&feature=youtu.be",
+              "url": "https://t.co/QvNb0RiUzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044409250710184151",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5213
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042625524699402414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kamiina_anime: ゜◌ 𓏸 𓈒 .\n\n　　　　　 TVアニメ\n上伊那ぼたん、酔へる姿は百合の花\n\n　　 オープニングムービー完全版\n\n　　　　　　　　　　　　　. 𓈒 𓏸 ◌ ゜\n\nhttps://t.co/QvNb0RiUzv\n\n絵コンテ・演出：ちな\n作画…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042625468441247744"
+          ]
+        },
+        "author_id": "1887029443237199872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352442350125056",
+              "name": "Animation directors, producers, & writers"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          }
+        ],
+        "conversation_id": "2042625524699402414",
+        "created_at": "2026-04-10T15:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042625524699402414"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 179,
+              "start": 172,
+              "tag": "上伊那ぼたん"
+            }
+          ],
+          "urls": [
+            {
+              "description": "オープニングスタッフ ❚絵コンテ・演出ちな ❚作画監督渡部さくら ❚原画中村七左、まりんぐ・そんぐ、小澤龍之介、上田翔太郎、牧野秀則、井川典恵、諸冨直也、真鍋 元、本田舞波、渡部尭晧、河本有聖、内藤丈太朗、ふじいりな、山﨑匠馬、MNDG、松本元気、駿、西原大樹、宮原拓也、木曽勇太 ❚第二原画加賀朱莉、...",
+              "display_url": "youtu.be/fUU_VKLXzRQ",
+              "end": 105,
+              "expanded_url": "https://youtu.be/fUU_VKLXzRQ",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2042625573068115971/ZZCWlRDS?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2042625573068115971/ZZCWlRDS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 82,
+              "status": 200,
+              "title": "オープニングムービー完全版｜TVアニメ『上伊那ぼたん、酔へる姿は百合の花』",
+              "unwound_url": "https://www.youtube.com/watch?v=fUU_VKLXzRQ&feature=youtu.be",
+              "url": "https://t.co/QvNb0RiUzv"
+            },
+            {
+              "description": "yonige",
+              "display_url": "va.lnk.to/mebukutoki_pre",
+              "end": 170,
+              "expanded_url": "https://va.lnk.to/mebukutoki_pre",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/2043293894297944064/-WM0v7ez?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2043293894297944064/-WM0v7ez?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 147,
+              "status": 200,
+              "title": "芽吹くとき",
+              "unwound_url": "https://va.lnk.to/mebukutoki_pre",
+              "url": "https://t.co/hRuS8pFmR0"
+            },
+            {
+              "display_url": "pic.x.com/vUIOzhPQgC",
+              "end": 203,
+              "expanded_url": "https://x.com/kamiina_anime/status/2042625524699402414/video/1",
+              "media_key": "13_2042625468441247744",
+              "start": 180,
+              "url": "https://t.co/vUIOzhPQgC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042625524699402414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3679,
+          "impression_count": 1707213,
+          "like_count": 18636,
+          "quote_count": 617,
+          "reply_count": 28,
+          "retweet_count": 5213
+        },
+        "reply_settings": "everyone",
+        "text": "゜◌ 𓏸 𓈒 .\n\n　　　　　 TVアニメ\n上伊那ぼたん、酔へる姿は百合の花\n\n　　 オープニングムービー完全版\n\n　　　　　　　　　　　　　. 𓈒 𓏸 ◌ ゜\n\nhttps://t.co/QvNb0RiUzv\n\n絵コンテ・演出：ちな\n作画監督：渡部さくら\n\nyonige「芽吹くとき」配信中\nhttps://t.co/hRuS8pFmR0\n\n#上伊那ぼたん https://t.co/vUIOzhPQgC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary? Queer? MtF/X transles?\n✨she/they\n小证含糖hrt26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\nVibe coding/搭网站\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 150,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 689,
+          "like_count": 13964,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2060
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-05T06:46:37.000Z",
+        "description": "TVアニメ『上伊那ぼたん、酔へる姿は百合の花』公式アカウントです。｜原作：塀「上伊那ぼたん、酔へる姿は百合の花」（秋田書店「チャンピオンクロス」連載）｜監督：佐久間貴史｜副監督：戸澤俊太郎｜キャラクターデザイン：吉成 鋼｜メインアニメーター：松尾祐輔、みやち｜シリーズ構成：米内山陽子｜音楽：橋口佳奈｜制作：ソワネ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kamiina-botan.com",
+                "end": 23,
+                "expanded_url": "http://kamiina-botan.com/",
+                "start": 0,
+                "url": "https://t.co/gUlOQ9pAxz"
+              }
+            ]
+          }
+        },
+        "id": "1887029443237199872",
+        "name": "TVアニメ『上伊那ぼたん、酔へる姿は百合の花』",
+        "pinned_tweet_id": "2042625524699402414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031599176715526144/9kAdeJIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27938,
+          "following_count": 16,
+          "like_count": 1,
+          "listed_count": 207,
+          "media_count": 277,
+          "tweet_count": 605
+        },
+        "url": "https://t.co/gUlOQ9pAxz",
+        "username": "kamiina_anime",
+        "verified": true
+      }
+    ]
+  }
+}

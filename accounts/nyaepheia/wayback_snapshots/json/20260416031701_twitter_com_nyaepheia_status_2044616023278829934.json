@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2044616023278829934",
+    "created_at": "2026-04-16T03:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T04:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044616023278829934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawainegi/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/kawainegi/status/2044452988304138722",
+          "start": 2,
+          "url": "https://t.co/7fEBdWgjIc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044616023278829934",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044452988304138722",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥺 https://t.co/7fEBdWgjIc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2044452966565036032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9bJCAaQAAPX5l.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2044616023278829934",
+        "created_at": "2026-04-16T03:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T04:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044616023278829934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawainegi/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/kawainegi/status/2044452988304138722",
+              "start": 2,
+              "url": "https://t.co/7fEBdWgjIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044616023278829934",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044452988304138722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥺 https://t.co/7fEBdWgjIc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044452966565036032"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2044452988304138722",
+        "created_at": "2026-04-15T16:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044452988304138722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhdpAVClYW",
+              "end": 27,
+              "expanded_url": "https://x.com/kawainegi/status/2044452988304138722/photo/1",
+              "media_key": "3_2044452966565036032",
+              "start": 4,
+              "url": "https://t.co/BhdpAVClYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044452988304138722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大失敗 https://t.co/BhdpAVClYW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元\n百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?\nQueer?\nMtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 691,
+          "like_count": 14058,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2075
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 75,
+          "like_count": 1841,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 273
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2037773891930906639",
+    "created_at": "2026-03-28T18:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T19:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037958199526191428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554803647909097472",
+          "start": 0,
+          "username": "Wilf_Lin"
+        }
+      ],
+      "urls": [
+        {
+          "description": "是的，你问的很对！丁烷喷枪（或叫卡式喷火枪） 完全可以用于户外（野外）做饭/露营，而且是很多户外爱好者的常用小工具。它不是“路边小摊那种大煤气罐+长管喷枪”的样子，而是便携、手持、直接卡在小气罐上的小型喷火枪，体积小、重量轻，放进背包或车里超方便。 它和路边小摊的区别 路边小摊用的：通常是大号液化气罐（黄色或蓝色大钢瓶）+ 长软管 + 手持喷枪头，火力更大、更持久，适合摊位长时间连续用（烤肠、烤鱿鱼、煎饼果子等）。 这个卡式丁烷喷枪：用的是小金属罐（250g左右，像饮料罐大小），直接扣在枪底，整套就手掌大小，火力虽然猛（最高1400℃），但持续时间短（一罐气用20–60分钟，取决于火力），更适合短时、精准点火或局部加热，不是长时间大面积烤东西的主力工具。 户外野外具体怎么用（超实用场景） 点炭火/篝火：露营最常见！生火难的时候，用它直接对着木炭或引火物喷几秒，就能瞬间点燃。比用打火机或火柴快多了，尤其刮风时防风效果好。 比如：先放引火物 → 喷枪点燃 → 炭火很快就红了，然后再放上烤架烤肉。 快速烧烤/炙烤食物：可以直接对着肉串、玉米、蘑菇、面包等表面喷一下，瞬间上色、焦香（类似西式“torch”效果）。适合做“火烤三文鱼”“炙烧寿司”“烤棉花糖”等。 辅助烹饪：配合卡式炉（小煤气灶）用——先用卡式炉煮/炒主菜，再用喷枪给表面加焦化层；或者直接加热锅底加速。 其他野外小用途：烧掉生肉上的毛、融化巧克力做甜点、热缩管修装备、甚至应急点烟/驱蚊（但别乱用）。 很多人没见过，是因为它不像卡式炉那么显眼（卡式炉是“灶台”），喷枪更像是“配件神器”，藏在包里不显山露水。但在露营圈、烧烤群、抖音/B站户外视频里超级常见。 下面给你看几张真实照片（从户外场景搜的）： （这些图里有手持喷枪点火、户外烧烤场景，火焰是蓝色的，很猛但可控。） 简单说：户外做饭绝对可以用，尤其是点火、局部炙烤超方便，很多露营达人都会带一支（淘宝搜“卡式喷火枪 户外”或“岩谷喷枪”就一大堆）。但记住安全第一：别对着人/易燃物、用完关气阀、远离帐篷/干草。 如果你想看具体使用视频推荐，或者怎么选一支适合自己的，也可以告诉我！",
+          "display_url": "x.com/i/grok/share/6…",
+          "end": 33,
+          "expanded_url": "https://x.com/i/grok/share/6c1fdb4f7af84565ba70ce775fab3937",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2037958208309051392/g1qYZBXx?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2037958208309051392/g1qYZBXx?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 10,
+          "status": 200,
+          "title": "什么意思？户外（野外）做饭可以用吗？我好像没有见到过，是路边小摊用的那种吗？",
+          "unwound_url": "https://x.com/i/grok/share/6c1fdb4f7af84565ba70ce775fab3937",
+          "url": "https://t.co/pvkkom2I0i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037958199526191428",
+    "in_reply_to_user_id": "1554803647909097472",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037956774775431229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wilf_Lin https://t.co/pvkkom2I0i"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2037773891930906639",
+        "created_at": "2026-03-28T18:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T19:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037958199526191428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554803647909097472",
+              "start": 0,
+              "username": "Wilf_Lin"
+            }
+          ],
+          "urls": [
+            {
+              "description": "是的，你问的很对！丁烷喷枪（或叫卡式喷火枪） 完全可以用于户外（野外）做饭/露营，而且是很多户外爱好者的常用小工具。它不是“路边小摊那种大煤气罐+长管喷枪”的样子，而是便携、手持、直接卡在小气罐上的小型喷火枪，体积小、重量轻，放进背包或车里超方便。 它和路边小摊的区别 路边小摊用的：通常是大号液化气罐（黄色或蓝色大钢瓶）+ 长软管 + 手持喷枪头，火力更大、更持久，适合摊位长时间连续用（烤肠、烤鱿鱼、煎饼果子等）。 这个卡式丁烷喷枪：用的是小金属罐（250g左右，像饮料罐大小），直接扣在枪底，整套就手掌大小，火力虽然猛（最高1400℃），但持续时间短（一罐气用20–60分钟，取决于火力），更适合短时、精准点火或局部加热，不是长时间大面积烤东西的主力工具。 户外野外具体怎么用（超实用场景） 点炭火/篝火：露营最常见！生火难的时候，用它直接对着木炭或引火物喷几秒，就能瞬间点燃。比用打火机或火柴快多了，尤其刮风时防风效果好。 比如：先放引火物 → 喷枪点燃 → 炭火很快就红了，然后再放上烤架烤肉。 快速烧烤/炙烤食物：可以直接对着肉串、玉米、蘑菇、面包等表面喷一下，瞬间上色、焦香（类似西式“torch”效果）。适合做“火烤三文鱼”“炙烧寿司”“烤棉花糖”等。 辅助烹饪：配合卡式炉（小煤气灶）用——先用卡式炉煮/炒主菜，再用喷枪给表面加焦化层；或者直接加热锅底加速。 其他野外小用途：烧掉生肉上的毛、融化巧克力做甜点、热缩管修装备、甚至应急点烟/驱蚊（但别乱用）。 很多人没见过，是因为它不像卡式炉那么显眼（卡式炉是“灶台”），喷枪更像是“配件神器”，藏在包里不显山露水。但在露营圈、烧烤群、抖音/B站户外视频里超级常见。 下面给你看几张真实照片（从户外场景搜的）： （这些图里有手持喷枪点火、户外烧烤场景，火焰是蓝色的，很猛但可控。） 简单说：户外做饭绝对可以用，尤其是点火、局部炙烤超方便，很多露营达人都会带一支（淘宝搜“卡式喷火枪 户外”或“岩谷喷枪”就一大堆）。但记住安全第一：别对着人/易燃物、用完关气阀、远离帐篷/干草。 如果你想看具体使用视频推荐，或者怎么选一支适合自己的，也可以告诉我！",
+              "display_url": "x.com/i/grok/share/6…",
+              "end": 33,
+              "expanded_url": "https://x.com/i/grok/share/6c1fdb4f7af84565ba70ce775fab3937",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2037958208309051392/g1qYZBXx?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2037958208309051392/g1qYZBXx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 10,
+              "status": 200,
+              "title": "什么意思？户外（野外）做饭可以用吗？我好像没有见到过，是路边小摊用的那种吗？",
+              "unwound_url": "https://x.com/i/grok/share/6c1fdb4f7af84565ba70ce775fab3937",
+              "url": "https://t.co/pvkkom2I0i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037958199526191428",
+        "in_reply_to_user_id": "1554803647909097472",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037956774775431229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wilf_Lin https://t.co/pvkkom2I0i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2037773891930906639",
+        "created_at": "2026-03-28T18:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T19:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037956774775431229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037956774775431229",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037773891930906639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 我唯一遇到grok审查的时候就是我问他要自杀或杀了方案的时候，他无论如何都不会给我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+全友好 | 政治倾向：社民 | 不键政 | 文科生 | MtF/MtX? | she/they | 无糖 | (半个)家长党 | 天残党 | Vibe coding | 搭网站 | 成分不明的可能会直接ban\nhttps://t.co/pke4ezHBE3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "desuwa.org/about/me/x",
+                "end": 152,
+                "expanded_url": "http://desuwa.org/about/me/x",
+                "start": 129,
+                "url": "https://t.co/pke4ezHBE3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2037905372414091549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 478,
+          "like_count": 5322,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1019,
+          "like_count": 23114,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 6077
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      }
+    ]
+  }
+}

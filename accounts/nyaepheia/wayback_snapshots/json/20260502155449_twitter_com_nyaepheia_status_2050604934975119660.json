@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2050604934975119660",
+    "created_at": "2026-05-02T15:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050604934975119660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OI21125910/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/OI21125910/status/2041746983376023665",
+          "start": 8,
+          "url": "https://t.co/HhG5bce5Gy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050604934975119660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041746983376023665",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是我，，， https://t.co/HhG5bce5Gy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 394,
+        "media_key": "3_2041746978372251649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFW-Dyca8AE2FF9.jpg",
+        "width": 982
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2050604934975119660",
+        "created_at": "2026-05-02T15:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050604934975119660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OI21125910/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/OI21125910/status/2041746983376023665",
+              "start": 8,
+              "url": "https://t.co/HhG5bce5Gy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050604934975119660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041746983376023665",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是我，，， https://t.co/HhG5bce5Gy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041746978372251649"
+          ]
+        },
+        "author_id": "1928610949667422208",
+        "conversation_id": "2041746983376023665",
+        "created_at": "2026-04-08T05:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:16:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041746888559620119",
+          "2041746983376023665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3OFJZz10QK",
+              "end": 163,
+              "expanded_url": "https://x.com/OI21125910/status/2041746983376023665/photo/1",
+              "media_key": "3_2041746978372251649",
+              "start": 140,
+              "url": "https://t.co/3OFJZz10QK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041746983376023665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "科普一个被严重低估的心理现象：MD（Maladaptive Daydreaming，沉浸式幻想）\n\n普通人的白日梦是这样的：想象自己中了彩票会买什么，30秒到2分钟，结束。哈佛研究过普通人走神时想的东西，绝大多数是\"晚上吃什么\"\"刚才那句话有没有说错\"这种琐碎清单，几秒钟就切换\n\nMD的人是这样的：在脑子里创造一个完整的平行世界，像在写一本永远写不完的小说——有人物设定、人际关系、章节、故事线，自己是其中一个角色，可以连载十几年甚至几十年，每天都在更新\n\n闭眼、走路、洗澡、听音乐时自动启动。其中音乐+重复性身体运动+熟悉路线，是研究里最经典的\"启动咒语\"，超过80%的MD患者说音乐是他们进入内心世界的主要方式\n\n有一个数据特别能说明区别：曾经有个实验把人单独关在房间里15分钟，什么都不能做。结果67%的男性宁愿主动按一个会电击自己的按钮，也不愿继续坐着发呆\n\n但MD的人可以一个人安静坐几个小时——因为脑子里有一整个世界\n\n2002年由以色列心理学家Eli Somer首次系统描述，至今没有进入DSM-5，但被研究了二十多年。普通人群中约2.5%-5%，ADHD群体里显著更高（一项研究里77%的MD患者同时符合ADHD标准）。Reddit上有个叫r/MaladaptiveDreaming的社区，十几万订阅者，全是有完全相同体验的人\n\n它不是病，更像是大脑的一种特殊运行方式——是创造力和孤独的同一枚硬币的两面"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 191412,
+          "like_count": 249,
+          "quote_count": 15,
+          "reply_count": 21,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "科普一个被严重低估的心理现象：MD（Maladaptive Daydreaming，沉浸式幻想）\n\n普通人的白日梦是这样的：想象自己中了彩票会买什么，30秒到2分钟，结束。哈佛研究过普通人走神时想的东西，绝大多数是\"晚上吃什么\"\"刚才那句话有没有说错\"这种琐碎清单，几秒钟就切换 https://t.co/3OFJZz10QK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 771,
+          "like_count": 18820,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 3092
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T00:34:26.000Z",
+        "description": "在日高中留学生 | AI × 金融 × 计算机\n从零搭建自己的交易系统和技术栈\nApple 生态 / 加密货币 / 科技新品\n边学边造，记录一切",
+        "id": "1928610949667422208",
+        "location": "Japan",
+        "name": "伊月",
+        "pinned_tweet_id": "2041746983376023665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943645651834728448/e2Gz5v4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 73,
+          "like_count": 3953,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 579
+        },
+        "username": "OI21125910",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2055998392023888034",
+    "created_at": "2026-05-17T13:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055998392023888034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1413151000567771146",
+          "start": 3,
+          "username": "Windy_Skyline"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055998392023888034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055863374681157918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Windy_Skyline: 你们的重点根本是错的，直接假设这件事就是假的，现在来推演北京公安如何证明它是假的就能直接定性：\n途径1: 通过人脸识别，精准找到一个带棒球帽，带口罩，脸上有马赛克的人，在没有批准与证据的情况下直接远程或现场物理获取其近期社交账号、电话记录、…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2055998392023888034",
+        "created_at": "2026-05-17T13:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055998392023888034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1413151000567771146",
+              "start": 3,
+              "username": "Windy_Skyline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055998392023888034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055863374681157918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Windy_Skyline: 你们的重点根本是错的，直接假设这件事就是假的，现在来推演北京公安如何证明它是假的就能直接定性：\n途径1: 通过人脸识别，精准找到一个带棒球帽，带口罩，脸上有马赛克的人，在没有批准与证据的情况下直接远程或现场物理获取其近期社交账号、电话记录、…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413151000567771146",
+        "conversation_id": "2055863374681157918",
+        "created_at": "2026-05-17T04:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055863374681157918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/windy_skyline/…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/windy_skyline/status/2055694761202512081",
+              "start": 143,
+              "url": "https://t.co/Ulr4jwHPCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055863374681157918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你们的重点根本是错的，直接假设这件事就是假的，现在来推演北京公安如何证明它是假的就能直接定性：\n途径1: 通过人脸识别，精准找到一个带棒球帽，带口罩，脸上有马赛克的人，在没有批准与证据的情况下直接远程或现场物理获取其近期社交账号、电话记录、或直接找到两个人审讯，问他们“你招还是不招”\n途径2: 技术手段无法找到视频中的人，于是直接上门抓这个盲人博主，给她关审讯室逼问她“你招还是不招”。\n请问除了这两条路径外，北京公安到底还有什么方法证明这是假的，然后采取刑事措施？\n要证明这种事情是假的，本身就是无稽之谈，要么就是屈打成招（甚至给你放宽点，就假设你的猜测是对的，人家真是自导自演的，那也是非法取证）\n而现在的情况是什么？现在是采取了刑事措施，也拿不出哪怕是非法取证的聊天记录、通话记录，而是让央视在那搅浑水，首先说不是我们质疑是网友质疑，其次说正常人被撞应该说“我是盲人”而不应该说“我走的是盲道”否则就是剧本，再之后说“四月下旬的手机上有五一假期广告，所以五月份说视频是很久之前拍的谢谢关心就是穿帮”，所以就是自导自演，再找个某大学社科的主任来告诉大家这人十分恶劣造成社会崩塌让人起哄打人（现在它已经做到了，b站这粪坑现在一堆ai科比打盲人的视频）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4714,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055694761202512081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们的重点根本是错的，直接假设这件事就是假的，现在来推演北京公安如何证明它是假的就能直接定性：\n途径1: 通过人脸识别，精准找到一个带棒球帽，带口罩，脸上有马赛克的人，在没有批准与证据的情况下直接远程或现场物理获取其近期社交账号、电话记录、或直接找到两个人审讯，问他们“你招还是不招” https://t.co/Ulr4jwHPCI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 817,
+          "like_count": 21678,
+          "listed_count": 3,
+          "media_count": 333,
+          "tweet_count": 3975
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200,
+          "following_count": 239,
+          "like_count": 2432,
+          "listed_count": 9,
+          "media_count": 3860,
+          "tweet_count": 13141
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

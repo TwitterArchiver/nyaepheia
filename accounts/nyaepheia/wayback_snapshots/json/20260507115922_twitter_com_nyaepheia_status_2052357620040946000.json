@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052357512045932544"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2052357620040946000",
+    "created_at": "2026-05-07T11:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052357620040946000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T7mUEq9fR0",
+          "end": 31,
+          "expanded_url": "https://x.com/nyaepheia/status/2052357620040946000/photo/1",
+          "media_key": "3_2052357512045932544",
+          "start": 8,
+          "url": "https://t.co/T7mUEq9fR0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052357620040946000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "Let我先研究 https://t.co/T7mUEq9fR0"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Let我先研究 Bluesky 官方列表文档和现有代码基础。\n% WebFetch https://docs.bsky.app/docs/api/com-atproto-repo-create-record\n% WebFetch https://docs.bsky.app/docs/api/app-bsky-graph-list\nStatusCode: non 2xx status code (404 GET https://docs.bsky.app/docs/api/app-bsky-graph-list)",
+        "height": 249,
+        "media_key": "3_2052357512045932544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtwSImaMAASPXb.png",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052357512045932544"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2052357620040946000",
+        "created_at": "2026-05-07T11:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052357620040946000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T7mUEq9fR0",
+              "end": 31,
+              "expanded_url": "https://x.com/nyaepheia/status/2052357620040946000/photo/1",
+              "media_key": "3_2052357512045932544",
+              "start": 8,
+              "url": "https://t.co/T7mUEq9fR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052357620040946000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "Let我先研究 https://t.co/T7mUEq9fR0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 792,
+          "like_count": 19918,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 3411
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

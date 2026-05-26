@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046098760498040832"
+      ],
+      "media_source_tweet_id": [
+        "2046098962839732439"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046099394244780409",
+    "created_at": "2026-04-20T05:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T06:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046099394244780409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1608637128132685825",
+          "start": 3,
+          "username": "nyaepheia"
+        },
+        {
+          "end": 25,
+          "id": "2006749860863815682",
+          "start": 15,
+          "username": "kawainegi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DsPOqhWs76",
+          "end": 57,
+          "expanded_url": "https://x.com/nyaepheia/status/2046098962839732439/photo/1",
+          "media_key": "3_2046098760498040832",
+          "start": 34,
+          "url": "https://t.co/DsPOqhWs76"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046099394244780409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046098962839732439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyaepheia: @kawainegi \n「禁止吸烟」 https://t.co/DsPOqhWs76"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "在禁止吸烟的告示前，猫娘拿着烟",
+        "height": 2048,
+        "media_key": "3_2046098760498040832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUz-2LaUAAAToh.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046098760498040832"
+          ],
+          "media_source_tweet_id": [
+            "2046098962839732439"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046099394244780409",
+        "created_at": "2026-04-20T05:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046099394244780409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1608637128132685825",
+              "start": 3,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 25,
+              "id": "2006749860863815682",
+              "start": 15,
+              "username": "kawainegi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DsPOqhWs76",
+              "end": 57,
+              "expanded_url": "https://x.com/nyaepheia/status/2046098962839732439/photo/1",
+              "media_key": "3_2046098760498040832",
+              "start": 34,
+              "url": "https://t.co/DsPOqhWs76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046099394244780409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046098962839732439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyaepheia: @kawainegi \n「禁止吸烟」 https://t.co/DsPOqhWs76"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046098760498040832"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046098962839732439",
+        "created_at": "2026-04-20T05:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046098962839732439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006749860863815682",
+              "start": 0,
+              "username": "kawainegi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DsPOqhWs76",
+              "end": 42,
+              "expanded_url": "https://x.com/nyaepheia/status/2046098962839732439/photo/1",
+              "media_key": "3_2046098760498040832",
+              "start": 19,
+              "url": "https://t.co/DsPOqhWs76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046098962839732439",
+        "in_reply_to_user_id": "2006749860863815682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@kawainegi \n「禁止吸烟」 https://t.co/DsPOqhWs76"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 715,
+          "like_count": 15438,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2313
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 84,
+          "like_count": 2052,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 325
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

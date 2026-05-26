@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057947662360404178",
+    "created_at": "2026-05-23T04:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058041028876394500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2037242416298905600",
+          "start": 0,
+          "username": "iyliess"
+        },
+        {
+          "end": 25,
+          "id": "1366668512043892739",
+          "start": 9,
+          "username": "Tsundoku3141592"
+        },
+        {
+          "end": 39,
+          "id": "2041159531657416704",
+          "start": 26,
+          "username": "amber_digit2"
+        }
+      ],
+      "urls": [
+        {
+          "description": "收集中推跨性别女性和和非二元性别者 不收集主要是梗图的账号 不收集NSFW 为主的账号",
+          "display_url": "x.com/i/lists/205088…",
+          "end": 93,
+          "expanded_url": "https://x.com/i/lists/2050884027952074920",
+          "start": 70,
+          "status": 200,
+          "title": "@nyaepheia/She/They: Trans / X",
+          "unwound_url": "https://x.com/i/lists/2050884027952074920",
+          "url": "https://t.co/r4J37Xc37R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058041028876394500",
+    "in_reply_to_user_id": "2037242416298905600",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057973628701200451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iyliess @Tsundoku3141592 @amber_digit2 Try subscribing to this list.\nhttps://t.co/r4J37Xc37R"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057947662360404178",
+        "created_at": "2026-05-23T04:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058041028876394500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2037242416298905600",
+              "start": 0,
+              "username": "iyliess"
+            },
+            {
+              "end": 25,
+              "id": "1366668512043892739",
+              "start": 9,
+              "username": "Tsundoku3141592"
+            },
+            {
+              "end": 39,
+              "id": "2041159531657416704",
+              "start": 26,
+              "username": "amber_digit2"
+            }
+          ],
+          "urls": [
+            {
+              "description": "收集中推跨性别女性和和非二元性别者 不收集主要是梗图的账号 不收集NSFW 为主的账号",
+              "display_url": "x.com/i/lists/205088…",
+              "end": 93,
+              "expanded_url": "https://x.com/i/lists/2050884027952074920",
+              "start": 70,
+              "status": 200,
+              "title": "@nyaepheia/She/They: Trans / X",
+              "unwound_url": "https://x.com/i/lists/2050884027952074920",
+              "url": "https://t.co/r4J37Xc37R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058041028876394500",
+        "in_reply_to_user_id": "2037242416298905600",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057973628701200451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iyliess @Tsundoku3141592 @amber_digit2 Try subscribing to this list.\nhttps://t.co/r4J37Xc37R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037242416298905600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1534290336670883840",
+              "name": "4chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534290336670883840",
+              "name": "4chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2057947662360404178",
+        "created_at": "2026-05-22T23:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T00:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057973628701200451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1366668512043892739",
+              "start": 0,
+              "username": "Tsundoku3141592"
+            },
+            {
+              "end": 30,
+              "id": "2041159531657416704",
+              "start": 17,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057973628701200451",
+        "in_reply_to_user_id": "1366668512043892739",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057962177261142150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsundoku3141592 @amber_digit2 The most 4chan brained trans women I've known have all been Chinese but Chinese trans twitter seem to not reflect this 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 823,
+          "like_count": 23106,
+          "listed_count": 3,
+          "media_count": 377,
+          "tweet_count": 4300
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-26T18:56:58.000Z",
+        "description": "🏳️‍⚧️ | Marxist Leninist | Begrudgingly Canadian | 25 | EN/FR\n\nYankees DNI",
+        "id": "2037242416298905600",
+        "location": "Alberta",
+        "name": "Iylies",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037243945420546049/hxNlkOYI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 109,
+          "like_count": 3207,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 683
+        },
+        "username": "iyliess",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-02T08:35:47.000Z",
+        "description": "DOOMED ANARCHO-EGO/MUTUALIST,半吊子文革/共和国时期研究, Chinese politics, 佢(keoi5), Chinese/English/learn Japanese and Cantonese, Cyborg, Gender Fluid, HRT since May 2022",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EisernfrontTsu…",
+                "end": 23,
+                "expanded_url": "https://t.me/EisernfrontTsundoku3141592",
+                "start": 0,
+                "url": "https://t.co/op1NaHtppK"
+              }
+            ]
+          }
+        },
+        "id": "1366668512043892739",
+        "name": "Eiserne Front - Tsundoku/積ん読🏳️‍⚧️🏴🏹🏹🏹🧋",
+        "pinned_tweet_id": "1621450793378320384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035278037869101056/HuZpFPBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3956,
+          "following_count": 3758,
+          "like_count": 60897,
+          "listed_count": 17,
+          "media_count": 913,
+          "tweet_count": 14962
+        },
+        "url": "https://t.co/op1NaHtppK",
+        "username": "Tsundoku3141592",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🏳️‍⚧️ she/her\n❤︎ @noaayoyaoaya\n★ @amber_medusozoa\n➤ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 75,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 52,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 422,
+          "like_count": 710,
+          "listed_count": 5,
+          "media_count": 45,
+          "tweet_count": 731
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

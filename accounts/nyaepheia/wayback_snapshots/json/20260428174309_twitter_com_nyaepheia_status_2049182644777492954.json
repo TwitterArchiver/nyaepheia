@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2049037596161130774",
+    "created_at": "2026-04-28T17:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T18:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049182644777492954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1626918997559242753",
+          "start": 0,
+          "username": "sushibaeTokuDev"
+        },
+        {
+          "end": 33,
+          "id": "1703963332020146176",
+          "start": 17,
+          "username": "The_RadicalDino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049182644777492954",
+    "in_reply_to_user_id": "1626918997559242753",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "Yeah, China is definitely not “queer-friendly.” In fact, if you ask Chinese people about their attitudes toward the LGBTQ+ community, most of them would express disgust and disrespect.\nFurthermore, the Chinese government has virtually no policies in place to provide even basic protections against discrimination against the LGBTQ+ community. At the same time, as this video points out, China tacitly allows the existence of “conversion therapy” facilities targeting transgender and gay people."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049041893774987340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sushibaeTokuDev @The_RadicalDino Yeah, China is definitely not “queer-friendly.” In fact, if you ask Chinese people about their attitudes toward the LGBTQ+ community, most of them would express disgust and disrespect.\nFurthermore, the Chinese government has virtually no policies in place to provide even basic"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2049037596161130774",
+        "created_at": "2026-04-28T17:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049182644777492954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1626918997559242753",
+              "start": 0,
+              "username": "sushibaeTokuDev"
+            },
+            {
+              "end": 33,
+              "id": "1703963332020146176",
+              "start": 17,
+              "username": "The_RadicalDino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049182644777492954",
+        "in_reply_to_user_id": "1626918997559242753",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Yeah, China is definitely not “queer-friendly.” In fact, if you ask Chinese people about their attitudes toward the LGBTQ+ community, most of them would express disgust and disrespect.\nFurthermore, the Chinese government has virtually no policies in place to provide even basic protections against discrimination against the LGBTQ+ community. At the same time, as this video points out, China tacitly allows the existence of “conversion therapy” facilities targeting transgender and gay people."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049041893774987340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sushibaeTokuDev @The_RadicalDino Yeah, China is definitely not “queer-friendly.” In fact, if you ask Chinese people about their attitudes toward the LGBTQ+ community, most of them would express disgust and disrespect.\nFurthermore, the Chinese government has virtually no policies in place to provide even basic"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626918997559242753",
+        "conversation_id": "2049037596161130774",
+        "created_at": "2026-04-28T08:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049041893774987340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1703963332020146176",
+              "start": 0,
+              "username": "The_RadicalDino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049041893774987340",
+        "in_reply_to_user_id": "1703963332020146176",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4279,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049037596161130774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@The_RadicalDino And Western commies laud China for being queer-friendly.\n\nWhat makes them better than those who unironically think Russia is actually a queer-friendly place?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 762,
+          "like_count": 18046,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2982
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-18T12:18:45.000Z",
+        "description": "A dying Korean mother doing the best she can to live her life to the fullest.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.net/@djsh.inpresre…",
+                "end": 23,
+                "expanded_url": "https://www.threads.net/@djsh.inpresrepkor",
+                "start": 0,
+                "url": "https://t.co/kk3z9dTj9o"
+              }
+            ]
+          }
+        },
+        "id": "1626918997559242753",
+        "location": "Tokyo, Japan",
+        "name": "배스시, Zainichi Korean Game Developer",
+        "pinned_tweet_id": "2049112181032329240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117363173470208/TkBWGWnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 996,
+          "like_count": 18454,
+          "listed_count": 6,
+          "media_count": 1420,
+          "tweet_count": 12174
+        },
+        "url": "https://t.co/kk3z9dTj9o",
+        "username": "sushibaeTokuDev",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T02:45:23.000Z",
+        "description": "They/He\nThe Lord of Shang-Yang!\nChinese Libertarian Socialist who's also a Zoologist! \nConservation, Zoology, and Political Philosophy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@TheRadicalDin…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@TheRadicalDino?si=PmyaI9AwRSrJVOTB",
+                "start": 0,
+                "url": "https://t.co/MAnua6sdOJ"
+              }
+            ]
+          }
+        },
+        "id": "1703963332020146176",
+        "location": "Shang-Yang, Western Provinces",
+        "name": "The RadicalDino",
+        "pinned_tweet_id": "1881081013289529702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705807724054020096/43vUbgkn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2913,
+          "following_count": 1109,
+          "like_count": 390249,
+          "listed_count": 15,
+          "media_count": 1169,
+          "tweet_count": 18081
+        },
+        "url": "https://t.co/MAnua6sdOJ",
+        "username": "The_RadicalDino",
+        "verified": false
+      }
+    ]
+  }
+}

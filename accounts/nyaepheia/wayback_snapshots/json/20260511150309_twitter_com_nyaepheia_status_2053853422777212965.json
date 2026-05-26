@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2053796451139121231",
+    "created_at": "2026-05-11T15:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T16:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053853422777212965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1825192601634668544",
+          "start": 0,
+          "username": "dzt76570"
+        },
+        {
+          "end": 23,
+          "id": "2046530162536357888",
+          "start": 10,
+          "username": "yueyechunxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053853422777212965",
+    "in_reply_to_user_id": "1825192601634668544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "您需要知道：性别焦虑是真实存在的。跨性别从来不是选择，而是处境。跨性别是天生的处境。\n在这样绝望的处境下的人心理健康大概率不会太好。而避免心理健康水平变得更糟的方法就是HRT,RLE 这种。\n\n引用一句话：「「我像你这么大的时候，才没有什么双性恋、泛性恋、非二元之类的说法」\n你是说，你像我这么大的时候，社会对于性别性向的认识和研究都非常有限，对性少数的接纳程度也低得可怜，导致很多人终其一生都只能隐藏自己的感受，难以放松下来安心生活？\n你觉得那个时代更好？你一定要这么想我也没办法...」"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053852768704839825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzt76570 @yueyechunxue 您需要知道：性别焦虑是真实存在的。跨性别从来不是选择，而是处境。跨性别是天生的处境。\n在这样绝望的处境下的人心理健康大概率不会太好。而避免心理健康水平变得更糟的方法就是HRT,RLE 这种。\n\n引用一句话：「「我像你这么大的时候，才没有什么双性恋、泛性恋、非二元之类的说法」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2053796451139121231",
+        "created_at": "2026-05-11T15:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053853422777212965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1825192601634668544",
+              "start": 0,
+              "username": "dzt76570"
+            },
+            {
+              "end": 23,
+              "id": "2046530162536357888",
+              "start": 10,
+              "username": "yueyechunxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053853422777212965",
+        "in_reply_to_user_id": "1825192601634668544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "您需要知道：性别焦虑是真实存在的。跨性别从来不是选择，而是处境。跨性别是天生的处境。\n在这样绝望的处境下的人心理健康大概率不会太好。而避免心理健康水平变得更糟的方法就是HRT,RLE 这种。\n\n引用一句话：「「我像你这么大的时候，才没有什么双性恋、泛性恋、非二元之类的说法」\n你是说，你像我这么大的时候，社会对于性别性向的认识和研究都非常有限，对性少数的接纳程度也低得可怜，导致很多人终其一生都只能隐藏自己的感受，难以放松下来安心生活？\n你觉得那个时代更好？你一定要这么想我也没办法...」"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053852768704839825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzt76570 @yueyechunxue 您需要知道：性别焦虑是真实存在的。跨性别从来不是选择，而是处境。跨性别是天生的处境。\n在这样绝望的处境下的人心理健康大概率不会太好。而避免心理健康水平变得更糟的方法就是HRT,RLE 这种。\n\n引用一句话：「「我像你这么大的时候，才没有什么双性恋、泛性恋、非二元之类的说法」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825192601634668544",
+        "conversation_id": "2053796451139121231",
+        "created_at": "2026-05-11T15:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053852768704839825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 24,
+              "id": "2046530162536357888",
+              "start": 11,
+              "username": "yueyechunxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053852768704839825",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053851878954615225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @yueyechunxue 肯定是有小损害的，不可能让你吃了药还无事发生的，只不过是风险大小的区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 803,
+          "like_count": 20585,
+          "listed_count": 3,
+          "media_count": 280,
+          "tweet_count": 3637
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-18T15:27:05.000Z",
+        "description": "",
+        "id": "1825192601634668544",
+        "name": "rano_723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783504253411328/dw61GY_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 5,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 366
+        },
+        "username": "dzt76570",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T10:04:01.000Z",
+        "description": "这里是春雪狐哦，是个小药娘,主要发碎碎念和一些图。 \n🚪70加tg",
+        "id": "2046530162536357888",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "はるゆき狐🌸🍥",
+        "pinned_tweet_id": "2051417032965734467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053086582694100992/QOGXOuaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 80,
+          "like_count": 368,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 559
+        },
+        "username": "yueyechunxue",
+        "verified": true
+      }
+    ]
+  }
+}

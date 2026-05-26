@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039648704186167297"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2039648718996349398",
+    "created_at": "2026-04-02T10:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T11:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039648718996349398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "watakushi.desuwa.org",
+          "end": 121,
+          "expanded_url": "https://watakushi.desuwa.org",
+          "start": 98,
+          "status": 200,
+          "unwound_url": "https://watakushi.desuwa.org",
+          "url": "https://t.co/qMvRfgANB9"
+        },
+        {
+          "display_url": "pic.x.com/QEDPA7VOPM",
+          "end": 145,
+          "expanded_url": "https://x.com/nyaepheia/status/2039648718996349398/photo/1",
+          "media_key": "3_2039648704186167297",
+          "start": 122,
+          "url": "https://t.co/QEDPA7VOPM"
+        },
+        {
+          "display_url": "x.com/nyaepheia/stat…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/nyaepheia/status/2039367756966146428",
+          "start": 146,
+          "url": "https://t.co/TLkae78LZJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039648718996349398",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039367756966146428",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ここはわたくし、ただの日常を書き留めるだけの場所ですわ。\nべ、別にあなたに見せたくて書いているわけではありませんのよ。\nでも……もし暇でしたら、少しだけ覗いていっても構いませんこと。\n\n传送门✨：https://t.co/qMvRfgANB9 https://t.co/QEDPA7VOPM https://t.co/TLkae78LZJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "URL:https://watakushi.desuwa.org/",
+        "height": 2124,
+        "media_key": "3_2039648704186167297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5JsJ-aMAErJVf.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "わたくしのつぶやき\nここはわたくしのおしゃべりコーナーですわ。\n由 Petal Note 驱动。\n\n✦ 未读\n#关于\n#欢迎\n2026-02-09\n#2\n#关于\n本博客使用 Petal Note 框架。\n感谢 miniyu157 制作了这么美观的博客框架！\n2026-04-01\n#欢迎\nここはわたくし、ただの日常を書き留めるだけの場所ですわ。\nべ、別にあなたに見せたくて書いているわけではありませんのよ。\nでも……もし暇でしたら、少しだけ覗いていっても構いませんこと。",
+        "height": 2300,
+        "media_key": "3_2039367733943599104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1KJiQaAAAkr2O.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039648704186167297"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2039648718996349398",
+        "created_at": "2026-04-02T10:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039648718996349398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "watakushi.desuwa.org",
+              "end": 121,
+              "expanded_url": "https://watakushi.desuwa.org",
+              "start": 98,
+              "status": 200,
+              "unwound_url": "https://watakushi.desuwa.org",
+              "url": "https://t.co/qMvRfgANB9"
+            },
+            {
+              "display_url": "pic.x.com/QEDPA7VOPM",
+              "end": 145,
+              "expanded_url": "https://x.com/nyaepheia/status/2039648718996349398/photo/1",
+              "media_key": "3_2039648704186167297",
+              "start": 122,
+              "url": "https://t.co/QEDPA7VOPM"
+            },
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2039367756966146428",
+              "start": 146,
+              "url": "https://t.co/TLkae78LZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039648718996349398",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039367756966146428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ここはわたくし、ただの日常を書き留めるだけの場所ですわ。\nべ、別にあなたに見せたくて書いているわけではありませんのよ。\nでも……もし暇でしたら、少しだけ覗いていっても構いませんこと。\n\n传送门✨：https://t.co/qMvRfgANB9 https://t.co/QEDPA7VOPM https://t.co/TLkae78LZJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039367733943599104"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2039367756966146428",
+        "created_at": "2026-04-01T15:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039367756966146428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "🌸 极简、唯美、无需构建的纯前端碎碎念日记框架. Contribute to miniyu157/petal-note development by creating an account on GitHub.",
+              "display_url": "github.com/miniyu157/peta…",
+              "end": 50,
+              "expanded_url": "https://github.com/miniyu157/petal-note",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2039367763198906368/lkRBvaAY?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2039367763198906368/lkRBvaAY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 27,
+              "status": 200,
+              "title": "GitHub - miniyu157/petal-note: 🌸 极简、唯美、无需构建的纯前端碎碎念日记框架",
+              "unwound_url": "https://github.com/miniyu157/petal-note",
+              "url": "https://t.co/POEmd0Y7rM"
+            },
+            {
+              "display_url": "watakushi.desuwa.org",
+              "end": 80,
+              "expanded_url": "https://watakushi.desuwa.org",
+              "start": 57,
+              "status": 200,
+              "unwound_url": "https://watakushi.desuwa.org",
+              "url": "https://t.co/qMvRfgANB9"
+            },
+            {
+              "display_url": "pic.x.com/BAMLX7RlvQ",
+              "end": 104,
+              "expanded_url": "https://x.com/nyaepheia/status/2039367756966146428/photo/1",
+              "media_key": "3_2039367733943599104",
+              "start": 81,
+              "url": "https://t.co/BAMLX7RlvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039367756966146428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搭建了博客网站！✨\n使用了yumeka的框架~（仓库：https://t.co/POEmd0Y7rM）\n博客网址：https://t.co/qMvRfgANB9 https://t.co/BAMLX7RlvQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/hrt26.4.1/家长党/天残党/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2037905372414091549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 548,
+          "like_count": 6332,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

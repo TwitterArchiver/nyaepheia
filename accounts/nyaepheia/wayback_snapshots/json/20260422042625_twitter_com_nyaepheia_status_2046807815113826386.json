@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046622853773279490",
+    "created_at": "2026-04-22T04:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T05:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046807815113826386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1657175394267848704",
+          "start": 0,
+          "username": "Zh40Le1ZOOB"
+        }
+      ],
+      "urls": [
+        {
+          "description": " ",
+          "display_url": "share.google/aimode/t27WBDY…",
+          "end": 52,
+          "expanded_url": "https://share.google/aimode/t27WBDYHliplRCGJX",
+          "images": [
+            {
+              "height": 192,
+              "url": "https://pbs.twimg.com/news_img/2046807816909000704/QC3AigPC?format=png&name=orig",
+              "width": 192
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2046807816909000704/QC3AigPC?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 29,
+          "status": 200,
+          "title": "社群权威",
+          "unwound_url": "https://www.google.com/knowledgegraphshares?smstk=ChhwTTlleVNKeGk4WDA5YVRXVGNhVHNEcz0QBA%3D%3D&smstidx=0&q=%E7%A4%BE%E7%BE%A4%E6%9D%83%E5%A8%81&udm=50&csuir=1&aep=34&kgs=e78e64bca1c2734f&shem=aimbimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_-M6zcjF83zJvuf7ljyb2_x0RaOUTUZJSUGxlb5-eXm5XnpxSWJJZrJecn6ufnFqYlFyhm5BUX5uvn5iZm58cUZiUWp8SUZpblJeYmaOXkFeupIQTHd6fn56TqpeYqa-FkNFA38D4w6OU4zxuMzOzE1MTy3WTypKzEvJzEuH6k6PTy9KTMlMzSvRN6zAEIsH6s9LSSxKiTc0M0gpAFkPAK4-VDLOAAAA&shmds=v1_ATWGeeOZoSZcrsXiBlvmvF0oaMnpNERHYbkkHJEqbtfDmHfnQQ&source=sh/x/aio/m1/2",
+          "url": "https://t.co/UFuQY4MgPA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046807815113826386",
+    "in_reply_to_user_id": "1657175394267848704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046806601089298861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zh40Le1ZOOB 让我解释一下，例如社群wiki\nhttps://t.co/UFuQY4MgPA\n澄清一下，我完全不反对社群权威\n我不认为底边跨比条件更好的跨能够更容易获取这些DIY HRT 的知识，所以社群权威绝对是有用的\n但我更希望底边跨可以更容易去进行正规HRT ，而不是依赖目前的妥协方案"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046622853773279490",
+        "created_at": "2026-04-22T04:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046807815113826386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1657175394267848704",
+              "start": 0,
+              "username": "Zh40Le1ZOOB"
+            }
+          ],
+          "urls": [
+            {
+              "description": " ",
+              "display_url": "share.google/aimode/t27WBDY…",
+              "end": 52,
+              "expanded_url": "https://share.google/aimode/t27WBDYHliplRCGJX",
+              "images": [
+                {
+                  "height": 192,
+                  "url": "https://pbs.twimg.com/news_img/2046807816909000704/QC3AigPC?format=png&name=orig",
+                  "width": 192
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2046807816909000704/QC3AigPC?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 29,
+              "status": 200,
+              "title": "社群权威",
+              "unwound_url": "https://www.google.com/knowledgegraphshares?smstk=ChhwTTlleVNKeGk4WDA5YVRXVGNhVHNEcz0QBA%3D%3D&smstidx=0&q=%E7%A4%BE%E7%BE%A4%E6%9D%83%E5%A8%81&udm=50&csuir=1&aep=34&kgs=e78e64bca1c2734f&shem=aimbimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_-M6zcjF83zJvuf7ljyb2_x0RaOUTUZJSUGxlb5-eXm5XnpxSWJJZrJecn6ufnFqYlFyhm5BUX5uvn5iZm58cUZiUWp8SUZpblJeYmaOXkFeupIQTHd6fn56TqpeYqa-FkNFA38D4w6OU4zxuMzOzE1MTy3WTypKzEvJzEuH6k6PTy9KTMlMzSvRN6zAEIsH6s9LSSxKiTc0M0gpAFkPAK4-VDLOAAAA&shmds=v1_ATWGeeOZoSZcrsXiBlvmvF0oaMnpNERHYbkkHJEqbtfDmHfnQQ&source=sh/x/aio/m1/2",
+              "url": "https://t.co/UFuQY4MgPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046807815113826386",
+        "in_reply_to_user_id": "1657175394267848704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046806601089298861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zh40Le1ZOOB 让我解释一下，例如社群wiki\nhttps://t.co/UFuQY4MgPA\n澄清一下，我完全不反对社群权威\n我不认为底边跨比条件更好的跨能够更容易获取这些DIY HRT 的知识，所以社群权威绝对是有用的\n但我更希望底边跨可以更容易去进行正规HRT ，而不是依赖目前的妥协方案"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657175394267848704",
+        "conversation_id": "2046622853773279490",
+        "created_at": "2026-04-22T04:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046806601089298861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046806601089298861",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046806106513805407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 我都听不懂“社群权威”这个奇异搞笑的概念，药娘皇帝吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 739,
+          "like_count": 16261,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2591
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-13T00:10:35.000Z",
+        "description": "I am Locutus of Borg. Resistance is futile.｜检测到粉蛆或关注粉蛆账号自动屏蔽｜邮箱：mtf@ik.me 或 progynova@duck.com（马甲）｜Telegram：下方链接｜如有紧急情况请直接 Telegram Call",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Zh40Le1ZOOB.t.me",
+                "end": 23,
+                "expanded_url": "https://Zh40Le1ZOOB.t.me",
+                "start": 0,
+                "url": "https://t.co/pbaTs1VNGb"
+              }
+            ]
+          }
+        },
+        "id": "1657175394267848704",
+        "name": "org.z.nixpkgs.command_block",
+        "pinned_tweet_id": "2041170735167848697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 752,
+          "like_count": 7333,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 6005
+        },
+        "url": "https://t.co/pbaTs1VNGb",
+        "username": "Zh40Le1ZOOB",
+        "verified": false
+      }
+    ]
+  }
+}

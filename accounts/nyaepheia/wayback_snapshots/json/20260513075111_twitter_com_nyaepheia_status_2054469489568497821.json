@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054469481825763328"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026646794",
+          "name": "Lenovo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026646794",
+          "name": "Lenovo"
+        }
+      }
+    ],
+    "conversation_id": "2054469489568497821",
+    "created_at": "2026-05-13T07:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054469489568497821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nlkRzbUAIG",
+          "end": 59,
+          "expanded_url": "https://x.com/nyaepheia/status/2054469489568497821/photo/1",
+          "media_key": "3_2054469481825763328",
+          "start": 36,
+          "url": "https://t.co/nlkRzbUAIG"
+        },
+        {
+          "display_url": "x.com/ServeTheServin…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/ServeTheServine/status/2054243653267112377",
+          "start": 60,
+          "url": "https://t.co/d3rA5d7s3f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054469489568497821",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054243653267112377",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "sla vcs entenderam oq quis dizer ne https://t.co/nlkRzbUAIG https://t.co/d3rA5d7s3f"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2054469489568497821].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2054469489568497821",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2054469489568497821"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2303,
+        "media_key": "3_2054469481825763328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILxG9IbAAAeB0t.jpg",
+        "width": 1079
+      },
+      {
+        "duration_ms": 36668,
+        "height": 720,
+        "media_key": "7_2054243617846235136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2054243617846235136/pu/img/tf0Z1vPqZjNCJRQw.jpg",
+        "public_metrics": {
+          "view_count": 158393
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054243617846235136/pu/vid/avc1/320x320/UFkD53shfg94xaH2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054243617846235136/pu/vid/avc1/540x540/Pnmff-q0fipa56Lj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054243617846235136/pu/vid/avc1/720x720/Ik4y5V3lkqray5bW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2054243617846235136/pu/pl/heGiNXis8ol2Pna9.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2054243617846235136"
+          ]
+        },
+        "author_id": "1938722204193300481",
+        "conversation_id": "2054243653267112377",
+        "created_at": "2026-05-12T16:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054243653267112377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6nK1324Bg",
+              "end": 304,
+              "expanded_url": "https://x.com/ServeTheServine/status/2054243653267112377/video/1",
+              "media_key": "7_2054243617846235136",
+              "start": 281,
+              "url": "https://t.co/P6nK1324Bg"
+            },
+            {
+              "display_url": "x.com/ServeTheServin…",
+              "end": 328,
+              "expanded_url": "https://twitter.com/ServeTheServine/status/2053142554699321441",
+              "start": 305,
+              "url": "https://t.co/IKa3X9n0Dy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054243653267112377",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2053,
+          "impression_count": 435301,
+          "like_count": 7472,
+          "quote_count": 117,
+          "reply_count": 127,
+          "retweet_count": 594
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053142554699321441",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "eu configurei o leitor de digital do ThinkPad T430 e ele virou o laptop mais safado e pervertido que existe pq como assim vc só me deixa te acessar se eu deslizar lentamente o meu dedo sobre seu sensorzinho e depois ter q ficar mexendo no seu mamilinho vermelho durinho pqp Lenovo https://t.co/P6nK1324Bg https://t.co/IKa3X9n0Dy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 801,
+          "like_count": 20793,
+          "listed_count": 3,
+          "media_count": 295,
+          "tweet_count": 3732
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-27T22:13:12.000Z",
+        "description": "lesbian linux girl & old tech fan · IT technician · graphic designer · english translator",
+        "id": "1938722204193300481",
+        "name": "Gabi 🎀",
+        "pinned_tweet_id": "2051902669162209337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051686928651583488/UDJTMc5B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4560,
+          "following_count": 419,
+          "like_count": 44028,
+          "listed_count": 4,
+          "media_count": 3327,
+          "tweet_count": 31352
+        },
+        "username": "ServeTheServine",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052817205411422208",
+        "3_2052817215519596544",
+        "3_2052817224709308416"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2052817233471311903",
+    "created_at": "2026-05-08T18:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T19:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052817233471311903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Bluesky social client with AI integration",
+          "display_url": "ai-bsky.pages.dev",
+          "end": 54,
+          "expanded_url": "http://ai-bsky.pages.dev",
+          "start": 31,
+          "status": 200,
+          "title": "Bluesky Client",
+          "unwound_url": "https://ai-bsky.pages.dev/",
+          "url": "https://t.co/xGPCYyps4Q"
+        },
+        {
+          "display_url": "pic.x.com/XXJGOlZJSr",
+          "end": 78,
+          "expanded_url": "https://x.com/nyaepheia/status/2052817233471311903/photo/1",
+          "media_key": "3_2052817205411422208",
+          "start": 55,
+          "url": "https://t.co/XXJGOlZJSr"
+        },
+        {
+          "display_url": "pic.x.com/XXJGOlZJSr",
+          "end": 78,
+          "expanded_url": "https://x.com/nyaepheia/status/2052817233471311903/photo/1",
+          "media_key": "3_2052817215519596544",
+          "start": 55,
+          "url": "https://t.co/XXJGOlZJSr"
+        },
+        {
+          "display_url": "pic.x.com/XXJGOlZJSr",
+          "end": 78,
+          "expanded_url": "https://x.com/nyaepheia/status/2052817233471311903/photo/1",
+          "media_key": "3_2052817224709308416",
+          "start": 55,
+          "url": "https://t.co/XXJGOlZJSr"
+        },
+        {
+          "display_url": "x.com/Type_zhi/statu…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/Type_zhi/status/2052804751952355687",
+          "start": 79,
+          "url": "https://t.co/E2A7yLcuDZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052817233471311903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052804751952355687",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（借楼）\n实际演示：ai-bsky 可以帮你做什么\n\nPWA：https://t.co/xGPCYyps4Q https://t.co/XXJGOlZJSr https://t.co/E2A7yLcuDZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "帮我关注她 https://x.com/i/status/2052804751952355687\n\n思考\nThe user wants me to follow someone from an X/Twitter link. However, that's a tweet URL (status), not a profile URL. Let me look at the link more carefully.\n我来看看这个链接是什么内容。\n\n\n工具调用\nfetch_web_markdown\n▸\n[](https://x.com/)\n思考\n从这条推文中，我可以看到：\n找到了！这是 知式（X账号 @Type_zhi）发的一条推文，她说：\n\n\"知式也有bluesky了捏，欢迎大家关注喵 @typezhi.bsky.social\"\n\n她的 Bluesky 账号是 @typezhi.bsky.social，我来先查一下她的信息，然后帮你关注她！",
+        "height": 2297,
+        "media_key": "3_2052817205411422208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0SXz1boAAemSn.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "resolve_handle\n▸\n思考\nGood, the handle resolves to did:plc:zhs5nx3jjmcxsfl5ys2weggv. Let me get her profile to confirm.\n工具调用\nget_profile\n▸\n知式🍥\n思考\n找到了！这是知式（typezhi.bsky.social）的 Bluesky 账号。现在我需要用户确认才能关注她。\n找到了！这是 知式 🍥 的 Bluesky 账号：\n\n用户名： @typezhi.bsky.social\n显示名： 知式🍥\n简介： 🏳️‍⚧️🍥 一位17岁的跨性别女生，在读女高\n需要我帮你关注她吗？点一下确认我就操作啦～😊",
+        "height": 2300,
+        "media_key": "3_2052817215519596544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0SYZfaIAAWjvN.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "请关注\n\n思考\nThe user confirmed they want to follow typezhi.bsky.social. Let me proceed with the follow action.\n好的，我来帮你关注她！\n\n\n工具调用\nfollow\n▸\nFollowed: ...zhs5nx3jjm\n思考\nThe follow was successful. I followed typezhi.bsky.social (知式🍥) on behalf of the user.\n✅ 已经成功关注 知式 🍥（@typezhi.bsky.social）啦！\n\n她在 X 上发了推文说自己有了 Bluesky，欢迎关注，看来我们来得正是时候呢～😊",
+        "height": 2297,
+        "media_key": "3_2052817224709308416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0SY7uaAAA1fhR.jpg",
+        "width": 1060
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052804749498691584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0HCx8asAAov7Q.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052817205411422208",
+            "3_2052817215519596544",
+            "3_2052817224709308416"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2052817233471311903",
+        "created_at": "2026-05-08T18:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052817233471311903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Bluesky social client with AI integration",
+              "display_url": "ai-bsky.pages.dev",
+              "end": 54,
+              "expanded_url": "http://ai-bsky.pages.dev",
+              "start": 31,
+              "status": 200,
+              "title": "Bluesky Client",
+              "unwound_url": "https://ai-bsky.pages.dev/",
+              "url": "https://t.co/xGPCYyps4Q"
+            },
+            {
+              "display_url": "pic.x.com/XXJGOlZJSr",
+              "end": 78,
+              "expanded_url": "https://x.com/nyaepheia/status/2052817233471311903/photo/1",
+              "media_key": "3_2052817205411422208",
+              "start": 55,
+              "url": "https://t.co/XXJGOlZJSr"
+            },
+            {
+              "display_url": "pic.x.com/XXJGOlZJSr",
+              "end": 78,
+              "expanded_url": "https://x.com/nyaepheia/status/2052817233471311903/photo/1",
+              "media_key": "3_2052817215519596544",
+              "start": 55,
+              "url": "https://t.co/XXJGOlZJSr"
+            },
+            {
+              "display_url": "pic.x.com/XXJGOlZJSr",
+              "end": 78,
+              "expanded_url": "https://x.com/nyaepheia/status/2052817233471311903/photo/1",
+              "media_key": "3_2052817224709308416",
+              "start": 55,
+              "url": "https://t.co/XXJGOlZJSr"
+            },
+            {
+              "display_url": "x.com/Type_zhi/statu…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/Type_zhi/status/2052804751952355687",
+              "start": 79,
+              "url": "https://t.co/E2A7yLcuDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052817233471311903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052804751952355687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（借楼）\n实际演示：ai-bsky 可以帮你做什么\n\nPWA：https://t.co/xGPCYyps4Q https://t.co/XXJGOlZJSr https://t.co/E2A7yLcuDZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052804749498691584"
+          ]
+        },
+        "author_id": "2046238259919912960",
+        "conversation_id": "2052804751952355687",
+        "created_at": "2026-05-08T17:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052804751952355687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1286369349230567424",
+              "start": 22,
+              "username": "typezhi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCMLFGCD2x",
+              "end": 66,
+              "expanded_url": "https://x.com/Type_zhi/status/2052804751952355687/photo/1",
+              "media_key": "3_2052804749498691584",
+              "start": 43,
+              "url": "https://t.co/zCMLFGCD2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052804751952355687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "知式也有bluesky了捏\n欢迎大家关注喵\n@typezhi.bsky.social https://t.co/zCMLFGCD2x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 800,
+          "like_count": 20204,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 3477
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-20T14:43:50.000Z",
+        "description": "🏳️‍⚧️🍥/一只17岁的xyn..../hrt🍥:2025-1-19/生日🎂2009-03-07 03:37/在读女高（确信）/有小证了捏🥺/还在上学喵☺️/想和大家做朋友喵 欢迎扩列喵🤓（限跨性别）/现居湖北/还有myl你还我的号😭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "typezhi.top",
+                "end": 23,
+                "expanded_url": "https://typezhi.top/",
+                "start": 0,
+                "url": "https://t.co/ff58O0W0jN"
+              }
+            ]
+          }
+        },
+        "id": "2046238259919912960",
+        "location": "湖北",
+        "name": "知式🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2046852648339681308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046251484065771520/Q4-YXewi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 524,
+          "like_count": 28,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 136
+        },
+        "url": "https://t.co/ff58O0W0jN",
+        "username": "Type_zhi",
+        "verified": false
+      }
+    ]
+  }
+}

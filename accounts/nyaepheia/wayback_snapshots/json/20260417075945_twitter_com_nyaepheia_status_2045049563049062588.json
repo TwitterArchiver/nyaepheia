@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2045049563049062588",
+    "created_at": "2026-04-17T07:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T08:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045049563049062588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1526630725851787264",
+          "start": 3,
+          "username": "Schnee_Irene_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045049563049062588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045028343754727526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Schnee_Irene_: 我就知道会有这种蠢话。\n\n所以我在此推荐大家了解性别的表达主义（参见McGrath 2021），自我宣称/性别肯定的含义不是表达事实，而是表达自己希望被如何对待/希望如何对待别人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2045049563049062588",
+        "created_at": "2026-04-17T07:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T08:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045049563049062588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1526630725851787264",
+              "start": 3,
+              "username": "Schnee_Irene_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045049563049062588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045028343754727526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Schnee_Irene_: 我就知道会有这种蠢话。\n\n所以我在此推荐大家了解性别的表达主义（参见McGrath 2021），自我宣称/性别肯定的含义不是表达事实，而是表达自己希望被如何对待/希望如何对待别人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526630725851787264",
+        "conversation_id": "2045028343754727526",
+        "created_at": "2026-04-17T06:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T07:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045028343754727526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lishn237850/st…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/lishn237850/status/2045026030621229096",
+              "start": 91,
+              "url": "https://t.co/6lWrAGUbrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045028343754727526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045026030621229096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就知道会有这种蠢话。\n\n所以我在此推荐大家了解性别的表达主义（参见McGrath 2021），自我宣称/性别肯定的含义不是表达事实，而是表达自己希望被如何对待/希望如何对待别人。 https://t.co/6lWrAGUbrk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元\n百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?\nQueer?\nMtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 700,
+          "like_count": 14671,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2166
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-17T18:28:42.000Z",
+        "description": "not (entirely) a mean girl",
+        "id": "1526630725851787264",
+        "name": "Schnee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027577216964694018/TfjQGW6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 22,
+          "like_count": 1361,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 382
+        },
+        "username": "Schnee_Irene_",
+        "verified": false
+      }
+    ]
+  }
+}

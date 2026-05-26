@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2037906550241820828",
+    "created_at": "2026-03-28T14:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T15:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037906550241820828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1453575590729162758",
+          "start": 3,
+          "username": "obe_ZX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037906550241820828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037884775734677549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @obe_ZX: 看到了一篇帖子\n大概是说一跨女可能是因为无法进行正规跨性别医疗，尝试寻求黑切被骗钱，最终只能自切，然而自切后，医院给的缝合报价为两万，其无力负担（因为原图可能会…所以不引用原推/截完整推文）\n我只想说，不重视跨性别医疗问题、为跨性别医疗增加过多阻力\n不是…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 233,
+        "media_key": "3_2037884772140130304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEgFZzCXIAAmZQA.jpg",
+        "width": 1243
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2037906550241820828",
+        "created_at": "2026-03-28T14:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037906550241820828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1453575590729162758",
+              "start": 3,
+              "username": "obe_ZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037906550241820828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037884775734677549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @obe_ZX: 看到了一篇帖子\n大概是说一跨女可能是因为无法进行正规跨性别医疗，尝试寻求黑切被骗钱，最终只能自切，然而自切后，医院给的缝合报价为两万，其无力负担（因为原图可能会…所以不引用原推/截完整推文）\n我只想说，不重视跨性别医疗问题、为跨性别医疗增加过多阻力\n不是…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037884772140130304"
+          ]
+        },
+        "author_id": "1453575590729162758",
+        "conversation_id": "2037884775734677549",
+        "created_at": "2026-03-28T13:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037884775734677549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Vd2OfauEr",
+              "end": 164,
+              "expanded_url": "https://x.com/obe_ZX/status/2037884775734677549/photo/1",
+              "media_key": "3_2037884772140130304",
+              "start": 141,
+              "url": "https://t.co/8Vd2OfauEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037884775734677549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "看到了一篇帖子\n大概是说一跨女可能是因为无法进行正规跨性别医疗，尝试寻求黑切被骗钱，最终只能自切，然而自切后，医院给的缝合报价为两万，其无力负担（因为原图可能会…所以不引用原推/截完整推文）\n我只想说，不重视跨性别医疗问题、为跨性别医疗增加过多阻力\n不是“不支持不反对”\n是大屠杀 https://t.co/8Vd2OfauEr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+全友好 | 政治倾向：社民 | 不键政 | 文科生 | MtF/MtX? | she/they | 无糖 | (半个)家长党 | 天残党 | Vibe coding | 搭网站 | 成分不明的可能会直接ban\nhttps://t.co/pke4ezHBE3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "desuwa.org/about/me/x",
+                "end": 152,
+                "expanded_url": "http://desuwa.org/about/me/x",
+                "start": 129,
+                "url": "https://t.co/pke4ezHBE3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2037905372414091549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 476,
+          "like_count": 5294,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 181
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-28T04:13:37.000Z",
+        "description": "07年夏季Trans F | 持证但是DIY HRTing | 175/53.4kg | 尝试增肥ing | 半家长党（妈妈）+半家长不管党（生父） | 最喜欢的姐姐@ye_han67658",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 83,
+                "username": "ye_han67658"
+              }
+            ]
+          }
+        },
+        "id": "1453575590729162758",
+        "location": "小骨灰盒",
+        "name": "栀子MOCHI 🍡🏳️‍⚧️",
+        "pinned_tweet_id": "2007341646145638708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399355464818688/q56FkSGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 521,
+          "like_count": 18947,
+          "listed_count": 4,
+          "media_count": 343,
+          "tweet_count": 2023
+        },
+        "username": "obe_ZX",
+        "verified": false
+      }
+    ]
+  }
+}

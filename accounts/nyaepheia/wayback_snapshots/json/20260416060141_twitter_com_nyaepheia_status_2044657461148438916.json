@@ -1,0 +1,610 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2043634603228041216"
+      ],
+      "media_source_tweet_id": [
+        "2044355054912823675"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "2044657461148438916",
+    "created_at": "2026-04-16T06:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T07:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044657461148438916"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 21,
+          "tag": "きみ死ぬアニメ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1896162868065898496",
+          "start": 3,
+          "username": "anime_kimishinu"
+        }
+      ],
+      "urls": [
+        {
+          "description": "「生きたい」なんて、知らなかった。戦争用兵器として育てられる少女たちの生と死と恋の物語、2026年7月より放送開始。💐Castトツキ・シーナ： #高橋李依カガリ・ミミ： #日高里菜リジィ・セイラン： #瀬戸麻沙美モード・アリ： #石川由依💐TVanime series staff原作 あおのなち（コミック百合...",
+          "display_url": "youtube.com/watch?v=OYIv6-…",
+          "end": 86,
+          "expanded_url": "https://youtube.com/watch?v=OYIv6-LQGCY",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2044355130011922432/eT-zJCDm?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2044355130011922432/eT-zJCDm?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 63,
+          "status": 200,
+          "title": "【7月放送開始】「きみが死ぬまで恋をしたい」PV第1弾",
+          "unwound_url": "https://www.youtube.com/watch?v=OYIv6-LQGCY",
+          "url": "https://t.co/QvsE3ZDYod"
+        },
+        {
+          "display_url": "pic.x.com/uDBsr70UxE",
+          "end": 110,
+          "expanded_url": "https://x.com/anime_kimishinu/status/2044355054912823675/video/1",
+          "media_key": "13_2043634603228041216",
+          "start": 87,
+          "url": "https://t.co/uDBsr70UxE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044657461148438916",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 939
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044355054912823675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anime_kimishinu: #きみ死ぬアニメ\n\n💐第1弾PV 公開中💐\n2026年7月よりTVアニメ放送開始！\nhttps://t.co/QvsE3ZDYod https://t.co/uDBsr70UxE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3837,
+        "height": 1080,
+        "media_key": "13_2043634603228041216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043634603228041216/img/L4ROE4VNK354alNx.jpg",
+        "public_metrics": {
+          "view_count": 38860
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043634603228041216/pl/eeLbkEQFPjgLY7UL.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043634603228041216/vid/avc1/1280x720/Epnt7DvGnTmarcSw.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043634603228041216/vid/avc1/1920x1080/GGtL1Nb7_mYq2nxK.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043634603228041216/vid/avc1/640x360/y5z7mFttVoM3-1vz.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043634603228041216/vid/avc1/480x270/QHSEUetMFCYXasZ-.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043634603228041216"
+          ],
+          "media_source_tweet_id": [
+            "2044355054912823675"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2044657461148438916",
+        "created_at": "2026-04-16T06:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044657461148438916"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 21,
+              "tag": "きみ死ぬアニメ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1896162868065898496",
+              "start": 3,
+              "username": "anime_kimishinu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「生きたい」なんて、知らなかった。戦争用兵器として育てられる少女たちの生と死と恋の物語、2026年7月より放送開始。💐Castトツキ・シーナ： #高橋李依カガリ・ミミ： #日高里菜リジィ・セイラン： #瀬戸麻沙美モード・アリ： #石川由依💐TVanime series staff原作 あおのなち（コミック百合...",
+              "display_url": "youtube.com/watch?v=OYIv6-…",
+              "end": 86,
+              "expanded_url": "https://youtube.com/watch?v=OYIv6-LQGCY",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2044355130011922432/eT-zJCDm?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044355130011922432/eT-zJCDm?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 63,
+              "status": 200,
+              "title": "【7月放送開始】「きみが死ぬまで恋をしたい」PV第1弾",
+              "unwound_url": "https://www.youtube.com/watch?v=OYIv6-LQGCY",
+              "url": "https://t.co/QvsE3ZDYod"
+            },
+            {
+              "display_url": "pic.x.com/uDBsr70UxE",
+              "end": 110,
+              "expanded_url": "https://x.com/anime_kimishinu/status/2044355054912823675/video/1",
+              "media_key": "13_2043634603228041216",
+              "start": 87,
+              "url": "https://t.co/uDBsr70UxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044657461148438916",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 939
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044355054912823675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anime_kimishinu: #きみ死ぬアニメ\n\n💐第1弾PV 公開中💐\n2026年7月よりTVアニメ放送開始！\nhttps://t.co/QvsE3ZDYod https://t.co/uDBsr70UxE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043634603228041216"
+          ]
+        },
+        "author_id": "1896162868065898496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2044355054912823675",
+        "created_at": "2026-04-15T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044355054912823675"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "きみ死ぬアニメ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「生きたい」なんて、知らなかった。戦争用兵器として育てられる少女たちの生と死と恋の物語、2026年7月より放送開始。💐Castトツキ・シーナ： #高橋李依カガリ・ミミ： #日高里菜リジィ・セイラン： #瀬戸麻沙美モード・アリ： #石川由依💐TVanime series staff原作 あおのなち（コミック百合...",
+              "display_url": "youtube.com/watch?v=OYIv6-…",
+              "end": 65,
+              "expanded_url": "https://youtube.com/watch?v=OYIv6-LQGCY",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2044355130011922432/eT-zJCDm?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044355130011922432/eT-zJCDm?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "【7月放送開始】「きみが死ぬまで恋をしたい」PV第1弾",
+              "unwound_url": "https://www.youtube.com/watch?v=OYIv6-LQGCY",
+              "url": "https://t.co/QvsE3ZDYod"
+            },
+            {
+              "display_url": "pic.x.com/uDBsr70UxE",
+              "end": 89,
+              "expanded_url": "https://x.com/anime_kimishinu/status/2044355054912823675/video/1",
+              "media_key": "13_2043634603228041216",
+              "start": 66,
+              "url": "https://t.co/uDBsr70UxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044355054912823675",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 588,
+          "impression_count": 116506,
+          "like_count": 6257,
+          "quote_count": 132,
+          "reply_count": 0,
+          "retweet_count": 939
+        },
+        "reply_settings": "everyone",
+        "text": "#きみ死ぬアニメ\n\n💐第1弾PV 公開中💐\n2026年7月よりTVアニメ放送開始！\nhttps://t.co/QvsE3ZDYod https://t.co/uDBsr70UxE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元\n百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?\nQueer?\nMtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 697,
+          "like_count": 14247,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2103
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-02T11:37:16.000Z",
+        "description": "「生きたい」なんて、知らなかった。常に死が隣り合わせの世界で生きる少女たちの、あどけない願いの物語。\n「一迅プラス」にて好評連載中『きみが死ぬまで恋をしたい』が待望のTVアニメ化💐\n原作：あおのなち／アニメーション制作：ROLL2／推奨ハッシュタグ：#きみ死ぬアニメ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 133,
+                "start": 125,
+                "tag": "きみ死ぬアニメ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kimishinu-anime.com",
+                "end": 23,
+                "expanded_url": "https://kimishinu-anime.com/",
+                "start": 0,
+                "url": "https://t.co/QWPErrzlaP"
+              }
+            ]
+          }
+        },
+        "id": "1896162868065898496",
+        "name": "TVアニメ「きみが死ぬまで恋をしたい」公式💐",
+        "pinned_tweet_id": "2024046241567441041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899000087944282112/FJUZmD5L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73343,
+          "following_count": 15,
+          "like_count": 8,
+          "listed_count": 203,
+          "media_count": 171,
+          "tweet_count": 504
+        },
+        "url": "https://t.co/QWPErrzlaP",
+        "username": "anime_kimishinu",
+        "verified": true
+      }
+    ]
+  }
+}

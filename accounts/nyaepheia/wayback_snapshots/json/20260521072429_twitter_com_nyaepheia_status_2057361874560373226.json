@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2057361874560373226",
+    "created_at": "2026-05-21T07:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T08:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057361874560373226"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_FORAB/status/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/_FORAB/status/2057314481836110267",
+          "start": 23,
+          "url": "https://t.co/slm6bOe59a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057361874560373226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057314481836110267",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "没有觉得扎克伯格这个人真的很诡异吗？不像真人 https://t.co/slm6bOe59a"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 188842,
+        "height": 1334,
+        "media_key": "13_2057314303955566592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057314303955566592/img/Jjk7CKHh-I9KBie2.jpg",
+        "public_metrics": {
+          "view_count": 39693
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057314303955566592/vid/avc1/1920x1334/j_A4fIr_DRgy2dww.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057314303955566592/vid/avc1/1036x720/AVRDr9_hSiaIHNDx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057314303955566592/vid/avc1/518x360/_YAJ-jopN9L1Weg4.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057314303955566592/vid/avc1/388x270/vdqiWONeZYu_APJV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057314303955566592/pl/qpXzs4tQ90au_9h5.m3u8?v=02e"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2057361874560373226",
+        "created_at": "2026-05-21T07:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057361874560373226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_FORAB/status/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/_FORAB/status/2057314481836110267",
+              "start": 23,
+              "url": "https://t.co/slm6bOe59a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057361874560373226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057314481836110267",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "没有觉得扎克伯格这个人真的很诡异吗？不像真人 https://t.co/slm6bOe59a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057314303955566592"
+          ]
+        },
+        "author_id": "4848269835",
+        "conversation_id": "2057314481836110267",
+        "created_at": "2026-05-21T04:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057314481836110267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRE8Luqx0N",
+              "end": 148,
+              "expanded_url": "https://x.com/_FORAB/status/2057314481836110267/video/1",
+              "media_key": "13_2057314303955566592",
+              "start": 125,
+              "url": "https://t.co/GRE8Luqx0N"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "451617631d24d98c"
+        },
+        "id": "2057314481836110267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 95991,
+          "like_count": 325,
+          "quote_count": 19,
+          "reply_count": 86,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "太魔幻了。近期 Meta 创始人扎克伯格，在大规模裁员前夕，内部的公开谈话，被员工录了下来。\n\n他透露所有员工的设备，其实被公司日常追踪，用于训练 AI 模型。而理由是想把大家的工作方法，变成训练数据，这样就不用再需要那么多人力了。\n\n这太诡异了。 https://t.co/GRE8Luqx0N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 829,
+          "like_count": 22564,
+          "listed_count": 3,
+          "media_count": 352,
+          "tweet_count": 4154
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124229,
+          "following_count": 616,
+          "like_count": 10198,
+          "listed_count": 1944,
+          "media_count": 3482,
+          "tweet_count": 14680
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

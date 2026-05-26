@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041386237085556736"
+      ],
+      "media_source_tweet_id": [
+        "2041386248561098883"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2041387631494472021",
+    "created_at": "2026-04-07T05:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T06:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041387631494472021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993628897645408256",
+          "start": 3,
+          "username": "Pr0mis3_c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s46IJeZclw",
+          "end": 53,
+          "expanded_url": "https://x.com/Pr0mis3_c/status/2041386248561098883/photo/1",
+          "media_key": "3_2041386237085556736",
+          "start": 30,
+          "url": "https://t.co/s46IJeZclw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041387631494472021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041386248561098883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pr0mis3_c: 挑战成功，希望可以帮到大家🥺 https://t.co/s46IJeZclw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2041386237085556736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFR194bbIAA-axR.jpg",
+        "width": 1983
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041386237085556736"
+          ],
+          "media_source_tweet_id": [
+            "2041386248561098883"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2041387631494472021",
+        "created_at": "2026-04-07T05:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041387631494472021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993628897645408256",
+              "start": 3,
+              "username": "Pr0mis3_c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s46IJeZclw",
+              "end": 53,
+              "expanded_url": "https://x.com/Pr0mis3_c/status/2041386248561098883/photo/1",
+              "media_key": "3_2041386237085556736",
+              "start": 30,
+              "url": "https://t.co/s46IJeZclw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041387631494472021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041386248561098883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pr0mis3_c: 挑战成功，希望可以帮到大家🥺 https://t.co/s46IJeZclw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041386237085556736"
+          ]
+        },
+        "author_id": "1993628897645408256",
+        "conversation_id": "2041386248561098883",
+        "created_at": "2026-04-07T05:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041386248561098883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s46IJeZclw",
+              "end": 38,
+              "expanded_url": "https://x.com/Pr0mis3_c/status/2041386248561098883/photo/1",
+              "media_key": "3_2041386237085556736",
+              "start": 15,
+              "url": "https://t.co/s46IJeZclw"
+            },
+            {
+              "display_url": "x.com/Pr0mis3_c/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Pr0mis3_c/status/2040824835606196350",
+              "start": 39,
+              "url": "https://t.co/WU2yURQ98S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041386248561098883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040824835606196350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "挑战成功，希望可以帮到大家🥺 https://t.co/s46IJeZclw https://t.co/WU2yURQ98S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2040696789003809003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 602,
+          "like_count": 8112,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 715
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-26T10:32:43.000Z",
+        "description": "🍥06 xyn/mtf 🏳️‍⚧️hrt: 2025.12.2| en/zh | 无证含糖 | 持续深柜中 | 喜欢xnn&xyn | 精神健康稳定，无不良嗜好 | 梦想srs | 同类互fo | 想要交友...\ntg: https://t.co/yl6WM4V5Sw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Pr0m1s3",
+                "end": 134,
+                "expanded_url": "http://t.me/Pr0m1s3",
+                "start": 111,
+                "url": "https://t.co/yl6WM4V5Sw"
+              }
+            ]
+          }
+        },
+        "id": "1993628897645408256",
+        "location": "Antarctica",
+        "name": "Pr0mis3🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2039290189093519707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031661442714497024/2TU5OjbE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 330,
+          "like_count": 990,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 326
+        },
+        "username": "Pr0mis3_c",
+        "verified": true
+      }
+    ]
+  }
+}

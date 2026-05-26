@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046024813073007101",
+    "created_at": "2026-04-20T06:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T07:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046107764024615269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1422567543940677634",
+          "start": 0,
+          "username": "UraOlt"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Markdown is a plain text format for writing structured documents, based on conventions for indicating formatting in email and usenet posts. It was developed by John Gruber (with help from Aaron Swartz) and released in 2004 in the form of a syntax description and a Perl script (Markdown.pl) for converting Markdown to HTML. In the next decade, dozens of implementations were developed in many languages. Some extended the original Markdown syntax with conventions for footnotes, tables, and other document",
+          "display_url": "spec.commonmark.org/0.31.2/#emphas…",
+          "end": 59,
+          "expanded_url": "https://spec.commonmark.org/0.31.2/#emphasis-and-strong-emphasis",
+          "start": 36,
+          "status": 200,
+          "title": "CommonMark Spec",
+          "unwound_url": "https://spec.commonmark.org/0.31.2/#emphasis-and-strong-emphasis",
+          "url": "https://t.co/5X8mWN57Ug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046107764024615269",
+    "in_reply_to_user_id": "1422567543940677634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046106193035399589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UraOlt **文本内容**\n是markdown 加粗语法\n请参考：https://t.co/5X8mWN57Ug"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046024813073007101",
+        "created_at": "2026-04-20T06:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T07:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046107764024615269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1422567543940677634",
+              "start": 0,
+              "username": "UraOlt"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Markdown is a plain text format for writing structured documents, based on conventions for indicating formatting in email and usenet posts. It was developed by John Gruber (with help from Aaron Swartz) and released in 2004 in the form of a syntax description and a Perl script (Markdown.pl) for converting Markdown to HTML. In the next decade, dozens of implementations were developed in many languages. Some extended the original Markdown syntax with conventions for footnotes, tables, and other document",
+              "display_url": "spec.commonmark.org/0.31.2/#emphas…",
+              "end": 59,
+              "expanded_url": "https://spec.commonmark.org/0.31.2/#emphasis-and-strong-emphasis",
+              "start": 36,
+              "status": 200,
+              "title": "CommonMark Spec",
+              "unwound_url": "https://spec.commonmark.org/0.31.2/#emphasis-and-strong-emphasis",
+              "url": "https://t.co/5X8mWN57Ug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046107764024615269",
+        "in_reply_to_user_id": "1422567543940677634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046106193035399589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UraOlt **文本内容**\n是markdown 加粗语法\n请参考：https://t.co/5X8mWN57Ug"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422567543940677634",
+        "conversation_id": "2046024813073007101",
+        "created_at": "2026-04-20T05:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046106193035399589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046106193035399589",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046024813073007101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia ai这是把**   **当“  ”用了，但有些部分又不是“  ”的用法，ai的奇妙排版"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 716,
+          "like_count": 15438,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2314
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-03T14:38:43.000Z",
+        "description": "他骑着格拉尼，他的骏马，穿过烟雾与地狱的业火。",
+        "id": "1422567543940677634",
+        "location": "0.1km",
+        "name": "Oltura素",
+        "pinned_tweet_id": "1740103715061899409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992072709862469632/KpZ4mmgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 397,
+          "like_count": 202615,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 13251
+        },
+        "username": "UraOlt",
+        "verified": false
+      }
+    ]
+  }
+}

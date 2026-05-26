@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1651716815452504066",
+          "name": "Bluesky"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1683514315146420225",
+          "name": "X - the everything app"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2048649924930310594",
+    "created_at": "2026-04-27T09:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048696862748950724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032033299980566528",
+          "start": 0,
+          "username": "rinii165892"
+        }
+      ],
+      "urls": [
+        {
+          "description": "我有一个朋友想发一些比较阴暗的碎碎念，图片，或者overdose 相关内容，X和bluesky 哪个在这方面审查更严格？",
+          "display_url": "grok.com/share/c2hhcmQt…",
+          "end": 36,
+          "expanded_url": "https://grok.com/share/c2hhcmQtNA_1c2471af-5880-4609-9a9b-a05fae240875",
+          "start": 13,
+          "status": 200,
+          "title": "Bluesky vs X 审查制度比较 | Shared Grok Conversation",
+          "unwound_url": "https://grok.com/share/c2hhcmQtNA_1c2471af-5880-4609-9a9b-a05fae240875",
+          "url": "https://t.co/M5hpQOr9dk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048696862748950724",
+    "in_reply_to_user_id": "2032033299980566528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "grok.com/share/c2hhcmQt…",
+            "end": 23,
+            "expanded_url": "https://grok.com/share/c2hhcmQtNA_1c2471af-5880-4609-9a9b-a05fae240875",
+            "start": 0,
+            "url": "https://t.co/MCBUVdavN9"
+          }
+        ]
+      },
+      "text": "https://t.co/MCBUVdavN9\n\n**Bluesky 在这类“阴暗碎碎念、相关图片或 overdose 内容”上的审查明显更严格，尤其是官方 baseline 规则下。** X（前 Twitter）相对宽松，但也不是完全无底线。\n\n### Bluesky 的情况（更严）\n- **明确禁止**：社区指南直接列出 **禁止分享 self-harm、suicide、overdose（危险物质滥用）、eating disorders 等内容的方法、描述、推广或 glorification**。这包括“阴暗的碎碎念”如果被解读为鼓励/ glorifying 自伤或药物滥用。\n- **图片处理**：图像会自动扫描（用第三方工具），容易被贴 **self-harm** 或 **graphic-media** 标签。官方 moderation 会隐藏、警告或移除，即使是个人表达。scar 照片、overdose 相关视觉内容常被标记，甚至恢复者分享身体痕迹都可能被误伤。\n- **执行**：有 strike 系统、账号暂停，2025 年 moderation 团队扩充后更 aggressive。官方 App 默认强制官方 labeler，无法完全 opt-out（第三方客户端/PDS 可灵活些，但 baseline 仍生效）。\n- **实际风险**：这类内容很容易被报告 + 快速处理，尤其在“安全第一”原则下。新用户或小众帖也难逃。\n\n**优点（对你朋友可能不友好）**：平台试图营造“更健康”环境，避免内容传播潜在伤害。\n\n### X 的情况（相对宽松）\n- **政策**：禁止 **promote/encourage/glorify** self-harm、suicide、overdose，但**个人表达、碎碎念、艺术化/阴暗分享**通常能存活，只要不是直接教方法或号召他人。\n- **图片**：敏感内容可加标签（sensitive media），不会自动大规模移除。graphic 内容若不 excessively gory 或 sexual，通常被限 reach 而非删除。\n- **执行**：Musk 时代大幅减少预审，转为“限制可见度”+ 用户报告驱动。2025 透明报告显示 suicide/self-harm 相关移除存在，但比例不高，允许更多讨论/个人叙事。\n- **实际体验**：阴暗帖、mental health vent、overdose 相关话题（非推广）常见，能有互动。但噪声大，骚扰或 echo 也多。\n\n**总结对比**（针对你朋友想发的内容）：\n- **Bluesky**：**更严格**，尤其官方默认。容易被 label/hide/remove，适合想“安全空间”的人，不适合 raw 阴暗表达。\n- **X**：**更宽容**，个人碎碎念和图片存活率高，但平台整体更乱，可能吸引不想要的 attention。\n\n**实用建议**（高保真）：\n- 如果想低风险发：X 更好，用 alt 账号 + 敏感标签 + 限可见（仅互关）。\n- Bluesky 若坚持：用第三方 labeler 调松、self-label、或找“宽松”客户端。但官方仍可能干预。\n- 无论哪边：**overdose 相关**若涉及真实方法/推广，都高风险（法律+平台）。纯个人 vent 区别大。\n- 长期看：这类内容对心理影响大，平台不是最佳出口。建议结合线下支持或匿名社区。\n\n世界是复杂系统，多样表达有其空间，但平台有自己的动态平衡。如果你朋友有具体场景（比如纯文字 vs 带图、想求共鸣还是纯 catharsis），我可以再细挖或建议替代方式。照顾好自己和朋友，Epheia。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048695371514421606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinii165892 https://t.co/M5hpQOr9dk\n\n**Bluesky 在这类“阴暗碎碎念、相关图片或 overdose 内容”上的审查明显更严格，尤其是官方 baseline 规则下。** X（前 Twitter）相对宽松，但也不是完全无底线。\n\n### Bluesky 的情况（更严）\n- **明确禁止**：社区指南直接列出 **禁止分享"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2048695371514421606].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2048695371514421606",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2048695371514421606"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1651716815452504066",
+              "name": "Bluesky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2048649924930310594",
+        "created_at": "2026-04-27T09:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048696862748950724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032033299980566528",
+              "start": 0,
+              "username": "rinii165892"
+            }
+          ],
+          "urls": [
+            {
+              "description": "我有一个朋友想发一些比较阴暗的碎碎念，图片，或者overdose 相关内容，X和bluesky 哪个在这方面审查更严格？",
+              "display_url": "grok.com/share/c2hhcmQt…",
+              "end": 36,
+              "expanded_url": "https://grok.com/share/c2hhcmQtNA_1c2471af-5880-4609-9a9b-a05fae240875",
+              "start": 13,
+              "status": 200,
+              "title": "Bluesky vs X 审查制度比较 | Shared Grok Conversation",
+              "unwound_url": "https://grok.com/share/c2hhcmQtNA_1c2471af-5880-4609-9a9b-a05fae240875",
+              "url": "https://t.co/M5hpQOr9dk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048696862748950724",
+        "in_reply_to_user_id": "2032033299980566528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "grok.com/share/c2hhcmQt…",
+                "end": 23,
+                "expanded_url": "https://grok.com/share/c2hhcmQtNA_1c2471af-5880-4609-9a9b-a05fae240875",
+                "start": 0,
+                "url": "https://t.co/MCBUVdavN9"
+              }
+            ]
+          },
+          "text": "https://t.co/MCBUVdavN9\n\n**Bluesky 在这类“阴暗碎碎念、相关图片或 overdose 内容”上的审查明显更严格，尤其是官方 baseline 规则下。** X（前 Twitter）相对宽松，但也不是完全无底线。\n\n### Bluesky 的情况（更严）\n- **明确禁止**：社区指南直接列出 **禁止分享 self-harm、suicide、overdose（危险物质滥用）、eating disorders 等内容的方法、描述、推广或 glorification**。这包括“阴暗的碎碎念”如果被解读为鼓励/ glorifying 自伤或药物滥用。\n- **图片处理**：图像会自动扫描（用第三方工具），容易被贴 **self-harm** 或 **graphic-media** 标签。官方 moderation 会隐藏、警告或移除，即使是个人表达。scar 照片、overdose 相关视觉内容常被标记，甚至恢复者分享身体痕迹都可能被误伤。\n- **执行**：有 strike 系统、账号暂停，2025 年 moderation 团队扩充后更 aggressive。官方 App 默认强制官方 labeler，无法完全 opt-out（第三方客户端/PDS 可灵活些，但 baseline 仍生效）。\n- **实际风险**：这类内容很容易被报告 + 快速处理，尤其在“安全第一”原则下。新用户或小众帖也难逃。\n\n**优点（对你朋友可能不友好）**：平台试图营造“更健康”环境，避免内容传播潜在伤害。\n\n### X 的情况（相对宽松）\n- **政策**：禁止 **promote/encourage/glorify** self-harm、suicide、overdose，但**个人表达、碎碎念、艺术化/阴暗分享**通常能存活，只要不是直接教方法或号召他人。\n- **图片**：敏感内容可加标签（sensitive media），不会自动大规模移除。graphic 内容若不 excessively gory 或 sexual，通常被限 reach 而非删除。\n- **执行**：Musk 时代大幅减少预审，转为“限制可见度”+ 用户报告驱动。2025 透明报告显示 suicide/self-harm 相关移除存在，但比例不高，允许更多讨论/个人叙事。\n- **实际体验**：阴暗帖、mental health vent、overdose 相关话题（非推广）常见，能有互动。但噪声大，骚扰或 echo 也多。\n\n**总结对比**（针对你朋友想发的内容）：\n- **Bluesky**：**更严格**，尤其官方默认。容易被 label/hide/remove，适合想“安全空间”的人，不适合 raw 阴暗表达。\n- **X**：**更宽容**，个人碎碎念和图片存活率高，但平台整体更乱，可能吸引不想要的 attention。\n\n**实用建议**（高保真）：\n- 如果想低风险发：X 更好，用 alt 账号 + 敏感标签 + 限可见（仅互关）。\n- Bluesky 若坚持：用第三方 labeler 调松、self-label、或找“宽松”客户端。但官方仍可能干预。\n- 无论哪边：**overdose 相关**若涉及真实方法/推广，都高风险（法律+平台）。纯个人 vent 区别大。\n- 长期看：这类内容对心理影响大，平台不是最佳出口。建议结合线下支持或匿名社区。\n\n世界是复杂系统，多样表达有其空间，但平台有自己的动态平衡。如果你朋友有具体场景（比如纯文字 vs 带图、想求共鸣还是纯 catharsis），我可以再细挖或建议替代方式。照顾好自己和朋友，Epheia。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048695371514421606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinii165892 https://t.co/M5hpQOr9dk\n\n**Bluesky 在这类“阴暗碎碎念、相关图片或 overdose 内容”上的审查明显更严格，尤其是官方 baseline 规则下。** X（前 Twitter）相对宽松，但也不是完全无底线。\n\n### Bluesky 的情况（更严）\n- **明确禁止**：社区指南直接列出 **禁止分享"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 765,
+          "like_count": 17834,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 2940
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "不发帖就是被抓进精神病院了【寻回推u】\n- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- \n互联网蛆虫，查成分回fo/低龄糖逼，十分抱歉\n宇宙严重失眠 -12现役初中生\n备用号@YiJin_0v0\n^✟❀灵宠@dbdbsjbsja❀原神@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "YiJin_0v0"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 126,
+                "start": 110,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 143,
+                "start": 131,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/Ks0tpHwbNp"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2048601971758932157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047879655378870272/U6xQrdPQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 889,
+          "like_count": 8959,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 4849
+        },
+        "url": "https://t.co/Ks0tpHwbNp",
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

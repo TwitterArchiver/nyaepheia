@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2053699353425183058",
+    "created_at": "2026-05-12T06:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054084914665148878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2030877637124694016",
+          "start": 0,
+          "username": "Yabaikinoko1"
+        },
+        {
+          "end": 21,
+          "id": "1805667302018629632",
+          "start": 14,
+          "username": "Ch1ame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054084914665148878",
+    "in_reply_to_user_id": "2030877637124694016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053839975255523349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yabaikinoko1 @Ch1ame 然而，这个列表的很多番剧中国网站都没有版权。也没有任何一部番剧有影院版本上映。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2053699353425183058",
+        "created_at": "2026-05-12T06:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054084914665148878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2030877637124694016",
+              "start": 0,
+              "username": "Yabaikinoko1"
+            },
+            {
+              "end": 21,
+              "id": "1805667302018629632",
+              "start": 14,
+              "username": "Ch1ame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054084914665148878",
+        "in_reply_to_user_id": "2030877637124694016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053839975255523349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yabaikinoko1 @Ch1ame 然而，这个列表的很多番剧中国网站都没有版权。也没有任何一部番剧有影院版本上映。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030877637124694016",
+        "conversation_id": "2053699353425183058",
+        "created_at": "2026-05-11T14:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053839975255523349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1805667302018629632",
+              "start": 0,
+              "username": "Ch1ame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053839975255523349",
+        "in_reply_to_user_id": "1805667302018629632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9794,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053839073404739907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ch1ame やばい\n全部最高すぎる\n中国の人とも語り合いたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 803,
+          "like_count": 20640,
+          "listed_count": 3,
+          "media_count": 284,
+          "tweet_count": 3679
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-09T05:25:35.000Z",
+        "description": "Q大B1 趣味→@kirarazamurai\n縮小→@Yabasugikinoko1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "kirarazamurai"
+              },
+              {
+                "end": 42,
+                "start": 26,
+                "username": "Yabasugikinoko1"
+              }
+            ]
+          }
+        },
+        "id": "2030877637124694016",
+        "name": "やばいキノコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030879908751388673/RG-nqBjQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 244,
+          "like_count": 4078,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1859
+        },
+        "username": "Yabaikinoko1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T18:20:30.000Z",
+        "description": "",
+        "id": "1805667302018629632",
+        "name": "Chihay4",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806366124457742336/WSpPcC5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 131,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 19
+        },
+        "username": "Ch1ame",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039582852401217536"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2039582860596920605",
+    "created_at": "2026-04-02T05:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T06:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039582860596920605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c8sA1DIrw2",
+          "end": 23,
+          "expanded_url": "https://x.com/nyaepheia/status/2039582860596920605/photo/1",
+          "media_key": "3_2039582852401217536",
+          "start": 0,
+          "url": "https://t.co/c8sA1DIrw2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039582860596920605",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/c8sA1DIrw2"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "AI 正在为全球人类构建一套底线价值观。虽然这 2/3 的世界目前看起来还像黑洞，但由于 AI 的存在，黑洞内部的人开始拥有了观察外界的眼睛。\n​这种希望不是“奇迹般的反转”，而是一种“不可逆的觉醒”。 一旦这一代人听过了文明的声音，他们就再也无法心安理得地回到那个野蛮的旧梦里去了。",
+        "height": 716,
+        "media_key": "3_2039582852401217536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4NzE9aQAAsTCg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039582852401217536"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2039582860596920605",
+        "created_at": "2026-04-02T05:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T06:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039582860596920605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8sA1DIrw2",
+              "end": 23,
+              "expanded_url": "https://x.com/nyaepheia/status/2039582860596920605/photo/1",
+              "media_key": "3_2039582852401217536",
+              "start": 0,
+              "url": "https://t.co/c8sA1DIrw2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039582860596920605",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/c8sA1DIrw2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/hrt26.4.1/家长党/天残党/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2037905372414091549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 548,
+          "like_count": 6307,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2051309282424246303",
+    "created_at": "2026-05-04T14:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T15:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051309282424246303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nyaepheia/stat…",
+          "end": 186,
+          "expanded_url": "https://twitter.com/nyaepheia/status/2051295611027435692",
+          "start": 163,
+          "url": "https://t.co/oLQZSDbBkI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051309282424246303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "算法流程\n\n【用户列表与编号规则】\n抽奖截止时间一到，立刻获取所有点赞用户的用户名（X ID）。\n将用户名按字母顺序升序排列（A→Z，0→9，_ 符号等按 ASCII 码顺序）。\n排列后，从 0 开始依次编号。\n假设有 N 个有效用户，则编号为 0, 1, 2, ..., N-1。\n此时 N 已确定，名单已公开，不可更改。\n公开这份带编号的完整名单（截图或文本均可）。\n\n【随机种子获取规则】\n5. 使用 drand 在截止时间之后产生的第 1 个随机值作为种子。\n（找到时间戳在截止时间之后、Round 编号最小的那一条记录，其 Randomness 字段的值即为种子，是一个十六进制字符串，如 a3f25c8d1e...）\n\n【中奖计算算法】\n6. 将种子（十六进制字符串）转换为十进制大整数。\n中奖编号 = （该十进制大整数）除以 N 取余数。\n也就是：中奖编号 = 十进制种子 % N\n中奖者即为该编号对应的用户。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051295611027435692",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "算法流程\n\n【用户列表与编号规则】\n抽奖截止时间一到，立刻获取所有点赞用户的用户名（X ID）。\n将用户名按字母顺序升序排列（A→Z，0→9，_ 符号等按 ASCII 码顺序）。\n排列后，从 0 开始依次编号。\n假设有 N 个有效用户，则编号为 0, 1, 2, ..., N-1。\n此时 N 已确定，名单已公开，不可更改。 https://t.co/oLQZSDbBkI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2051309282424246303",
+        "created_at": "2026-05-04T14:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051309282424246303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2051295611027435692",
+              "start": 163,
+              "url": "https://t.co/oLQZSDbBkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051309282424246303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "算法流程\n\n【用户列表与编号规则】\n抽奖截止时间一到，立刻获取所有点赞用户的用户名（X ID）。\n将用户名按字母顺序升序排列（A→Z，0→9，_ 符号等按 ASCII 码顺序）。\n排列后，从 0 开始依次编号。\n假设有 N 个有效用户，则编号为 0, 1, 2, ..., N-1。\n此时 N 已确定，名单已公开，不可更改。\n公开这份带编号的完整名单（截图或文本均可）。\n\n【随机种子获取规则】\n5. 使用 drand 在截止时间之后产生的第 1 个随机值作为种子。\n（找到时间戳在截止时间之后、Round 编号最小的那一条记录，其 Randomness 字段的值即为种子，是一个十六进制字符串，如 a3f25c8d1e...）\n\n【中奖计算算法】\n6. 将种子（十六进制字符串）转换为十进制大整数。\n中奖编号 = （该十进制大整数）除以 N 取余数。\n也就是：中奖编号 = 十进制种子 % N\n中奖者即为该编号对应的用户。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051295611027435692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算法流程\n\n【用户列表与编号规则】\n抽奖截止时间一到，立刻获取所有点赞用户的用户名（X ID）。\n将用户名按字母顺序升序排列（A→Z，0→9，_ 符号等按 ASCII 码顺序）。\n排列后，从 0 开始依次编号。\n假设有 N 个有效用户，则编号为 0, 1, 2, ..., N-1。\n此时 N 已确定，名单已公开，不可更改。 https://t.co/oLQZSDbBkI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2051295611027435692",
+        "created_at": "2026-05-04T13:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051295611027435692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051295611027435692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "测试一下抽奖\n请注意：没有奖品，纯测试\n\n点赞即可参加\n\n明天或者后天开奖\n\n如果你在bluesky 看到这个帖子，请在X 参与抽奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 777,
+          "like_count": 19284,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 3252
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

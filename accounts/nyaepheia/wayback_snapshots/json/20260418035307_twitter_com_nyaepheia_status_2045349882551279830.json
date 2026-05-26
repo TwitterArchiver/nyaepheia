@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2045349882551279830",
+    "created_at": "2026-04-18T03:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T04:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045349882551279830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "994208371040337921",
+          "start": 3,
+          "username": "litztsong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045349882551279830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045098827481567675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @litztsong: 这年头我觉得最正常还是北欧的女性主义\n至少是支持无性别厕所和反对社会性的性别隔离的\n东亚这地方的普遍的支持性别隔离和要权利不要义务的女性主义\n说句不好听的，我觉得会遭到MRA（男性主义者）强烈的反弹的\n而且这种对撞是不会有好结果的\n在东亚，社会最主…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2045349882551279830",
+        "created_at": "2026-04-18T03:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045349882551279830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "994208371040337921",
+              "start": 3,
+              "username": "litztsong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045349882551279830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045098827481567675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @litztsong: 这年头我觉得最正常还是北欧的女性主义\n至少是支持无性别厕所和反对社会性的性别隔离的\n东亚这地方的普遍的支持性别隔离和要权利不要义务的女性主义\n说句不好听的，我觉得会遭到MRA（男性主义者）强烈的反弹的\n而且这种对撞是不会有好结果的\n在东亚，社会最主…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "994208371040337921",
+        "conversation_id": "2045098827481567675",
+        "created_at": "2026-04-17T11:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045098827481567675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ripo0079/statu…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/ripo0079/status/2045049899419623467",
+              "start": 137,
+              "url": "https://t.co/Rmhmvt3hVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045098827481567675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这年头我觉得最正常还是北欧的女性主义\n至少是支持无性别厕所和反对社会性的性别隔离的\n东亚这地方的普遍的支持性别隔离和要权利不要义务的女性主义\n说句不好听的，我觉得会遭到MRA（男性主义者）强烈的反弹的\n而且这种对撞是不会有好结果的\n在东亚，社会最主要的财富创造者终究是男性\n跨性别者们在这种纷争中应该实相得站在愿意给我们生存空间的人的一边\n东亚的跨性别者其实要的也不多，仅仅是有空间好好生存"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2812,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045049899419623467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这年头我觉得最正常还是北欧的女性主义\n至少是支持无性别厕所和反对社会性的性别隔离的\n东亚这地方的普遍的支持性别隔离和要权利不要义务的女性主义\n说句不好听的，我觉得会遭到MRA（男性主义者）强烈的反弹的\n而且这种对撞是不会有好结果的\n在东亚，社会最主要的财富创造者终究是男性 https://t.co/Rmhmvt3hVK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 703,
+          "like_count": 14848,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2204
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-09T13:32:01.000Z",
+        "description": "MtF(post surgery)/psychopath(schizo)/paliperidone&quetiapine user/ASD/local in Shanghai/anti-imperialism/leftoid/@misncandy/个人群 https://t.co/16lZFMylhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "misncandy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ylr-xPc8qAo4Y…",
+                "end": 151,
+                "expanded_url": "https://t.me/+ylr-xPc8qAo4YTA1",
+                "start": 128,
+                "url": "https://t.co/16lZFMylhh"
+              }
+            ]
+          }
+        },
+        "id": "994208371040337921",
+        "location": "Shanghai, china",
+        "name": "litz tsong（利兹）🏳️‍🌈🏳‍⚧",
+        "pinned_tweet_id": "2044756700625035470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465633050566402056/PVc-1Z7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3167,
+          "following_count": 2052,
+          "like_count": 3598,
+          "listed_count": 17,
+          "media_count": 1636,
+          "tweet_count": 14122
+        },
+        "username": "litztsong",
+        "verified": false
+      }
+    ]
+  }
+}

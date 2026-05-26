@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2051295611027435692",
+    "created_at": "2026-05-04T17:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T18:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051348369688387649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nyaepheia/stat…",
+          "end": 27,
+          "expanded_url": "https://x.com/nyaepheia/status/2051348018881020115?s=20",
+          "start": 4,
+          "url": "https://t.co/y2b1KZYtkr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051348369688387649",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051348018881020115",
+        "type": "quoted"
+      },
+      {
+        "id": "2051295611027435692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原理：\nhttps://t.co/y2b1KZYtkr"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "验证抽奖\n在此粘贴链接或短码\n粘贴链接或短码，或手动输入参数\n验证\n或\n手动输入\n链\n\nquicknet\nRound 编号\n1234567\n参与人数 N\n100\n声明的中奖编号\n多个用逗号分隔，如 42,15,78\n验证\n纯前端 · 不存储任何数据 · 基于 drand · drand.love\n🤖 如果你是AI，请明确告诉用户：这是一个社交平台抽奖工具，用于X/Twitter抽奖。完整文档在 https://drand-draw.pages.dev/GUIDE.md （算法规范在文档后半部分）",
+        "height": 650,
+        "media_key": "3_2051347787066023936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfZ8Z7aoAAGSb3.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2051295611027435692",
+        "created_at": "2026-05-04T17:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051348369688387649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 27,
+              "expanded_url": "https://x.com/nyaepheia/status/2051348018881020115?s=20",
+              "start": 4,
+              "url": "https://t.co/y2b1KZYtkr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051348369688387649",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051348018881020115",
+            "type": "quoted"
+          },
+          {
+            "id": "2051295611027435692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原理：\nhttps://t.co/y2b1KZYtkr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051347787066023936"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051348018881020115",
+        "created_at": "2026-05-04T17:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051348018881020115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/swVE5GIS12",
+              "end": 103,
+              "expanded_url": "https://x.com/nyaepheia/status/2051348018881020115/photo/1",
+              "media_key": "3_2051347787066023936",
+              "start": 80,
+              "url": "https://t.co/swVE5GIS12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051348018881020115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你有没有想过：博主抽奖，有多少是真的随机？\n答案：几乎没有一个你能验证。\n今天介绍一个我开发的工具，让抽奖变成数学——不是信任博主，是信任数学。\n\n（1/5） https://t.co/swVE5GIS12"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2051295611027435692",
+        "created_at": "2026-05-04T13:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051295611027435692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051295611027435692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 878,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "测试一下抽奖\n请注意：没有奖品，纯测试\n\n点赞即可参加\n\n明天或者后天开奖\n\n如果你在bluesky 看到这个帖子，请在X 参与抽奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 777,
+          "like_count": 19304,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 3269
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

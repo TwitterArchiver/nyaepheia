@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2053805292799086826",
+    "created_at": "2026-05-12T06:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054092646315118939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1654288451444027392",
+          "start": 0,
+          "username": "LoutsWang96751"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054092646315118939",
+    "in_reply_to_user_id": "1654288451444027392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "jpbs.hapres.com/htmls/JPBS_154…",
+            "end": 757,
+            "expanded_url": "https://jpbs.hapres.com/htmls/JPBS_1545_Detail.html",
+            "start": 734,
+            "url": "https://t.co/HcdmcZ5Z1t"
+          },
+          {
+            "display_url": "cnlgbtdata.com/files/uploads/…",
+            "end": 1188,
+            "expanded_url": "https://cnlgbtdata.com/files/uploads/2019/05/Coming_out_in_Mainland_China_A_national_survey_of_LGBTQ_students.pdf",
+            "start": 1165,
+            "url": "https://t.co/TE3SIOL1OP"
+          },
+          {
+            "display_url": "chinadevelopmentbrief.org/wp-content/upl…",
+            "end": 1430,
+            "expanded_url": "https://chinadevelopmentbrief.org/wp-content/uploads/2020/04/2017-Chinese-Transgender-Population-General-Survey-Report.pdf",
+            "start": 1407,
+            "url": "https://t.co/E63JpGlrM3"
+          }
+        ]
+      },
+      "text": "实际比例其实更高，这个已经很保守了。\n---\n**中国大陆高中阶段（大致对应初中至高中，13-18岁左右）Queer+（LGBTQ+，含性取向多元与性别多元）的全国代表性概率样本调查数据非常有限**，主要原因是社会环境敏感性导致大规模随机抽样难度大。现有证据多来自**便利样本**（在线招募）、特定地区学校调查或针对已自我认同LGBTQ+群体的研究，无法直接外推至全体高中生总体比例，但能反映趋势和自我报告情况。以下是可靠的实际调查总结（优先学术发表或大型NGO报告）。\n\n### 1. **性别多元（Transgender/Non-cisgender，包括跨性别、非二元等）自我报告比例：高中生约 5.8%**\n- **调查**：2023年发表的《Exploring the Gap between Self-Reported Transgender and Gender Dysphoria in Chinese Youth》（湖南长沙两所高中和一所大学学生心理健康调查，N=2048，高中生部分有效性别认同回答1723人）。\n- **关键发现**：高中生中**自我报告为性别少数（gender minority，包括transgender、非二元/无性别/非顺从/其他）的比例为5.8%**（52/约900高中生样本）；其中明确transgender约1.68%。大学生略高（7.3%性别少数，3.56%transgender）。**但经精神科医生DSM-5诊断，无一人符合临床性别不安（Gender Dysphoria）标准**，显示自我认同与临床诊断存在差距。这些学生心理健康风险更高（抑郁、社会回避、自杀意念显著 elevated）。\n- **URL**：https://t.co/HcdmcZ5Z1t （开放获取论文）。\n\n### 2. **更广义LGBTQ+学生（含性取向与性别）**：无全国高中概率样本，参考全国LGBTQ学生调查\n- **调查**：2019年《Coming out in Mainland China: A national survey of LGBTQ students》（北京师范大学等，来自29个省市/自治区的732名LGBTQ学生在线调查，平均年龄20.7岁，含高中/职高/大学）。\n- **关键发现**：样本中高中生已较早觉察性取向/性别认同（高中生觉察和出柜时间早于大学生）。多数学校环境不包容（缺乏LGBTQ支持政策、培训、课程），但许多学生在校仍感到相对安全。心理风险高：约85%曾抑郁，40%有自杀想法。**此为已自我认同LGBTQ者的样本，无法给出总体比例，但提示高中阶段自我觉察比例可能不低**（参考香港类似年龄层约10-15%不确定/多元取向）。\n- **URL**：https://t.co/TE3SIOL1OP （PDF）。\n\n### 其他相关参考（跨性别为主，便利样本）\n- **2017中国跨性别群体生存现状调查**（北京大学社会学系等支持，N=2060有效跨性别/性别非顺从者）：多数在18岁前觉察性别认同（7-12岁31.9%，13-17岁29.4%），青春期痛苦高（70%以上）。高中阶段是高风险期（校园暴力70.8%）。**非概率样本**，无法推总体比例，但估计中国跨性别总人口约400万（基于亚太0.3%基准）。\n- **URL**：https://t.co/E63JpGlrM3。\n\n**总结与上下文**：  \n中国高中Queer+比例**自我报告可能在5-10%左右**（性别多元~5-6%，加上性取向多元），但远低于西方近期Gen Z数据，且缺乏全国随机抽样确认。数据动态变化，受社会接受度、媒体曝光和调查方法影响。现有研究一致显示：支持性环境（如肯定学校、角色榜样）能显著降低心理风险，而歧视/隐瞒则放大挑战。  \n\n这些调查强调多元经验的自然性（不同地域、城乡、神经多样性间存在变异），并呼吁更多包容设计。若需特定省份、学校干预案例或最新2025更新，我可以进一步帮你细查或交叉验证来源。世界是复杂系统，数据只是起点，支持每位年轻人的真实自我才是关键。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054044363660140845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoutsWang96751 实际比例其实更高，这个已经很保守了。\n---"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2053805292799086826",
+        "created_at": "2026-05-12T06:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054092646315118939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1654288451444027392",
+              "start": 0,
+              "username": "LoutsWang96751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054092646315118939",
+        "in_reply_to_user_id": "1654288451444027392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "jpbs.hapres.com/htmls/JPBS_154…",
+                "end": 757,
+                "expanded_url": "https://jpbs.hapres.com/htmls/JPBS_1545_Detail.html",
+                "start": 734,
+                "url": "https://t.co/HcdmcZ5Z1t"
+              },
+              {
+                "display_url": "cnlgbtdata.com/files/uploads/…",
+                "end": 1188,
+                "expanded_url": "https://cnlgbtdata.com/files/uploads/2019/05/Coming_out_in_Mainland_China_A_national_survey_of_LGBTQ_students.pdf",
+                "start": 1165,
+                "url": "https://t.co/TE3SIOL1OP"
+              },
+              {
+                "display_url": "chinadevelopmentbrief.org/wp-content/upl…",
+                "end": 1430,
+                "expanded_url": "https://chinadevelopmentbrief.org/wp-content/uploads/2020/04/2017-Chinese-Transgender-Population-General-Survey-Report.pdf",
+                "start": 1407,
+                "url": "https://t.co/E63JpGlrM3"
+              }
+            ]
+          },
+          "text": "实际比例其实更高，这个已经很保守了。\n---\n**中国大陆高中阶段（大致对应初中至高中，13-18岁左右）Queer+（LGBTQ+，含性取向多元与性别多元）的全国代表性概率样本调查数据非常有限**，主要原因是社会环境敏感性导致大规模随机抽样难度大。现有证据多来自**便利样本**（在线招募）、特定地区学校调查或针对已自我认同LGBTQ+群体的研究，无法直接外推至全体高中生总体比例，但能反映趋势和自我报告情况。以下是可靠的实际调查总结（优先学术发表或大型NGO报告）。\n\n### 1. **性别多元（Transgender/Non-cisgender，包括跨性别、非二元等）自我报告比例：高中生约 5.8%**\n- **调查**：2023年发表的《Exploring the Gap between Self-Reported Transgender and Gender Dysphoria in Chinese Youth》（湖南长沙两所高中和一所大学学生心理健康调查，N=2048，高中生部分有效性别认同回答1723人）。\n- **关键发现**：高中生中**自我报告为性别少数（gender minority，包括transgender、非二元/无性别/非顺从/其他）的比例为5.8%**（52/约900高中生样本）；其中明确transgender约1.68%。大学生略高（7.3%性别少数，3.56%transgender）。**但经精神科医生DSM-5诊断，无一人符合临床性别不安（Gender Dysphoria）标准**，显示自我认同与临床诊断存在差距。这些学生心理健康风险更高（抑郁、社会回避、自杀意念显著 elevated）。\n- **URL**：https://t.co/HcdmcZ5Z1t （开放获取论文）。\n\n### 2. **更广义LGBTQ+学生（含性取向与性别）**：无全国高中概率样本，参考全国LGBTQ学生调查\n- **调查**：2019年《Coming out in Mainland China: A national survey of LGBTQ students》（北京师范大学等，来自29个省市/自治区的732名LGBTQ学生在线调查，平均年龄20.7岁，含高中/职高/大学）。\n- **关键发现**：样本中高中生已较早觉察性取向/性别认同（高中生觉察和出柜时间早于大学生）。多数学校环境不包容（缺乏LGBTQ支持政策、培训、课程），但许多学生在校仍感到相对安全。心理风险高：约85%曾抑郁，40%有自杀想法。**此为已自我认同LGBTQ者的样本，无法给出总体比例，但提示高中阶段自我觉察比例可能不低**（参考香港类似年龄层约10-15%不确定/多元取向）。\n- **URL**：https://t.co/TE3SIOL1OP （PDF）。\n\n### 其他相关参考（跨性别为主，便利样本）\n- **2017中国跨性别群体生存现状调查**（北京大学社会学系等支持，N=2060有效跨性别/性别非顺从者）：多数在18岁前觉察性别认同（7-12岁31.9%，13-17岁29.4%），青春期痛苦高（70%以上）。高中阶段是高风险期（校园暴力70.8%）。**非概率样本**，无法推总体比例，但估计中国跨性别总人口约400万（基于亚太0.3%基准）。\n- **URL**：https://t.co/E63JpGlrM3。\n\n**总结与上下文**：  \n中国高中Queer+比例**自我报告可能在5-10%左右**（性别多元~5-6%，加上性取向多元），但远低于西方近期Gen Z数据，且缺乏全国随机抽样确认。数据动态变化，受社会接受度、媒体曝光和调查方法影响。现有研究一致显示：支持性环境（如肯定学校、角色榜样）能显著降低心理风险，而歧视/隐瞒则放大挑战。  \n\n这些调查强调多元经验的自然性（不同地域、城乡、神经多样性间存在变异），并呼吁更多包容设计。若需特定省份、学校干预案例或最新2025更新，我可以进一步帮你细查或交叉验证来源。世界是复杂系统，数据只是起点，支持每位年轻人的真实自我才是关键。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054044363660140845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoutsWang96751 实际比例其实更高，这个已经很保守了。\n---"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654288451444027392",
+        "conversation_id": "2053805292799086826",
+        "created_at": "2026-05-12T03:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054044363660140845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054044363660140845",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053805292799086826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 这前提不太对，没那么高比例"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 802,
+          "like_count": 20661,
+          "listed_count": 3,
+          "media_count": 286,
+          "tweet_count": 3687
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-05T00:54:54.000Z",
+        "description": "",
+        "id": "1654288451444027392",
+        "name": "louts wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654288526568214528/gciyoPuY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 21,
+          "like_count": 912,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1144
+        },
+        "username": "LoutsWang96751",
+        "verified": false
+      }
+    ]
+  }
+}

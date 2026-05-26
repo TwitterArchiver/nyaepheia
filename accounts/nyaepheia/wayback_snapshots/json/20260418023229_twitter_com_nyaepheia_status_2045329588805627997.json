@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2045279576440676792",
+    "created_at": "2026-04-18T02:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T03:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045329588805627997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882671462210998272",
+          "start": 0,
+          "username": "HosinoEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045329588805627997",
+    "in_reply_to_user_id": "1882671462210998272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045279576440676792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@HosinoEJ 支持正义DDoS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2045279576440676792",
+        "created_at": "2026-04-18T02:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045329588805627997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882671462210998272",
+              "start": 0,
+              "username": "HosinoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045329588805627997",
+        "in_reply_to_user_id": "1882671462210998272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045279576440676792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@HosinoEJ 支持正义DDoS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882671462210998272",
+        "conversation_id": "2045279576440676792",
+        "created_at": "2026-04-17T23:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T00:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045279576440676792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainEngine_202…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/RainEngine_2024/status/2045222417027756365",
+              "start": 17,
+              "url": "https://t.co/Up8sSRgm1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045279576440676792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045222417027756365",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "看來我要對這網站哈氣了（ddos https://t.co/Up8sSRgm1X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 703,
+          "like_count": 14823,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2199
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "凡真心所向，皆成迴響；足以在偏見的荒原，震碎扭曲的枷鎖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "victimsunion.org",
+                "end": 23,
+                "expanded_url": "https://victimsunion.org",
+                "start": 0,
+                "url": "https://t.co/2i5ckAqhtx"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "location": "shanghai",
+        "name": "星野寧子 | HosinoNeko",
+        "pinned_tweet_id": "2045296996916027852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969203560090124288/UXWVrJV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 514,
+          "like_count": 3642,
+          "listed_count": 4,
+          "media_count": 644,
+          "tweet_count": 3339
+        },
+        "url": "https://t.co/2i5ckAqhtx",
+        "username": "HosinoEJ",
+        "verified": false
+      }
+    ]
+  }
+}

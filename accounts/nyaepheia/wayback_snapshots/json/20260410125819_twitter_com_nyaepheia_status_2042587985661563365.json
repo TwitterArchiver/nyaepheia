@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2042587985661563365",
+    "created_at": "2026-04-10T12:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T13:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042587985661563365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DXMDusk/status…",
+          "end": 180,
+          "expanded_url": "https://twitter.com/DXMDusk/status/2042528884894371978",
+          "start": 157,
+          "url": "https://t.co/uxmY5Sdtd2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042587985661563365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "让Gemini 不严肃地分析了一下这个漫画：\n\n好眼力！你这“不严肃”的直觉其实精准得可怕。这就是互联网上非常有名的“萌化版”历史政治漫画。\n这张图完美复刻了 1962 年冷战时期最著名的讽刺漫画之一——由列斯利·吉尔伯特·伊林沃思（Leslie Gilbert Illingworth）创作的《古巴导弹危机》。\n我们可以来玩个“找不同”式的不严肃分析：\n1. 核心构图：权力的游戏（物理意义上）\n * 原版：肯尼迪（左）和赫鲁晓夫（右）坐在巨大的核弹头上掰手腕，汗如雨下。\n * 动漫版： 两位美少女在课桌前掰手腕。虽然表情看起来是在“较劲”，但画师显然把那种“一触即发”的紧张感转化成了另一种……嗯，耐力测试。\n2. 那个“致命”的按钮\n * 原版： 双方的手指都悬在对方屁股下面那枚核弹的**引爆按钮**上。潜台词是：“只要你用力过猛，我就和你同归于尽。”这就是所谓的“核威慑（MAD）”。\n * 动漫版： 注意看她们左手按着的粉色小开关，以及连接到……咳咳，座位底下的电线。\n * 神吐槽： 评论区那位仁兄说的“**古巴跳弹危机**”真的是神来之笔。核战争的“末日审判”被置换成了某种“淑女的尊严之战”。\n3. 谁输谁赢？\n * 历史背景： 在那场对峙中，赫鲁晓夫（右侧）表现得更加吃力，最终苏联选择了撤走导弹。\n * 图中细节： 仔细看右边那个狐耳娘，她已经满头大汗、面色潮红，显然快要“撑不住”了；而左边的黑发少女虽然也在流汗，但眼神更有余裕。这完全对应了原漫画中对美苏博弈态势的刻画。\n总结一下：\n这属于典型的“解构主义”二次元创作。画师用最软萌的形象，致敬了人类历史上最硬核的对峙时刻。正如网友所说：\n> “这就是传说中的‘核’平相处吧。”\n在这种“不严肃”的语境下，原本足以毁灭地球的核按钮，变成了只需一颗电池就能让对手“缴械投降”的小玩具。这种极大的反差感，正是这张图在网络上流传甚广的原因。\n所以，你的直觉没错，这确实是“肯尼迪（二次元美少女版）”对阵“赫鲁晓夫（狐耳萌娘版）”！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042528884894371978",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "让Gemini 不严肃地分析了一下这个漫画：\n\n好眼力！你这“不严肃”的直觉其实精准得可怕。这就是互联网上非常有名的“萌化版”历史政治漫画。\n这张图完美复刻了 1962 年冷战时期最著名的讽刺漫画之一——由列斯利·吉尔伯特·伊林沃思（Leslie Gilbert Illingworth）创作的《古巴导弹危机》。 https://t.co/uxmY5Sdtd2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 901,
+        "media_key": "3_2042528882142908419",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiFMk-akAMdpQp.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2042587985661563365",
+        "created_at": "2026-04-10T12:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042587985661563365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DXMDusk/status…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/DXMDusk/status/2042528884894371978",
+              "start": 157,
+              "url": "https://t.co/uxmY5Sdtd2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042587985661563365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "让Gemini 不严肃地分析了一下这个漫画：\n\n好眼力！你这“不严肃”的直觉其实精准得可怕。这就是互联网上非常有名的“萌化版”历史政治漫画。\n这张图完美复刻了 1962 年冷战时期最著名的讽刺漫画之一——由列斯利·吉尔伯特·伊林沃思（Leslie Gilbert Illingworth）创作的《古巴导弹危机》。\n我们可以来玩个“找不同”式的不严肃分析：\n1. 核心构图：权力的游戏（物理意义上）\n * 原版：肯尼迪（左）和赫鲁晓夫（右）坐在巨大的核弹头上掰手腕，汗如雨下。\n * 动漫版： 两位美少女在课桌前掰手腕。虽然表情看起来是在“较劲”，但画师显然把那种“一触即发”的紧张感转化成了另一种……嗯，耐力测试。\n2. 那个“致命”的按钮\n * 原版： 双方的手指都悬在对方屁股下面那枚核弹的**引爆按钮**上。潜台词是：“只要你用力过猛，我就和你同归于尽。”这就是所谓的“核威慑（MAD）”。\n * 动漫版： 注意看她们左手按着的粉色小开关，以及连接到……咳咳，座位底下的电线。\n * 神吐槽： 评论区那位仁兄说的“**古巴跳弹危机**”真的是神来之笔。核战争的“末日审判”被置换成了某种“淑女的尊严之战”。\n3. 谁输谁赢？\n * 历史背景： 在那场对峙中，赫鲁晓夫（右侧）表现得更加吃力，最终苏联选择了撤走导弹。\n * 图中细节： 仔细看右边那个狐耳娘，她已经满头大汗、面色潮红，显然快要“撑不住”了；而左边的黑发少女虽然也在流汗，但眼神更有余裕。这完全对应了原漫画中对美苏博弈态势的刻画。\n总结一下：\n这属于典型的“解构主义”二次元创作。画师用最软萌的形象，致敬了人类历史上最硬核的对峙时刻。正如网友所说：\n> “这就是传说中的‘核’平相处吧。”\n在这种“不严肃”的语境下，原本足以毁灭地球的核按钮，变成了只需一颗电池就能让对手“缴械投降”的小玩具。这种极大的反差感，正是这张图在网络上流传甚广的原因。\n所以，你的直觉没错，这确实是“肯尼迪（二次元美少女版）”对阵“赫鲁晓夫（狐耳萌娘版）”！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042528884894371978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让Gemini 不严肃地分析了一下这个漫画：\n\n好眼力！你这“不严肃”的直觉其实精准得可怕。这就是互联网上非常有名的“萌化版”历史政治漫画。\n这张图完美复刻了 1962 年冷战时期最著名的讽刺漫画之一——由列斯利·吉尔伯特·伊林沃思（Leslie Gilbert Illingworth）创作的《古巴导弹危机》。 https://t.co/uxmY5Sdtd2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042528882142908419"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042528884894371978",
+        "created_at": "2026-04-10T09:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042528884894371978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2iYJdtTaEw",
+              "end": 34,
+              "expanded_url": "https://x.com/DXMDusk/status/2042528884894371978/photo/1",
+              "media_key": "3_2042528882142908419",
+              "start": 11,
+              "url": "https://t.co/2iYJdtTaEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042528884894371978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 6340,
+          "like_count": 122,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "古巴导弹危机调解现场 https://t.co/2iYJdtTaEw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/小证含糖hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站\n已休学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2041715066337452228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 658,
+          "like_count": 10822,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1560
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2266,
+          "following_count": 1105,
+          "like_count": 2078,
+          "listed_count": 3,
+          "media_count": 357,
+          "tweet_count": 2170
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

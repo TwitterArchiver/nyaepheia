@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2053381757144277105",
+    "created_at": "2026-05-10T19:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053561628176851410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1957338860225990658",
+          "start": 0,
+          "username": "chunhuadawang"
+        },
+        {
+          "end": 26,
+          "id": "2040113248544931841",
+          "start": 15,
+          "username": "zjq1262143"
+        },
+        {
+          "end": 42,
+          "id": "1845454917236031495",
+          "start": 27,
+          "username": "Dontbesadforit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053561628176851410",
+    "in_reply_to_user_id": "1957338860225990658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053505283545337916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chunhuadawang @zjq1262143 @Dontbesadforit 要真一视同仁\n那社会不应该宣传异性恋婚姻，学校不应该要求发型规范。如果真的这样，确实没必要有LGBTQ+ 的骄傲月了。\n没发现问题吗？这不可能啊！LGBTQ+ 占总人口5~9%，但宣传声量远远不到5~9%，就这样还被你批评"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2053381757144277105",
+        "created_at": "2026-05-10T19:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053561628176851410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1957338860225990658",
+              "start": 0,
+              "username": "chunhuadawang"
+            },
+            {
+              "end": 26,
+              "id": "2040113248544931841",
+              "start": 15,
+              "username": "zjq1262143"
+            },
+            {
+              "end": 42,
+              "id": "1845454917236031495",
+              "start": 27,
+              "username": "Dontbesadforit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053561628176851410",
+        "in_reply_to_user_id": "1957338860225990658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053505283545337916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chunhuadawang @zjq1262143 @Dontbesadforit 要真一视同仁\n那社会不应该宣传异性恋婚姻，学校不应该要求发型规范。如果真的这样，确实没必要有LGBTQ+ 的骄傲月了。\n没发现问题吗？这不可能啊！LGBTQ+ 占总人口5~9%，但宣传声量远远不到5~9%，就这样还被你批评"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957338860225990658",
+        "conversation_id": "2053381757144277105",
+        "created_at": "2026-05-10T15:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053505283545337916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 22,
+              "id": "2040113248544931841",
+              "start": 11,
+              "username": "zjq1262143"
+            },
+            {
+              "end": 38,
+              "id": "1845454917236031495",
+              "start": 23,
+              "username": "Dontbesadforit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053505283545337916",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053423423703916830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @zjq1262143 @Dontbesadforit 任何性取向和变性倾向都不该被宣传,贴脸开大就只能被群殴,我看国内好多人对男娘的看法也不错,你要举彩虹旗过骄傲月,那就没啥人支持你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 801,
+          "like_count": 20465,
+          "listed_count": 3,
+          "media_count": 277,
+          "tweet_count": 3589
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-18T07:08:53.000Z",
+        "description": "落花有意，流水无情",
+        "id": "1957338860225990658",
+        "location": "赖清德的母亲身上",
+        "name": "春花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957339302586671104/hXmlmVRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 26,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 91
+        },
+        "username": "chunhuadawang",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T17:05:05.000Z",
+        "description": "第一件事：骂台独，第二件事：骂反华，第三件事：骂剥削人民阻碍无产阶级解放的意识形态/\n孤寡的小0⃣️（拉子朋友说我是健气受〈谁知道呢〉）",
+        "id": "2040113248544931841",
+        "name": "九龙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047952597919916033/wvaE2RKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 59
+        },
+        "username": "zjq1262143",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 吃补也不算翻车 高中 自然科学 生物学大好き | 为什么还活着：没见到绪山美波里/世界上还有爱我的人 | 大白妹妹：@haku_dabai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "中中！？",
+        "pinned_tweet_id": "2032491408985333996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052688556548919296/2XRbsJTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2442,
+          "following_count": 998,
+          "like_count": 72094,
+          "listed_count": 6,
+          "media_count": 461,
+          "tweet_count": 9173
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      }
+    ]
+  }
+}

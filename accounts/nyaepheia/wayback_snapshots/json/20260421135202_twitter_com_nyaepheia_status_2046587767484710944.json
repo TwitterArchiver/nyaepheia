@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046586027590942720"
+      ],
+      "media_source_tweet_id": [
+        "2046586031328186877"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046587767484710944",
+    "created_at": "2026-04-21T13:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T14:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046587767484710944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2035882965671215104",
+          "start": 3,
+          "username": "amber_medusozoa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OYKdXoN3PU",
+          "end": 46,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2046586031328186877/photo/1",
+          "media_key": "3_2046586027590942720",
+          "start": 23,
+          "url": "https://t.co/OYKdXoN3PU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046587767484710944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046586031328186877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_medusozoa: 唉 https://t.co/OYKdXoN3PU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 472,
+        "media_key": "3_2046586027590942720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbvJhjWAAANXKt.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046586027590942720"
+          ],
+          "media_source_tweet_id": [
+            "2046586031328186877"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046587767484710944",
+        "created_at": "2026-04-21T13:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046587767484710944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2035882965671215104",
+              "start": 3,
+              "username": "amber_medusozoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OYKdXoN3PU",
+              "end": 46,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2046586031328186877/photo/1",
+              "media_key": "3_2046586027590942720",
+              "start": 23,
+              "url": "https://t.co/OYKdXoN3PU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046587767484710944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046586031328186877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_medusozoa: 唉 https://t.co/OYKdXoN3PU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046586027590942720"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2046586031328186877",
+        "created_at": "2026-04-21T13:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046586031328186877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OYKdXoN3PU",
+              "end": 25,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2046586031328186877/photo/1",
+              "media_key": "3_2046586027590942720",
+              "start": 2,
+              "url": "https://t.co/OYKdXoN3PU"
+            },
+            {
+              "display_url": "x.com/snow_xue_/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/snow_xue_/status/2046533780853440728",
+              "start": 26,
+              "url": "https://t.co/uF4z5eHq1w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046586031328186877",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046533780853440728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉 https://t.co/OYKdXoN3PU https://t.co/uF4z5eHq1w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 739,
+          "like_count": 16105,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2519
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2451,
+          "following_count": 875,
+          "like_count": 2962,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 2025
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

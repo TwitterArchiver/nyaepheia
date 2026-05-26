@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2041670520614404102",
+    "created_at": "2026-04-08T00:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T01:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041670520614404102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1988931677004132352",
+          "start": 3,
+          "username": "ahyun0107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041670520614404102",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041529413226115242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ahyun0107: 大家割手手都用的什麼刀啊啊 想看看款式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2041670520614404102",
+        "created_at": "2026-04-08T00:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T01:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041670520614404102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1988931677004132352",
+              "start": 3,
+              "username": "ahyun0107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041670520614404102",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041529413226115242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ahyun0107: 大家割手手都用的什麼刀啊啊 想看看款式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988931677004132352",
+        "conversation_id": "2041529413226115242",
+        "created_at": "2026-04-07T14:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041529413226115242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041529413226115242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1335,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家割手手都用的什麼刀啊啊 想看看款式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2040696789003809003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 613,
+          "like_count": 8605,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 901
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-13T11:27:29.000Z",
+        "description": "割手|憂鬱|自殘|內耗|自卑|敏感|內向|容貌焦慮|追星|初中|13|神經|只敢割涼蓆怎麼辦|看成分互fo",
+        "id": "1988931677004132352",
+        "name": "yun",
+        "pinned_tweet_id": "2040383758852088151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041483162803699713/gXbO8dzS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 53,
+          "like_count": 1650,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 132
+        },
+        "username": "ahyun0107",
+        "verified": false
+      }
+    ]
+  }
+}

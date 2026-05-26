@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2048616101559595163",
+    "created_at": "2026-04-27T04:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T05:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048616101559595163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807910824918634496",
+          "start": 3,
+          "username": "suanrongyouyuxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048616101559595163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048436506507841647",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suanrongyouyuxu: 关于冒犯，我有一个故事。\n我以前玩一个游戏，我儿子在边上看。里面有个场景，男主角被打扮成女性，化了妆还穿了裙子。\n我儿子看到了接受不了，哭着说怎么可以这样子，男的怎么可以变成女的？…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2048616101559595163",
+        "created_at": "2026-04-27T04:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048616101559595163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1807910824918634496",
+              "start": 3,
+              "username": "suanrongyouyuxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048616101559595163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048436506507841647",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suanrongyouyuxu: 关于冒犯，我有一个故事。\n我以前玩一个游戏，我儿子在边上看。里面有个场景，男主角被打扮成女性，化了妆还穿了裙子。\n我儿子看到了接受不了，哭着说怎么可以这样子，男的怎么可以变成女的？…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807910824918634496",
+        "conversation_id": "2048436506507841647",
+        "created_at": "2026-04-26T16:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048436506507841647"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048436506507841647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于冒犯，我有一个故事。\n我以前玩一个游戏，我儿子在边上看。里面有个场景，男主角被打扮成女性，化了妆还穿了裙子。\n我儿子看到了接受不了，哭着说怎么可以这样子，男的怎么可以变成女的？\n\n虽然这件事没什么好哭的，但我还是意识到了一件事，就是他实际上是感觉到被冒犯了——因为他以前没见过，只有朴素的“男的就应该是男的样子，女的应该是女的样子”。超出了他观念的部分根本就不应该出现。\n\n实际上这正是问题所在，就是知识和观念的更新本身就是一种冒犯。因为更新意味着告诉你过去的一些理解和想法是错的，这是一种否定。不伴随着否定的知识/观念更新是不存在的。而人天生讨厌否定，哪怕坚持的理由莫名其妙——无论是剃发易服，告诉你这个国家就算没有皇帝也没有关系，女人可以上学，裹小脚非常丑，你熬的中药根本没有用等等等等。很多人听到这些话的反应，和直接指着他鼻子骂的反应是一样的，“冒犯”。你怎么可以说这种话？\n\n这种事我们见了太多了不是吗？在老一辈看来各种事都是冒犯。看武侠小说是冒犯，玩游戏是冒犯，男孩子留长发是冒犯，女孩子肚脐露出来是冒犯，简直看不得一点。但很不幸他们往往又掌握了话语权，所以这种冒犯就很容易套上“不成体统”“为了你好”之类的标签。但反过来刷短视频就不冒犯了…因为他们自己也刷。虽然在我看来刷短视频的危害比看武侠小说和留长发的危害大多了，但他们真的就闭口不提了。本质还是因为不理解和不接受。\n\n所以事情就是这样。同时这件事可以分两块来说。第一块是，虽然冒犯他人这件事很多时候很不好且没礼貌，但有些冒犯是不可避免的。比如同性恋在世界上客观存在，有些人不能接受觉得冒犯了他们，这是被冒犯人的问题——不是因为有人要冒犯他们，而是这个世界本来就是这样。\n\n另一块是，人最好对被冒犯这件事稍微放宽一点。虽然现实确实存在有人故意冒犯他人，跟他们无法有效沟通，无法进行有意义的对话这种可能（这种人并不少）。但完全拒绝冒犯，本质上和对武侠小说深恶痛绝的教导主任没什么差别。你可以不理解，但尊重，稍微试着从对方的角度考虑，允许一些模糊地带。这样才不会成为小时候讨厌的那些人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 23612,
+          "like_count": 198,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "关于冒犯，我有一个故事。\n我以前玩一个游戏，我儿子在边上看。里面有个场景，男主角被打扮成女性，化了妆还穿了裙子。\n我儿子看到了接受不了，哭着说怎么可以这样子，男的怎么可以变成女的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 767,
+          "like_count": 17704,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 2925
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-01T22:55:21.000Z",
+        "description": "人在海外/有政治推，有生活推，也有碎碎念/是坚定的LGBTQ支持者/犬儒主义一生之敌/有表达欲/政治光谱是温和左派/坚持DEI原则/当代网络观察员/接受私信/想要认识有趣的人",
+        "id": "1807910824918634496",
+        "name": "蒜蓉鱿鱼须",
+        "pinned_tweet_id": "1858686395151524238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879574101750059008/DyN1I1bV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5008,
+          "following_count": 281,
+          "like_count": 7166,
+          "listed_count": 36,
+          "media_count": 313,
+          "tweet_count": 4003
+        },
+        "username": "suanrongyouyuxu",
+        "verified": true
+      }
+    ]
+  }
+}

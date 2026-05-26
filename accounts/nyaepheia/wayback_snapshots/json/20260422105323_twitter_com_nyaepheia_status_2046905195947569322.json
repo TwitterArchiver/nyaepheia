@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2046848401367797760"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046905195947569322",
+    "created_at": "2026-04-22T10:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046905195947569322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1608637128132685825",
+          "start": 3,
+          "username": "nyaepheia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046905195947569322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046848404043731290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyaepheia: 推U 喜欢看什么方面的内容啊\n最近圈子有点乱，而且不想吵架了\n但我好无聊想发点什么\n选项：\n1. 模拟类游戏（城市天际线，狂热运输之类）\n2. 二游（终末地，异环之类的）或百合番剧鉴赏\n3. meme 图（搬石）\n4. 其他（回复补充）"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-04-23T07:07:42.000Z",
+        "id": "2046848401367797760",
+        "options": [
+          {
+            "label": "模拟类游戏（城市天际线，狂热运输之类）",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "二游（终末地，异环之类的）或百合番剧鉴赏",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "meme 图（搬石）",
+            "position": 3,
+            "votes": 2
+          },
+          {
+            "label": "其他（回复补充）",
+            "position": 4,
+            "votes": 1
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2046848401367797760"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046905195947569322",
+        "created_at": "2026-04-22T10:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046905195947569322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1608637128132685825",
+              "start": 3,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046905195947569322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046848404043731290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyaepheia: 推U 喜欢看什么方面的内容啊\n最近圈子有点乱，而且不想吵架了\n但我好无聊想发点什么\n选项：\n1. 模拟类游戏（城市天际线，狂热运输之类）\n2. 二游（终末地，异环之类的）或百合番剧鉴赏\n3. meme 图（搬石）\n4. 其他（回复补充）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2046848401367797760"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046848404043731290",
+        "created_at": "2026-04-22T07:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046848404043731290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046848404043731290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推U 喜欢看什么方面的内容啊\n最近圈子有点乱，而且不想吵架了\n但我好无聊想发点什么\n选项：\n1. 模拟类游戏（城市天际线，狂热运输之类）\n2. 二游（终末地，异环之类的）或百合番剧鉴赏\n3. meme 图（搬石）\n4. 其他（回复补充）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 740,
+          "like_count": 16431,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2693
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

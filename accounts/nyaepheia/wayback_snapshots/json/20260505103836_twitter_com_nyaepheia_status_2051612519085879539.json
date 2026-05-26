@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2051612519085879539",
+    "created_at": "2026-05-05T10:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051612519085879539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1952872127725740032",
+          "start": 3,
+          "username": "Taaminaru"
+        },
+        {
+          "end": 24,
+          "id": "2041687695424950273",
+          "start": 15,
+          "username": "ccshuile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051612519085879539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051419917912826164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Taaminaru: @ccshuile 今年春天有些特别，很多人SRS了，还有很多人S了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2051612519085879539",
+        "created_at": "2026-05-05T10:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051612519085879539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1952872127725740032",
+              "start": 3,
+              "username": "Taaminaru"
+            },
+            {
+              "end": 24,
+              "id": "2041687695424950273",
+              "start": 15,
+              "username": "ccshuile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051612519085879539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051419917912826164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Taaminaru: @ccshuile 今年春天有些特别，很多人SRS了，还有很多人S了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952872127725740032",
+        "conversation_id": "2051317607610077249",
+        "created_at": "2026-05-04T21:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T22:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051419917912826164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2041687695424950273",
+              "start": 0,
+              "username": "ccshuile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051419917912826164",
+        "in_reply_to_user_id": "2041687695424950273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051317607610077249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccshuile 今年春天有些特别，很多人SRS了，还有很多人S了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 781,
+          "like_count": 19510,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 3324
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-05T23:19:53.000Z",
+        "description": "🏳️‍⚧️HRT20260314/于终端向外发送数据-NSFW：血液/傷跡/S〇X#back���������\n前言不搭后语 思维混乱 突然发疯\n是不会说话的家伙�������",
+        "id": "1952872127725740032",
+        "name": "终端ターミナル",
+        "pinned_tweet_id": "2032736343114342468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953822055377645571/KRFSYaUR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 64,
+          "like_count": 697,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 776
+        },
+        "username": "Taaminaru",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T01:21:03.000Z",
+        "description": "🥗🍥我不要再喜欢任何人了",
+        "id": "2041687695424950273",
+        "name": "cc🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041688275296120832/e5yGXjI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 32,
+          "like_count": 1600,
+          "listed_count": 5,
+          "media_count": 29,
+          "tweet_count": 231
+        },
+        "username": "ccshuile",
+        "verified": true
+      }
+    ]
+  }
+}

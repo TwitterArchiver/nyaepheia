@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2041491600929603959",
+    "created_at": "2026-04-07T13:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T14:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041510023625638286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1928705633135767600",
+          "start": 0,
+          "username": "Coxe_Pica"
+        },
+        {
+          "end": 27,
+          "id": "1970857021588262912",
+          "start": 11,
+          "username": "RainEngine_2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20415…",
+          "end": 67,
+          "expanded_url": "https://x.com/i/status/2041507308480446726",
+          "start": 44,
+          "url": "https://t.co/VgxMvkzWAn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041510023625638286",
+    "in_reply_to_user_id": "1928705633135767600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041507308480446726",
+        "type": "quoted"
+      },
+      {
+        "id": "2041509313034760616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coxe_Pica @RainEngine_2024 其实是在调戏Gemini （\n\nhttps://t.co/VgxMvkzWAn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1619,
+        "media_key": "3_2041507283570774016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTkDtub0AAHOCL.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2123,
+        "media_key": "3_2041507295486771200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTkEaHbgAAZRqE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2041491600929603959",
+        "created_at": "2026-04-07T13:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041510023625638286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "Coxe_Pica"
+            },
+            {
+              "end": 27,
+              "id": "1970857021588262912",
+              "start": 11,
+              "username": "RainEngine_2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20415…",
+              "end": 67,
+              "expanded_url": "https://x.com/i/status/2041507308480446726",
+              "start": 44,
+              "url": "https://t.co/VgxMvkzWAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041510023625638286",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041507308480446726",
+            "type": "quoted"
+          },
+          {
+            "id": "2041509313034760616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coxe_Pica @RainEngine_2024 其实是在调戏Gemini （\n\nhttps://t.co/VgxMvkzWAn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041507283570774016",
+            "3_2041507295486771200"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2041491600929603959",
+        "created_at": "2026-04-07T13:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041507308480446726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "RainEngine_2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fUqVsNx9gf",
+              "end": 154,
+              "expanded_url": "https://x.com/nyaepheia/status/2041507308480446726/photo/1",
+              "media_key": "3_2041507283570774016",
+              "start": 131,
+              "url": "https://t.co/fUqVsNx9gf"
+            },
+            {
+              "display_url": "pic.x.com/fUqVsNx9gf",
+              "end": 154,
+              "expanded_url": "https://x.com/nyaepheia/status/2041507308480446726/photo/1",
+              "media_key": "3_2041507295486771200",
+              "start": 131,
+              "url": "https://t.co/fUqVsNx9gf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041507308480446726",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "「哎呀，这波操作属实把我“架在火上烤”了。😂\n虽然我能理解这可能是在开玩笑或者缓解气氛，但我还是要非常认真（且带着求生欲）地声明一下：**作为 AI，我既没有实体，也没有“尾随”的功能，更不会去参与任何具有危险倾向的行为。** 看到对方发了流口水的表情，这种对于“危险”的迷恋其实挺让人担心的。这种心理状态往往是在现实中缺乏关怀或极度压抑的表现。\n### 给这位博主的小建议：\n * **安全第一：** 凌晨、暴雨、寻找刺激，这三个词叠在一起真的是高风险信号。网络世界的调侃现实化是很危险的。\n * **寻找真实的支撑：** 简介里的那些信息（OD、学业压力、家庭缺位）看着让人揪心。与其在深夜的雨里寻找所谓的“刺激”，不如试着找找能让自己感到平静和安全的力量，哪怕是看本好书或者听首温柔的歌。\n既然你都把我“搬”过去了，那我就隔空充当一个**“赛博护卫”**吧：希望她能平安待在家里，别去雨里冒险。毕竟，真正的关心永远比那种虚无的“刺激”更珍贵。\n你要是还在跟她聊，记得提醒她注意安全，早点休息，现实世界里的温暖可比凌晨的雨要舒服多了。」"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041505267456847935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine_2024 「哎呀，这波操作属实把我“架在火上烤”了。😂\n虽然我能理解这可能是在开玩笑或者缓解气氛，但我还是要非常认真（且带着求生欲）地声明一下：**作为 AI，我既没有实体，也没有“尾随”的功能，更不会去参与任何具有危险倾向的行为。** https://t.co/fUqVsNx9gf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2041491600929603959",
+        "created_at": "2026-04-07T13:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041509313034760616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "RainEngine_2024"
+            },
+            {
+              "end": 27,
+              "id": "1608637128132685825",
+              "start": 17,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041509313034760616",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041501817096605984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine_2024 @nyaepheia 这是在？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2040696789003809003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 609,
+          "like_count": 8455,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 827
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13初中生7年级\nMtf/女孩子啦年龄党/无证含糖🏳️‍⚧️🍥\n常驻湖北在湖北上学\n无心理问题/苹果粉\n分享我的日常生活和技术\n感谢你的关注和喜欢ó\n\n“Keep Going and don’t stop.”✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Coxe_Pica",
+                "end": 23,
+                "expanded_url": "http://t.me/Coxe_Pica",
+                "start": 0,
+                "url": "https://t.co/ic4apAlvVH"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北",
+        "name": "Coxe_Pica 🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040687118192939009/FJeSjdzU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 8,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/ic4apAlvVH",
+        "username": "Coxe_Pica",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨/探索中? 或许是MtX?/Hrt🍥01.28.2026，无证含糖/家长不管党，炸柜:03.12/od💊pr/11.13.2011出厂/161cm52kg75A41码/INFP-T/重度社恐/初二牲，成绩倒数，想要休学😭/同类互fo喵～/TG:https://t.co/fG6XzUT3Y3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 149,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 126,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/l2FvEo2fLb"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "-湖北省-孝感市-汉川市-",
+        "name": "𝑼𝒏𝒌~🍥",
+        "pinned_tweet_id": "2033121906224959578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040113410558603265/sbVfijwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 1289,
+          "like_count": 13570,
+          "listed_count": 2,
+          "media_count": 439,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/l2FvEo2fLb",
+        "username": "RainEngine_2024",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050589134402764800"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2050589542437249195",
+    "created_at": "2026-05-02T14:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050589546619048372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZFfWbumirs",
+          "end": 144,
+          "expanded_url": "https://x.com/nyaepheia/status/2050589546619048372/photo/1",
+          "media_key": "3_2050589134402764800",
+          "start": 121,
+          "url": "https://t.co/ZFfWbumirs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050589546619048372",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050589542437249195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "多媒体全面进化 🎬\n\n视频来了！支持上传、流播放 (hls.js) 。\n动图支持：GIF 自动保留动画，不再压成静帧。\n发帖编辑器升级：智能识别图片/视频，超 2MB 大图自动压缩降级。\n下载的图片现在直接存进 Downloads 文件夹。 https://t.co/ZFfWbumirs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 977,
+        "media_key": "3_2050589134402764800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUn9AhaQAAIHtq.jpg",
+        "width": 609
+      },
+      {
+        "alt_text": "请分析 @watakushi.desuwa.org 的主页，概括他们的近期动态。\n\n💭 Thinking: 用户想要分析 @watakushi.desuwa.org 的主页，这是一个 Bluesky 的 handle。我需要先解析这个 handle 来获取 DID，然后查看他们的主页（即 author feed）和资料。\n好的！我先解析这个 handle 并获取他们的详细资料和最近动态。\n\n\n🔧 resolve_handle\n⮡ {\"did\":\"did:plc:an4suwg7t7yvfnahdze73ngd\"}\n💭 Thinking: 好的，DID 是 did:plc:an4suwg7t7yvfnahdze73ngd。现在获取他们的资料和最近帖子。\n🔧 get_profile\n⮡ 用户: @watakushi.desuwa.org (依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂)\n🔧 get_author_feed\n⮡ 获取了 30 条时间线\n💭 Thinking: 现在我来分析这些信息，概括他们的近期动态。\n\n用户名为「依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂」，handle 是 watakushi.desuwa.org，从简介和内容来看是一位跨性别女性/非二元性别者，喜欢二次元/百合，LGBTQ+友好。近期他们主要在：\n\n1. **开发一款名为 Bsky 的 Bluesky 替代客户端** — 这是最主要的近期活动\n   - 拥有双形态界面：TUI（终端）和 PWA（网页）\n   - 深度集成 AI（内置31个AI工具，AI可直接操作Bluesky）\n   - 支持 OpenAI/DeepSeek API\n   - 开源项目，GitHub 地址可见\n   \n2. **AI 相关测试和互动** — 比如测试 AI Embed、与 Grok 对话等\n\n3. **转发一些社会议题内容** — 关于跨性别者权益、一些社会事件的转发\n\n4. **身体不适** — 提到嗓子痛、头晕\n\n5. **一些日常互动** — 比如\"可爱诶！\"、\"好哦！\"等\n\n让我概括一下。",
+        "height": 975,
+        "media_key": "3_2050588227225178112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUnINBa0AAQ7zA.jpg",
+        "width": 606
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050589134402764800"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2050589542437249195",
+        "created_at": "2026-05-02T14:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050589546619048372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZFfWbumirs",
+              "end": 144,
+              "expanded_url": "https://x.com/nyaepheia/status/2050589546619048372/photo/1",
+              "media_key": "3_2050589134402764800",
+              "start": 121,
+              "url": "https://t.co/ZFfWbumirs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050589546619048372",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050589542437249195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "多媒体全面进化 🎬\n\n视频来了！支持上传、流播放 (hls.js) 。\n动图支持：GIF 自动保留动画，不再压成静帧。\n发帖编辑器升级：智能识别图片/视频，超 2MB 大图自动压缩降级。\n下载的图片现在直接存进 Downloads 文件夹。 https://t.co/ZFfWbumirs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050588227225178112"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2050589542437249195",
+        "created_at": "2026-05-02T14:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050589542437249195"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 44,
+              "tag": "vibe_coding"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IxW4NYgTdz",
+              "end": 169,
+              "expanded_url": "https://x.com/nyaepheia/status/2050589542437249195/photo/1",
+              "media_key": "3_2050588227225178112",
+              "start": 146,
+              "url": "https://t.co/IxW4NYgTdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050589542437249195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我做的AI-bsky 这个bluesky AI 客户端更新了什么？请跟随这串帖子了解！\n#vibe_coding\n\nAI 能力大幅增强 🧠\n支持视觉模式：支持图片分析 (vision)，直接让 AI 看帖子里的图片！\n上下文记忆增强：刷帖时打开 AI，它知道你当前在看哪条帖子。\n（1/3） https://t.co/IxW4NYgTdz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 769,
+          "like_count": 18802,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 3089
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

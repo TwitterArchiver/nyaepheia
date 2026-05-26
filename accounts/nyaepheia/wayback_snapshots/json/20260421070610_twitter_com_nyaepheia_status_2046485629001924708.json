@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046483748053807320",
+    "created_at": "2026-04-21T07:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T08:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046485629001924708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2006749860863815682",
+          "start": 0,
+          "username": "kawainegi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20464…",
+          "end": 34,
+          "expanded_url": "https://x.com/i/status/2046485451431874632",
+          "start": 11,
+          "url": "https://t.co/IUud4yPDEl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046485629001924708",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046485451431874632",
+        "type": "quoted"
+      },
+      {
+        "id": "2046483748053807320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawainegi https://t.co/IUud4yPDEl"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "为什么顺女都这么pass",
+        "height": 3072,
+        "media_key": "3_2046483732375465985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGaSHKLa8AE3pBG.jpg",
+        "width": 4080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046483748053807320",
+        "created_at": "2026-04-21T07:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046485629001924708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006749860863815682",
+              "start": 0,
+              "username": "kawainegi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20464…",
+              "end": 34,
+              "expanded_url": "https://x.com/i/status/2046485451431874632",
+              "start": 11,
+              "url": "https://t.co/IUud4yPDEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046485629001924708",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046485451431874632",
+            "type": "quoted"
+          },
+          {
+            "id": "2046483748053807320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawainegi https://t.co/IUud4yPDEl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2046485451431874632",
+        "created_at": "2026-04-21T07:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046485451431874632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2046483748053807320",
+              "start": 8,
+              "url": "https://t.co/xN4yRhjG29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046485451431874632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046483748053807320",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗚呼 嫉妬嫉妬 https://t.co/xN4yRhjG29"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046483732375465985"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046483748053807320",
+        "created_at": "2026-04-21T06:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T07:57:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046483554587299859",
+          "2046483748053807320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "2006749860863815682",
+              "start": 22,
+              "username": "kawainegi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n7kjzYquKg",
+              "end": 56,
+              "expanded_url": "https://x.com/nyaepheia/status/2046483748053807320/photo/1",
+              "media_key": "3_2046483732375465985",
+              "start": 33,
+              "url": "https://t.co/n7kjzYquKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046483748053807320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么顺女都这么pass \n🤔😭😭😭\nby @kawainegi https://t.co/n7kjzYquKg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 733,
+          "like_count": 15840,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2436
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 84,
+          "like_count": 2113,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 342
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2053465464970391887",
+    "created_at": "2026-05-11T11:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T12:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053798191255191766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1756274586650390528",
+          "start": 0,
+          "username": "shandonghanxue"
+        },
+        {
+          "end": 29,
+          "id": "245354027",
+          "start": 16,
+          "username": "RebelCartoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053798191255191766",
+    "in_reply_to_user_id": "1756274586650390528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053477981465833503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shandonghanxue @RebelCartoon 其实是常识。。。朝鲜的名字是朝鲜民主主义人民共和国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2053465464970391887",
+        "created_at": "2026-05-11T11:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053798191255191766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1756274586650390528",
+              "start": 0,
+              "username": "shandonghanxue"
+            },
+            {
+              "end": 29,
+              "id": "245354027",
+              "start": 16,
+              "username": "RebelCartoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053798191255191766",
+        "in_reply_to_user_id": "1756274586650390528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053477981465833503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shandonghanxue @RebelCartoon 其实是常识。。。朝鲜的名字是朝鲜民主主义人民共和国"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756274586650390528",
+        "conversation_id": "2053465464970391887",
+        "created_at": "2026-05-10T14:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053477981465833503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "245354027",
+              "start": 0,
+              "username": "RebelCartoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053477981465833503",
+        "in_reply_to_user_id": "245354027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 281,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053465464970391887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RebelCartoon 其实是常识。。。纳粹的名字就是社会主义工人党"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 803,
+          "like_count": 20522,
+          "listed_count": 3,
+          "media_count": 280,
+          "tweet_count": 3606
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-10T11:11:45.000Z",
+        "description": "",
+        "id": "1756274586650390528",
+        "name": "韩雪滢vs支猪群体",
+        "pinned_tweet_id": "1756278822117196029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756277288721612800/sFKC8iEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 17,
+          "like_count": 324,
+          "listed_count": 13,
+          "media_count": 13,
+          "tweet_count": 7789
+        },
+        "username": "shandonghanxue",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-31T14:05:50.000Z",
+        "description": "创作者| 政治漫画家| AI动画创作中| 六四系列单页漫画创作中| 欢迎关注！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/rebelpepper",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/rebelpepper",
+                "start": 0,
+                "url": "https://t.co/2ROJHYmpP1"
+              }
+            ]
+          }
+        },
+        "id": "245354027",
+        "location": "Frederick, MD",
+        "name": "变态辣椒RebelPepper",
+        "pinned_tweet_id": "2050907050507436116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036564353558728705/vF8ksRFK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477526,
+          "following_count": 318,
+          "like_count": 559,
+          "listed_count": 1978,
+          "media_count": 8440,
+          "tweet_count": 25980
+        },
+        "url": "https://t.co/2ROJHYmpP1",
+        "username": "RebelCartoon",
+        "verified": true
+      }
+    ]
+  }
+}

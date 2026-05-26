@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2045649828840120756",
+    "created_at": "2026-04-19T02:11:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T03:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045686716867174572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochicqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045686716867174572",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045649828840120756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochicqwq 诶...为什么会同意hrt 不同意女装🤔（？）\n一般家长不都是认为女装之类的可逆所以没问题但hrt 「不可逆」所以比较谨慎吗（？）\n\n很想知道为什么家长会在同意hrt 的情况下不同意女装（？）或许可以争取一下？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2045574292700876800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGNW-zYbUAAvti0.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2712,
+        "media_key": "3_2045574292637962240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGNW-zJbUAAbJOn.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2045649828840120756",
+        "created_at": "2026-04-19T02:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045686716867174572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045686716867174572",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045649828840120756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochicqwq 诶...为什么会同意hrt 不同意女装🤔（？）\n一般家长不都是认为女装之类的可逆所以没问题但hrt 「不可逆」所以比较谨慎吗（？）\n\n很想知道为什么家长会在同意hrt 的情况下不同意女装（？）或许可以争取一下？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045574292700876800",
+            "3_2045574292637962240"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2045649828840120756",
+        "created_at": "2026-04-18T23:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T00:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045649828840120756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6SJucOdSMY",
+              "end": 87,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2045649828840120756/photo/1",
+              "media_key": "3_2045574292700876800",
+              "start": 64,
+              "url": "https://t.co/6SJucOdSMY"
+            },
+            {
+              "display_url": "pic.x.com/6SJucOdSMY",
+              "end": 87,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2045649828840120756/photo/1",
+              "media_key": "3_2045574292637962240",
+              "start": 64,
+              "url": "https://t.co/6SJucOdSMY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045649828840120756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.不知道诶\n2.我这个“家长党”仅限于同意hrt。我甚至没女装过。我觉得「家长党」应该是那种非常努力去理解而且同意srs的吧 https://t.co/6SJucOdSMY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 713,
+          "like_count": 15161,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2269
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2044830334324457745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 423,
+          "like_count": 1729,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1065
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

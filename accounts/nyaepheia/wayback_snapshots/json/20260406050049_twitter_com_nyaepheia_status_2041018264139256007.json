@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2041018058970718544",
+    "created_at": "2026-04-06T05:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041018264139256007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041018264139256007",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041018058970718544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI 这集神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_2039512464686268416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3Nx-SbQAAyjpb.jpg",
+        "width": 600
+      },
+      {
+        "height": 543,
+        "media_key": "3_2039512479039172608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3NyzwbMAAHZRW.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2041018058970718544",
+        "created_at": "2026-04-06T05:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041018264139256007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041018264139256007",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041018058970718544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI 这集神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039512464686268416",
+            "3_2039512479039172608"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2041018058970718544",
+        "created_at": "2026-04-06T05:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041018058970718544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/flGGsouSgl",
+              "end": 25,
+              "expanded_url": "https://x.com/BI3BXI/status/2041018058970718544/photo/1",
+              "media_key": "3_2039512464686268416",
+              "start": 2,
+              "url": "https://t.co/flGGsouSgl"
+            },
+            {
+              "display_url": "pic.x.com/flGGsouSgl",
+              "end": 25,
+              "expanded_url": "https://x.com/BI3BXI/status/2041018058970718544/photo/1",
+              "media_key": "3_2039512479039172608",
+              "start": 2,
+              "url": "https://t.co/flGGsouSgl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041018058970718544",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "? https://t.co/flGGsouSgl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好/Transfeminine Non-binary? Queer? MtF?MtX? transles?/she/they/hrt26.4.1/家长党/天残党/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2040696789003809003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 591,
+          "like_count": 7543,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 582
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Premium+用户｜Enby🏳️‍⚧️｜❤️@Show5560｜杂鱼@Lingjiaxin233｜日常在@yqua_｜Sister @Tennoujinyano｜Work for @snowfairy011026｜小说见文章栏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "Show5560"
+              },
+              {
+                "end": 49,
+                "start": 35,
+                "username": "Lingjiaxin233"
+              },
+              {
+                "end": 59,
+                "start": 53,
+                "username": "yqua_"
+              },
+              {
+                "end": 81,
+                "start": 67,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "snowfairy011026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "喝味全的味铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8375,
+          "following_count": 3905,
+          "like_count": 39028,
+          "listed_count": 21,
+          "media_count": 2400,
+          "tweet_count": 9393
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

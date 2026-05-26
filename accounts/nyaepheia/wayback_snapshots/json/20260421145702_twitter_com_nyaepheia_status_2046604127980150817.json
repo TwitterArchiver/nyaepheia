@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046593499408269783",
+    "created_at": "2026-04-21T14:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046604127980150817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1657175394267848704",
+          "start": 0,
+          "username": "Zh40Le1ZOOB"
+        },
+        {
+          "end": 21,
+          "id": "1568953331514757121",
+          "start": 13,
+          "username": "yyjet28"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/nyaepheia/stat…",
+          "end": 84,
+          "expanded_url": "https://x.com/nyaepheia/status/2046465196655530274",
+          "start": 61,
+          "url": "https://t.co/IuSnqtIM1j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046604127980150817",
+    "in_reply_to_user_id": "1657175394267848704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046465196655530274",
+        "type": "quoted"
+      },
+      {
+        "id": "2046603504173945051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zh40Le1ZOOB @yyjet28 虽然我不反对您的大部分观点，但我依然认为雌二醇不同于常见的od 药物\n请参考：https://t.co/IuSnqtIM1j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046593499408269783",
+        "created_at": "2026-04-21T14:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046604127980150817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1657175394267848704",
+              "start": 0,
+              "username": "Zh40Le1ZOOB"
+            },
+            {
+              "end": 21,
+              "id": "1568953331514757121",
+              "start": 13,
+              "username": "yyjet28"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 84,
+              "expanded_url": "https://x.com/nyaepheia/status/2046465196655530274",
+              "start": 61,
+              "url": "https://t.co/IuSnqtIM1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046604127980150817",
+        "in_reply_to_user_id": "1657175394267848704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046465196655530274",
+            "type": "quoted"
+          },
+          {
+            "id": "2046603504173945051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zh40Le1ZOOB @yyjet28 虽然我不反对您的大部分观点，但我依然认为雌二醇不同于常见的od 药物\n请参考：https://t.co/IuSnqtIM1j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046198805994082542",
+        "created_at": "2026-04-21T05:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T06:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046465196655530274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459391643988082701",
+              "start": 0,
+              "username": "umi_hoxi"
+            },
+            {
+              "end": 23,
+              "id": "2039072056063541248",
+              "start": 10,
+              "username": "rosensmarked"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046465196655530274",
+        "in_reply_to_user_id": "1459391643988082701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "transcare.ucsf.edu/guidelines/fem…",
+                "end": 199,
+                "expanded_url": "https://transcare.ucsf.edu/guidelines/feminizing-hormone-therapy",
+                "start": 176,
+                "url": "https://t.co/EftVKB4KEm"
+              },
+              {
+                "display_url": "academic.oup.com/jcem/article/1…",
+                "end": 441,
+                "expanded_url": "https://academic.oup.com/jcem/article/102/11/3869/4157558",
+                "start": 418,
+                "url": "https://t.co/xEIDiYvRRs"
+              },
+              {
+                "display_url": "wpath.org/publications/s…",
+                "end": 558,
+                "expanded_url": "https://wpath.org/publications/soc8/",
+                "start": 535,
+                "url": "https://t.co/Ymk0et38ke"
+              },
+              {
+                "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC83…",
+                "end": 712,
+                "expanded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8363983/",
+                "start": 689,
+                "url": "https://t.co/LCz8MZyHHu"
+              }
+            ]
+          },
+          "text": "是这样的，od 的药品首先要有娱乐性，其次一般有成瘾性（并不绝对），\n但雌二醇两者都没有\n除非对于mtf 群体，雌二醇可以缓解性别焦虑，但即使这样，过量服用帮助也不大，甚至通常是有害的。HRT 应该在医生指导或完备的医学知识下进行。\n\n您可以参考下面的资料：\nUCSF Guidelines on Feminizing Hormone Therapy：https://t.co/EftVKB4KEm\n“There is no evidence that higher estradiol levels... results in additional feminization... higher doses... can result in more side effects or complications.”e6d2d5\nEndocrine Society Clinical Practice Guideline (2017)：https://t.co/xEIDiYvRRs\n目标为将雌二醇维持在生理范围（峰值100–200 pg/mL），避免超生理水平以减少血栓、心血管等风险。546ded\nWPATH Standards of Care Version 8：https://t.co/Ymk0et38ke\n推荐针对生理范围的雌二醇水平，明确反对使用超生理雌二醇水平（>200 pg/mL），因缺乏额外获益且存在潜在风险。035c1c\nPMC Review on Serum Estradiol Concentrations in Transgender Women：https://t.co/LCz8MZyHHu\n“The risks of escalating estradiol dose... must be weighed against potential adverse events” including increased venous thromboembolism and other complications.9aeb99"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046462273536020809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umi_hoxi @rosensmarked 是这样的，od 的药品首先要有娱乐性，其次一般有成瘾性（并不绝对），\n但雌二醇两者都没有\n除非对于mtf 群体，雌二醇可以缓解性别焦虑，但即使这样，过量服用帮助也不大，甚至通常是有害的。HRT 应该在医生指导或完备的医学知识下进行。\n\n您可以参考下面的资料：\nUCSF Guidelines on Feminizing"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657175394267848704",
+        "conversation_id": "2046593499408269783",
+        "created_at": "2026-04-21T14:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046603504173945051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1568953331514757121",
+              "start": 0,
+              "username": "yyjet28"
+            },
+            {
+              "end": 19,
+              "id": "1608637128132685825",
+              "start": 9,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046603504173945051",
+        "in_reply_to_user_id": "1568953331514757121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046602567862620364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyjet28 @nyaepheia 不同的语境也有泛用性，磕雌二醇就不是缓解精神痛苦了？，说 Drug Abuse 就说 Drug Abuse，别拿 Overdose 当挡箭牌，从 Drug Abuse 往下说，你管得着人家怎么用药？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 740,
+          "like_count": 16159,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2547
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-13T00:10:35.000Z",
+        "description": "I am Locutus of Borg. Resistance is futile.｜检测到粉蛆或关注粉蛆账号自动屏蔽｜邮箱：mtf@ik.me 或 progynova@duck.com（马甲）｜Telegram：下方链接｜如有紧急情况请直接 Telegram Call",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Zh40Le1ZOOB.t.me",
+                "end": 23,
+                "expanded_url": "https://Zh40Le1ZOOB.t.me",
+                "start": 0,
+                "url": "https://t.co/pbaTs1VNGb"
+              }
+            ]
+          }
+        },
+        "id": "1657175394267848704",
+        "name": "org.z.nixpkgs.command_block",
+        "pinned_tweet_id": "2041170735167848697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 755,
+          "like_count": 7298,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 5940
+        },
+        "url": "https://t.co/pbaTs1VNGb",
+        "username": "Zh40Le1ZOOB",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-11T13:23:34.000Z",
+        "description": "锦瑟无端五十弦，一弦一柱思华年",
+        "id": "1568953331514757121",
+        "location": "B612",
+        "name": "锦师傅祝大家愚人节快乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635316116502499329/Sypp2500_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 590,
+          "like_count": 1016,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1497
+        },
+        "username": "yyjet28",
+        "verified": false
+      }
+    ]
+  }
+}

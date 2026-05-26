@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2045516989872111891",
+    "created_at": "2026-04-18T14:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T15:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045516989872111891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CyberKanjousen…",
+          "end": 137,
+          "expanded_url": "https://twitter.com/CyberKanjousen/status/2045463401472967095",
+          "start": 114,
+          "url": "https://t.co/GeVRnBpwuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045516989872111891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045463401472967095",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶 我要不负责任地幸灾乐祸一下。 \n我很早就不喜欢那种商业公司推出的闭源SaaS 情感陪伴类AI App，因为显然隐私安全和自由度都有很大问题。现在他们不得不做KYC，这样会降低用户体验，导致大家更倾向使用自建可控的开源替代。 https://t.co/GeVRnBpwuk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_2045463393914744832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLyHpNacAAQnhF.jpg",
+        "width": 1237
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2045516989872111891",
+        "created_at": "2026-04-18T14:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045516989872111891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2045463401472967095",
+              "start": 114,
+              "url": "https://t.co/GeVRnBpwuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045516989872111891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045463401472967095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶 我要不负责任地幸灾乐祸一下。 \n我很早就不喜欢那种商业公司推出的闭源SaaS 情感陪伴类AI App，因为显然隐私安全和自由度都有很大问题。现在他们不得不做KYC，这样会降低用户体验，导致大家更倾向使用自建可控的开源替代。 https://t.co/GeVRnBpwuk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045463393914744832"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2045463401472967095",
+        "created_at": "2026-04-18T11:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045463401472967095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H2lG57v00k",
+              "end": 23,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2045463401472967095/photo/1",
+              "media_key": "3_2045463393914744832",
+              "start": 0,
+              "url": "https://t.co/H2lG57v00k"
+            },
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/aoim33/status/2045455591964062106",
+              "start": 24,
+              "url": "https://t.co/Xjd84IGe8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045463401472967095",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 17326,
+          "like_count": 200,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045455591964062106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/H2lG57v00k https://t.co/Xjd84IGe8O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 711,
+          "like_count": 15045,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2236
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@HoroyoiBerry 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "HoroyoiBerry"
+              },
+              {
+                "end": 162,
+                "start": 148,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 114,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 91,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 144,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 121,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2043213232698196203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 503,
+          "like_count": 13622,
+          "listed_count": 5,
+          "media_count": 863,
+          "tweet_count": 4543
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2049037596161130774",
+    "created_at": "2026-04-29T07:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T08:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049385120147316863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2818193140",
+          "start": 0,
+          "username": "YureiKurosawa"
+        },
+        {
+          "end": 31,
+          "id": "1626918997559242753",
+          "start": 15,
+          "username": "sushibaeTokuDev"
+        },
+        {
+          "end": 48,
+          "id": "1703963332020146176",
+          "start": 32,
+          "username": "The_RadicalDino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049385120147316863",
+    "in_reply_to_user_id": "2818193140",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "First of all, do you live in China?\nYou probably already know from other sources that China is a country that says one thing and does another, so don’t pay attention to what they say.\nI have another question: transgender medical treatment involves many different stages. Which stage are you referring to when you mention parental consent?"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049382527840747600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YureiKurosawa @sushibaeTokuDev @The_RadicalDino First of all, do you live in China?\nYou probably already know from other sources that China is a country that says one thing and does another, so don’t pay attention to what they say.\nI have another question: transgender medical treatment involves many different stages. Which"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2049037596161130774",
+        "created_at": "2026-04-29T07:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049385120147316863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2818193140",
+              "start": 0,
+              "username": "YureiKurosawa"
+            },
+            {
+              "end": 31,
+              "id": "1626918997559242753",
+              "start": 15,
+              "username": "sushibaeTokuDev"
+            },
+            {
+              "end": 48,
+              "id": "1703963332020146176",
+              "start": 32,
+              "username": "The_RadicalDino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049385120147316863",
+        "in_reply_to_user_id": "2818193140",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "First of all, do you live in China?\nYou probably already know from other sources that China is a country that says one thing and does another, so don’t pay attention to what they say.\nI have another question: transgender medical treatment involves many different stages. Which stage are you referring to when you mention parental consent?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049382527840747600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YureiKurosawa @sushibaeTokuDev @The_RadicalDino First of all, do you live in China?\nYou probably already know from other sources that China is a country that says one thing and does another, so don’t pay attention to what they say.\nI have another question: transgender medical treatment involves many different stages. Which"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2818193140",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "#GOPDebate is happening! Explore the latest Tweets, must-see highlights, and the can’t-miss moments right here.\n\n",
+              "id": "1722429172528611328",
+              "name": "3rd US Republican Primary Debate 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "#GOPDebate is happening! Explore the latest Tweets, must-see highlights, and the can’t-miss moments right here.\n\n",
+              "id": "1729551200817717248",
+              "name": "4th US Republican Primary Debate 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          }
+        ],
+        "conversation_id": "2049037596161130774",
+        "created_at": "2026-04-29T06:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049382527840747600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 27,
+              "id": "1626918997559242753",
+              "start": 11,
+              "username": "sushibaeTokuDev"
+            },
+            {
+              "end": 44,
+              "id": "1703963332020146176",
+              "start": 28,
+              "username": "The_RadicalDino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049382527840747600",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049368517665821167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @sushibaeTokuDev @The_RadicalDino hold on. the parental concent even as an adult was ruled out in 2022, there are conservative areas where hospital staff may request it but getting papers to confirm its no longer an official requirement is now an option. and healthcare does cover SSR, just not 100% cost"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好|不OD\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "watakushi@desuwa.org",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 761,
+          "like_count": 18105,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2993
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-09T03:00:25.000Z",
+        "description": "Just a random girl looking for cute stuff, funny people and memes\n\nTrans🏳️‍⚧️\nAutistic 🧩\nOcacional AgeRe 👼",
+        "id": "2818193140",
+        "location": "Zapopan, Jalisco - Mexico",
+        "name": "Yūrei",
+        "pinned_tweet_id": "1545730993801367552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651066180558376961/qdm2ZVUm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 718,
+          "like_count": 21427,
+          "listed_count": 10,
+          "media_count": 3163,
+          "tweet_count": 14507
+        },
+        "username": "YureiKurosawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-18T12:18:45.000Z",
+        "description": "A dying Korean mother doing the best she can to live her life to the fullest.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.net/@djsh.inpresre…",
+                "end": 23,
+                "expanded_url": "https://www.threads.net/@djsh.inpresrepkor",
+                "start": 0,
+                "url": "https://t.co/kk3z9dTj9o"
+              }
+            ]
+          }
+        },
+        "id": "1626918997559242753",
+        "location": "Tokyo, Japan",
+        "name": "배스시, Zainichi Korean Game Developer",
+        "pinned_tweet_id": "2049112181032329240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117363173470208/TkBWGWnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 996,
+          "like_count": 18454,
+          "listed_count": 6,
+          "media_count": 1420,
+          "tweet_count": 12174
+        },
+        "url": "https://t.co/kk3z9dTj9o",
+        "username": "sushibaeTokuDev",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T02:45:23.000Z",
+        "description": "They/He\nThe Lord of Shang-Yang!\nChinese Libertarian Socialist who's also a Zoologist! \nConservation, Zoology, and Political Philosophy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@TheRadicalDin…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@TheRadicalDino?si=PmyaI9AwRSrJVOTB",
+                "start": 0,
+                "url": "https://t.co/MAnua6sdOJ"
+              }
+            ]
+          }
+        },
+        "id": "1703963332020146176",
+        "location": "Shang-Yang, Western Provinces",
+        "name": "The RadicalDino",
+        "pinned_tweet_id": "1881081013289529702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705807724054020096/43vUbgkn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2922,
+          "following_count": 1111,
+          "like_count": 390402,
+          "listed_count": 15,
+          "media_count": 1169,
+          "tweet_count": 18098
+        },
+        "url": "https://t.co/MAnua6sdOJ",
+        "username": "The_RadicalDino",
+        "verified": false
+      }
+    ]
+  }
+}

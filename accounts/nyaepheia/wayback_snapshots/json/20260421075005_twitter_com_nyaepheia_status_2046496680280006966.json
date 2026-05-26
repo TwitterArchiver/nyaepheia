@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2046496680280006966",
+    "created_at": "2026-04-21T07:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T08:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046496680280006966"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 6,
+          "tag": "自杀干预"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/kaixinua/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/kaixinua/status/2046476386182086733",
+          "start": 12,
+          "url": "https://t.co/u8H2q3EQPo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046496680280006966",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046476386182086733",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "救救她。\n\n#自杀干预 https://t.co/u8H2q3EQPo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046476374077222912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGaLa2YaMAA2RIM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2046496680280006966",
+        "created_at": "2026-04-21T07:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046496680280006966"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "自杀干预"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kaixinua/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/kaixinua/status/2046476386182086733",
+              "start": 12,
+              "url": "https://t.co/u8H2q3EQPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046496680280006966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046476386182086733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "救救她。\n\n#自杀干预 https://t.co/u8H2q3EQPo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046476374077222912"
+          ]
+        },
+        "author_id": "1759983760152637440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046476386182086733",
+        "created_at": "2026-04-21T06:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T07:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046476386182086733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iaodtJBOcY",
+              "end": 27,
+              "expanded_url": "https://x.com/kaixinua/status/2046476386182086733/photo/1",
+              "media_key": "3_2046476374077222912",
+              "start": 4,
+              "url": "https://t.co/iaodtJBOcY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046476386182086733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再见😊 https://t.co/iaodtJBOcY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|✨she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 733,
+          "like_count": 15871,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2450
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T16:50:15.000Z",
+        "description": "酗酒，割手样样俱全（求求互fo🥺",
+        "id": "1759983760152637440",
+        "location": "mars",
+        "name": "kaikaixin🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759984206468222976/03bgRFtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 390,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 223
+        },
+        "username": "kaixinua",
+        "verified": false
+      }
+    ]
+  }
+}

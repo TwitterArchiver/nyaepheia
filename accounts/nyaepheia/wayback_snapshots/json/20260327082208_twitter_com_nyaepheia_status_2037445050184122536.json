@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2037445050184122536",
+    "created_at": "2026-03-27T08:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T09:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037445050184122536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "860565621452316672",
+          "start": 3,
+          "username": "GoogleResearch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037445050184122536",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5408
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036533564158910740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GoogleResearch: Introducing TurboQuant: Our new compression algorithm that reduces LLM key-value cache memory by at least 6x and delive…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "16_2036533525231575040",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HEM4c4CaIAAUm55.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HEM4c4CaIAAUm55.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2037445050184122536",
+        "created_at": "2026-03-27T08:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037445050184122536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "860565621452316672",
+              "start": 3,
+              "username": "GoogleResearch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037445050184122536",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5408
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036533564158910740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GoogleResearch: Introducing TurboQuant: Our new compression algorithm that reduces LLM key-value cache memory by at least 6x and delive…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2036533525231575040"
+          ]
+        },
+        "author_id": "860565621452316672",
+        "conversation_id": "2036533564158910740",
+        "created_at": "2026-03-24T20:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T21:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036533564158910740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "We introduce a set of advanced theoretically grounded quantization algorithms that enable massive compression for large language models and vector search engines. Vectors are the fundamental way AI models understand and process information. Small vectors describe simple attributes, such as a point in a graph, while “high-dimensional” vectors capture complex information such as the features of an image, the meaning of a word, or the properties of a dataset. High-dimensional vectors are incredibly powerful,",
+              "display_url": "goo.gle/4bsq2qI",
+              "end": 272,
+              "expanded_url": "http://goo.gle/4bsq2qI",
+              "images": [
+                {
+                  "height": 420,
+                  "url": "https://pbs.twimg.com/news_img/2036532474801446913/nqGehGVE?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2036532474801446913/nqGehGVE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 249,
+              "status": 200,
+              "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+              "unwound_url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/?utm_source=twitter&utm_medium=social&utm_campaign=social_post&utm_content=gr-acct",
+              "url": "https://t.co/CDSQ8HpZoc"
+            },
+            {
+              "display_url": "pic.x.com/9SJeMqCMlN",
+              "end": 296,
+              "expanded_url": "https://x.com/GoogleResearch/status/2036533564158910740/photo/1",
+              "media_key": "16_2036533525231575040",
+              "start": 273,
+              "url": "https://t.co/9SJeMqCMlN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036533564158910740",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21777,
+          "impression_count": 17584405,
+          "like_count": 36932,
+          "quote_count": 2230,
+          "reply_count": 898,
+          "retweet_count": 5408
+        },
+        "reply_settings": "everyone",
+        "text": "Introducing TurboQuant: Our new compression algorithm that reduces LLM key-value cache memory by at least 6x and delivers up to 8x speedup, all with zero accuracy loss, redefining AI efficiency. Read the blog to learn how it achieves these results: https://t.co/CDSQ8HpZoc https://t.co/9SJeMqCMlN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+全友好 | 09 | 文科生 | MtF/MtX? | she/they | 无糖 | (半个)家长党 | 天残党 | Vibe coding | 搭网站 | 成分不明的可能会直接ban\nhttps://t.co/pke4ezHBE3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "desuwa.org/about/me/x",
+                "end": 141,
+                "expanded_url": "http://desuwa.org/about/me/x",
+                "start": 118,
+                "url": "https://t.co/pke4ezHBE3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 457,
+          "like_count": 5079,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-05T18:43:27.000Z",
+        "description": "Impossible? Let’s see. From algorithms to neuroscience to AI, Google Research strives to progress science, advance society & improve billions of people’s lives.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "research.google",
+                "end": 23,
+                "expanded_url": "http://research.google",
+                "start": 0,
+                "url": "https://t.co/XGGQLnl2Ed"
+              }
+            ]
+          }
+        },
+        "id": "860565621452316672",
+        "name": "Google Research",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929964199956062208/Cv3ZuT1w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80910,
+          "following_count": 17,
+          "like_count": 147,
+          "listed_count": 632,
+          "media_count": 249,
+          "tweet_count": 359
+        },
+        "url": "https://t.co/XGGQLnl2Ed",
+        "username": "GoogleResearch",
+        "verified": true
+      }
+    ]
+  }
+}

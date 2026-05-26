@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2045511237182869807",
+    "created_at": "2026-04-19T07:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T08:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045761769692651836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2014015286635327488",
+          "start": 0,
+          "username": "m781145"
+        },
+        {
+          "end": 24,
+          "id": "1918274202580467713",
+          "start": 9,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20457…",
+          "end": 94,
+          "expanded_url": "https://x.com/i/status/2045716082124878298",
+          "start": 71,
+          "url": "https://t.co/rSYZ7INjL4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045761769692651836",
+    "in_reply_to_user_id": "2014015286635327488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045716082124878298",
+        "type": "quoted"
+      },
+      {
+        "id": "2045710660441645439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m781145 @CyberKanjousen 但是木柜子确实是对MyGO 系列的蔑称（刚刚表述为Mujica 是我表述的不准确）\nFYI：https://t.co/rSYZ7INjL4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2051,
+        "media_key": "3_2045716079784378368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPX75baQAAIn0X.jpg",
+        "width": 1244
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045710648311758848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPS_vnbQAABA9a.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045710648357855232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPS_vyaoAA4oEU.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2045511237182869807",
+        "created_at": "2026-04-19T07:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045761769692651836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2014015286635327488",
+              "start": 0,
+              "username": "m781145"
+            },
+            {
+              "end": 24,
+              "id": "1918274202580467713",
+              "start": 9,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20457…",
+              "end": 94,
+              "expanded_url": "https://x.com/i/status/2045716082124878298",
+              "start": 71,
+              "url": "https://t.co/rSYZ7INjL4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045761769692651836",
+        "in_reply_to_user_id": "2014015286635327488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045716082124878298",
+            "type": "quoted"
+          },
+          {
+            "id": "2045710660441645439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m781145 @CyberKanjousen 但是木柜子确实是对MyGO 系列的蔑称（刚刚表述为Mujica 是我表述的不准确）\nFYI：https://t.co/rSYZ7INjL4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045716079784378368"
+          ]
+        },
+        "author_id": "1689907138116681728",
+        "conversation_id": "2045511237182869807",
+        "created_at": "2026-04-19T04:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045716082124878298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2014015286635327488",
+              "start": 0,
+              "username": "m781145"
+            },
+            {
+              "end": 19,
+              "id": "1608637128132685825",
+              "start": 9,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 35,
+              "id": "1918274202580467713",
+              "start": 20,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yxwdi7AZqh",
+              "end": 59,
+              "expanded_url": "https://x.com/wzsgsb93589/status/2045716082124878298/photo/1",
+              "media_key": "3_2045716079784378368",
+              "start": 36,
+              "url": "https://t.co/yxwdi7AZqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045716082124878298",
+        "in_reply_to_user_id": "2014015286635327488",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045710660441645439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m781145 @nyaepheia @CyberKanjousen https://t.co/yxwdi7AZqh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045710648311758848",
+            "3_2045710648357855232"
+          ]
+        },
+        "author_id": "2014015286635327488",
+        "conversation_id": "2045511237182869807",
+        "created_at": "2026-04-19T03:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T04:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045710660441645439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 26,
+              "id": "1918274202580467713",
+              "start": 11,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cCcX5D1E5Y",
+              "end": 195,
+              "expanded_url": "https://x.com/m781145/status/2045710660441645439/photo/1",
+              "media_key": "3_2045710648311758848",
+              "start": 172,
+              "url": "https://t.co/cCcX5D1E5Y"
+            },
+            {
+              "display_url": "pic.x.com/cCcX5D1E5Y",
+              "end": 195,
+              "expanded_url": "https://x.com/m781145/status/2045710660441645439/photo/1",
+              "media_key": "3_2045710648357855232",
+              "start": 172,
+              "url": "https://t.co/cCcX5D1E5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045710660441645439",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045674591813787706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @CyberKanjousen 不是，我什么时候说Mujica是辱华动漫了你扣什么帽子？我不都说了吗看个日漫就骂别人是鬼子很傻逼你阅读理解没做过吗？\n女柜子这个词最早是有人出英雄学院的COS才有的其他的说法我确实没听说过那要不你说说这个词最早怎么来的呢？像什么有人说进击巨人东京喰种啥的，说是辱华动漫确实是恶意解读唐完了 https://t.co/cCcX5D1E5Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 713,
+          "like_count": 15181,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2272
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-21T16:40:55.000Z",
+        "description": "",
+        "id": "2014015286635327488",
+        "name": "片警别搞我：（",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014391967531347968/R5gEAODd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 33,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "username": "m781145",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@CyberRazuberii 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "CyberRazuberii"
+              },
+              {
+                "end": 164,
+                "start": 150,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 116,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 93,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 146,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 123,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2043213232698196203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 518,
+          "like_count": 13790,
+          "listed_count": 5,
+          "media_count": 869,
+          "tweet_count": 4567
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-11T07:51:36.000Z",
+        "description": "来自东京希望峰学园的超高校级的游戏玩家 ｜ 🥰@dreamvile19467 ｜小号@svx1011733",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "dreamvile19467"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "svx1011733"
+              }
+            ]
+          }
+        },
+        "id": "1689907138116681728",
+        "location": "私立希望之峰学园",
+        "name": "七海千秋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041790848522964992/4NdoR-oD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 660,
+          "like_count": 36755,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1711
+        },
+        "username": "wzsgsb93589",
+        "verified": false
+      }
+    ]
+  }
+}

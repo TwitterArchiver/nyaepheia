@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036024838045962240"
+      ],
+      "media_source_tweet_id": [
+        "2036024846963081557"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2036160371971727749",
+    "created_at": "2026-03-23T19:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T20:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036160371971727749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1662058783215087617",
+          "start": 3,
+          "username": "HacchiTheMaid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vK5mHuhJzk",
+          "end": 137,
+          "expanded_url": "https://x.com/HacchiTheMaid/status/2036024846963081557/photo/1",
+          "media_key": "3_2036024838045962240",
+          "start": 114,
+          "url": "https://t.co/vK5mHuhJzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036160371971727749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036024846963081557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HacchiTheMaid: 色情片搞坏了我的大脑。我觉得自己就像个想变成女人的变态同性恋，因为我就是个怪胎。我只是个没有性生活的失败者。妈妈，我需要你在我的生活中。\n我很喜欢你，我很同情你，我们是好朋友，我们一起面对 https://t.co/vK5mHuhJzk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1647,
+        "media_key": "3_2036024838045962240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFpzYmaEAAMWET.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036024838045962240"
+          ],
+          "media_source_tweet_id": [
+            "2036024846963081557"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2036160371971727749",
+        "created_at": "2026-03-23T19:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T20:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036160371971727749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1662058783215087617",
+              "start": 3,
+              "username": "HacchiTheMaid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vK5mHuhJzk",
+              "end": 137,
+              "expanded_url": "https://x.com/HacchiTheMaid/status/2036024846963081557/photo/1",
+              "media_key": "3_2036024838045962240",
+              "start": 114,
+              "url": "https://t.co/vK5mHuhJzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036160371971727749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036024846963081557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HacchiTheMaid: 色情片搞坏了我的大脑。我觉得自己就像个想变成女人的变态同性恋，因为我就是个怪胎。我只是个没有性生活的失败者。妈妈，我需要你在我的生活中。\n我很喜欢你，我很同情你，我们是好朋友，我们一起面对 https://t.co/vK5mHuhJzk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036024838045962240"
+          ]
+        },
+        "author_id": "1662058783215087617",
+        "conversation_id": "2036024846963081557",
+        "created_at": "2026-03-23T10:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036024846963081557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vK5mHuhJzk",
+              "end": 118,
+              "expanded_url": "https://x.com/HacchiTheMaid/status/2036024846963081557/photo/1",
+              "media_key": "3_2036024838045962240",
+              "start": 95,
+              "url": "https://t.co/vK5mHuhJzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036024846963081557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 9139,
+          "like_count": 113,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "色情片搞坏了我的大脑。我觉得自己就像个想变成女人的变态同性恋，因为我就是个怪胎。我只是个没有性生活的失败者。妈妈，我需要你在我的生活中。\n我很喜欢你，我很同情你，我们是好朋友，我们一起面对 https://t.co/vK5mHuhJzk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBTQ+友好 | 09 | 文科生 | MtF/MtX? | she/they | 暂未HRT | (半个)家长党 | 天残党 | Vibe coding | 搭网站 | 成分不明的可能会直接ban",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://2345.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/L10yLVGqJ1"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 406,
+          "like_count": 4776,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 117
+        },
+        "url": "https://t.co/L10yLVGqJ1",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。狗狗@Sorsacerba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Sorsacerba"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi🏳️‍⚧️",
+        "pinned_tweet_id": "1927301590777479428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9719,
+          "following_count": 1986,
+          "like_count": 52621,
+          "listed_count": 31,
+          "media_count": 1339,
+          "tweet_count": 36483
+        },
+        "username": "HacchiTheMaid",
+        "verified": false
+      }
+    ]
+  }
+}

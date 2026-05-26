@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2041729579094831300",
+    "created_at": "2026-04-08T04:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041731283672355034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041731283672355034",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041729579094831300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 这他妈到底是啥啊\n把词元和令牌完全混在一起了...\n\n巨大的草台班子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1964,
+        "media_key": "3_2041729554885300224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWuNm5a0AAL5ee.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2041729579094831300",
+        "created_at": "2026-04-08T04:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041731283672355034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041731283672355034",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041729579094831300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 这他妈到底是啥啊\n把词元和令牌完全混在一起了...\n\n巨大的草台班子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041729554885300224"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2041729579094831300",
+        "created_at": "2026-04-08T04:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041729579094831300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrAIrPb07M",
+              "end": 99,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2041729579094831300/photo/1",
+              "media_key": "3_2041729554885300224",
+              "start": 76,
+              "url": "https://t.co/VrAIrPb07M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041729579094831300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "「囤“词元”能暴富？国安部提醒」\n新华社\n省流：「词元（Token）」是货币、凭证、信号，而不是模型处理文本的基本单位（如词或字符片段）。\n原文：\n「\n近期，国家数据局正式定名的AI领域核心术语——词元（Token）成为网络热词。据统计，截至今年3月，我国日均词元调用量已超过140万亿，较2024年初增长1000多倍。“词元”这个新词实际上早已融入我们生活的方方面面。面对新技术新应用，我们既要主动拥抱、善加运用，又要防范风险、确保安全。\n\n什么是词元（Token）？\n\n简单来说，词元是AI大模型处理信息的最小单元，兼具可计量、可定价、可交易三大特征。它不仅是智能时代的价值锚点，更是连接技术供给与商业需求的“结算单位”。词元应用场景远超AI领域，与日常生活紧密相关。\n\n——身份凭证类，相当于数字世界的“临时身份证”，用于便捷登录各类平台、完成转账授权等，如微信登录第三方小程序、手机银行动态口令等，有明确有效期，兼顾便捷性与安全性。\n\n——AI场景类，即官方定名的“词元”核心应用，是使用如AI写作、修图、剪辑等AI服务的消耗性资源。\n\n——权益凭证类，可以理解成区块链场景下的“通证”，相当于数字化权益证明，如电子票、游戏皮肤、会员积分等，具有不易伪造、便于流转的特点。\n\n词元（Token）热潮下的信息安全隐患\n\n随着词元的爆火，一些不法分子开始打起了词元的主意，伺机布设各种陷阱。同时，词元本身在使用过程中也存在一定的安全风险，需要我们加以防范。\n\n——泄露劫持风险。不法分子可通过跨站脚本攻击（XSS）、公共Wi-Fi嗅探等方式，窃取、截获未加密的词元。一旦词元泄露，攻击者可直接盗用用户身份，获取隐私信息、登录账号、篡改数据，甚至实施诈骗、转账等操作，直接威胁个人财产安全。如果海量词元被汇总分析，则可能引发系统性风险，危害数据安全与国家安全。\n\n——伪造篡改风险。若词元缺乏加密或签名防护，不法分子可直接修改词元的权限字段，伪造管理员身份绕过系统验证，非法获取用户敏感隐私数据、实施越权操作。同时，不法分子还有可能制造“虚假词元”，诱导用户泄露身份证号、手机号等隐私信息。\n\n——诈骗陷阱风险。当前，各类“词元骗局”层出不穷：用低价AI词元套餐、词元投资等噱头，诱骗用户资金；冒充官方平台，以官方升级、验证为由，骗取个人隐私信息。尤其是宣称“囤词元能暴富”“场外交易赚差价”等行为，不仅涉嫌非法金融活动，还可能被境外间谍情报机关用以开展数据窃取、资金渗透，危害国家经济安全与数据安全。\n\n词元（Token）这么火，应该注意点啥？\n\n面对词元热潮，我们既要理性看待其价值，又要注意信息安全、隐私安全，提高安全防范意识，做到了解词元、善用词元。\n\n——认清词元属性。词元可作为数字身份凭证，并非投资品，防范以“词元投资”“高收益回报”“词元理财”“词元挖矿”等为噱头的各类骗局，切勿盲目购买未经官方认证的小众、虚拟词元，不随意注册来路不明的词元服务，从源头上避免因贪利、跟风导致的个人隐私信息泄露和财产损失。\n\n——强化使用规范。使用词元相关服务时，优先选择正规平台与加密传输通道，不在公共网络、不安全环境下进行登录、转账、填写隐私信息等敏感操作；不点击陌生链接，不下载非官方APP，不扫描可疑二维码，及时更新设备系统与安全软件；严格保管词元口令、授权码及绑定的手机号、身份证号等信息，开启双因素认证，不共用账号，不设置通用密码，发现账号异常立即采取改密、解绑、报备等止损措施。\n\n——遵守法律法规。面对词元等AI领域的新兴应用与概念，应保持理性认知，既不盲目追捧，也不跟风炒作，自觉遵守法律法规与监管要求，主动学习官方发布的词元安全知识与风险提示，提高辨别能力；科学区分身份凭证类、AI场景词元与区块链通证、加密货币，不参与非法加密货币交易，如遭遇诈骗、信息泄露或发现非法活动，应及时向有关部门反映。\n」"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「囤“词元”能暴富？国安部提醒」\n新华社\n省流：「词元（Token）」是货币、凭证、信号，而不是模型处理文本的基本单位（如词或字符片段）。\n原文：\n「 https://t.co/VrAIrPb07M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2041715066337452228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 618,
+          "like_count": 8791,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 973
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 101,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 78,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 131,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 108,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 385,
+          "like_count": 11193,
+          "listed_count": 3,
+          "media_count": 771,
+          "tweet_count": 4028
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

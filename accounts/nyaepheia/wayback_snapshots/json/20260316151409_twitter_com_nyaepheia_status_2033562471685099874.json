@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033525537767895040"
+      ],
+      "media_source_tweet_id": [
+        "2033525606667690101"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2033562471685099874",
+    "created_at": "2026-03-16T15:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T16:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033562471685099874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1027764083565711360",
+          "start": 3,
+          "username": "__Inty__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LOPKC8jkss",
+          "end": 117,
+          "expanded_url": "https://x.com/__Inty__/status/2033525606667690101/photo/1",
+          "media_key": "3_2033525537767895040",
+          "start": 94,
+          "url": "https://t.co/LOPKC8jkss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033562471685099874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033525606667690101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__Inty__: 《纽约邮报》援引消息人士报道，美国情报机构认为，伊朗新任最高领袖莫吉塔巴·哈梅内伊可能为同性恋\n\n据悉，川普在听取相关情报简报时，对此消息感到意外，当场大笑。 https://t.co/LOPKC8jkss"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 453,
+        "media_key": "3_2033525537767895040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiIs9hXMAA6q2Z.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033525537767895040"
+          ],
+          "media_source_tweet_id": [
+            "2033525606667690101"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2033562471685099874",
+        "created_at": "2026-03-16T15:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033562471685099874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1027764083565711360",
+              "start": 3,
+              "username": "__Inty__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOPKC8jkss",
+              "end": 117,
+              "expanded_url": "https://x.com/__Inty__/status/2033525606667690101/photo/1",
+              "media_key": "3_2033525537767895040",
+              "start": 94,
+              "url": "https://t.co/LOPKC8jkss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033562471685099874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033525606667690101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__Inty__: 《纽约邮报》援引消息人士报道，美国情报机构认为，伊朗新任最高领袖莫吉塔巴·哈梅内伊可能为同性恋\n\n据悉，川普在听取相关情报简报时，对此消息感到意外，当场大笑。 https://t.co/LOPKC8jkss"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033525537767895040"
+          ]
+        },
+        "author_id": "1027764083565711360",
+        "conversation_id": "2033525606667690101",
+        "created_at": "2026-03-16T12:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033525606667690101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOPKC8jkss",
+              "end": 103,
+              "expanded_url": "https://x.com/__Inty__/status/2033525606667690101/photo/1",
+              "media_key": "3_2033525537767895040",
+              "start": 80,
+              "url": "https://t.co/LOPKC8jkss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033525606667690101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 50803,
+          "like_count": 388,
+          "quote_count": 8,
+          "reply_count": 48,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "《纽约邮报》援引消息人士报道，美国情报机构认为，伊朗新任最高领袖莫吉塔巴·哈梅内伊可能为同性恋\n\n据悉，川普在听取相关情报简报时，对此消息感到意外，当场大笑。 https://t.co/LOPKC8jkss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBT友好 | 09 |  MtF?MtX?探索中，总之不是顺直男 | she/they | 暂未HRT | 家长党 | 天残党 | Vibe coding | 搭建网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/epheia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/epheia",
+                "start": 0,
+                "url": "https://t.co/00vIaS5NhO"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "帕雷提亚王国 王都离宫",
+        "name": "Epheia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032901179244777472/d5cINDcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 314,
+          "like_count": 4246,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/00vIaS5NhO",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-10T03:50:27.000Z",
+        "description": "One of the most followed news channels On X in Mandarin. Anti Chinese Communist Government . Anti Dictatorship. 为你分享世界热点新闻 | 时政聊天群  👇https://t.co/mfY4RFysrB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Inty_Fanbase",
+                "end": 156,
+                "expanded_url": "https://t.me/Inty_Fanbase",
+                "start": 133,
+                "url": "https://t.co/mfY4RFysrB"
+              }
+            ]
+          }
+        },
+        "id": "1027764083565711360",
+        "location": "USA",
+        "name": "Inty News",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683004187951665153/9u75ptcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747724,
+          "following_count": 2,
+          "like_count": 1805,
+          "listed_count": 2285,
+          "media_count": 37061,
+          "tweet_count": 99107
+        },
+        "username": "__Inty__",
+        "verified": true
+      }
+    ]
+  }
+}

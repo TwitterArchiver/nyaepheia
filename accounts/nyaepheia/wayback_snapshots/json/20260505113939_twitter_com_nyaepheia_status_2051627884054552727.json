@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2051615042551087363",
+    "created_at": "2026-05-05T11:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T12:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051627884054552727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051627884054552727",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051615042551087363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 注：因为发现了问题，所以我们修改了算法，现在上面的链接会显示验证不通过\n之前的问题是开奖时所有中奖用户编号都连续，我们修复了这个错误"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2118,
+        "media_key": "3_2051615016575713280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjM_NbaQAAx9ik.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2125,
+        "media_key": "3_2051615026692390912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjM_zHagAAsQ0Q.jpg",
+        "width": 1080
+      },
+      {
+        "height": 980,
+        "media_key": "3_2051615035336896514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjNATUbMAIs6J_.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2051615042551087363",
+        "created_at": "2026-05-05T11:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051627884054552727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051627884054552727",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051615042551087363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 注：因为发现了问题，所以我们修改了算法，现在上面的链接会显示验证不通过\n之前的问题是开奖时所有中奖用户编号都连续，我们修复了这个错误"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051615016575713280",
+            "3_2051615026692390912",
+            "3_2051615035336896514"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051615042551087363",
+        "created_at": "2026-05-05T10:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051615042551087363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1821560692140544000",
+              "start": 26,
+              "username": "Numiouo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bm3nUkItRo",
+              "end": 240,
+              "expanded_url": "https://x.com/nyaepheia/status/2051615042551087363/photo/1",
+              "media_key": "3_2051615016575713280",
+              "start": 217,
+              "url": "https://t.co/bm3nUkItRo"
+            },
+            {
+              "display_url": "pic.x.com/bm3nUkItRo",
+              "end": 240,
+              "expanded_url": "https://x.com/nyaepheia/status/2051615042551087363/photo/1",
+              "media_key": "3_2051615026692390912",
+              "start": 217,
+              "url": "https://t.co/bm3nUkItRo"
+            },
+            {
+              "display_url": "pic.x.com/bm3nUkItRo",
+              "end": 240,
+              "expanded_url": "https://x.com/nyaepheia/status/2051615042551087363/photo/1",
+              "media_key": "3_2051615035336896514",
+              "start": 217,
+              "url": "https://t.co/bm3nUkItRo"
+            },
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 264,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2051355386813489193",
+              "start": 241,
+              "url": "https://t.co/hX062LJWvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051615042551087363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 34,
+                "id": "1821560692140544000",
+                "start": 26,
+                "username": "Numiouo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "drand-draw.pages.dev/##/?chain=quic…",
+                "end": 255,
+                "expanded_url": "https://drand-draw.pages.dev/##/?chain=quicknet&deadline=1777977000&n=30&prizes=1%2C2%2C3&winners=18%2C19%2C20%2C21%2C22%2C23",
+                "start": 232,
+                "url": "https://t.co/9AqXTRia75"
+              }
+            ]
+          },
+          "text": "试验抽奖已开奖！（虽然并没有奖品）\n一等奖是#18 @Numiouo ！\n其它奖项请参照winner 序号和列表\n这次可验证抽奖试验非常成功。下次我们将进行真正的抽奖！\n\nchain: quicknet\ndeadline: 2026-05-05 10:30 UTC\nround: #28391212\nN: 30\nrandomness: 954f3b70c74a28f0b6b5...\nwinners: 18, 19, 20, 21, 22, 23\nverify: https://t.co/9AqXTRia75\ncode: q-69f9c6a8-u-1,2,3-i,j,k,l,m,n"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051355386813489193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "试验抽奖已开奖！（虽然并没有奖品）\n一等奖是#18 @Numiouo ！\n其它奖项请参照winner 序号和列表\n这次可验证抽奖试验非常成功。下次我们将进行真正的抽奖！\n\nchain: quicknet\ndeadline: 2026-05-05 10:30 UTC\nround: #28391212\nN: 30\nrandomness: 954f3b70c74a28f0b6b5...\nwinners: 18, 19, 20, 21, https://t.co/bm3nUkItRo https://t.co/hX062LJWvP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 782,
+          "like_count": 19518,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 3330
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "【锁推期间仅通过同类请求】糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-喜欢推文互动讨厌私信闲聊！评论互动会查成分回fo！随缘查fo列成分回w♡喜欢sex & drug @Numiouo1备用♡除推文外 不提供咨询解答⚠️请勿私信⚠️我素non-binary我友全部🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ（2.0禁言中",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3438,
+          "following_count": 2351,
+          "like_count": 10464,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 8588
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

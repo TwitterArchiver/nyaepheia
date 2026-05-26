@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052268289519472640"
+      ]
+    },
+    "author_id": "1608637128132685825",
+    "conversation_id": "2052268320444027340",
+    "created_at": "2026-05-07T06:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T07:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052268320444027340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IbPOG4WZts",
+          "end": 41,
+          "expanded_url": "https://x.com/nyaepheia/status/2052268320444027340/photo/1",
+          "media_key": "3_2052268289519472640",
+          "start": 18,
+          "url": "https://t.co/IbPOG4WZts"
+        },
+        {
+          "display_url": "x.com/nyaepheia/stat…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/nyaepheia/status/2051932908101967931",
+          "start": 42,
+          "url": "https://t.co/KfhEbH5h5Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052268320444027340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051932908101967931",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤣自己没看清反手吧别人屏蔽了，招笑 https://t.co/IbPOG4WZts https://t.co/KfhEbH5h5Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1142,
+        "media_key": "3_2052268289519472640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsfIsybUAA3PQ3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052268289519472640"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2052268320444027340",
+        "created_at": "2026-05-07T06:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052268320444027340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IbPOG4WZts",
+              "end": 41,
+              "expanded_url": "https://x.com/nyaepheia/status/2052268320444027340/photo/1",
+              "media_key": "3_2052268289519472640",
+              "start": 18,
+              "url": "https://t.co/IbPOG4WZts"
+            },
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2051932908101967931",
+              "start": 42,
+              "url": "https://t.co/KfhEbH5h5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052268320444027340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051932908101967931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤣自己没看清反手吧别人屏蔽了，招笑 https://t.co/IbPOG4WZts https://t.co/KfhEbH5h5Z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2051847030620958928",
+        "created_at": "2026-05-06T07:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051932908101967931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1821845737929404416",
+              "start": 0,
+              "username": "Ljk750515Ljk"
+            },
+            {
+              "end": 27,
+              "id": "1781308864438345728",
+              "start": 14,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051932908101967931",
+        "in_reply_to_user_id": "1821845737929404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 806,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051885598869504372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ljk750515Ljk @FoxRed695449 思想配得上苦难"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 794,
+          "like_count": 19868,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 3403
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

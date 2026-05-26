@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1608637128132685825",
+    "conversation_id": "2052899174933266901",
+    "created_at": "2026-05-09T07:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053020026098401558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "880203145288331265",
+          "start": 0,
+          "username": "dakache01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053020026098401558",
+    "in_reply_to_user_id": "880203145288331265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052899174933266901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dakache01 看上下文，这是讽刺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052899167328993284",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1c6nxXAAQoQcy.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2052899174933266901",
+        "created_at": "2026-05-09T07:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053020026098401558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "880203145288331265",
+              "start": 0,
+              "username": "dakache01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053020026098401558",
+        "in_reply_to_user_id": "880203145288331265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052899174933266901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dakache01 看上下文，这是讽刺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052899167328993284"
+          ]
+        },
+        "author_id": "880203145288331265",
+        "conversation_id": "2052899174933266901",
+        "created_at": "2026-05-08T23:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T00:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052899174933266901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e7NgthBV5j",
+              "end": 74,
+              "expanded_url": "https://x.com/dakache01/status/2052899174933266901/photo/1",
+              "media_key": "3_2052899167328993284",
+              "start": 51,
+              "url": "https://t.co/e7NgthBV5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052899174933266901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 48835,
+          "like_count": 250,
+          "quote_count": 5,
+          "reply_count": 89,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "马斯克这个疯子，流量巨大，影响力巨大，但是特别喜欢造谣传谣和歪曲事实。连他自己家的AI都在打他的脸。 https://t.co/e7NgthBV5j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 801,
+          "like_count": 20192,
+          "listed_count": 3,
+          "media_count": 257,
+          "tweet_count": 3488
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-28T23:15:58.000Z",
+        "description": "客观理性不中立，生活在南美洲智利，一个盛产车厘子和三文鱼的国家，一个拥有大量铜矿和锂矿的国家，一个远离世界大战的国家。",
+        "id": "880203145288331265",
+        "location": "智利圣地亚哥",
+        "name": "李少明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999289467497025538/rneVaTw1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21439,
+          "following_count": 2960,
+          "like_count": 84041,
+          "listed_count": 75,
+          "media_count": 2331,
+          "tweet_count": 32958
+        },
+        "username": "dakache01",
+        "verified": true
+      }
+    ]
+  }
+}
