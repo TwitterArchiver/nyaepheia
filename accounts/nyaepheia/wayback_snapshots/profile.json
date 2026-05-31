@@ -5,5 +5,16 @@
   "location": "❤️@yxrchina",
   "link": "awa.desuwa.org",
   "avatar": "avatar/avatar.jpg",
-  "banner": "avatar/1500x500.jpg"
+  "banner": "avatar/1500x500.jpg",
+  "bio_entities": {
+    "urls": [
+      {
+        "display_url": "desuwa.org/about/me/x",
+        "end": 147,
+        "expanded_url": "http://desuwa.org/about/me/x",
+        "start": 124,
+        "url": "https://t.co/pke4ezHBE3"
+      }
+    ]
+  }
 }
