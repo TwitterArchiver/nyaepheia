@@ -1,20 +1,28 @@
 {
   "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
   "username": "@nyaepheia",
-  "bio": "bsky.app/profile/wataku… /ɪˈfiːə/ 好累。 评论&备用账号@epheiamoe",
+  "bio": "/ɪˈfiːə/\n好累。\n备用账号@epheiamoe\nhttp://bsky.app/profile/watakushi.desuwa.org",
   "location": "❤️@yxrchina",
-  "link": "awa.desuwa.org",
+  "link": "https://awa.desuwa.org/",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "bio_entities": {
+    "mentions": [
+      {
+        "end": 27,
+        "start": 17,
+        "username": "epheiamoe"
+      }
+    ],
     "urls": [
       {
-        "display_url": "desuwa.org/about/me/x",
-        "end": 147,
-        "expanded_url": "http://desuwa.org/about/me/x",
-        "start": 124,
-        "url": "https://t.co/pke4ezHBE3"
+        "display_url": "bsky.app/profile/wataku…",
+        "end": 51,
+        "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+        "start": 28,
+        "url": "https://t.co/nBvMeK1OLJ"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg"
 }
