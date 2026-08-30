@@ -1,26 +1,48 @@
 {
-  "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+  "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️(she/they)",
   "username": "@nyaepheia",
-  "bio": "/ɪˈfiːə/\n好累。\n备用账号@epheiamoe\nhttp://bsky.app/profile/watakushi.desuwa.org",
+  "bio": "🏳️‍🌈🏳️‍⚧️ http://bsky.app/profile/watakushi.desuwa.org \n/ɪˈfiːə/ she/they\n评论账号@epheiamoe\n存档http://nyaepheia.pages.dev\n\nhrt since26.4.1\n可访问此账号的委派者：@yxrchina @0502railgun1949 @lckmtfdesu",
   "location": "❤️@yxrchina",
-  "link": "https://awa.desuwa.org/",
+  "link": "https://nyaepheia.pages.dev/",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "bio_entities": {
     "mentions": [
       {
-        "end": 27,
-        "start": 17,
+        "end": 67,
+        "start": 57,
         "username": "epheiamoe"
+      },
+      {
+        "end": 131,
+        "start": 122,
+        "username": "yxrchina"
+      },
+      {
+        "end": 148,
+        "start": 132,
+        "username": "0502railgun1949"
+      },
+      {
+        "end": 160,
+        "start": 149,
+        "username": "lckmtfdesu"
       }
     ],
     "urls": [
       {
         "display_url": "bsky.app/profile/wataku…",
-        "end": 51,
+        "end": 33,
         "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
-        "start": 28,
-        "url": "https://t.co/nBvMeK1OLJ"
+        "start": 10,
+        "url": "https://t.co/7pvajR9Q0p"
+      },
+      {
+        "display_url": "nyaepheia.pages.dev",
+        "end": 93,
+        "expanded_url": "http://nyaepheia.pages.dev",
+        "start": 70,
+        "url": "https://t.co/l9TdYP6fRz"
       }
     ]
   },
